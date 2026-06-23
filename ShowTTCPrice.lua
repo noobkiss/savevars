@@ -1,0 +1,161 @@
+ShowTTCPriceVars =
+{
+    ["Default"] = 
+    {
+        ["@Jonzouio"] = 
+        {
+            ["$AccountWide"] = 
+            {
+                ["NA Megaserver"] = 
+                {
+                    ["HighlightRiskyDeals"] = true,
+                    ["PreferredPrice"] = "Suggested",
+                    ["DesiredValue"] = 5000,
+                    ["MinimumReq"] = false,
+                    ["EnableInGuildStore"] = true,
+                    ["RoundNumbers"] = true,
+                    ["IgnoreBoundItems"] = true,
+                    ["EnableProfitFilter"] = true,
+                    ["PriceToShow"] = "Stack and Unit",
+                    ["EnableAwesomeGuildStoreIntegration"] = true,
+                    ["IgnoreTrash"] = true,
+                    ["GuildStoreInfoToShow"] = "Profit",
+                    ["RequiredValue"] = 25,
+                    ["HighlightReq"] = false,
+                    ["EnableToggleButton"] = false,
+                    ["version"] = 3,
+                    ["Enabled"] = true,
+                    ["EnableDealFilter"] = true,
+                    ["IgnoreBelowVendor"] = true,
+                    ["RiskyDealsListingsCount"] = 10,
+                },
+            },
+        },
+        ["@Kankerkop"] = 
+        {
+            ["$AccountWide"] = 
+            {
+                ["NA Megaserver"] = 
+                {
+                    ["HighlightRiskyDeals"] = true,
+                    ["PreferredPrice"] = "Suggested",
+                    ["DesiredValue"] = 5000,
+                    ["ProfitFilterSliderMin"] = "0",
+                    ["FallbackPriceGS"] = "None",
+                    ["MinimumReq"] = false,
+                    ["EnableInGuildStore"] = true,
+                    ["RoundNumbers"] = true,
+                    ["FallbackPrice"] = "Average",
+                    ["IgnoreBoundItems"] = true,
+                    ["ListingPreferredPrice"] = "Sales Average",
+                    ["EnableProfitFilter"] = true,
+                    ["PriceToShow"] = "Stack and Unit",
+                    ["HighlightReq"] = false,
+                    ["IgnoreTrash"] = true,
+                    ["GuildStoreInfoToShow"] = "Profit",
+                    ["RequiredValue"] = 25,
+                    ["EnableToggleButton"] = false,
+                    ["EnableAwesomeGuildStoreIntegration"] = true,
+                    ["version"] = 3,
+                    ["Enabled"] = true,
+                    ["EnableDealFilter"] = true,
+                    ["IgnoreBelowVendor"] = true,
+                    ["RiskyDealsListingsCount"] = 10,
+                },
+            },
+        },
+        ["@noobkiss"] = 
+        {
+            ["$AccountWide"] = 
+            {
+                ["EU Megaserver"] = 
+                {
+                    ["HighlightRiskyDeals"] = true,
+                    ["PreferredPrice"] = "Sales Average",
+                    ["DesiredValue"] = 5000,
+                    ["ProfitFilterSliderMin"] = "0",
+                    ["FallbackPriceGS"] = "None",
+                    ["MinimumReq"] = false,
+                    ["EnableInGuildStore"] = true,
+                    ["RoundNumbers"] = true,
+                    ["FallbackPrice"] = "Average",
+                    ["IgnoreBoundItems"] = true,
+                    ["ListingPreferredPrice"] = "Sales Average",
+                    ["EnableProfitFilter"] = true,
+                    ["PriceToShow"] = "Stack and Unit",
+                    ["HighlightReq"] = false,
+                    ["IgnoreTrash"] = true,
+                    ["GuildStoreInfoToShow"] = "Profit",
+                    ["RequiredValue"] = 25,
+                    ["EnableToggleButton"] = false,
+                    ["EnableAwesomeGuildStoreIntegration"] = true,
+                    ["version"] = 3,
+                    ["Enabled"] = true,
+                    ["EnableDealFilter"] = true,
+                    ["IgnoreBelowVendor"] = true,
+                    ["RiskyDealsListingsCount"] = 10,
+                },
+                ["NA Megaserver"] = 
+                {
+                    ["HighlightRiskyDeals"] = true,
+                    ["PreferredPrice"] = "Sales Average",
+                    ["DesiredValue"] = 5000,
+                    ["ProfitFilterSliderMin"] = "0",
+                    ["FallbackPriceGS"] = "None",
+                    ["MinimumReq"] = false,
+                    ["EnableInGuildStore"] = false,
+                    ["RoundNumbers"] = true,
+                    ["FallbackPrice"] = "Average",
+                    ["IgnoreBoundItems"] = true,
+                    ["ListingPreferredPrice"] = "Sales Average",
+                    ["EnableProfitFilter"] = true,
+                    ["PriceToShow"] = "Stack and Unit",
+                    ["HighlightReq"] = false,
+                    ["IgnoreTrash"] = true,
+                    ["GuildStoreInfoToShow"] = "Profit",
+                    ["RequiredValue"] = 25,
+                    ["EnableToggleButton"] = false,
+                    ["EnableAwesomeGuildStoreIntegration"] = true,
+                    ["version"] = 3,
+                    ["Enabled"] = true,
+                    ["EnableDealFilter"] = true,
+                    ["IgnoreBelowVendor"] = true,
+                    ["RiskyDealsListingsCount"] = 10,
+                },
+            },
+        },
+        ["@YYDS1214"] = 
+        {
+            ["$AccountWide"] = 
+            {
+                ["NA Megaserver"] = 
+                {
+                    ["HighlightRiskyDeals"] = true,
+                    ["PreferredPrice"] = "Sales Average",
+                    ["DesiredValue"] = 5000,
+                    ["ProfitFilterSliderMin"] = "0",
+                    ["FallbackPriceGS"] = "None",
+                    ["MinimumReq"] = false,
+                    ["EnableInGuildStore"] = true,
+                    ["RoundNumbers"] = true,
+                    ["FallbackPrice"] = "Average",
+                    ["IgnoreBoundItems"] = true,
+                    ["ListingPreferredPrice"] = "Sales Average",
+                    ["EnableProfitFilter"] = true,
+                    ["PriceToShow"] = "Stack and Unit",
+                    ["HighlightReq"] = false,
+                    ["IgnoreTrash"] = true,
+                    ["GuildStoreInfoToShow"] = "Profit",
+                    ["RequiredValue"] = 25,
+                    ["EnableToggleButton"] = false,
+                    ["EnableAwesomeGuildStoreIntegration"] = true,
+                    ["version"] = 3,
+                    ["Enabled"] = true,
+                    ["EnableDealFilter"] = true,
+                    ["IgnoreBelowVendor"] = true,
+                    ["RiskyDealsListingsCount"] = 10,
+                },
+            },
+        },
+    },
+}

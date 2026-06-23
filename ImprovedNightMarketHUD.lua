@@ -1,0 +1,4 @@
+ImprovedNightMarketHUDSavedVariables =
+{
+    ["mode"] = 3,
+}

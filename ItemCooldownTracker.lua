@@ -1,0 +1,62 @@
+ItemCooldownTracker_SV =
+{
+    ["NA Megaserver"] = 
+    {
+        ["@noobkiss"] = 
+        {
+            ["$AccountWide"] = 
+            {
+                ["trackedItems"] = 
+                {
+                    ["styleWestWealdLegion"] = 1775730316,
+                    ["styleHouseMornard"] = true,
+                    ["styleShardBorn"] = true,
+                    ["styleFiresong"] = true,
+                    ["styleSystresGuardian"] = true,
+                    ["styleKindred"] = true,
+                    ["styleDeadKeeper"] = true,
+                    ["styleBlackreachVanguard"] = true,
+                    ["fragPdPsijic"] = true,
+                    ["fragPdThrafey"] = true,
+                    ["fragPdBigEared"] = true,
+                    ["styleBlackFinLegion"] = true,
+                    ["styleNighthollow"] = true,
+                    ["styleFargraveGuardian"] = true,
+                    ["styleArkthzandArmory"] = true,
+                    ["fragPdSixthHouse"] = true,
+                    ["fragPdReplica"] = true,
+                    ["fragImperialCity"] = true,
+                    ["fragPdGrahtOak_2"] = true,
+                    ["dropRemainsSilent"] = 1775831961,
+                    ["styleTideBorn"] = true,
+                    ["fragPdPeryite"] = 1775816107,
+                    ["styleDragonguard"] = true,
+                    ["fragEviVioletPurple"] = true,
+                    ["styleAnnihilarch"] = true,
+                    ["transmutRewardCyrodiil"] = 1775137701,
+                    ["fragCyrodiil"] = 1774898479,
+                    ["fragPdCoralHaj_1"] = 1775690432,
+                    ["fragPdEchoAbolisher_2"] = true,
+                    ["styleHouseHexos"] = true,
+                    ["fragPdTargetStone"] = true,
+                    ["fragPdDwarven"] = true,
+                    ["styleIvoryBrigade"] = true,
+                    ["fragPdGrisly"] = true,
+                    ["fragPdCoralHaj_2"] = true,
+                    ["fragPdMasterField"] = true,
+                    ["styleSteadfastSociety"] = true,
+                    ["styleShieldOfSenchal"] = true,
+                    ["fragPdEchoAbolisher_1"] = true,
+                    ["styleGreymoor"] = true,
+                    ["fragPdGrahtOak_1"] = true,
+                    ["styleNewMoon"] = true,
+                    ["styleWaywardGuardian"] = true,
+                },
+                ["firstStart"] = false,
+                ["version"] = 2,
+                ["preventOpening"] = true,
+                ["preventOpeningRestrict"] = false,
+            },
+        },
+    },
+}
