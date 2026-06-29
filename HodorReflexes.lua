@@ -2,26 +2,426 @@ HodorReflexesSavedVars =
 {
     ["Default"] = 
     {
+        ["@YYDS1214"] = 
+        {
+            ["$AccountWide"] = 
+            {
+                ["extensions"] = 
+                {
+                    ["names"] = true,
+                    ["icons"] = true,
+                    ["configurator"] = true,
+                    ["animations"] = true,
+                    ["seasons"] = true,
+                },
+                ["module_hps"] = 
+                {
+                    ["version"] = 3,
+                },
+                ["list_atro"] = 
+                {
+                    ["windowPosLeft"] = 10,
+                    ["nameFont"] = "$(BOLD_FONT)|$(KB_19)|outline",
+                    ["supportRangeOnly"] = false,
+                    ["disableInPvP"] = true,
+                    ["enabled"] = 1,
+                    ["windowScale"] = 1,
+                    ["showRawValue"] = 0,
+                    ["version"] = 3,
+                    ["zeroTimerOpacity"] = 0.3500000000,
+                    ["windowPosTop"] = 750,
+                    ["windowWith"] = 230,
+                    ["showPercentValue"] = 1,
+                    ["backgroundOpacity"] = 0,
+                    ["outOfSupportRangeOpacity"] = 0.2000000000,
+                    ["colorBerserk"] = 
+                    {
+                        [1] = 1,
+                        [2] = 1,
+                        [3] = 0,
+                    },
+                    ["colorAtro"] = 
+                    {
+                        [1] = 0,
+                        [2] = 1,
+                        [3] = 1,
+                    },
+                    ["windowWidth"] = 272,
+                    ["headerOpacity"] = 0,
+                },
+                ["list_damage"] = 
+                {
+                    ["windowPosLeft"] = 10,
+                    ["nameFont"] = "$(BOLD_FONT)|$(KB_18)|outline",
+                    ["supportRangeOnly"] = false,
+                    ["listPlayerHighlightColor"] = 
+                    {
+                        [4] = 0.3600000000,
+                        [1] = 0,
+                        [2] = 1,
+                        [3] = 0,
+                    },
+                    ["disableInPvP"] = true,
+                    ["enabled"] = 1,
+                    ["windowScale"] = 1,
+                    ["colorDamageTotal"] = "FAFFB2",
+                    ["version"] = 3,
+                    ["listPlayerHighlight"] = true,
+                    ["windowPosTop"] = 260,
+                    ["listHeaderOpacity"] = 0.8000000000,
+                    ["windowWith"] = 230,
+                    ["windowWidth"] = 237,
+                    ["colorDamageBoss"] = "B2FFB2",
+                    ["timerUpdateInterval"] = 100,
+                    ["outOfSupportRangeOpacity"] = 0.2000000000,
+                    ["listRowEvenOpacity"] = 0.6500000000,
+                    ["colorGroupDPS"] = "F4D17B",
+                    ["backgroundOpacity"] = 0,
+                    ["onlyShowDamageDealers"] = false,
+                    ["colorBurstDPS"] = "BDFF7B",
+                    ["showSummary"] = false,
+                    ["listRowOddOpacity"] = 0.4500000000,
+                    ["burstWindowSeconds"] = 10,
+                },
+                ["list_misc"] = 
+                {
+                    ["windowPosLeft"] = 250,
+                    ["nameFont"] = "$(BOLD_FONT)|$(KB_19)|outline",
+                    ["supportRangeOnly"] = false,
+                    ["disableInPvP"] = false,
+                    ["enabled"] = 1,
+                    ["windowScale"] = 1,
+                    ["showRawValue"] = 1,
+                    ["version"] = 3,
+                    ["zeroTimerOpacity"] = 0.3500000000,
+                    ["windowPosTop"] = 580,
+                    ["windowWith"] = 230,
+                    ["showPercentValue"] = 1,
+                    ["excludeSpecialUlts"] = true,
+                    ["backgroundOpacity"] = 0,
+                    ["outOfSupportRangeOpacity"] = 0.2000000000,
+                    ["windowWidth"] = 272,
+                    ["headerOpacity"] = 0,
+                },
+                ["advancedSettings"] = false,
+                ["extension_configurator"] = 
+                {
+                    ["nameColorBegin"] = 
+                    {
+                        [1] = 1,
+                        [2] = 1,
+                        [3] = 1,
+                    },
+                    ["nameColored"] = "YYDS1214",
+                    ["nameRaw"] = "YYDS1214",
+                    ["nameColorEnd"] = 
+                    {
+                        [1] = 1,
+                        [2] = 1,
+                        [3] = 1,
+                    },
+                    ["nameGradient"] = false,
+                    ["version"] = 3,
+                    ["selectedDonationTier"] = 1,
+                },
+                ["module_ult"] = 
+                {
+                    ["version"] = 3,
+                },
+                ["extension_animations"] = 
+                {
+                    ["version"] = 3,
+                },
+                ["list_hps"] = 
+                {
+                    ["windowPosLeft"] = 530,
+                    ["nameFont"] = "$(BOLD_FONT)|$(KB_18)|outline",
+                    ["supportRangeOnly"] = false,
+                    ["listPlayerHighlightColor"] = 
+                    {
+                        [4] = 0.3600000000,
+                        [1] = 0,
+                        [2] = 1,
+                        [3] = 0,
+                    },
+                    ["disableInPvP"] = true,
+                    ["onlyShowHealers"] = false,
+                    ["enabled"] = 0,
+                    ["windowScale"] = 1,
+                    ["version"] = 3,
+                    ["listPlayerHighlight"] = true,
+                    ["windowPosTop"] = 260,
+                    ["colorHPS"] = "00FF00",
+                    ["windowWith"] = 230,
+                    ["windowWidth"] = 237,
+                    ["colorOverheal"] = "AAAAAA",
+                    ["listRowEvenOpacity"] = 0.6500000000,
+                    ["backgroundOpacity"] = 0,
+                    ["timerUpdateInterval"] = 100,
+                    ["outOfSupportRangeOpacity"] = 0.2000000000,
+                    ["listRowOddOpacity"] = 0.4500000000,
+                    ["listHeaderOpacity"] = 0.8000000000,
+                },
+                ["module_pull"] = 
+                {
+                    ["version"] = 3,
+                    ["countdownDuration"] = 5,
+                },
+                ["list_compact"] = 
+                {
+                    ["showPillagerCooldown"] = true,
+                    ["nameFont"] = "$(BOLD_FONT)|$(KB_19)|outline",
+                    ["supportRangeOnly"] = false,
+                    ["backgroundAlpha"] = 0.2000000000,
+                    ["showCryptCannon"] = true,
+                    ["colorStandardOfMightBG"] = 
+                    {
+                        [1] = 0.7800000000,
+                        [2] = 0.2900000000,
+                        [3] = 0.1400000000,
+                    },
+                    ["markOnCooldown"] = true,
+                    ["enabled"] = 1,
+                    ["markOnCooldownColor"] = 
+                    {
+                        [1] = 1,
+                        [2] = 0,
+                        [3] = 0,
+                    },
+                    ["showStandardOfMightCountdown"] = true,
+                    ["showAtro"] = true,
+                    ["colorCooldowns"] = 
+                    {
+                        [1] = 1,
+                        [2] = 0,
+                        [3] = 0,
+                    },
+                    ["colorCryptCannonBG"] = 
+                    {
+                        [1] = 1,
+                        [2] = 0,
+                        [3] = 1,
+                    },
+                    ["version"] = 3,
+                    ["zeroTimerOpacity"] = 0.3500000000,
+                    ["colorHornBG"] = 
+                    {
+                        [1] = 1,
+                        [2] = 1,
+                        [3] = 0,
+                    },
+                    ["showPercentValue"] = 1,
+                    ["showPillager"] = true,
+                    ["colorPillagerBG"] = 
+                    {
+                        [1] = 0,
+                        [2] = 1,
+                        [3] = 0,
+                    },
+                    ["showSlayerCountdown"] = true,
+                    ["colorSlayerBG"] = 
+                    {
+                        [1] = 1,
+                        [2] = 0,
+                        [3] = 0,
+                    },
+                    ["outOfSupportRangeOpacity"] = 0.2000000000,
+                    ["showBerserkCountdown"] = true,
+                    ["showVulnCountdown"] = true,
+                    ["disableInPvP"] = true,
+                    ["showSlayer"] = true,
+                    ["windowScale"] = 1,
+                    ["showRawValue"] = 1,
+                    ["colorAtroBG"] = 
+                    {
+                        [1] = 0,
+                        [2] = 1,
+                        [3] = 1,
+                    },
+                    ["showHornCountdown"] = true,
+                    ["windowPosTop"] = 260,
+                    ["windowWith"] = 230,
+                    ["colorDurations"] = 
+                    {
+                        [1] = 1,
+                        [2] = 1,
+                        [3] = 0,
+                    },
+                    ["showBarrier"] = true,
+                    ["showStandardOfMight"] = true,
+                    ["windowWidth"] = 282,
+                    ["colorColosBG"] = 
+                    {
+                        [1] = 0,
+                        [2] = 0,
+                        [3] = 1,
+                    },
+                    ["windowPosLeft"] = 250,
+                    ["backgroundOpacity"] = 0,
+                    ["showColos"] = true,
+                    ["colorBarrierBG"] = 
+                    {
+                        [1] = 1,
+                        [2] = 0.5000000000,
+                        [3] = 0,
+                    },
+                    ["showHorn"] = true,
+                    ["showForceCountdown"] = true,
+                    ["headerOpacity"] = 0,
+                },
+                ["version"] = 2,
+                ["libraryPopupDisabled"] = false,
+                ["module_dps"] = 
+                {
+                    ["version"] = 3,
+                },
+                ["list_horn"] = 
+                {
+                    ["windowPosLeft"] = 10,
+                    ["nameFont"] = "$(BOLD_FONT)|$(KB_19)|outline",
+                    ["supportRangeOnly"] = false,
+                    ["disableInPvP"] = true,
+                    ["colorHorn"] = 
+                    {
+                        [1] = 0,
+                        [2] = 1,
+                        [3] = 1,
+                    },
+                    ["windowScale"] = 1,
+                    ["showRawValue"] = 0,
+                    ["version"] = 3,
+                    ["zeroTimerOpacity"] = 0.3500000000,
+                    ["windowPosTop"] = 570,
+                    ["windowWith"] = 230,
+                    ["showPercentValue"] = 1,
+                    ["highlightSaxhleel"] = true,
+                    ["enabled"] = 1,
+                    ["colorForce"] = 
+                    {
+                        [1] = 1,
+                        [2] = 1,
+                        [3] = 0,
+                    },
+                    ["outOfSupportRangeOpacity"] = 0.2000000000,
+                    ["windowWidth"] = 272,
+                    ["highlightSaxhleelColor"] = 
+                    {
+                        [4] = 0.2000000000,
+                        [1] = 0.7058823529,
+                        [2] = 0.7372549020,
+                        [3] = 0.6901960784,
+                    },
+                    ["backgroundOpacity"] = 0,
+                    ["headerOpacity"] = 0,
+                },
+                ["enableTestTick"] = true,
+                ["module_exitinstance"] = 
+                {
+                    ["ignoreExitInstanceRequests"] = false,
+                    ["version"] = 3,
+                    ["confirmExitInstance"] = true,
+                },
+                ["counter_horn"] = 
+                {
+                    ["enabled"] = 0,
+                    ["windowPosTop"] = 200,
+                    ["scale"] = 1,
+                    ["hideOnCooldown"] = false,
+                    ["version"] = 3,
+                    ["windowPosLeft"] = 400,
+                },
+                ["module_readycheck"] = 
+                {
+                    ["windowCenterY"] = 288,
+                    ["windowCenterX"] = 1280,
+                    ["enableUI"] = true,
+                    ["enableChatMessages"] = true,
+                    ["version"] = 3,
+                },
+                ["module_skilllines"] = 
+                {
+                    ["version"] = 3,
+                },
+                ["extension_seasons"] = 
+                {
+                    ["valentines"] = true,
+                    ["christmas"] = true,
+                    ["version"] = 3,
+                    ["aprilfools"] = true,
+                },
+                ["extension_icons"] = 
+                {
+                    ["version"] = 3,
+                },
+                ["enableExperimentalFeatures"] = false,
+                ["counter_pillager"] = 
+                {
+                    ["enabled"] = 0,
+                    ["windowPosTop"] = 200,
+                    ["scale"] = 1,
+                    ["hideOnCooldown"] = false,
+                    ["version"] = 3,
+                    ["windowPosLeft"] = 500,
+                },
+                ["extension_names"] = 
+                {
+                    ["version"] = 3,
+                },
+                ["accountWide"] = true,
+                ["module_hideme"] = 
+                {
+                    ["version"] = 3,
+                    ["preferences"] = 
+                    {
+                    },
+                },
+                ["modules"] = 
+                {
+                    ["hps"] = true,
+                    ["hideme"] = true,
+                    ["skilllines"] = true,
+                    ["pull"] = true,
+                    ["readycheck"] = true,
+                    ["exitinstance"] = true,
+                    ["ult"] = true,
+                    ["dps"] = true,
+                },
+                ["list_colos"] = 
+                {
+                    ["windowPosLeft"] = 10,
+                    ["nameFont"] = "$(BOLD_FONT)|$(KB_19)|outline",
+                    ["supportRangeOnly"] = false,
+                    ["disableInPvP"] = true,
+                    ["enabled"] = 1,
+                    ["windowScale"] = 1,
+                    ["showRawValue"] = 0,
+                    ["version"] = 3,
+                    ["zeroTimerOpacity"] = 0.3500000000,
+                    ["windowPosTop"] = 660,
+                    ["windowWith"] = 230,
+                    ["showPercentValue"] = 1,
+                    ["colorVuln"] = 
+                    {
+                        [1] = 1,
+                        [2] = 1,
+                        [3] = 0,
+                    },
+                    ["backgroundOpacity"] = 0,
+                    ["outOfSupportRangeOpacity"] = 0.2000000000,
+                    ["windowWidth"] = 272,
+                    ["headerOpacity"] = 0,
+                },
+            },
+        },
         ["@Kankerkop"] = 
         {
             ["8796093078606003"] = 
             {
-                ["extension_seasons"] = 
-                {
-                    ["accountWide"] = false,
-                    ["version"] = 3,
-                },
                 ["extension_icons"] = 
                 {
                     ["accountWide"] = false,
                     ["version"] = 3,
                 },
-                ["extension_names"] = 
-                {
-                    ["accountWide"] = false,
-                    ["version"] = 3,
-                },
-                ["$LastCharacterName"] = "For The Wa",
                 ["extension_animations"] = 
                 {
                     ["accountWide"] = false,
@@ -41,135 +441,60 @@ HodorReflexesSavedVars =
                         [2] = 1,
                         [3] = 1,
                     },
-                    ["selectedDonationTier"] = 1,
-                    ["version"] = 3,
-                    ["nameGradient"] = false,
-                    ["accountWide"] = false,
-                    ["nameRaw"] = "noobkiss",
                     ["nameColored"] = "noobkiss",
+                    ["nameRaw"] = "noobkiss",
+                    ["accountWide"] = false,
+                    ["nameGradient"] = false,
+                    ["version"] = 3,
+                    ["selectedDonationTier"] = 1,
+                },
+                ["extension_names"] = 
+                {
+                    ["accountWide"] = false,
+                    ["version"] = 3,
+                },
+                ["$LastCharacterName"] = "For The Wa",
+                ["extension_seasons"] = 
+                {
+                    ["accountWide"] = false,
+                    ["version"] = 3,
                 },
             },
             ["$AccountWide"] = 
             {
-                ["list_misc"] = 
-                {
-                    ["outOfSupportRangeOpacity"] = 0.2000000000,
-                    ["windowPosTop"] = 580,
-                    ["zeroTimerOpacity"] = 0.3500000000,
-                    ["headerOpacity"] = 0,
-                    ["disableInPvP"] = false,
-                    ["windowScale"] = 1,
-                    ["windowWidth"] = 272,
-                    ["supportRangeOnly"] = false,
-                    ["excludeSpecialUlts"] = true,
-                    ["enabled"] = 0,
-                    ["showPercentValue"] = 1,
-                    ["nameFont"] = "$(BOLD_FONT)|$(KB_19)|outline",
-                    ["windowWith"] = 230,
-                    ["backgroundOpacity"] = 0,
-                    ["windowPosLeft"] = 250,
-                    ["showRawValue"] = 1,
-                    ["version"] = 3,
-                },
-                ["libraryPopupDisabled"] = false,
                 ["extensions"] = 
                 {
                     ["names"] = true,
-                    ["seasons"] = true,
-                    ["animations"] = true,
-                    ["configurator"] = true,
                     ["icons"] = true,
-                },
-                ["enableExperimentalFeatures"] = false,
-                ["module_readycheck"] = 
-                {
-                    ["windowCenterY"] = 288,
-                    ["enableUI"] = true,
-                    ["enableChatMessages"] = true,
-                    ["windowCenterX"] = 1280,
-                    ["version"] = 3,
-                },
-                ["modules"] = 
-                {
-                    ["ult"] = true,
-                    ["hideme"] = true,
-                    ["pull"] = true,
-                    ["exitinstance"] = true,
-                    ["dps"] = true,
-                    ["readycheck"] = true,
-                    ["skilllines"] = true,
-                },
-                ["module_ult"] = 
-                {
-                    ["version"] = 3,
+                    ["configurator"] = true,
+                    ["animations"] = true,
+                    ["seasons"] = true,
                 },
                 ["counter_horn"] = 
                 {
+                    ["enabled"] = 0,
                     ["windowPosTop"] = 200,
+                    ["scale"] = 1,
+                    ["hideOnCooldown"] = false,
                     ["version"] = 3,
                     ["windowPosLeft"] = 400,
-                    ["hideOnCooldown"] = false,
-                    ["enabled"] = 0,
-                    ["scale"] = 1,
                 },
-                ["extension_names"] = 
-                {
-                    ["version"] = 3,
-                },
-                ["module_dps"] = 
-                {
-                    ["version"] = 3,
-                },
-                ["list_horn"] = 
-                {
-                    ["outOfSupportRangeOpacity"] = 0.2000000000,
-                    ["highlightSaxhleelColor"] = 
-                    {
-                        [4] = 0.2000000000,
-                        [1] = 0.7058823529,
-                        [2] = 0.7372549020,
-                        [3] = 0.6901960784,
-                    },
-                    ["zeroTimerOpacity"] = 0.3500000000,
-                    ["headerOpacity"] = 0,
-                    ["colorForce"] = 
-                    {
-                        [1] = 1,
-                        [2] = 1,
-                        [3] = 0,
-                    },
-                    ["disableInPvP"] = true,
-                    ["windowScale"] = 1,
-                    ["windowWidth"] = 272,
-                    ["windowWith"] = 230,
-                    ["supportRangeOnly"] = false,
-                    ["enabled"] = 0,
-                    ["showPercentValue"] = 1,
-                    ["nameFont"] = "$(BOLD_FONT)|$(KB_19)|outline",
-                    ["highlightSaxhleel"] = true,
-                    ["backgroundOpacity"] = 0,
-                    ["version"] = 3,
-                    ["colorHorn"] = 
-                    {
-                        [1] = 0,
-                        [2] = 1,
-                        [3] = 1,
-                    },
-                    ["windowPosLeft"] = 10,
-                    ["showRawValue"] = 0,
-                    ["windowPosTop"] = 570,
-                },
-                ["enableTestTick"] = true,
                 ["list_atro"] = 
                 {
-                    ["outOfSupportRangeOpacity"] = 0.2000000000,
-                    ["windowPosTop"] = 750,
-                    ["zeroTimerOpacity"] = 0.3500000000,
-                    ["headerOpacity"] = 0,
-                    ["disableInPvP"] = true,
-                    ["windowScale"] = 1,
-                    ["windowWidth"] = 272,
+                    ["windowPosLeft"] = 10,
+                    ["nameFont"] = "$(BOLD_FONT)|$(KB_19)|outline",
                     ["supportRangeOnly"] = false,
+                    ["disableInPvP"] = true,
+                    ["enabled"] = 0,
+                    ["windowScale"] = 1,
+                    ["showRawValue"] = 0,
+                    ["version"] = 3,
+                    ["zeroTimerOpacity"] = 0.3500000000,
+                    ["windowPosTop"] = 750,
+                    ["windowWith"] = 230,
+                    ["showPercentValue"] = 1,
+                    ["backgroundOpacity"] = 0,
+                    ["outOfSupportRangeOpacity"] = 0.2000000000,
                     ["colorBerserk"] = 
                     {
                         [1] = 1,
@@ -182,13 +507,277 @@ HodorReflexesSavedVars =
                         [2] = 1,
                         [3] = 1,
                     },
+                    ["windowWidth"] = 272,
+                    ["headerOpacity"] = 0,
+                },
+                ["list_damage"] = 
+                {
+                    ["windowPosLeft"] = 318,
+                    ["nameFont"] = "$(BOLD_FONT)|$(KB_18)|outline",
+                    ["supportRangeOnly"] = false,
+                    ["listPlayerHighlightColor"] = 
+                    {
+                        [4] = 0.3600000000,
+                        [1] = 0,
+                        [2] = 1,
+                        [3] = 0,
+                    },
+                    ["disableInPvP"] = true,
                     ["enabled"] = 0,
-                    ["showPercentValue"] = 1,
-                    ["nameFont"] = "$(BOLD_FONT)|$(KB_19)|outline",
+                    ["windowScale"] = 1,
+                    ["colorDamageTotal"] = "FAFFB2",
+                    ["version"] = 3,
+                    ["listPlayerHighlight"] = true,
+                    ["windowPosTop"] = 81,
+                    ["listHeaderOpacity"] = 0.8000000000,
                     ["windowWith"] = 230,
+                    ["windowWidth"] = 237,
+                    ["colorDamageBoss"] = "B2FFB2",
+                    ["timerUpdateInterval"] = 100,
+                    ["listRowEvenOpacity"] = 0.6500000000,
+                    ["outOfSupportRangeOpacity"] = 0.2000000000,
                     ["backgroundOpacity"] = 0,
+                    ["burstWindowSeconds"] = 10,
+                    ["colorBurstDPS"] = "BDFF7B",
+                    ["showSummary"] = true,
+                    ["listRowOddOpacity"] = 0.4500000000,
+                    ["colorGroupDPS"] = "F4D17B",
+                },
+                ["list_misc"] = 
+                {
+                    ["windowPosLeft"] = 250,
+                    ["nameFont"] = "$(BOLD_FONT)|$(KB_19)|outline",
+                    ["supportRangeOnly"] = false,
+                    ["disableInPvP"] = false,
+                    ["enabled"] = 0,
+                    ["windowScale"] = 1,
+                    ["showRawValue"] = 1,
+                    ["version"] = 3,
+                    ["zeroTimerOpacity"] = 0.3500000000,
+                    ["windowPosTop"] = 580,
+                    ["windowWith"] = 230,
+                    ["showPercentValue"] = 1,
+                    ["excludeSpecialUlts"] = true,
+                    ["backgroundOpacity"] = 0,
+                    ["outOfSupportRangeOpacity"] = 0.2000000000,
+                    ["windowWidth"] = 272,
+                    ["headerOpacity"] = 0,
+                },
+                ["advancedSettings"] = false,
+                ["extension_animations"] = 
+                {
+                    ["version"] = 3,
+                },
+                ["module_ult"] = 
+                {
+                    ["version"] = 3,
+                },
+                ["module_pull"] = 
+                {
+                    ["version"] = 3,
+                    ["countdownDuration"] = 5,
+                },
+                ["list_compact"] = 
+                {
+                    ["showPillagerCooldown"] = true,
+                    ["nameFont"] = "$(BOLD_FONT)|$(KB_19)|outline",
+                    ["supportRangeOnly"] = false,
+                    ["backgroundAlpha"] = 0.2000000000,
+                    ["showCryptCannon"] = true,
+                    ["markOnCooldown"] = true,
+                    ["enabled"] = 0,
+                    ["markOnCooldownColor"] = 
+                    {
+                        [1] = 1,
+                        [2] = 0,
+                        [3] = 0,
+                    },
+                    ["showAtro"] = true,
+                    ["colorCooldowns"] = 
+                    {
+                        [1] = 1,
+                        [2] = 0,
+                        [3] = 0,
+                    },
+                    ["colorCryptCannonBG"] = 
+                    {
+                        [1] = 1,
+                        [2] = 0,
+                        [3] = 1,
+                    },
+                    ["version"] = 3,
+                    ["zeroTimerOpacity"] = 0.3500000000,
+                    ["colorHornBG"] = 
+                    {
+                        [1] = 1,
+                        [2] = 1,
+                        [3] = 0,
+                    },
+                    ["showPercentValue"] = 1,
+                    ["colorDurations"] = 
+                    {
+                        [1] = 1,
+                        [2] = 1,
+                        [3] = 0,
+                    },
+                    ["colorPillagerBG"] = 
+                    {
+                        [1] = 0,
+                        [2] = 1,
+                        [3] = 0,
+                    },
+                    ["showSlayerCountdown"] = true,
+                    ["colorSlayerBG"] = 
+                    {
+                        [1] = 1,
+                        [2] = 0,
+                        [3] = 0,
+                    },
+                    ["outOfSupportRangeOpacity"] = 0.2000000000,
+                    ["showBerserkCountdown"] = true,
+                    ["showVulnCountdown"] = true,
+                    ["disableInPvP"] = true,
+                    ["showSlayer"] = true,
+                    ["windowScale"] = 1,
+                    ["showRawValue"] = 1,
+                    ["colorAtroBG"] = 
+                    {
+                        [1] = 0,
+                        [2] = 1,
+                        [3] = 1,
+                    },
+                    ["showHornCountdown"] = true,
+                    ["windowPosTop"] = 260,
+                    ["windowWith"] = 230,
+                    ["showBarrier"] = true,
+                    ["windowWidth"] = 272,
+                    ["showPillager"] = true,
+                    ["colorColosBG"] = 
+                    {
+                        [1] = 0,
+                        [2] = 0,
+                        [3] = 1,
+                    },
+                    ["windowPosLeft"] = 250,
+                    ["backgroundOpacity"] = 0,
+                    ["showColos"] = true,
+                    ["colorBarrierBG"] = 
+                    {
+                        [1] = 1,
+                        [2] = 0.5000000000,
+                        [3] = 0,
+                    },
+                    ["showHorn"] = true,
+                    ["showForceCountdown"] = true,
+                    ["headerOpacity"] = 0,
+                },
+                ["version"] = 2,
+                ["libraryPopupDisabled"] = false,
+                ["module_dps"] = 
+                {
+                    ["version"] = 3,
+                },
+                ["list_horn"] = 
+                {
                     ["windowPosLeft"] = 10,
+                    ["nameFont"] = "$(BOLD_FONT)|$(KB_19)|outline",
+                    ["supportRangeOnly"] = false,
+                    ["disableInPvP"] = true,
+                    ["colorHorn"] = 
+                    {
+                        [1] = 0,
+                        [2] = 1,
+                        [3] = 1,
+                    },
+                    ["windowScale"] = 1,
                     ["showRawValue"] = 0,
+                    ["version"] = 3,
+                    ["zeroTimerOpacity"] = 0.3500000000,
+                    ["windowPosTop"] = 570,
+                    ["windowWith"] = 230,
+                    ["showPercentValue"] = 1,
+                    ["highlightSaxhleel"] = true,
+                    ["enabled"] = 0,
+                    ["colorForce"] = 
+                    {
+                        [1] = 1,
+                        [2] = 1,
+                        [3] = 0,
+                    },
+                    ["outOfSupportRangeOpacity"] = 0.2000000000,
+                    ["windowWidth"] = 272,
+                    ["highlightSaxhleelColor"] = 
+                    {
+                        [4] = 0.2000000000,
+                        [1] = 0.7058823529,
+                        [2] = 0.7372549020,
+                        [3] = 0.6901960784,
+                    },
+                    ["backgroundOpacity"] = 0,
+                    ["headerOpacity"] = 0,
+                },
+                ["enableTestTick"] = true,
+                ["module_exitinstance"] = 
+                {
+                    ["ignoreExitInstanceRequests"] = false,
+                    ["version"] = 3,
+                    ["confirmExitInstance"] = true,
+                },
+                ["extension_configurator"] = 
+                {
+                    ["nameColorBegin"] = 
+                    {
+                        [1] = 1,
+                        [2] = 1,
+                        [3] = 1,
+                    },
+                    ["nameColored"] = "Kankerkop",
+                    ["nameRaw"] = "Kankerkop",
+                    ["nameColorEnd"] = 
+                    {
+                        [1] = 1,
+                        [2] = 1,
+                        [3] = 1,
+                    },
+                    ["nameGradient"] = false,
+                    ["version"] = 3,
+                    ["selectedDonationTier"] = 1,
+                },
+                ["module_readycheck"] = 
+                {
+                    ["windowCenterY"] = 288,
+                    ["windowCenterX"] = 1280,
+                    ["enableUI"] = true,
+                    ["enableChatMessages"] = true,
+                    ["version"] = 3,
+                },
+                ["module_skilllines"] = 
+                {
+                    ["version"] = 3,
+                },
+                ["extension_seasons"] = 
+                {
+                    ["valentines"] = true,
+                    ["christmas"] = true,
+                    ["version"] = 3,
+                    ["aprilfools"] = true,
+                },
+                ["extension_icons"] = 
+                {
+                    ["version"] = 3,
+                },
+                ["enableExperimentalFeatures"] = false,
+                ["counter_pillager"] = 
+                {
+                    ["enabled"] = 0,
+                    ["windowPosTop"] = 200,
+                    ["scale"] = 1,
+                    ["hideOnCooldown"] = false,
+                    ["version"] = 3,
+                    ["windowPosLeft"] = 500,
+                },
+                ["extension_names"] = 
+                {
                     ["version"] = 3,
                 },
                 ["accountWide"] = true,
@@ -204,238 +793,49 @@ HodorReflexesSavedVars =
                         [6] = true,
                     },
                 },
-                ["module_skilllines"] = 
+                ["modules"] = 
                 {
-                    ["version"] = 3,
-                },
-                ["list_damage"] = 
-                {
-                    ["outOfSupportRangeOpacity"] = 0.2000000000,
-                    ["windowPosTop"] = 81,
-                    ["backgroundOpacity"] = 0,
-                    ["burstWindowSeconds"] = 10,
-                    ["listRowEvenOpacity"] = 0.6500000000,
-                    ["disableInPvP"] = true,
-                    ["windowScale"] = 1,
-                    ["timerUpdateInterval"] = 100,
-                    ["colorDamageTotal"] = "FAFFB2",
-                    ["windowWidth"] = 237,
-                    ["listPlayerHighlight"] = true,
-                    ["colorGroupDPS"] = "F4D17B",
-                    ["listHeaderOpacity"] = 0.8000000000,
-                    ["supportRangeOnly"] = false,
-                    ["colorBurstDPS"] = "BDFF7B",
-                    ["nameFont"] = "$(BOLD_FONT)|$(KB_18)|outline",
-                    ["showSummary"] = true,
-                    ["enabled"] = 0,
-                    ["colorDamageBoss"] = "B2FFB2",
-                    ["windowWith"] = 230,
-                    ["listRowOddOpacity"] = 0.4500000000,
-                    ["listPlayerHighlightColor"] = 
-                    {
-                        [4] = 0.3600000000,
-                        [1] = 0,
-                        [2] = 1,
-                        [3] = 0,
-                    },
-                    ["windowPosLeft"] = 318,
-                    ["version"] = 3,
-                },
-                ["list_compact"] = 
-                {
-                    ["colorPillagerBG"] = 
-                    {
-                        [1] = 0,
-                        [2] = 1,
-                        [3] = 0,
-                    },
-                    ["outOfSupportRangeOpacity"] = 0.2000000000,
-                    ["showSlayer"] = true,
-                    ["showPillager"] = true,
-                    ["markOnCooldown"] = true,
-                    ["backgroundOpacity"] = 0,
-                    ["colorColosBG"] = 
-                    {
-                        [1] = 0,
-                        [2] = 0,
-                        [3] = 1,
-                    },
-                    ["showPillagerCooldown"] = true,
-                    ["showColos"] = true,
-                    ["showBerserkCountdown"] = true,
-                    ["colorSlayerBG"] = 
-                    {
-                        [1] = 1,
-                        [2] = 0,
-                        [3] = 0,
-                    },
-                    ["showVulnCountdown"] = true,
-                    ["markOnCooldownColor"] = 
-                    {
-                        [1] = 1,
-                        [2] = 0,
-                        [3] = 0,
-                    },
-                    ["showRawValue"] = 1,
-                    ["showForceCountdown"] = true,
-                    ["showAtro"] = true,
-                    ["colorCooldowns"] = 
-                    {
-                        [1] = 1,
-                        [2] = 0,
-                        [3] = 0,
-                    },
-                    ["windowPosTop"] = 260,
-                    ["colorAtroBG"] = 
-                    {
-                        [1] = 0,
-                        [2] = 1,
-                        [3] = 1,
-                    },
-                    ["zeroTimerOpacity"] = 0.3500000000,
-                    ["headerOpacity"] = 0,
-                    ["showHorn"] = true,
-                    ["showCryptCannon"] = true,
-                    ["windowScale"] = 1,
-                    ["showHornCountdown"] = true,
-                    ["windowWidth"] = 272,
-                    ["disableInPvP"] = true,
-                    ["showBarrier"] = true,
-                    ["colorBarrierBG"] = 
-                    {
-                        [1] = 1,
-                        [2] = 0.5000000000,
-                        [3] = 0,
-                    },
-                    ["enabled"] = 0,
-                    ["supportRangeOnly"] = false,
-                    ["windowPosLeft"] = 250,
-                    ["backgroundAlpha"] = 0.2000000000,
-                    ["colorDurations"] = 
-                    {
-                        [1] = 1,
-                        [2] = 1,
-                        [3] = 0,
-                    },
-                    ["colorCryptCannonBG"] = 
-                    {
-                        [1] = 1,
-                        [2] = 0,
-                        [3] = 1,
-                    },
-                    ["windowWith"] = 230,
-                    ["version"] = 3,
-                    ["showPercentValue"] = 1,
-                    ["colorHornBG"] = 
-                    {
-                        [1] = 1,
-                        [2] = 1,
-                        [3] = 0,
-                    },
-                    ["nameFont"] = "$(BOLD_FONT)|$(KB_19)|outline",
-                    ["showSlayerCountdown"] = true,
-                },
-                ["counter_pillager"] = 
-                {
-                    ["windowPosTop"] = 200,
-                    ["version"] = 3,
-                    ["windowPosLeft"] = 500,
-                    ["hideOnCooldown"] = false,
-                    ["enabled"] = 0,
-                    ["scale"] = 1,
-                },
-                ["extension_configurator"] = 
-                {
-                    ["nameColorBegin"] = 
-                    {
-                        [1] = 1,
-                        [2] = 1,
-                        [3] = 1,
-                    },
-                    ["nameRaw"] = "Kankerkop",
-                    ["selectedDonationTier"] = 1,
-                    ["version"] = 3,
-                    ["nameGradient"] = false,
-                    ["nameColorEnd"] = 
-                    {
-                        [1] = 1,
-                        [2] = 1,
-                        [3] = 1,
-                    },
-                    ["nameColored"] = "Kankerkop",
-                },
-                ["extension_seasons"] = 
-                {
-                    ["valentines"] = true,
-                    ["aprilfools"] = true,
-                    ["christmas"] = true,
-                    ["version"] = 3,
+                    ["hideme"] = true,
+                    ["skilllines"] = true,
+                    ["ult"] = true,
+                    ["readycheck"] = true,
+                    ["exitinstance"] = true,
+                    ["pull"] = true,
+                    ["dps"] = true,
                 },
                 ["list_colos"] = 
                 {
-                    ["outOfSupportRangeOpacity"] = 0.2000000000,
-                    ["windowPosTop"] = 660,
-                    ["zeroTimerOpacity"] = 0.3500000000,
-                    ["headerOpacity"] = 0,
+                    ["windowPosLeft"] = 10,
+                    ["nameFont"] = "$(BOLD_FONT)|$(KB_19)|outline",
+                    ["supportRangeOnly"] = false,
                     ["disableInPvP"] = true,
+                    ["enabled"] = 0,
                     ["windowScale"] = 1,
+                    ["showRawValue"] = 0,
+                    ["version"] = 3,
+                    ["zeroTimerOpacity"] = 0.3500000000,
+                    ["windowPosTop"] = 660,
+                    ["windowWith"] = 230,
+                    ["showPercentValue"] = 1,
                     ["colorVuln"] = 
                     {
                         [1] = 1,
                         [2] = 1,
                         [3] = 0,
                     },
-                    ["windowWidth"] = 272,
-                    ["supportRangeOnly"] = false,
-                    ["enabled"] = 0,
-                    ["showPercentValue"] = 1,
-                    ["nameFont"] = "$(BOLD_FONT)|$(KB_19)|outline",
-                    ["windowWith"] = 230,
                     ["backgroundOpacity"] = 0,
-                    ["windowPosLeft"] = 10,
-                    ["showRawValue"] = 0,
-                    ["version"] = 3,
-                },
-                ["extension_icons"] = 
-                {
-                    ["version"] = 3,
-                },
-                ["version"] = 2,
-                ["module_pull"] = 
-                {
-                    ["version"] = 3,
-                    ["countdownDuration"] = 5,
-                },
-                ["advancedSettings"] = false,
-                ["extension_animations"] = 
-                {
-                    ["version"] = 3,
-                },
-                ["module_exitinstance"] = 
-                {
-                    ["ignoreExitInstanceRequests"] = false,
-                    ["confirmExitInstance"] = true,
-                    ["version"] = 3,
+                    ["outOfSupportRangeOpacity"] = 0.2000000000,
+                    ["windowWidth"] = 272,
+                    ["headerOpacity"] = 0,
                 },
             },
             ["8796093079748457"] = 
             {
-                ["extension_seasons"] = 
-                {
-                    ["accountWide"] = false,
-                    ["version"] = 3,
-                },
                 ["extension_icons"] = 
                 {
                     ["accountWide"] = false,
                     ["version"] = 3,
                 },
-                ["extension_names"] = 
-                {
-                    ["accountWide"] = false,
-                    ["version"] = 3,
-                },
-                ["$LastCharacterName"] = "For The Wa",
                 ["extension_animations"] = 
                 {
                     ["accountWide"] = false,
@@ -455,35 +855,35 @@ HodorReflexesSavedVars =
                         [2] = 1,
                         [3] = 1,
                     },
-                    ["selectedDonationTier"] = 1,
-                    ["version"] = 3,
-                    ["nameGradient"] = false,
-                    ["accountWide"] = false,
-                    ["nameRaw"] = "noobkiss",
                     ["nameColored"] = "noobkiss",
+                    ["nameRaw"] = "noobkiss",
+                    ["accountWide"] = false,
+                    ["nameGradient"] = false,
+                    ["version"] = 3,
+                    ["selectedDonationTier"] = 1,
+                },
+                ["extension_names"] = 
+                {
+                    ["accountWide"] = false,
+                    ["version"] = 3,
+                },
+                ["$LastCharacterName"] = "For The Wa",
+                ["extension_seasons"] = 
+                {
+                    ["accountWide"] = false,
+                    ["version"] = 3,
                 },
             },
         },
         ["@noobkiss"] = 
         {
-            ["8796093077546265"] = 
+            ["8796093077575525"] = 
             {
-                ["extension_seasons"] = 
-                {
-                    ["accountWide"] = false,
-                    ["version"] = 3,
-                },
                 ["extension_icons"] = 
                 {
                     ["accountWide"] = false,
                     ["version"] = 3,
                 },
-                ["extension_names"] = 
-                {
-                    ["accountWide"] = false,
-                    ["version"] = 3,
-                },
-                ["$LastCharacterName"] = "For The Wa",
                 ["extension_animations"] = 
                 {
                     ["accountWide"] = false,
@@ -503,25 +903,12 @@ HodorReflexesSavedVars =
                         [2] = 1,
                         [3] = 1,
                     },
-                    ["selectedDonationTier"] = 1,
-                    ["version"] = 3,
-                    ["nameGradient"] = false,
-                    ["accountWide"] = false,
-                    ["nameRaw"] = "noobkiss",
                     ["nameColored"] = "noobkiss",
-                },
-            },
-            ["8796093077286759"] = 
-            {
-                ["extension_seasons"] = 
-                {
+                    ["nameRaw"] = "noobkiss",
                     ["accountWide"] = false,
+                    ["nameGradient"] = false,
                     ["version"] = 3,
-                },
-                ["extension_icons"] = 
-                {
-                    ["accountWide"] = false,
-                    ["version"] = 3,
+                    ["selectedDonationTier"] = 1,
                 },
                 ["extension_names"] = 
                 {
@@ -529,186 +916,19 @@ HodorReflexesSavedVars =
                     ["version"] = 3,
                 },
                 ["$LastCharacterName"] = "For The Wa",
-                ["extension_animations"] = 
-                {
-                    ["accountWide"] = false,
-                    ["version"] = 3,
-                },
-                ["extension_configurator"] = 
-                {
-                    ["nameColorBegin"] = 
-                    {
-                        [1] = 1,
-                        [2] = 1,
-                        [3] = 1,
-                    },
-                    ["nameColorEnd"] = 
-                    {
-                        [1] = 1,
-                        [2] = 1,
-                        [3] = 1,
-                    },
-                    ["selectedDonationTier"] = 1,
-                    ["version"] = 3,
-                    ["nameGradient"] = false,
-                    ["accountWide"] = false,
-                    ["nameRaw"] = "noobkiss",
-                    ["nameColored"] = "noobkiss",
-                },
-            },
-            ["8796093078078769"] = 
-            {
                 ["extension_seasons"] = 
                 {
                     ["accountWide"] = false,
                     ["version"] = 3,
-                },
-                ["extension_icons"] = 
-                {
-                    ["accountWide"] = false,
-                    ["version"] = 3,
-                },
-                ["extension_names"] = 
-                {
-                    ["accountWide"] = false,
-                    ["version"] = 3,
-                },
-                ["$LastCharacterName"] = "For The Wa",
-                ["extension_animations"] = 
-                {
-                    ["accountWide"] = false,
-                    ["version"] = 3,
-                },
-                ["extension_configurator"] = 
-                {
-                    ["nameColorBegin"] = 
-                    {
-                        [1] = 1,
-                        [2] = 1,
-                        [3] = 1,
-                    },
-                    ["nameColorEnd"] = 
-                    {
-                        [1] = 1,
-                        [2] = 1,
-                        [3] = 1,
-                    },
-                    ["selectedDonationTier"] = 1,
-                    ["version"] = 3,
-                    ["nameGradient"] = false,
-                    ["accountWide"] = false,
-                    ["nameRaw"] = "noobkiss",
-                    ["nameColored"] = "noobkiss",
-                },
-            },
-            ["8796093077280363"] = 
-            {
-                ["extension_seasons"] = 
-                {
-                    ["accountWide"] = false,
-                    ["version"] = 3,
-                },
-                ["extension_icons"] = 
-                {
-                    ["accountWide"] = false,
-                    ["version"] = 3,
-                },
-                ["extension_names"] = 
-                {
-                    ["accountWide"] = false,
-                    ["version"] = 3,
-                },
-                ["$LastCharacterName"] = "For The Wa",
-                ["extension_animations"] = 
-                {
-                    ["accountWide"] = false,
-                    ["version"] = 3,
-                },
-                ["extension_configurator"] = 
-                {
-                    ["nameColorBegin"] = 
-                    {
-                        [1] = 1,
-                        [2] = 1,
-                        [3] = 1,
-                    },
-                    ["nameColorEnd"] = 
-                    {
-                        [1] = 1,
-                        [2] = 1,
-                        [3] = 1,
-                    },
-                    ["selectedDonationTier"] = 1,
-                    ["version"] = 3,
-                    ["nameGradient"] = false,
-                    ["accountWide"] = false,
-                    ["nameRaw"] = "noobkiss",
-                    ["nameColored"] = "noobkiss",
-                },
-            },
-            ["8796093077338611"] = 
-            {
-                ["extension_seasons"] = 
-                {
-                    ["accountWide"] = false,
-                    ["version"] = 3,
-                },
-                ["extension_icons"] = 
-                {
-                    ["accountWide"] = false,
-                    ["version"] = 3,
-                },
-                ["extension_names"] = 
-                {
-                    ["accountWide"] = false,
-                    ["version"] = 3,
-                },
-                ["$LastCharacterName"] = "For The Wa",
-                ["extension_animations"] = 
-                {
-                    ["accountWide"] = false,
-                    ["version"] = 3,
-                },
-                ["extension_configurator"] = 
-                {
-                    ["nameColorBegin"] = 
-                    {
-                        [1] = 1,
-                        [2] = 1,
-                        [3] = 1,
-                    },
-                    ["nameColorEnd"] = 
-                    {
-                        [1] = 1,
-                        [2] = 1,
-                        [3] = 1,
-                    },
-                    ["selectedDonationTier"] = 1,
-                    ["version"] = 3,
-                    ["nameGradient"] = false,
-                    ["accountWide"] = false,
-                    ["nameRaw"] = "noobkiss",
-                    ["nameColored"] = "noobkiss",
                 },
             },
             ["8796093077575729"] = 
             {
-                ["extension_seasons"] = 
-                {
-                    ["accountWide"] = false,
-                    ["version"] = 3,
-                },
                 ["extension_icons"] = 
                 {
                     ["accountWide"] = false,
                     ["version"] = 3,
                 },
-                ["extension_names"] = 
-                {
-                    ["accountWide"] = false,
-                    ["version"] = 3,
-                },
-                ["$LastCharacterName"] = "For The Wa",
                 ["extension_animations"] = 
                 {
                     ["accountWide"] = false,
@@ -728,25 +948,12 @@ HodorReflexesSavedVars =
                         [2] = 1,
                         [3] = 1,
                     },
-                    ["selectedDonationTier"] = 1,
-                    ["version"] = 3,
-                    ["nameGradient"] = false,
-                    ["accountWide"] = false,
-                    ["nameRaw"] = "noobkiss",
                     ["nameColored"] = "noobkiss",
-                },
-            },
-            ["8796093076445407"] = 
-            {
-                ["extension_seasons"] = 
-                {
+                    ["nameRaw"] = "noobkiss",
                     ["accountWide"] = false,
+                    ["nameGradient"] = false,
                     ["version"] = 3,
-                },
-                ["extension_icons"] = 
-                {
-                    ["accountWide"] = false,
-                    ["version"] = 3,
+                    ["selectedDonationTier"] = 1,
                 },
                 ["extension_names"] = 
                 {
@@ -754,411 +961,19 @@ HodorReflexesSavedVars =
                     ["version"] = 3,
                 },
                 ["$LastCharacterName"] = "For The Wa",
-                ["extension_animations"] = 
-                {
-                    ["accountWide"] = false,
-                    ["version"] = 3,
-                },
-                ["extension_configurator"] = 
-                {
-                    ["nameColorBegin"] = 
-                    {
-                        [1] = 1,
-                        [2] = 1,
-                        [3] = 1,
-                    },
-                    ["nameColorEnd"] = 
-                    {
-                        [1] = 1,
-                        [2] = 1,
-                        [3] = 1,
-                    },
-                    ["selectedDonationTier"] = 1,
-                    ["version"] = 3,
-                    ["nameGradient"] = false,
-                    ["accountWide"] = false,
-                    ["nameRaw"] = "noobkiss",
-                    ["nameColored"] = "noobkiss",
-                },
-            },
-            ["8796093077575525"] = 
-            {
                 ["extension_seasons"] = 
                 {
                     ["accountWide"] = false,
                     ["version"] = 3,
-                },
-                ["extension_icons"] = 
-                {
-                    ["accountWide"] = false,
-                    ["version"] = 3,
-                },
-                ["extension_names"] = 
-                {
-                    ["accountWide"] = false,
-                    ["version"] = 3,
-                },
-                ["$LastCharacterName"] = "For The Wa",
-                ["extension_animations"] = 
-                {
-                    ["accountWide"] = false,
-                    ["version"] = 3,
-                },
-                ["extension_configurator"] = 
-                {
-                    ["nameColorBegin"] = 
-                    {
-                        [1] = 1,
-                        [2] = 1,
-                        [3] = 1,
-                    },
-                    ["nameColorEnd"] = 
-                    {
-                        [1] = 1,
-                        [2] = 1,
-                        [3] = 1,
-                    },
-                    ["selectedDonationTier"] = 1,
-                    ["version"] = 3,
-                    ["nameGradient"] = false,
-                    ["accountWide"] = false,
-                    ["nameRaw"] = "noobkiss",
-                    ["nameColored"] = "noobkiss",
-                },
-            },
-            ["8796093077354797"] = 
-            {
-                ["extension_seasons"] = 
-                {
-                    ["accountWide"] = false,
-                    ["version"] = 3,
-                },
-                ["extension_icons"] = 
-                {
-                    ["accountWide"] = false,
-                    ["version"] = 3,
-                },
-                ["extension_names"] = 
-                {
-                    ["accountWide"] = false,
-                    ["version"] = 3,
-                },
-                ["$LastCharacterName"] = "For The Wa",
-                ["extension_animations"] = 
-                {
-                    ["accountWide"] = false,
-                    ["version"] = 3,
-                },
-                ["extension_configurator"] = 
-                {
-                    ["nameColorBegin"] = 
-                    {
-                        [1] = 1,
-                        [2] = 1,
-                        [3] = 1,
-                    },
-                    ["nameColorEnd"] = 
-                    {
-                        [1] = 1,
-                        [2] = 1,
-                        [3] = 1,
-                    },
-                    ["selectedDonationTier"] = 1,
-                    ["version"] = 3,
-                    ["nameGradient"] = false,
-                    ["accountWide"] = false,
-                    ["nameRaw"] = "noobkiss",
-                    ["nameColored"] = "noobkiss",
-                },
-            },
-            ["8796093079602369"] = 
-            {
-                ["extension_seasons"] = 
-                {
-                    ["accountWide"] = false,
-                    ["version"] = 3,
-                },
-                ["extension_icons"] = 
-                {
-                    ["accountWide"] = false,
-                    ["version"] = 3,
-                },
-                ["extension_names"] = 
-                {
-                    ["accountWide"] = false,
-                    ["version"] = 3,
-                },
-                ["$LastCharacterName"] = "For The Wa",
-                ["extension_animations"] = 
-                {
-                    ["accountWide"] = false,
-                    ["version"] = 3,
-                },
-                ["extension_configurator"] = 
-                {
-                    ["nameColorBegin"] = 
-                    {
-                        [1] = 1,
-                        [2] = 1,
-                        [3] = 1,
-                    },
-                    ["nameColorEnd"] = 
-                    {
-                        [1] = 1,
-                        [2] = 1,
-                        [3] = 1,
-                    },
-                    ["selectedDonationTier"] = 1,
-                    ["version"] = 3,
-                    ["nameGradient"] = false,
-                    ["accountWide"] = false,
-                    ["nameRaw"] = "noobkiss",
-                    ["nameColored"] = "noobkiss",
-                },
-            },
-            ["8796093077142221"] = 
-            {
-                ["extension_seasons"] = 
-                {
-                    ["accountWide"] = false,
-                    ["version"] = 3,
-                },
-                ["extension_icons"] = 
-                {
-                    ["accountWide"] = false,
-                    ["version"] = 3,
-                },
-                ["extension_names"] = 
-                {
-                    ["accountWide"] = false,
-                    ["version"] = 3,
-                },
-                ["$LastCharacterName"] = "For The Wa",
-                ["extension_animations"] = 
-                {
-                    ["accountWide"] = false,
-                    ["version"] = 3,
-                },
-                ["extension_configurator"] = 
-                {
-                    ["nameColorBegin"] = 
-                    {
-                        [1] = 1,
-                        [2] = 1,
-                        [3] = 1,
-                    },
-                    ["nameColorEnd"] = 
-                    {
-                        [1] = 1,
-                        [2] = 1,
-                        [3] = 1,
-                    },
-                    ["selectedDonationTier"] = 1,
-                    ["version"] = 3,
-                    ["nameGradient"] = false,
-                    ["accountWide"] = false,
-                    ["nameRaw"] = "noobkiss",
-                    ["nameColored"] = "noobkiss",
-                },
-            },
-            ["8796093078411849"] = 
-            {
-                ["extension_seasons"] = 
-                {
-                    ["accountWide"] = false,
-                    ["version"] = 3,
-                },
-                ["extension_icons"] = 
-                {
-                    ["accountWide"] = false,
-                    ["version"] = 3,
-                },
-                ["extension_names"] = 
-                {
-                    ["accountWide"] = false,
-                    ["version"] = 3,
-                },
-                ["$LastCharacterName"] = "For The Wa",
-                ["extension_animations"] = 
-                {
-                    ["accountWide"] = false,
-                    ["version"] = 3,
-                },
-                ["extension_configurator"] = 
-                {
-                    ["nameColorBegin"] = 
-                    {
-                        [1] = 1,
-                        [2] = 1,
-                        [3] = 1,
-                    },
-                    ["nameColorEnd"] = 
-                    {
-                        [1] = 1,
-                        [2] = 1,
-                        [3] = 1,
-                    },
-                    ["selectedDonationTier"] = 1,
-                    ["version"] = 3,
-                    ["nameGradient"] = false,
-                    ["accountWide"] = false,
-                    ["nameRaw"] = "noobkiss",
-                    ["nameColored"] = "noobkiss",
-                },
-            },
-            ["8796093077976825"] = 
-            {
-                ["extension_seasons"] = 
-                {
-                    ["accountWide"] = false,
-                    ["version"] = 3,
-                },
-                ["extension_icons"] = 
-                {
-                    ["accountWide"] = false,
-                    ["version"] = 3,
-                },
-                ["extension_names"] = 
-                {
-                    ["accountWide"] = false,
-                    ["version"] = 3,
-                },
-                ["$LastCharacterName"] = "For The Wa",
-                ["extension_animations"] = 
-                {
-                    ["accountWide"] = false,
-                    ["version"] = 3,
-                },
-                ["extension_configurator"] = 
-                {
-                    ["nameColorBegin"] = 
-                    {
-                        [1] = 1,
-                        [2] = 1,
-                        [3] = 1,
-                    },
-                    ["nameColorEnd"] = 
-                    {
-                        [1] = 1,
-                        [2] = 1,
-                        [3] = 1,
-                    },
-                    ["selectedDonationTier"] = 1,
-                    ["version"] = 3,
-                    ["nameGradient"] = false,
-                    ["accountWide"] = false,
-                    ["nameRaw"] = "noobkiss",
-                    ["nameColored"] = "noobkiss",
-                },
-            },
-            ["8796093077280431"] = 
-            {
-                ["extension_seasons"] = 
-                {
-                    ["accountWide"] = false,
-                    ["version"] = 3,
-                },
-                ["extension_icons"] = 
-                {
-                    ["accountWide"] = false,
-                    ["version"] = 3,
-                },
-                ["extension_names"] = 
-                {
-                    ["accountWide"] = false,
-                    ["version"] = 3,
-                },
-                ["$LastCharacterName"] = "For The Wa",
-                ["extension_animations"] = 
-                {
-                    ["accountWide"] = false,
-                    ["version"] = 3,
-                },
-                ["extension_configurator"] = 
-                {
-                    ["nameColorBegin"] = 
-                    {
-                        [1] = 1,
-                        [2] = 1,
-                        [3] = 1,
-                    },
-                    ["nameColorEnd"] = 
-                    {
-                        [1] = 1,
-                        [2] = 1,
-                        [3] = 1,
-                    },
-                    ["selectedDonationTier"] = 1,
-                    ["version"] = 3,
-                    ["nameGradient"] = false,
-                    ["accountWide"] = false,
-                    ["nameRaw"] = "noobkiss",
-                    ["nameColored"] = "noobkiss",
-                },
-            },
-            ["8796093077130605"] = 
-            {
-                ["extension_seasons"] = 
-                {
-                    ["accountWide"] = false,
-                    ["version"] = 3,
-                },
-                ["extension_icons"] = 
-                {
-                    ["accountWide"] = false,
-                    ["version"] = 3,
-                },
-                ["extension_names"] = 
-                {
-                    ["accountWide"] = false,
-                    ["version"] = 3,
-                },
-                ["$LastCharacterName"] = "For The Wa",
-                ["extension_animations"] = 
-                {
-                    ["accountWide"] = false,
-                    ["version"] = 3,
-                },
-                ["extension_configurator"] = 
-                {
-                    ["nameColorBegin"] = 
-                    {
-                        [1] = 1,
-                        [2] = 1,
-                        [3] = 1,
-                    },
-                    ["nameColorEnd"] = 
-                    {
-                        [1] = 1,
-                        [2] = 1,
-                        [3] = 1,
-                    },
-                    ["selectedDonationTier"] = 1,
-                    ["version"] = 3,
-                    ["nameGradient"] = false,
-                    ["accountWide"] = false,
-                    ["nameRaw"] = "noobkiss",
-                    ["nameColored"] = "noobkiss",
                 },
             },
             ["8796093078739949"] = 
             {
-                ["extension_seasons"] = 
-                {
-                    ["accountWide"] = false,
-                    ["version"] = 3,
-                },
                 ["extension_icons"] = 
                 {
                     ["accountWide"] = false,
                     ["version"] = 3,
                 },
-                ["extension_names"] = 
-                {
-                    ["accountWide"] = false,
-                    ["version"] = 3,
-                },
-                ["$LastCharacterName"] = "For The Wa",
                 ["extension_animations"] = 
                 {
                     ["accountWide"] = false,
@@ -1178,123 +993,664 @@ HodorReflexesSavedVars =
                         [2] = 1,
                         [3] = 1,
                     },
-                    ["selectedDonationTier"] = 1,
-                    ["version"] = 3,
-                    ["nameGradient"] = false,
-                    ["accountWide"] = false,
-                    ["nameRaw"] = "noobkiss",
                     ["nameColored"] = "noobkiss",
+                    ["nameRaw"] = "noobkiss",
+                    ["accountWide"] = false,
+                    ["nameGradient"] = false,
+                    ["version"] = 3,
+                    ["selectedDonationTier"] = 1,
+                },
+                ["extension_names"] = 
+                {
+                    ["accountWide"] = false,
+                    ["version"] = 3,
+                },
+                ["$LastCharacterName"] = "For The Wa",
+                ["extension_seasons"] = 
+                {
+                    ["accountWide"] = false,
+                    ["version"] = 3,
+                },
+            },
+            ["8796093077977317"] = 
+            {
+                ["extension_icons"] = 
+                {
+                    ["accountWide"] = false,
+                    ["version"] = 3,
+                },
+                ["extension_animations"] = 
+                {
+                    ["accountWide"] = false,
+                    ["version"] = 3,
+                },
+                ["extension_configurator"] = 
+                {
+                    ["nameColorBegin"] = 
+                    {
+                        [1] = 1,
+                        [2] = 1,
+                        [3] = 1,
+                    },
+                    ["nameColorEnd"] = 
+                    {
+                        [1] = 1,
+                        [2] = 1,
+                        [3] = 1,
+                    },
+                    ["nameColored"] = "noobkiss",
+                    ["nameRaw"] = "noobkiss",
+                    ["accountWide"] = false,
+                    ["nameGradient"] = false,
+                    ["version"] = 3,
+                    ["selectedDonationTier"] = 1,
+                },
+                ["extension_names"] = 
+                {
+                    ["accountWide"] = false,
+                    ["version"] = 3,
+                },
+                ["$LastCharacterName"] = "For The Wa",
+                ["extension_seasons"] = 
+                {
+                    ["accountWide"] = false,
+                    ["version"] = 3,
+                },
+            },
+            ["8796093077354797"] = 
+            {
+                ["extension_icons"] = 
+                {
+                    ["accountWide"] = false,
+                    ["version"] = 3,
+                },
+                ["extension_animations"] = 
+                {
+                    ["accountWide"] = false,
+                    ["version"] = 3,
+                },
+                ["extension_configurator"] = 
+                {
+                    ["nameColorBegin"] = 
+                    {
+                        [1] = 1,
+                        [2] = 1,
+                        [3] = 1,
+                    },
+                    ["nameColorEnd"] = 
+                    {
+                        [1] = 1,
+                        [2] = 1,
+                        [3] = 1,
+                    },
+                    ["nameColored"] = "noobkiss",
+                    ["nameRaw"] = "noobkiss",
+                    ["accountWide"] = false,
+                    ["nameGradient"] = false,
+                    ["version"] = 3,
+                    ["selectedDonationTier"] = 1,
+                },
+                ["extension_names"] = 
+                {
+                    ["accountWide"] = false,
+                    ["version"] = 3,
+                },
+                ["$LastCharacterName"] = "For The Wa",
+                ["extension_seasons"] = 
+                {
+                    ["accountWide"] = false,
+                    ["version"] = 3,
+                },
+            },
+            ["8796093077976825"] = 
+            {
+                ["extension_icons"] = 
+                {
+                    ["accountWide"] = false,
+                    ["version"] = 3,
+                },
+                ["extension_animations"] = 
+                {
+                    ["accountWide"] = false,
+                    ["version"] = 3,
+                },
+                ["extension_configurator"] = 
+                {
+                    ["nameColorBegin"] = 
+                    {
+                        [1] = 1,
+                        [2] = 1,
+                        [3] = 1,
+                    },
+                    ["nameColorEnd"] = 
+                    {
+                        [1] = 1,
+                        [2] = 1,
+                        [3] = 1,
+                    },
+                    ["nameColored"] = "noobkiss",
+                    ["nameRaw"] = "noobkiss",
+                    ["accountWide"] = false,
+                    ["nameGradient"] = false,
+                    ["version"] = 3,
+                    ["selectedDonationTier"] = 1,
+                },
+                ["extension_names"] = 
+                {
+                    ["accountWide"] = false,
+                    ["version"] = 3,
+                },
+                ["$LastCharacterName"] = "For The Wa",
+                ["extension_seasons"] = 
+                {
+                    ["accountWide"] = false,
+                    ["version"] = 3,
+                },
+            },
+            ["8796093077546265"] = 
+            {
+                ["extension_icons"] = 
+                {
+                    ["accountWide"] = false,
+                    ["version"] = 3,
+                },
+                ["extension_animations"] = 
+                {
+                    ["accountWide"] = false,
+                    ["version"] = 3,
+                },
+                ["extension_configurator"] = 
+                {
+                    ["nameColorBegin"] = 
+                    {
+                        [1] = 1,
+                        [2] = 1,
+                        [3] = 1,
+                    },
+                    ["nameColorEnd"] = 
+                    {
+                        [1] = 1,
+                        [2] = 1,
+                        [3] = 1,
+                    },
+                    ["nameColored"] = "noobkiss",
+                    ["nameRaw"] = "noobkiss",
+                    ["accountWide"] = false,
+                    ["nameGradient"] = false,
+                    ["version"] = 3,
+                    ["selectedDonationTier"] = 1,
+                },
+                ["extension_names"] = 
+                {
+                    ["accountWide"] = false,
+                    ["version"] = 3,
+                },
+                ["$LastCharacterName"] = "For The Wa",
+                ["extension_seasons"] = 
+                {
+                    ["accountWide"] = false,
+                    ["version"] = 3,
+                },
+            },
+            ["8796093078411849"] = 
+            {
+                ["extension_icons"] = 
+                {
+                    ["accountWide"] = false,
+                    ["version"] = 3,
+                },
+                ["extension_animations"] = 
+                {
+                    ["accountWide"] = false,
+                    ["version"] = 3,
+                },
+                ["extension_configurator"] = 
+                {
+                    ["nameColorBegin"] = 
+                    {
+                        [1] = 1,
+                        [2] = 1,
+                        [3] = 1,
+                    },
+                    ["nameColorEnd"] = 
+                    {
+                        [1] = 1,
+                        [2] = 1,
+                        [3] = 1,
+                    },
+                    ["nameColored"] = "noobkiss",
+                    ["nameRaw"] = "noobkiss",
+                    ["accountWide"] = false,
+                    ["nameGradient"] = false,
+                    ["version"] = 3,
+                    ["selectedDonationTier"] = 1,
+                },
+                ["extension_names"] = 
+                {
+                    ["accountWide"] = false,
+                    ["version"] = 3,
+                },
+                ["$LastCharacterName"] = "For The Wa",
+                ["extension_seasons"] = 
+                {
+                    ["accountWide"] = false,
+                    ["version"] = 3,
+                },
+            },
+            ["8796093077286759"] = 
+            {
+                ["extension_icons"] = 
+                {
+                    ["accountWide"] = false,
+                    ["version"] = 3,
+                },
+                ["extension_animations"] = 
+                {
+                    ["accountWide"] = false,
+                    ["version"] = 3,
+                },
+                ["extension_configurator"] = 
+                {
+                    ["nameColorBegin"] = 
+                    {
+                        [1] = 1,
+                        [2] = 1,
+                        [3] = 1,
+                    },
+                    ["nameColorEnd"] = 
+                    {
+                        [1] = 1,
+                        [2] = 1,
+                        [3] = 1,
+                    },
+                    ["nameColored"] = "noobkiss",
+                    ["nameRaw"] = "noobkiss",
+                    ["accountWide"] = false,
+                    ["nameGradient"] = false,
+                    ["version"] = 3,
+                    ["selectedDonationTier"] = 1,
+                },
+                ["extension_names"] = 
+                {
+                    ["accountWide"] = false,
+                    ["version"] = 3,
+                },
+                ["$LastCharacterName"] = "For The Wa",
+                ["extension_seasons"] = 
+                {
+                    ["accountWide"] = false,
+                    ["version"] = 3,
+                },
+            },
+            ["8796093077130605"] = 
+            {
+                ["extension_icons"] = 
+                {
+                    ["accountWide"] = false,
+                    ["version"] = 3,
+                },
+                ["extension_animations"] = 
+                {
+                    ["accountWide"] = false,
+                    ["version"] = 3,
+                },
+                ["extension_configurator"] = 
+                {
+                    ["nameColorBegin"] = 
+                    {
+                        [1] = 1,
+                        [2] = 1,
+                        [3] = 1,
+                    },
+                    ["nameColorEnd"] = 
+                    {
+                        [1] = 1,
+                        [2] = 1,
+                        [3] = 1,
+                    },
+                    ["nameColored"] = "noobkiss",
+                    ["nameRaw"] = "noobkiss",
+                    ["accountWide"] = false,
+                    ["nameGradient"] = false,
+                    ["version"] = 3,
+                    ["selectedDonationTier"] = 1,
+                },
+                ["extension_names"] = 
+                {
+                    ["accountWide"] = false,
+                    ["version"] = 3,
+                },
+                ["$LastCharacterName"] = "For The Wa",
+                ["extension_seasons"] = 
+                {
+                    ["accountWide"] = false,
+                    ["version"] = 3,
+                },
+            },
+            ["8796093078078769"] = 
+            {
+                ["extension_icons"] = 
+                {
+                    ["accountWide"] = false,
+                    ["version"] = 3,
+                },
+                ["extension_animations"] = 
+                {
+                    ["accountWide"] = false,
+                    ["version"] = 3,
+                },
+                ["extension_configurator"] = 
+                {
+                    ["nameColorBegin"] = 
+                    {
+                        [1] = 1,
+                        [2] = 1,
+                        [3] = 1,
+                    },
+                    ["nameColorEnd"] = 
+                    {
+                        [1] = 1,
+                        [2] = 1,
+                        [3] = 1,
+                    },
+                    ["nameColored"] = "noobkiss",
+                    ["nameRaw"] = "noobkiss",
+                    ["accountWide"] = false,
+                    ["nameGradient"] = false,
+                    ["version"] = 3,
+                    ["selectedDonationTier"] = 1,
+                },
+                ["extension_names"] = 
+                {
+                    ["accountWide"] = false,
+                    ["version"] = 3,
+                },
+                ["$LastCharacterName"] = "For The Wa",
+                ["extension_seasons"] = 
+                {
+                    ["accountWide"] = false,
+                    ["version"] = 3,
+                },
+            },
+            ["8796093079602369"] = 
+            {
+                ["extension_icons"] = 
+                {
+                    ["accountWide"] = false,
+                    ["version"] = 3,
+                },
+                ["extension_animations"] = 
+                {
+                    ["accountWide"] = false,
+                    ["version"] = 3,
+                },
+                ["extension_configurator"] = 
+                {
+                    ["nameColorBegin"] = 
+                    {
+                        [1] = 1,
+                        [2] = 1,
+                        [3] = 1,
+                    },
+                    ["nameColorEnd"] = 
+                    {
+                        [1] = 1,
+                        [2] = 1,
+                        [3] = 1,
+                    },
+                    ["nameColored"] = "noobkiss",
+                    ["nameRaw"] = "noobkiss",
+                    ["accountWide"] = false,
+                    ["nameGradient"] = false,
+                    ["version"] = 3,
+                    ["selectedDonationTier"] = 1,
+                },
+                ["extension_names"] = 
+                {
+                    ["accountWide"] = false,
+                    ["version"] = 3,
+                },
+                ["$LastCharacterName"] = "For The Wa",
+                ["extension_seasons"] = 
+                {
+                    ["accountWide"] = false,
+                    ["version"] = 3,
+                },
+            },
+            ["8796093077338611"] = 
+            {
+                ["extension_icons"] = 
+                {
+                    ["accountWide"] = false,
+                    ["version"] = 3,
+                },
+                ["extension_animations"] = 
+                {
+                    ["accountWide"] = false,
+                    ["version"] = 3,
+                },
+                ["extension_configurator"] = 
+                {
+                    ["nameColorBegin"] = 
+                    {
+                        [1] = 1,
+                        [2] = 1,
+                        [3] = 1,
+                    },
+                    ["nameColorEnd"] = 
+                    {
+                        [1] = 1,
+                        [2] = 1,
+                        [3] = 1,
+                    },
+                    ["nameColored"] = "noobkiss",
+                    ["nameRaw"] = "noobkiss",
+                    ["accountWide"] = false,
+                    ["nameGradient"] = false,
+                    ["version"] = 3,
+                    ["selectedDonationTier"] = 1,
+                },
+                ["extension_names"] = 
+                {
+                    ["accountWide"] = false,
+                    ["version"] = 3,
+                },
+                ["$LastCharacterName"] = "For The Wa",
+                ["extension_seasons"] = 
+                {
+                    ["accountWide"] = false,
+                    ["version"] = 3,
+                },
+            },
+            ["8796093077280431"] = 
+            {
+                ["extension_icons"] = 
+                {
+                    ["accountWide"] = false,
+                    ["version"] = 3,
+                },
+                ["extension_animations"] = 
+                {
+                    ["accountWide"] = false,
+                    ["version"] = 3,
+                },
+                ["extension_configurator"] = 
+                {
+                    ["nameColorBegin"] = 
+                    {
+                        [1] = 1,
+                        [2] = 1,
+                        [3] = 1,
+                    },
+                    ["nameColorEnd"] = 
+                    {
+                        [1] = 1,
+                        [2] = 1,
+                        [3] = 1,
+                    },
+                    ["nameColored"] = "noobkiss",
+                    ["nameRaw"] = "noobkiss",
+                    ["accountWide"] = false,
+                    ["nameGradient"] = false,
+                    ["version"] = 3,
+                    ["selectedDonationTier"] = 1,
+                },
+                ["extension_names"] = 
+                {
+                    ["accountWide"] = false,
+                    ["version"] = 3,
+                },
+                ["$LastCharacterName"] = "For The Wa",
+                ["extension_seasons"] = 
+                {
+                    ["accountWide"] = false,
+                    ["version"] = 3,
+                },
+            },
+            ["8796093077286887"] = 
+            {
+                ["extension_icons"] = 
+                {
+                    ["accountWide"] = false,
+                    ["version"] = 3,
+                },
+                ["extension_animations"] = 
+                {
+                    ["accountWide"] = false,
+                    ["version"] = 3,
+                },
+                ["extension_configurator"] = 
+                {
+                    ["nameColorBegin"] = 
+                    {
+                        [1] = 1,
+                        [2] = 1,
+                        [3] = 1,
+                    },
+                    ["nameColorEnd"] = 
+                    {
+                        [1] = 1,
+                        [2] = 1,
+                        [3] = 1,
+                    },
+                    ["nameColored"] = "noobkiss",
+                    ["nameRaw"] = "noobkiss",
+                    ["accountWide"] = false,
+                    ["nameGradient"] = false,
+                    ["version"] = 3,
+                    ["selectedDonationTier"] = 1,
+                },
+                ["extension_names"] = 
+                {
+                    ["accountWide"] = false,
+                    ["version"] = 3,
+                },
+                ["$LastCharacterName"] = "For The Wa",
+                ["extension_seasons"] = 
+                {
+                    ["accountWide"] = false,
+                    ["version"] = 3,
+                },
+            },
+            ["8796093077142221"] = 
+            {
+                ["extension_icons"] = 
+                {
+                    ["accountWide"] = false,
+                    ["version"] = 3,
+                },
+                ["extension_animations"] = 
+                {
+                    ["accountWide"] = false,
+                    ["version"] = 3,
+                },
+                ["extension_configurator"] = 
+                {
+                    ["nameColorBegin"] = 
+                    {
+                        [1] = 1,
+                        [2] = 1,
+                        [3] = 1,
+                    },
+                    ["nameColorEnd"] = 
+                    {
+                        [1] = 1,
+                        [2] = 1,
+                        [3] = 1,
+                    },
+                    ["nameColored"] = "noobkiss",
+                    ["nameRaw"] = "noobkiss",
+                    ["accountWide"] = false,
+                    ["nameGradient"] = false,
+                    ["version"] = 3,
+                    ["selectedDonationTier"] = 1,
+                },
+                ["extension_names"] = 
+                {
+                    ["accountWide"] = false,
+                    ["version"] = 3,
+                },
+                ["$LastCharacterName"] = "For The Wa",
+                ["extension_seasons"] = 
+                {
+                    ["accountWide"] = false,
+                    ["version"] = 3,
+                },
+            },
+            ["8796093077977575"] = 
+            {
+                ["extension_icons"] = 
+                {
+                    ["accountWide"] = false,
+                    ["version"] = 3,
+                },
+                ["extension_animations"] = 
+                {
+                    ["accountWide"] = false,
+                    ["version"] = 3,
+                },
+                ["extension_configurator"] = 
+                {
+                    ["nameColorBegin"] = 
+                    {
+                        [1] = 1,
+                        [2] = 1,
+                        [3] = 1,
+                    },
+                    ["nameColorEnd"] = 
+                    {
+                        [1] = 1,
+                        [2] = 1,
+                        [3] = 1,
+                    },
+                    ["nameColored"] = "noobkiss",
+                    ["nameRaw"] = "noobkiss",
+                    ["accountWide"] = false,
+                    ["nameGradient"] = false,
+                    ["version"] = 3,
+                    ["selectedDonationTier"] = 1,
+                },
+                ["extension_names"] = 
+                {
+                    ["accountWide"] = false,
+                    ["version"] = 3,
+                },
+                ["$LastCharacterName"] = "For The Wa",
+                ["extension_seasons"] = 
+                {
+                    ["accountWide"] = false,
+                    ["version"] = 3,
                 },
             },
             ["$AccountWide"] = 
             {
-                ["list_misc"] = 
-                {
-                    ["zeroTimerOpacity"] = 0.3500000000,
-                    ["windowPosLeft"] = 289,
-                    ["windowPosTop"] = 580,
-                    ["supportRangeOnly"] = false,
-                    ["showPercentValue"] = 1,
-                    ["excludeSpecialUlts"] = true,
-                    ["enabled"] = 1,
-                    ["headerOpacity"] = 0,
-                    ["backgroundOpacity"] = 0,
-                    ["version"] = 3,
-                    ["disableInPvP"] = true,
-                    ["windowScale"] = 1,
-                    ["showRawValue"] = 1,
-                    ["windowWidth"] = 272,
-                },
-                ["libraryPopupDisabled"] = false,
                 ["extensions"] = 
                 {
                     ["names"] = true,
-                    ["seasons"] = true,
-                    ["animations"] = true,
-                    ["configurator"] = true,
                     ["icons"] = true,
-                },
-                ["extension_animations"] = 
-                {
-                    ["version"] = 3,
-                },
-                ["accountWide"] = true,
-                ["enableExperimentalFeatures"] = false,
-                ["module_readycheck"] = 
-                {
-                    ["accountWide"] = true,
-                    ["windowCenterY"] = 309,
-                    ["enableUI"] = true,
-                    ["enableChatMessages"] = true,
-                    ["windowCenterX"] = 1281,
-                    ["version"] = 3,
-                },
-                ["modules"] = 
-                {
-                    ["ult"] = false,
-                    ["skilllines"] = true,
-                    ["hideme"] = true,
-                    ["pull"] = true,
-                    ["exitinstance"] = true,
-                    ["dps"] = true,
-                    ["hps"] = true,
-                    ["readycheck"] = true,
-                },
-                ["module_ult"] = 
-                {
-                    ["accountWide"] = true,
-                    ["advancedSettings"] = false,
-                    ["version"] = 3,
-                },
-                ["counter_horn"] = 
-                {
-                    ["accountWide"] = false,
-                    ["version"] = 3,
-                    ["windowPosTop"] = 200,
-                    ["windowPosLeft"] = 400,
-                    ["enabled"] = 0,
-                    ["scale"] = 1,
-                },
-                ["extension_names"] = 
-                {
-                    ["version"] = 3,
-                },
-                ["enableTestTick"] = true,
-                ["list_horn"] = 
-                {
-                    ["highlightSaxhleelColor"] = 
-                    {
-                        [4] = 0.2000000000,
-                        [1] = 0.7058823529,
-                        [2] = 0.7372549020,
-                        [3] = 0.6901960784,
-                    },
-                    ["zeroTimerOpacity"] = 0.3500000000,
-                    ["headerOpacity"] = 0,
-                    ["colorForce"] = 
-                    {
-                        [1] = 1,
-                        [2] = 1,
-                        [3] = 0,
-                    },
-                    ["disableInPvP"] = true,
-                    ["windowScale"] = 1,
-                    ["windowWidth"] = 272,
-                    ["supportRangeOnly"] = false,
-                    ["enabled"] = 1,
-                    ["showPercentValue"] = 1,
-                    ["highlightSaxhleel"] = true,
-                    ["backgroundOpacity"] = 0,
-                    ["version"] = 3,
-                    ["colorHorn"] = 
-                    {
-                        [1] = 0,
-                        [2] = 1,
-                        [3] = 1,
-                    },
-                    ["windowPosLeft"] = 184,
-                    ["showRawValue"] = 0,
-                    ["windowPosTop"] = 512,
+                    ["configurator"] = true,
+                    ["animations"] = true,
+                    ["seasons"] = true,
                 },
                 ["module_hps"] = 
                 {
@@ -1302,158 +1658,37 @@ HodorReflexesSavedVars =
                 },
                 ["list_atro"] = 
                 {
-                    ["showPercentValue"] = 1,
                     ["windowPosLeft"] = 384,
-                    ["colorBerserk"] = 
-                    {
-                        [1] = 1,
-                        [2] = 1,
-                        [3] = 0,
-                    },
                     ["windowPosTop"] = 512,
                     ["supportRangeOnly"] = false,
-                    ["enabled"] = 1,
-                    ["zeroTimerOpacity"] = 0.3500000000,
-                    ["backgroundOpacity"] = 0,
-                    ["headerOpacity"] = 0,
-                    ["version"] = 3,
+                    ["windowWidth"] = 272,
+                    ["disableInPvP"] = true,
+                    ["showPercentValue"] = 1,
                     ["colorAtro"] = 
                     {
                         [1] = 0,
                         [2] = 1,
                         [3] = 1,
                     },
-                    ["disableInPvP"] = true,
+                    ["enabled"] = 1,
                     ["windowScale"] = 1,
-                    ["showRawValue"] = 0,
-                    ["windowWidth"] = 272,
-                },
-                ["module_hideme"] = 
-                {
-                    ["accountWide"] = true,
-                    ["preferences"] = 
-                    {
-                        [1] = false,
-                        [2] = false,
-                        [3] = false,
-                        [4] = false,
-                        [5] = false,
-                    },
-                    ["version"] = 3,
-                },
-                ["module_skilllines"] = 
-                {
-                    ["accountWide"] = true,
-                    ["version"] = 3,
-                },
-                ["list_compact"] = 
-                {
-                    ["colorPillagerBG"] = 
-                    {
-                        [1] = 0,
-                        [2] = 1,
-                        [3] = 0,
-                    },
-                    ["showSlayer"] = true,
-                    ["showPillager"] = true,
-                    ["markOnCooldown"] = true,
                     ["backgroundOpacity"] = 0,
-                    ["colorColosBG"] = 
-                    {
-                        [1] = 0,
-                        [2] = 0,
-                        [3] = 1,
-                    },
-                    ["showPillagerCooldown"] = true,
-                    ["showColos"] = true,
-                    ["showBerserkCountdown"] = true,
-                    ["colorSlayerBG"] = 
+                    ["colorBerserk"] = 
                     {
                         [1] = 1,
-                        [2] = 0,
-                        [3] = 0,
-                    },
-                    ["showVulnCountdown"] = true,
-                    ["markOnCooldownColor"] = 
-                    {
-                        [1] = 1,
-                        [2] = 0,
-                        [3] = 0,
-                    },
-                    ["showRawValue"] = 1,
-                    ["showForceCountdown"] = true,
-                    ["showAtro"] = true,
-                    ["colorCooldowns"] = 
-                    {
-                        [1] = 1,
-                        [2] = 0,
-                        [3] = 0,
-                    },
-                    ["windowPosTop"] = 260,
-                    ["colorAtroBG"] = 
-                    {
-                        [1] = 0,
                         [2] = 1,
-                        [3] = 1,
+                        [3] = 0,
                     },
                     ["zeroTimerOpacity"] = 0.3500000000,
-                    ["headerOpacity"] = 0,
-                    ["showHorn"] = true,
-                    ["showCryptCannon"] = true,
-                    ["windowScale"] = 1,
-                    ["showHornCountdown"] = true,
-                    ["windowWidth"] = 272,
-                    ["supportRangeOnly"] = false,
-                    ["disableInPvP"] = true,
-                    ["backgroundAlpha"] = 0.2000000000,
-                    ["windowPosLeft"] = 250,
-                    ["colorCryptCannonBG"] = 
-                    {
-                        [1] = 1,
-                        [2] = 0,
-                        [3] = 1,
-                    },
-                    ["colorDurations"] = 
-                    {
-                        [1] = 1,
-                        [2] = 1,
-                        [3] = 0,
-                    },
+                    ["showRawValue"] = 0,
                     ["version"] = 3,
-                    ["enabled"] = 1,
-                    ["colorHornBG"] = 
-                    {
-                        [1] = 1,
-                        [2] = 1,
-                        [3] = 0,
-                    },
-                    ["showPercentValue"] = 1,
-                    ["showSlayerCountdown"] = true,
+                    ["headerOpacity"] = 0,
                 },
                 ["list_damage"] = 
                 {
-                    ["outOfSupportRangeOpacity"] = 0.2000000000,
-                    ["windowPosTop"] = 470,
-                    ["backgroundOpacity"] = 0,
-                    ["burstWindowSeconds"] = 10,
-                    ["listRowEvenOpacity"] = 0.6500000000,
-                    ["disableInPvP"] = false,
-                    ["windowScale"] = 1,
-                    ["windowWidth"] = 237,
-                    ["timerUpdateInterval"] = 100,
-                    ["colorDamageTotal"] = "FAFFB2",
-                    ["showSummary"] = true,
-                    ["listHeaderOpacity"] = 0.8000000000,
-                    ["colorGroupDPS"] = "F4D17B",
-                    ["listPlayerHighlight"] = true,
-                    ["supportRangeOnly"] = false,
-                    ["colorBurstDPS"] = "BDFF7B",
+                    ["windowPosLeft"] = 6,
                     ["nameFont"] = "$(BOLD_FONT)|$(KB_18)|outline",
-                    ["onlyShowDamageDealers"] = false,
-                    ["enabled"] = 0,
-                    ["colorDamageBoss"] = "B2FFB2",
-                    ["windowWith"] = 230,
-                    ["listRowOddOpacity"] = 0.4500000000,
+                    ["supportRangeOnly"] = false,
                     ["listPlayerHighlightColor"] = 
                     {
                         [4] = 0.3600000000,
@@ -1461,9 +1696,46 @@ HodorReflexesSavedVars =
                         [2] = 1,
                         [3] = 0,
                     },
-                    ["windowPosLeft"] = 6,
+                    ["disableInPvP"] = false,
+                    ["enabled"] = 0,
+                    ["windowScale"] = 1,
+                    ["colorDamageTotal"] = "FAFFB2",
                     ["version"] = 3,
+                    ["listPlayerHighlight"] = true,
+                    ["windowPosTop"] = 470,
+                    ["listHeaderOpacity"] = 0.8000000000,
+                    ["windowWith"] = 230,
+                    ["windowWidth"] = 237,
+                    ["colorDamageBoss"] = "B2FFB2",
+                    ["timerUpdateInterval"] = 100,
+                    ["outOfSupportRangeOpacity"] = 0.2000000000,
+                    ["listRowEvenOpacity"] = 0.6500000000,
+                    ["colorGroupDPS"] = "F4D17B",
+                    ["backgroundOpacity"] = 0,
+                    ["onlyShowDamageDealers"] = false,
+                    ["colorBurstDPS"] = "BDFF7B",
+                    ["showSummary"] = true,
+                    ["listRowOddOpacity"] = 0.4500000000,
+                    ["burstWindowSeconds"] = 10,
                 },
+                ["list_misc"] = 
+                {
+                    ["windowPosLeft"] = 289,
+                    ["windowPosTop"] = 580,
+                    ["supportRangeOnly"] = false,
+                    ["windowWidth"] = 272,
+                    ["disableInPvP"] = true,
+                    ["excludeSpecialUlts"] = true,
+                    ["enabled"] = 1,
+                    ["windowScale"] = 1,
+                    ["backgroundOpacity"] = 0,
+                    ["showPercentValue"] = 1,
+                    ["zeroTimerOpacity"] = 0.3500000000,
+                    ["showRawValue"] = 1,
+                    ["version"] = 3,
+                    ["headerOpacity"] = 0,
+                },
+                ["advancedSettings"] = false,
                 ["extension_configurator"] = 
                 {
                     ["nameColorBegin"] = 
@@ -1472,79 +1744,33 @@ HodorReflexesSavedVars =
                         [2] = 0.2117647082,
                         [3] = 1,
                     },
+                    ["nameColored"] = "|ccb36ff|r",
                     ["nameRaw"] = "",
-                    ["selectedDonationTier"] = 1,
-                    ["version"] = 3,
-                    ["nameGradient"] = false,
                     ["nameColorEnd"] = 
                     {
                         [1] = 0.6549019814,
                         [2] = 0.6823529601,
                         [3] = 1,
                     },
-                    ["nameColored"] = "|ccb36ff|r",
-                },
-                ["counter_pillager"] = 
-                {
-                    ["accountWide"] = false,
+                    ["nameGradient"] = false,
                     ["version"] = 3,
-                    ["windowPosTop"] = 200,
-                    ["windowPosLeft"] = 500,
-                    ["enabled"] = 0,
-                    ["scale"] = 1,
+                    ["selectedDonationTier"] = 1,
                 },
-                ["module_dps"] = 
+                ["module_ult"] = 
                 {
                     ["accountWide"] = true,
+                    ["version"] = 3,
                     ["advancedSettings"] = false,
-                    ["version"] = 3,
                 },
-                ["extension_seasons"] = 
+                ["extension_animations"] = 
                 {
-                    ["valentines"] = true,
-                    ["aprilfools"] = true,
-                    ["christmas"] = true,
                     ["version"] = 3,
-                },
-                ["list_colos"] = 
-                {
-                    ["colorVuln"] = 
-                    {
-                        [1] = 1,
-                        [2] = 1,
-                        [3] = 0,
-                    },
-                    ["windowPosLeft"] = 620,
-                    ["windowPosTop"] = 498,
-                    ["supportRangeOnly"] = false,
-                    ["showPercentValue"] = 1,
-                    ["zeroTimerOpacity"] = 0.3500000000,
-                    ["enabled"] = 1,
-                    ["headerOpacity"] = 0,
-                    ["backgroundOpacity"] = 0,
-                    ["version"] = 3,
-                    ["disableInPvP"] = true,
-                    ["windowScale"] = 1,
-                    ["showRawValue"] = 0,
-                    ["windowWidth"] = 272,
                 },
                 ["list_hps"] = 
                 {
-                    ["listHeaderOpacity"] = 0.8000000000,
-                    ["windowPosTop"] = 260,
-                    ["colorHPS"] = "00FF00",
-                    ["backgroundOpacity"] = 0,
-                    ["listRowEvenOpacity"] = 0.6500000000,
-                    ["disableInPvP"] = true,
-                    ["windowScale"] = 1,
-                    ["timerUpdateInterval"] = 100,
-                    ["windowWidth"] = 237,
-                    ["onlyShowHealers"] = false,
-                    ["supportRangeOnly"] = false,
-                    ["listPlayerHighlight"] = true,
-                    ["nameFont"] = "$(BOLD_FONT)|$(KB_18)|outline",
-                    ["enabled"] = 0,
                     ["windowPosLeft"] = 530,
+                    ["nameFont"] = "$(BOLD_FONT)|$(KB_18)|outline",
+                    ["supportRangeOnly"] = false,
                     ["listPlayerHighlightColor"] = 
                     {
                         [4] = 0.3600000000,
@@ -1552,364 +1778,43 @@ HodorReflexesSavedVars =
                         [2] = 1,
                         [3] = 0,
                     },
-                    ["windowWith"] = 230,
-                    ["listRowOddOpacity"] = 0.4500000000,
-                    ["colorOverheal"] = "AAAAAA",
+                    ["disableInPvP"] = true,
+                    ["onlyShowHealers"] = false,
+                    ["enabled"] = 0,
+                    ["windowScale"] = 1,
                     ["version"] = 3,
+                    ["listPlayerHighlight"] = true,
+                    ["windowPosTop"] = 260,
+                    ["colorHPS"] = "00FF00",
+                    ["windowWith"] = 230,
+                    ["windowWidth"] = 237,
+                    ["colorOverheal"] = "AAAAAA",
+                    ["listRowEvenOpacity"] = 0.6500000000,
+                    ["backgroundOpacity"] = 0,
+                    ["timerUpdateInterval"] = 100,
                     ["outOfSupportRangeOpacity"] = 0.2000000000,
+                    ["listRowOddOpacity"] = 0.4500000000,
+                    ["listHeaderOpacity"] = 0.8000000000,
                 },
-                ["version"] = 2,
                 ["module_pull"] = 
                 {
                     ["version"] = 3,
                     ["countdownDuration"] = 5,
                 },
-                ["advancedSettings"] = false,
-                ["module_exitinstance"] = 
-                {
-                    ["ignoreExitInstanceRequests"] = false,
-                    ["confirmExitInstance"] = true,
-                    ["version"] = 3,
-                },
-                ["extension_icons"] = 
-                {
-                    ["version"] = 3,
-                },
-            },
-            ["8796093077977575"] = 
-            {
-                ["extension_seasons"] = 
-                {
-                    ["accountWide"] = false,
-                    ["version"] = 3,
-                },
-                ["extension_icons"] = 
-                {
-                    ["accountWide"] = false,
-                    ["version"] = 3,
-                },
-                ["extension_names"] = 
-                {
-                    ["accountWide"] = false,
-                    ["version"] = 3,
-                },
-                ["$LastCharacterName"] = "For The Wa",
-                ["extension_animations"] = 
-                {
-                    ["accountWide"] = false,
-                    ["version"] = 3,
-                },
-                ["extension_configurator"] = 
-                {
-                    ["nameColorBegin"] = 
-                    {
-                        [1] = 1,
-                        [2] = 1,
-                        [3] = 1,
-                    },
-                    ["nameColorEnd"] = 
-                    {
-                        [1] = 1,
-                        [2] = 1,
-                        [3] = 1,
-                    },
-                    ["selectedDonationTier"] = 1,
-                    ["version"] = 3,
-                    ["nameGradient"] = false,
-                    ["accountWide"] = false,
-                    ["nameRaw"] = "noobkiss",
-                    ["nameColored"] = "noobkiss",
-                },
-            },
-            ["8796093077286887"] = 
-            {
-                ["extension_seasons"] = 
-                {
-                    ["accountWide"] = false,
-                    ["version"] = 3,
-                },
-                ["extension_icons"] = 
-                {
-                    ["accountWide"] = false,
-                    ["version"] = 3,
-                },
-                ["extension_names"] = 
-                {
-                    ["accountWide"] = false,
-                    ["version"] = 3,
-                },
-                ["$LastCharacterName"] = "For The Wa",
-                ["extension_animations"] = 
-                {
-                    ["accountWide"] = false,
-                    ["version"] = 3,
-                },
-                ["extension_configurator"] = 
-                {
-                    ["nameColorBegin"] = 
-                    {
-                        [1] = 1,
-                        [2] = 1,
-                        [3] = 1,
-                    },
-                    ["nameColorEnd"] = 
-                    {
-                        [1] = 1,
-                        [2] = 1,
-                        [3] = 1,
-                    },
-                    ["selectedDonationTier"] = 1,
-                    ["version"] = 3,
-                    ["nameGradient"] = false,
-                    ["accountWide"] = false,
-                    ["nameRaw"] = "noobkiss",
-                    ["nameColored"] = "noobkiss",
-                },
-            },
-            ["8796093077977317"] = 
-            {
-                ["extension_seasons"] = 
-                {
-                    ["accountWide"] = false,
-                    ["version"] = 3,
-                },
-                ["extension_icons"] = 
-                {
-                    ["accountWide"] = false,
-                    ["version"] = 3,
-                },
-                ["extension_names"] = 
-                {
-                    ["accountWide"] = false,
-                    ["version"] = 3,
-                },
-                ["$LastCharacterName"] = "For The Wa",
-                ["extension_animations"] = 
-                {
-                    ["accountWide"] = false,
-                    ["version"] = 3,
-                },
-                ["extension_configurator"] = 
-                {
-                    ["nameColorBegin"] = 
-                    {
-                        [1] = 1,
-                        [2] = 1,
-                        [3] = 1,
-                    },
-                    ["nameColorEnd"] = 
-                    {
-                        [1] = 1,
-                        [2] = 1,
-                        [3] = 1,
-                    },
-                    ["selectedDonationTier"] = 1,
-                    ["version"] = 3,
-                    ["nameGradient"] = false,
-                    ["accountWide"] = false,
-                    ["nameRaw"] = "noobkiss",
-                    ["nameColored"] = "noobkiss",
-                },
-            },
-        },
-        ["@YYDS1214"] = 
-        {
-            ["$AccountWide"] = 
-            {
-                ["list_misc"] = 
-                {
-                    ["outOfSupportRangeOpacity"] = 0.2000000000,
-                    ["windowPosTop"] = 580,
-                    ["zeroTimerOpacity"] = 0.3500000000,
-                    ["headerOpacity"] = 0,
-                    ["disableInPvP"] = false,
-                    ["windowScale"] = 1,
-                    ["windowWidth"] = 272,
-                    ["supportRangeOnly"] = false,
-                    ["excludeSpecialUlts"] = true,
-                    ["enabled"] = 1,
-                    ["showPercentValue"] = 1,
-                    ["nameFont"] = "$(BOLD_FONT)|$(KB_19)|outline",
-                    ["windowWith"] = 230,
-                    ["backgroundOpacity"] = 0,
-                    ["windowPosLeft"] = 250,
-                    ["showRawValue"] = 1,
-                    ["version"] = 3,
-                },
-                ["libraryPopupDisabled"] = false,
-                ["extensions"] = 
-                {
-                    ["names"] = true,
-                    ["seasons"] = true,
-                    ["animations"] = true,
-                    ["configurator"] = true,
-                    ["icons"] = true,
-                },
-                ["extension_animations"] = 
-                {
-                    ["version"] = 3,
-                },
-                ["accountWide"] = true,
-                ["enableExperimentalFeatures"] = false,
-                ["module_readycheck"] = 
-                {
-                    ["windowCenterY"] = 288,
-                    ["enableUI"] = true,
-                    ["enableChatMessages"] = true,
-                    ["windowCenterX"] = 1280,
-                    ["version"] = 3,
-                },
-                ["modules"] = 
-                {
-                    ["ult"] = true,
-                    ["skilllines"] = true,
-                    ["hideme"] = true,
-                    ["pull"] = true,
-                    ["exitinstance"] = true,
-                    ["dps"] = true,
-                    ["hps"] = true,
-                    ["readycheck"] = true,
-                },
-                ["module_ult"] = 
-                {
-                    ["version"] = 3,
-                },
-                ["counter_horn"] = 
-                {
-                    ["windowPosTop"] = 200,
-                    ["version"] = 3,
-                    ["windowPosLeft"] = 400,
-                    ["hideOnCooldown"] = false,
-                    ["enabled"] = 0,
-                    ["scale"] = 1,
-                },
-                ["extension_names"] = 
-                {
-                    ["version"] = 3,
-                },
-                ["enableTestTick"] = true,
-                ["list_horn"] = 
-                {
-                    ["outOfSupportRangeOpacity"] = 0.2000000000,
-                    ["highlightSaxhleelColor"] = 
-                    {
-                        [4] = 0.2000000000,
-                        [1] = 0.7058823529,
-                        [2] = 0.7372549020,
-                        [3] = 0.6901960784,
-                    },
-                    ["zeroTimerOpacity"] = 0.3500000000,
-                    ["headerOpacity"] = 0,
-                    ["colorForce"] = 
-                    {
-                        [1] = 1,
-                        [2] = 1,
-                        [3] = 0,
-                    },
-                    ["disableInPvP"] = true,
-                    ["windowScale"] = 1,
-                    ["windowWidth"] = 272,
-                    ["windowWith"] = 230,
-                    ["supportRangeOnly"] = false,
-                    ["enabled"] = 1,
-                    ["showPercentValue"] = 1,
-                    ["nameFont"] = "$(BOLD_FONT)|$(KB_19)|outline",
-                    ["highlightSaxhleel"] = true,
-                    ["backgroundOpacity"] = 0,
-                    ["version"] = 3,
-                    ["colorHorn"] = 
-                    {
-                        [1] = 0,
-                        [2] = 1,
-                        [3] = 1,
-                    },
-                    ["windowPosLeft"] = 10,
-                    ["showRawValue"] = 0,
-                    ["windowPosTop"] = 570,
-                },
-                ["module_hps"] = 
-                {
-                    ["version"] = 3,
-                },
-                ["list_atro"] = 
-                {
-                    ["outOfSupportRangeOpacity"] = 0.2000000000,
-                    ["windowPosTop"] = 750,
-                    ["zeroTimerOpacity"] = 0.3500000000,
-                    ["headerOpacity"] = 0,
-                    ["disableInPvP"] = true,
-                    ["windowScale"] = 1,
-                    ["windowWidth"] = 272,
-                    ["supportRangeOnly"] = false,
-                    ["colorBerserk"] = 
-                    {
-                        [1] = 1,
-                        [2] = 1,
-                        [3] = 0,
-                    },
-                    ["colorAtro"] = 
-                    {
-                        [1] = 0,
-                        [2] = 1,
-                        [3] = 1,
-                    },
-                    ["enabled"] = 1,
-                    ["showPercentValue"] = 1,
-                    ["nameFont"] = "$(BOLD_FONT)|$(KB_19)|outline",
-                    ["windowWith"] = 230,
-                    ["backgroundOpacity"] = 0,
-                    ["windowPosLeft"] = 10,
-                    ["showRawValue"] = 0,
-                    ["version"] = 3,
-                },
-                ["module_hideme"] = 
-                {
-                    ["version"] = 3,
-                    ["preferences"] = 
-                    {
-                    },
-                },
-                ["module_skilllines"] = 
-                {
-                    ["version"] = 3,
-                },
                 ["list_compact"] = 
                 {
-                    ["colorPillagerBG"] = 
-                    {
-                        [1] = 0,
-                        [2] = 1,
-                        [3] = 0,
-                    },
-                    ["outOfSupportRangeOpacity"] = 0.2000000000,
-                    ["showSlayer"] = true,
-                    ["showPillager"] = true,
-                    ["markOnCooldown"] = true,
-                    ["backgroundOpacity"] = 0,
-                    ["colorColosBG"] = 
-                    {
-                        [1] = 0,
-                        [2] = 0,
-                        [3] = 1,
-                    },
                     ["showPillagerCooldown"] = true,
-                    ["showColos"] = true,
-                    ["showBerserkCountdown"] = true,
-                    ["colorSlayerBG"] = 
-                    {
-                        [1] = 1,
-                        [2] = 0,
-                        [3] = 0,
-                    },
-                    ["showVulnCountdown"] = true,
+                    ["supportRangeOnly"] = false,
+                    ["backgroundAlpha"] = 0.2000000000,
+                    ["showCryptCannon"] = true,
+                    ["markOnCooldown"] = true,
+                    ["enabled"] = 1,
                     ["markOnCooldownColor"] = 
                     {
                         [1] = 1,
                         [2] = 0,
                         [3] = 0,
                     },
-                    ["showRawValue"] = 1,
-                    ["showForceCountdown"] = true,
                     ["showAtro"] = true,
                     ["colorCooldowns"] = 
                     {
@@ -1917,96 +1822,226 @@ HodorReflexesSavedVars =
                         [2] = 0,
                         [3] = 0,
                     },
-                    ["windowPosTop"] = 260,
-                    ["colorAtroBG"] = 
-                    {
-                        [1] = 0,
-                        [2] = 1,
-                        [3] = 1,
-                    },
-                    ["zeroTimerOpacity"] = 0.3500000000,
-                    ["showStandardOfMightCountdown"] = true,
-                    ["headerOpacity"] = 0,
-                    ["showHorn"] = true,
-                    ["disableInPvP"] = true,
-                    ["showCryptCannon"] = true,
-                    ["windowScale"] = 1,
-                    ["showHornCountdown"] = true,
-                    ["windowWidth"] = 282,
-                    ["colorDurations"] = 
-                    {
-                        [1] = 1,
-                        [2] = 1,
-                        [3] = 0,
-                    },
-                    ["enabled"] = 1,
-                    ["colorStandardOfMightBG"] = 
-                    {
-                        [1] = 0.7800000000,
-                        [2] = 0.2900000000,
-                        [3] = 0.1400000000,
-                    },
-                    ["colorBarrierBG"] = 
-                    {
-                        [1] = 1,
-                        [2] = 0.5000000000,
-                        [3] = 0,
-                    },
-                    ["showStandardOfMight"] = true,
-                    ["supportRangeOnly"] = false,
-                    ["windowPosLeft"] = 250,
-                    ["backgroundAlpha"] = 0.2000000000,
-                    ["showBarrier"] = true,
                     ["colorCryptCannonBG"] = 
                     {
                         [1] = 1,
                         [2] = 0,
                         [3] = 1,
                     },
-                    ["windowWith"] = 230,
                     ["version"] = 3,
-                    ["showPercentValue"] = 1,
+                    ["zeroTimerOpacity"] = 0.3500000000,
                     ["colorHornBG"] = 
                     {
                         [1] = 1,
                         [2] = 1,
                         [3] = 0,
                     },
-                    ["nameFont"] = "$(BOLD_FONT)|$(KB_19)|outline",
-                    ["showSlayerCountdown"] = true,
-                },
-                ["list_damage"] = 
-                {
-                    ["outOfSupportRangeOpacity"] = 0.2000000000,
-                    ["windowPosTop"] = 260,
-                    ["backgroundOpacity"] = 0,
-                    ["burstWindowSeconds"] = 10,
-                    ["listRowEvenOpacity"] = 0.6500000000,
-                    ["disableInPvP"] = true,
-                    ["windowScale"] = 1,
-                    ["windowWidth"] = 237,
-                    ["timerUpdateInterval"] = 100,
-                    ["colorDamageTotal"] = "FAFFB2",
-                    ["showSummary"] = false,
-                    ["listHeaderOpacity"] = 0.8000000000,
-                    ["colorGroupDPS"] = "F4D17B",
-                    ["listPlayerHighlight"] = true,
-                    ["supportRangeOnly"] = false,
-                    ["colorBurstDPS"] = "BDFF7B",
-                    ["nameFont"] = "$(BOLD_FONT)|$(KB_18)|outline",
-                    ["onlyShowDamageDealers"] = false,
-                    ["enabled"] = 1,
-                    ["colorDamageBoss"] = "B2FFB2",
-                    ["windowWith"] = 230,
-                    ["listRowOddOpacity"] = 0.4500000000,
-                    ["listPlayerHighlightColor"] = 
+                    ["showPercentValue"] = 1,
+                    ["colorDurations"] = 
                     {
-                        [4] = 0.3600000000,
+                        [1] = 1,
+                        [2] = 1,
+                        [3] = 0,
+                    },
+                    ["colorPillagerBG"] = 
+                    {
                         [1] = 0,
                         [2] = 1,
                         [3] = 0,
                     },
-                    ["windowPosLeft"] = 10,
+                    ["showSlayerCountdown"] = true,
+                    ["colorSlayerBG"] = 
+                    {
+                        [1] = 1,
+                        [2] = 0,
+                        [3] = 0,
+                    },
+                    ["showBerserkCountdown"] = true,
+                    ["showVulnCountdown"] = true,
+                    ["disableInPvP"] = true,
+                    ["showSlayer"] = true,
+                    ["windowScale"] = 1,
+                    ["showRawValue"] = 1,
+                    ["colorAtroBG"] = 
+                    {
+                        [1] = 0,
+                        [2] = 1,
+                        [3] = 1,
+                    },
+                    ["showHornCountdown"] = true,
+                    ["windowPosTop"] = 260,
+                    ["windowWidth"] = 272,
+                    ["colorColosBG"] = 
+                    {
+                        [1] = 0,
+                        [2] = 0,
+                        [3] = 1,
+                    },
+                    ["showPillager"] = true,
+                    ["backgroundOpacity"] = 0,
+                    ["showColos"] = true,
+                    ["windowPosLeft"] = 250,
+                    ["showHorn"] = true,
+                    ["showForceCountdown"] = true,
+                    ["headerOpacity"] = 0,
+                },
+                ["version"] = 2,
+                ["libraryPopupDisabled"] = false,
+                ["module_dps"] = 
+                {
+                    ["accountWide"] = true,
+                    ["version"] = 3,
+                    ["advancedSettings"] = false,
+                },
+                ["list_horn"] = 
+                {
+                    ["windowPosLeft"] = 184,
+                    ["supportRangeOnly"] = false,
+                    ["disableInPvP"] = true,
+                    ["colorHorn"] = 
+                    {
+                        [1] = 0,
+                        [2] = 1,
+                        [3] = 1,
+                    },
+                    ["windowScale"] = 1,
+                    ["showRawValue"] = 0,
+                    ["version"] = 3,
+                    ["zeroTimerOpacity"] = 0.3500000000,
+                    ["windowPosTop"] = 512,
+                    ["showPercentValue"] = 1,
+                    ["highlightSaxhleel"] = true,
+                    ["colorForce"] = 
+                    {
+                        [1] = 1,
+                        [2] = 1,
+                        [3] = 0,
+                    },
+                    ["enabled"] = 1,
+                    ["windowWidth"] = 272,
+                    ["highlightSaxhleelColor"] = 
+                    {
+                        [4] = 0.2000000000,
+                        [1] = 0.7058823529,
+                        [2] = 0.7372549020,
+                        [3] = 0.6901960784,
+                    },
+                    ["backgroundOpacity"] = 0,
+                    ["headerOpacity"] = 0,
+                },
+                ["enableTestTick"] = true,
+                ["module_exitinstance"] = 
+                {
+                    ["ignoreExitInstanceRequests"] = false,
+                    ["version"] = 3,
+                    ["confirmExitInstance"] = true,
+                },
+                ["counter_horn"] = 
+                {
+                    ["enabled"] = 0,
+                    ["windowPosTop"] = 200,
+                    ["accountWide"] = false,
+                    ["scale"] = 1,
+                    ["version"] = 3,
+                    ["windowPosLeft"] = 400,
+                },
+                ["module_readycheck"] = 
+                {
+                    ["windowCenterY"] = 309,
+                    ["windowCenterX"] = 1281,
+                    ["accountWide"] = true,
+                    ["enableUI"] = true,
+                    ["enableChatMessages"] = true,
+                    ["version"] = 3,
+                },
+                ["module_skilllines"] = 
+                {
+                    ["accountWide"] = true,
+                    ["version"] = 3,
+                },
+                ["extension_seasons"] = 
+                {
+                    ["valentines"] = true,
+                    ["christmas"] = true,
+                    ["version"] = 3,
+                    ["aprilfools"] = true,
+                },
+                ["extension_icons"] = 
+                {
+                    ["version"] = 3,
+                },
+                ["enableExperimentalFeatures"] = false,
+                ["counter_pillager"] = 
+                {
+                    ["enabled"] = 0,
+                    ["windowPosTop"] = 200,
+                    ["accountWide"] = false,
+                    ["scale"] = 1,
+                    ["version"] = 3,
+                    ["windowPosLeft"] = 500,
+                },
+                ["extension_names"] = 
+                {
+                    ["version"] = 3,
+                },
+                ["accountWide"] = true,
+                ["module_hideme"] = 
+                {
+                    ["accountWide"] = true,
+                    ["version"] = 3,
+                    ["preferences"] = 
+                    {
+                        [1] = false,
+                        [2] = false,
+                        [3] = false,
+                        [4] = false,
+                        [5] = false,
+                    },
+                },
+                ["modules"] = 
+                {
+                    ["hps"] = true,
+                    ["hideme"] = true,
+                    ["skilllines"] = true,
+                    ["pull"] = true,
+                    ["readycheck"] = true,
+                    ["exitinstance"] = true,
+                    ["ult"] = false,
+                    ["dps"] = true,
+                },
+                ["list_colos"] = 
+                {
+                    ["windowPosLeft"] = 620,
+                    ["windowPosTop"] = 498,
+                    ["supportRangeOnly"] = false,
+                    ["windowWidth"] = 272,
+                    ["disableInPvP"] = true,
+                    ["showPercentValue"] = 1,
+                    ["enabled"] = 1,
+                    ["windowScale"] = 1,
+                    ["backgroundOpacity"] = 0,
+                    ["zeroTimerOpacity"] = 0.3500000000,
+                    ["colorVuln"] = 
+                    {
+                        [1] = 1,
+                        [2] = 1,
+                        [3] = 0,
+                    },
+                    ["showRawValue"] = 0,
+                    ["version"] = 3,
+                    ["headerOpacity"] = 0,
+                },
+            },
+            ["8796093077280363"] = 
+            {
+                ["extension_icons"] = 
+                {
+                    ["accountWide"] = false,
+                    ["version"] = 3,
+                },
+                ["extension_animations"] = 
+                {
+                    ["accountWide"] = false,
                     ["version"] = 3,
                 },
                 ["extension_configurator"] = 
@@ -2017,108 +2052,73 @@ HodorReflexesSavedVars =
                         [2] = 1,
                         [3] = 1,
                     },
-                    ["nameRaw"] = "YYDS1214",
-                    ["selectedDonationTier"] = 1,
-                    ["version"] = 3,
-                    ["nameGradient"] = false,
                     ["nameColorEnd"] = 
                     {
                         [1] = 1,
                         [2] = 1,
                         [3] = 1,
                     },
-                    ["nameColored"] = "YYDS1214",
-                },
-                ["counter_pillager"] = 
-                {
-                    ["windowPosTop"] = 200,
+                    ["nameColored"] = "noobkiss",
+                    ["nameRaw"] = "noobkiss",
+                    ["accountWide"] = false,
+                    ["nameGradient"] = false,
                     ["version"] = 3,
-                    ["windowPosLeft"] = 500,
-                    ["hideOnCooldown"] = false,
-                    ["enabled"] = 0,
-                    ["scale"] = 1,
+                    ["selectedDonationTier"] = 1,
                 },
-                ["module_dps"] = 
+                ["extension_names"] = 
                 {
+                    ["accountWide"] = false,
                     ["version"] = 3,
                 },
+                ["$LastCharacterName"] = "For The Wa",
                 ["extension_seasons"] = 
                 {
-                    ["valentines"] = true,
-                    ["aprilfools"] = true,
-                    ["christmas"] = true,
+                    ["accountWide"] = false,
                     ["version"] = 3,
                 },
-                ["list_colos"] = 
+            },
+            ["8796093076445407"] = 
+            {
+                ["extension_icons"] = 
                 {
-                    ["outOfSupportRangeOpacity"] = 0.2000000000,
-                    ["windowPosTop"] = 660,
-                    ["zeroTimerOpacity"] = 0.3500000000,
-                    ["headerOpacity"] = 0,
-                    ["disableInPvP"] = true,
-                    ["windowScale"] = 1,
-                    ["colorVuln"] = 
+                    ["accountWide"] = false,
+                    ["version"] = 3,
+                },
+                ["extension_animations"] = 
+                {
+                    ["accountWide"] = false,
+                    ["version"] = 3,
+                },
+                ["extension_configurator"] = 
+                {
+                    ["nameColorBegin"] = 
                     {
                         [1] = 1,
                         [2] = 1,
-                        [3] = 0,
+                        [3] = 1,
                     },
-                    ["windowWidth"] = 272,
-                    ["supportRangeOnly"] = false,
-                    ["enabled"] = 1,
-                    ["showPercentValue"] = 1,
-                    ["nameFont"] = "$(BOLD_FONT)|$(KB_19)|outline",
-                    ["windowWith"] = 230,
-                    ["backgroundOpacity"] = 0,
-                    ["windowPosLeft"] = 10,
-                    ["showRawValue"] = 0,
-                    ["version"] = 3,
-                },
-                ["list_hps"] = 
-                {
-                    ["listHeaderOpacity"] = 0.8000000000,
-                    ["windowPosTop"] = 260,
-                    ["colorHPS"] = "00FF00",
-                    ["backgroundOpacity"] = 0,
-                    ["listRowEvenOpacity"] = 0.6500000000,
-                    ["disableInPvP"] = true,
-                    ["windowScale"] = 1,
-                    ["timerUpdateInterval"] = 100,
-                    ["windowWidth"] = 237,
-                    ["onlyShowHealers"] = false,
-                    ["supportRangeOnly"] = false,
-                    ["listPlayerHighlight"] = true,
-                    ["nameFont"] = "$(BOLD_FONT)|$(KB_18)|outline",
-                    ["enabled"] = 0,
-                    ["windowPosLeft"] = 530,
-                    ["listPlayerHighlightColor"] = 
+                    ["nameColorEnd"] = 
                     {
-                        [4] = 0.3600000000,
-                        [1] = 0,
+                        [1] = 1,
                         [2] = 1,
-                        [3] = 0,
+                        [3] = 1,
                     },
-                    ["windowWith"] = 230,
-                    ["listRowOddOpacity"] = 0.4500000000,
-                    ["colorOverheal"] = "AAAAAA",
+                    ["nameColored"] = "noobkiss",
+                    ["nameRaw"] = "noobkiss",
+                    ["accountWide"] = false,
+                    ["nameGradient"] = false,
                     ["version"] = 3,
-                    ["outOfSupportRangeOpacity"] = 0.2000000000,
+                    ["selectedDonationTier"] = 1,
                 },
-                ["version"] = 2,
-                ["module_pull"] = 
+                ["extension_names"] = 
                 {
-                    ["version"] = 3,
-                    ["countdownDuration"] = 5,
-                },
-                ["advancedSettings"] = false,
-                ["module_exitinstance"] = 
-                {
-                    ["ignoreExitInstanceRequests"] = false,
-                    ["confirmExitInstance"] = true,
+                    ["accountWide"] = false,
                     ["version"] = 3,
                 },
-                ["extension_icons"] = 
+                ["$LastCharacterName"] = "For The Wa",
+                ["extension_seasons"] = 
                 {
+                    ["accountWide"] = false,
                     ["version"] = 3,
                 },
             },

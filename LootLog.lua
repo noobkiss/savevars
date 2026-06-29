@@ -6,8 +6,18 @@ LootLogSavedVariables =
         {
             ["$AccountWide"] = 
             {
-                ["tradeRequestMode"] = 1,
-                ["chatMode"] = 4,
+                ["tradeFlagChat"] = true,
+                ["tradeCommandsCount"] = 2,
+                ["featureRev"] = 4,
+                ["historyMode"] = 4,
+                ["chatStaticRecipientColor"] = 
+                {
+                    ["enabled"] = false,
+                    ["color"] = 3381759,
+                },
+                ["antiquityEnabled"] = true,
+                ["version"] = 2,
+                ["antiquityTooltips"] = true,
                 ["multi"] = 
                 {
                     ["colors"] = 
@@ -17,62 +27,42 @@ LootLogSavedVariables =
                         [3] = 3394815,
                     },
                 },
-                ["tradeIncludeBoE"] = false,
+                ["tradeRequestMode"] = 1,
+                ["chatItemCollector"] = true,
+                ["autoBind"] = 
+                {
+                    ["stopTime"] = 0,
+                    ["junk"] = false,
+                },
+                ["tradeFlagItemLists"] = true,
                 ["uncollectedColors"] = 
                 {
-                    ["linkedChat"] = 13421568,
                     ["itemLists"] = 13369446,
+                    ["linkedChat"] = 13421568,
                     ["lootedGroup"] = 16750848,
                     ["lootedPersonal"] = 13369344,
                 },
-                ["tradeFlagHideVanilla"] = false,
-                ["chatCraftCount"] = false,
-                ["antiquityTooltips"] = true,
-                ["historyMode"] = 4,
-                ["autoBind"] = 
-                {
-                    ["junk"] = false,
-                    ["stopTime"] = 0,
-                },
-                ["antiquityOnlyMotifs"] = false,
-                ["featureRev"] = 4,
-                ["tradeFlagChat"] = true,
-                ["chatStaticRecipientColor"] = 
-                {
-                    ["color"] = 3381759,
-                    ["enabled"] = false,
-                },
-                ["chatIcons"] = false,
-                ["historyShowUncollected"] = false,
-                ["tradeRequestPrefix"] = "Requesting",
-                ["antiquityEnabled"] = true,
-                ["historyHours"] = 2,
-                ["version"] = 2,
-                ["tradeCommandsCount"] = 2,
-                ["tradeFlagItemLists"] = true,
                 ["antiquityMapColors"] = 
                 {
                     ["incompleteCodex"] = 13421568,
-                    ["fullCodex"] = 65382,
                     ["neverFound"] = 13382451,
+                    ["fullCodex"] = 65382,
                 },
-                ["chatItemCollector"] = true,
+                ["tradeFlagHideVanilla"] = false,
+                ["antiquityOnlyMotifs"] = false,
+                ["chatMode"] = 4,
+                ["historyShowUncollected"] = false,
+                ["tradeRequestPrefix"] = "Requesting",
+                ["chatCraftCount"] = false,
+                ["historyHours"] = 2,
+                ["chatIcons"] = false,
+                ["tradeIncludeBoE"] = false,
             },
         },
     },
 }
 LootLogHistory =
 {
-    ["NA"] = 
-    {
-        [495060] = 
-        {
-            [4] = "1782218029;|H0:item:135145:30:1:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0|h|h;20;@noobkiss;Zou Kimcheng;2",
-            [1] = "1782218028;|H0:item:138783:5:1:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0|h|h;1;@noobkiss;Zou Kimcheng;6",
-            [2] = "1782218028;|H0:item:138824:122:1:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0|h|h;1;@noobkiss;Zou Kimcheng;6",
-            [3] = "1782218028;|H0:item:208027:124:1:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0|h|h;1;@noobkiss;Zou Kimcheng;6",
-        },
-    },
     ["EU"] = 
     {
         [494356] = 
@@ -247,6 +237,14 @@ LootLogHistory =
             [168] = "1779684792;|H0:item:224585:4:5:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:10000:0|h|h;1;@noobkiss;noobkiss;30",
             [169] = "1779684793;|H0:item:219149:4:5:0:0:0:0:0:0:0:0:0:0:0:0:24:0:0:0:0:0|h|h;1;@noobkiss;noobkiss;30",
             [170] = "1779684794;|H0:item:224538:4:5:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:10000:0|h|h;1;@noobkiss;noobkiss;30",
+        },
+    },
+    ["NA"] = 
+    {
+        [495211] = 
+        {
+            [2] = "1782762107;|H0:item:208002:124:1:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0|h|h;1;@Laniakea_XoXo;Lilith of Uranus;3",
+            [1] = "1782762107;|H0:item:135247:362:50:0:0:0:0:0:0:0:0:0:0:0:0:66:0:0:0:0:0|h|h;1;@Laniakea_XoXo;Lilith of Uranus;15",
         },
     },
 }

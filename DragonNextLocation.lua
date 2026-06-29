@@ -6,32 +6,32 @@ DragonNextLocationSavedVariables =
         {
             ["$AccountWide"] = 
             {
-                ["mapPinsFilters"] = true,
                 ["version"] = 1,
+                ["mapPinsFilters"] = true,
             },
         },
         ["@Kankerkop"] = 
         {
             ["$AccountWide"] = 
             {
+                ["version"] = 1,
                 ["mapPinsFilters"] = false,
-                ["version"] = 1,
-            },
-        },
-        ["@noobkiss"] = 
-        {
-            ["$AccountWide"] = 
-            {
-                ["mapPinsFilters"] = true,
-                ["version"] = 1,
             },
         },
         ["@YYDS1214"] = 
         {
             ["$AccountWide"] = 
             {
-                ["mapPinsFilters"] = true,
                 ["version"] = 1,
+                ["mapPinsFilters"] = true,
+            },
+        },
+        ["@noobkiss"] = 
+        {
+            ["$AccountWide"] = 
+            {
+                ["version"] = 1,
+                ["mapPinsFilters"] = true,
             },
         },
     },

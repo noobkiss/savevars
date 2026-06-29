@@ -2,37 +2,37 @@ JournalQuestLog_SavedVariables =
 {
     ["Default"] = 
     {
+        ["@YYDS1214"] = 
+        {
+            ["$AccountWide"] = 
+            {
+                ["showRepeatable"] = true,
+                ["showMissed"] = true,
+                ["showUnavailable"] = true,
+                ["listGrouped"] = false,
+                ["version"] = 1,
+            },
+        },
         ["@Kankerkop"] = 
         {
             ["$AccountWide"] = 
             {
-                ["version"] = 1,
-                ["showMissed"] = true,
-                ["listGrouped"] = false,
-                ["showUnavailable"] = true,
                 ["showRepeatable"] = true,
+                ["showMissed"] = true,
+                ["showUnavailable"] = true,
+                ["listGrouped"] = false,
+                ["version"] = 1,
             },
         },
         ["@noobkiss"] = 
         {
             ["$AccountWide"] = 
             {
-                ["version"] = 1,
-                ["showMissed"] = true,
-                ["listGrouped"] = false,
-                ["showUnavailable"] = true,
                 ["showRepeatable"] = true,
-            },
-        },
-        ["@YYDS1214"] = 
-        {
-            ["$AccountWide"] = 
-            {
-                ["version"] = 1,
                 ["showMissed"] = true,
-                ["listGrouped"] = false,
                 ["showUnavailable"] = true,
-                ["showRepeatable"] = true,
+                ["listGrouped"] = false,
+                ["version"] = 1,
             },
         },
     },

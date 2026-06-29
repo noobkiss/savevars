@@ -13,13 +13,13 @@ ZO_InternalIngame_SavedVariables =
                 },
             },
         },
-        ["@noobkiss"] = 
+        ["@YYDS1214"] = 
         {
             ["$AccountWide"] = 
             {
                 ["Tribute"] = 
                 {
-                    ["autoPlayChecked"] = true,
+                    ["autoPlayChecked"] = false,
                     ["version"] = 1,
                 },
             },
@@ -35,13 +35,13 @@ ZO_InternalIngame_SavedVariables =
                 },
             },
         },
-        ["@YYDS1214"] = 
+        ["@noobkiss"] = 
         {
             ["$AccountWide"] = 
             {
                 ["Tribute"] = 
                 {
-                    ["autoPlayChecked"] = false,
+                    ["autoPlayChecked"] = true,
                     ["version"] = 1,
                 },
             },

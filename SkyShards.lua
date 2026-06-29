@@ -2,856 +2,856 @@ SkyS_SavedVariables =
 {
     ["Default"] = 
     {
+        ["@Kankerkop"] = 
+        {
+            ["8796093078606003"] = 
+            {
+                ["compassMaxDistance"] = 0.0500000000,
+                ["pinTexture"] = 
+                {
+                    ["size"] = 38,
+                    ["level"] = 80,
+                    ["type"] = 1,
+                },
+                ["filters"] = 
+                {
+                    ["SkySMapPin_collected"] = false,
+                    ["SkySMapPin_unknown"] = true,
+                    ["SkySCompassPin_unknown"] = true,
+                },
+                ["version"] = 4,
+                ["skillPanelDisplay"] = 2,
+                ["immersiveMode"] = 1,
+                ["$LastCharacterName"] = "Kankerkop",
+                ["mainworldSkyshards"] = "ffffff",
+            },
+            ["8796093079748457"] = 
+            {
+                ["compassMaxDistance"] = 0.0500000000,
+                ["pinTexture"] = 
+                {
+                    ["size"] = 38,
+                    ["level"] = 80,
+                    ["type"] = 1,
+                },
+                ["filters"] = 
+                {
+                    ["SkySMapPin_collected"] = false,
+                    ["SkySMapPin_unknown"] = true,
+                    ["SkySCompassPin_unknown"] = true,
+                },
+                ["version"] = 4,
+                ["skillPanelDisplay"] = 2,
+                ["immersiveMode"] = 1,
+                ["$LastCharacterName"] = "Kaaskop",
+                ["mainworldSkyshards"] = "ffffff",
+            },
+        },
+        ["@YYDS1214"] = 
+        {
+            ["8796093077181579"] = 
+            {
+                ["compassMaxDistance"] = 0.0500000000,
+                ["pinTexture"] = 
+                {
+                    ["size"] = 38,
+                    ["level"] = 80,
+                    ["type"] = 1,
+                },
+                ["filters"] = 
+                {
+                    ["SkySMapPin_collected"] = true,
+                    ["SkySMapPin_unknown"] = true,
+                    ["SkySCompassPin_unknown"] = true,
+                },
+                ["version"] = 4,
+                ["skillPanelDisplay"] = 2,
+                ["immersiveMode"] = 1,
+                ["$LastCharacterName"] = "A qiya",
+                ["mainworldSkyshards"] = "ffffff",
+            },
+            ["8796093077181565"] = 
+            {
+                ["compassMaxDistance"] = 0.0500000000,
+                ["pinTexture"] = 
+                {
+                    ["size"] = 38,
+                    ["level"] = 80,
+                    ["type"] = 1,
+                },
+                ["filters"] = 
+                {
+                    ["SkySMapPin_collected"] = true,
+                    ["SkySMapPin_unknown"] = true,
+                    ["SkySCompassPin_unknown"] = true,
+                },
+                ["version"] = 4,
+                ["skillPanelDisplay"] = 2,
+                ["immersiveMode"] = 1,
+                ["$LastCharacterName"] = "Aqiya",
+                ["mainworldSkyshards"] = "ffffff",
+            },
+            ["8796093077153837"] = 
+            {
+                ["compassMaxDistance"] = 0.0500000000,
+                ["pinTexture"] = 
+                {
+                    ["size"] = 38,
+                    ["level"] = 80,
+                    ["type"] = 1,
+                },
+                ["filters"] = 
+                {
+                    ["SkySMapPin_collected"] = true,
+                    ["SkySMapPin_unknown"] = true,
+                    ["SkySCompassPin_unknown"] = true,
+                },
+                ["version"] = 4,
+                ["skillPanelDisplay"] = 2,
+                ["immersiveMode"] = 1,
+                ["$LastCharacterName"] = "Yang Yyds",
+                ["mainworldSkyshards"] = "ffffff",
+            },
+            ["8796093077595053"] = 
+            {
+                ["compassMaxDistance"] = 0.0500000000,
+                ["pinTexture"] = 
+                {
+                    ["size"] = 38,
+                    ["level"] = 80,
+                    ["type"] = 1,
+                },
+                ["filters"] = 
+                {
+                    ["SkySMapPin_collected"] = true,
+                    ["SkySMapPin_unknown"] = true,
+                    ["SkySCompassPin_unknown"] = true,
+                },
+                ["version"] = 4,
+                ["skillPanelDisplay"] = 2,
+                ["immersiveMode"] = 1,
+                ["$LastCharacterName"] = "aqi ya",
+                ["mainworldSkyshards"] = "ffffff",
+            },
+            ["8796093077181587"] = 
+            {
+                ["compassMaxDistance"] = 0.0500000000,
+                ["pinTexture"] = 
+                {
+                    ["size"] = 38,
+                    ["level"] = 80,
+                    ["type"] = 1,
+                },
+                ["filters"] = 
+                {
+                    ["SkySMapPin_collected"] = true,
+                    ["SkySMapPin_unknown"] = true,
+                    ["SkySCompassPin_unknown"] = true,
+                },
+                ["version"] = 4,
+                ["skillPanelDisplay"] = 2,
+                ["immersiveMode"] = 1,
+                ["$LastCharacterName"] = "a qi ya",
+                ["mainworldSkyshards"] = "ffffff",
+            },
+            ["8796093077616617"] = 
+            {
+                ["compassMaxDistance"] = 0.0500000000,
+                ["pinTexture"] = 
+                {
+                    ["size"] = 38,
+                    ["level"] = 80,
+                    ["type"] = 1,
+                },
+                ["filters"] = 
+                {
+                    ["SkySMapPin_collected"] = true,
+                    ["SkySMapPin_unknown"] = true,
+                    ["SkySCompassPin_unknown"] = true,
+                },
+                ["version"] = 4,
+                ["skillPanelDisplay"] = 2,
+                ["immersiveMode"] = 1,
+                ["$LastCharacterName"] = "shiaqi",
+                ["mainworldSkyshards"] = "ffffff",
+            },
+            ["8796093077181623"] = 
+            {
+                ["compassMaxDistance"] = 0.0500000000,
+                ["pinTexture"] = 
+                {
+                    ["size"] = 38,
+                    ["level"] = 80,
+                    ["type"] = 1,
+                },
+                ["filters"] = 
+                {
+                    ["SkySMapPin_collected"] = true,
+                    ["SkySMapPin_unknown"] = true,
+                    ["SkySCompassPin_unknown"] = true,
+                },
+                ["version"] = 4,
+                ["skillPanelDisplay"] = 2,
+                ["immersiveMode"] = 1,
+                ["$LastCharacterName"] = "Aqi Yaa",
+                ["mainworldSkyshards"] = "ffffff",
+            },
+            ["8796093077165965"] = 
+            {
+                ["compassMaxDistance"] = 0.0500000000,
+                ["pinTexture"] = 
+                {
+                    ["size"] = 38,
+                    ["level"] = 80,
+                    ["type"] = 1,
+                },
+                ["filters"] = 
+                {
+                    ["SkySMapPin_collected"] = true,
+                    ["SkySMapPin_unknown"] = true,
+                    ["SkySCompassPin_unknown"] = true,
+                },
+                ["version"] = 4,
+                ["skillPanelDisplay"] = 2,
+                ["immersiveMode"] = 1,
+                ["$LastCharacterName"] = "Junjunya",
+                ["mainworldSkyshards"] = "ffffff",
+            },
+        },
         ["@Jonzouio"] = 
         {
             ["8796093077413993"] = 
             {
+                ["compassMaxDistance"] = 0.0500000000,
+                ["pinTexture"] = 
+                {
+                    ["size"] = 38,
+                    ["level"] = 80,
+                    ["type"] = 1,
+                },
                 ["filters"] = 
                 {
                     ["SkySMapPin_collected"] = false,
                     ["SkySMapPin_unknown"] = true,
                     ["SkySCompassPin_unknown"] = true,
                 },
-                ["compassMaxDistance"] = 0.0500000000,
+                ["version"] = 4,
+                ["skillPanelDisplay"] = 2,
+                ["immersiveMode"] = 1,
                 ["$LastCharacterName"] = "Jonzouio",
-                ["version"] = 4,
                 ["mainworldSkyshards"] = "ffffff",
-                ["skillPanelDisplay"] = 2,
-                ["pinTexture"] = 
-                {
-                    ["level"] = 80,
-                    ["size"] = 38,
-                    ["type"] = 1,
-                },
-                ["immersiveMode"] = 1,
-            },
-        },
-        ["@Kankerkop"] = 
-        {
-            ["8796093079748457"] = 
-            {
-                ["filters"] = 
-                {
-                    ["SkySMapPin_collected"] = false,
-                    ["SkySMapPin_unknown"] = true,
-                    ["SkySCompassPin_unknown"] = true,
-                },
-                ["compassMaxDistance"] = 0.0500000000,
-                ["$LastCharacterName"] = "Kaaskop",
-                ["version"] = 4,
-                ["mainworldSkyshards"] = "ffffff",
-                ["skillPanelDisplay"] = 2,
-                ["pinTexture"] = 
-                {
-                    ["level"] = 80,
-                    ["size"] = 38,
-                    ["type"] = 1,
-                },
-                ["immersiveMode"] = 1,
-            },
-            ["8796093078606003"] = 
-            {
-                ["filters"] = 
-                {
-                    ["SkySMapPin_collected"] = false,
-                    ["SkySMapPin_unknown"] = true,
-                    ["SkySCompassPin_unknown"] = true,
-                },
-                ["compassMaxDistance"] = 0.0500000000,
-                ["$LastCharacterName"] = "Kankerkop",
-                ["version"] = 4,
-                ["mainworldSkyshards"] = "ffffff",
-                ["skillPanelDisplay"] = 2,
-                ["pinTexture"] = 
-                {
-                    ["level"] = 80,
-                    ["size"] = 38,
-                    ["type"] = 1,
-                },
-                ["immersiveMode"] = 1,
             },
         },
         ["@noobkiss"] = 
         {
-            ["8796093077622069"] = 
+            ["8796093077575525"] = 
             {
+                ["compassMaxDistance"] = 0.0500000000,
+                ["pinTexture"] = 
+                {
+                    ["size"] = 38,
+                    ["level"] = 80,
+                    ["type"] = 1,
+                },
                 ["filters"] = 
                 {
                     ["SkySMapPin_collected"] = false,
                     ["SkySMapPin_unknown"] = true,
                     ["SkySCompassPin_unknown"] = true,
                 },
-                ["compassMaxDistance"] = 0.0500000000,
-                ["$LastCharacterName"] = "noobwick",
                 ["version"] = 4,
-                ["mainworldSkyshards"] = "ffffff",
                 ["skillPanelDisplay"] = 2,
+                ["immersiveMode"] = 1,
+                ["$LastCharacterName"] = "Joyous Socks",
+                ["mainworldSkyshards"] = "ffffff",
+            },
+            ["8796093077575729"] = 
+            {
+                ["compassMaxDistance"] = 0.0500000000,
                 ["pinTexture"] = 
                 {
-                    ["level"] = 40,
                     ["size"] = 38,
+                    ["level"] = 80,
                     ["type"] = 1,
                 },
+                ["filters"] = 
+                {
+                    ["SkySMapPin_collected"] = false,
+                    ["SkySMapPin_unknown"] = true,
+                    ["SkySCompassPin_unknown"] = true,
+                },
+                ["version"] = 4,
+                ["skillPanelDisplay"] = 2,
                 ["immersiveMode"] = 1,
+                ["$LastCharacterName"] = "noobwick",
+                ["mainworldSkyshards"] = "ffffff",
+            },
+            ["8796093080650625"] = 
+            {
+                ["compassMaxDistance"] = 0.0500000000,
+                ["pinTexture"] = 
+                {
+                    ["size"] = 38,
+                    ["level"] = 80,
+                    ["type"] = 1,
+                },
+                ["filters"] = 
+                {
+                    ["SkySMapPin_collected"] = true,
+                    ["SkySMapPin_unknown"] = true,
+                    ["SkySCompassPin_unknown"] = true,
+                },
+                ["version"] = 4,
+                ["skillPanelDisplay"] = 2,
+                ["immersiveMode"] = 1,
+                ["$LastCharacterName"] = "Flawed Mangoes",
+                ["mainworldSkyshards"] = "ffffff",
+            },
+            ["8796093077977317"] = 
+            {
+                ["compassMaxDistance"] = 0.0500000000,
+                ["pinTexture"] = 
+                {
+                    ["size"] = 38,
+                    ["level"] = 80,
+                    ["type"] = 1,
+                },
+                ["filters"] = 
+                {
+                    ["SkySMapPin_collected"] = false,
+                    ["SkySMapPin_unknown"] = true,
+                    ["SkySCompassPin_unknown"] = true,
+                },
+                ["version"] = 4,
+                ["skillPanelDisplay"] = 2,
+                ["immersiveMode"] = 1,
+                ["$LastCharacterName"] = "Simmy Seek Snow",
+                ["mainworldSkyshards"] = "ffffff",
+            },
+            ["8796093078411849"] = 
+            {
+                ["compassMaxDistance"] = 0.0500000000,
+                ["pinTexture"] = 
+                {
+                    ["size"] = 38,
+                    ["level"] = 80,
+                    ["type"] = 1,
+                },
+                ["filters"] = 
+                {
+                    ["SkySMapPin_collected"] = false,
+                    ["SkySMapPin_unknown"] = true,
+                    ["SkySCompassPin_unknown"] = true,
+                },
+                ["version"] = 4,
+                ["skillPanelDisplay"] = 2,
+                ["immersiveMode"] = 1,
+                ["$LastCharacterName"] = "Young Ming",
+                ["mainworldSkyshards"] = "ffffff",
+            },
+            ["8796093078739949"] = 
+            {
+                ["compassMaxDistance"] = 0.0500000000,
+                ["pinTexture"] = 
+                {
+                    ["size"] = 38,
+                    ["level"] = 80,
+                    ["type"] = 1,
+                },
+                ["filters"] = 
+                {
+                    ["SkySMapPin_collected"] = false,
+                    ["SkySMapPin_unknown"] = true,
+                    ["SkySCompassPin_unknown"] = true,
+                },
+                ["version"] = 4,
+                ["skillPanelDisplay"] = 2,
+                ["immersiveMode"] = 1,
+                ["$LastCharacterName"] = "noobbomb",
+                ["mainworldSkyshards"] = "ffffff",
+            },
+            ["8796093077354797"] = 
+            {
+                ["compassMaxDistance"] = 0.0500000000,
+                ["pinTexture"] = 
+                {
+                    ["size"] = 38,
+                    ["level"] = 80,
+                    ["type"] = 1,
+                },
+                ["filters"] = 
+                {
+                    ["SkySMapPin_collected"] = false,
+                    ["SkySMapPin_unknown"] = true,
+                    ["SkySCompassPin_unknown"] = true,
+                },
+                ["version"] = 4,
+                ["skillPanelDisplay"] = 2,
+                ["immersiveMode"] = 1,
+                ["$LastCharacterName"] = "noobsmell",
+                ["mainworldSkyshards"] = "ffffff",
+            },
+            ["8796093077976825"] = 
+            {
+                ["compassMaxDistance"] = 0.0500000000,
+                ["pinTexture"] = 
+                {
+                    ["size"] = 38,
+                    ["level"] = 80,
+                    ["type"] = 1,
+                },
+                ["filters"] = 
+                {
+                    ["SkySMapPin_collected"] = false,
+                    ["SkySMapPin_unknown"] = true,
+                    ["SkySCompassPin_unknown"] = true,
+                },
+                ["version"] = 4,
+                ["skillPanelDisplay"] = 2,
+                ["immersiveMode"] = 1,
+                ["$LastCharacterName"] = "Sunken Feb",
+                ["mainworldSkyshards"] = "ffffff",
+            },
+            ["8796093077280431"] = 
+            {
+                ["compassMaxDistance"] = 0.0500000000,
+                ["pinTexture"] = 
+                {
+                    ["size"] = 38,
+                    ["level"] = 80,
+                    ["type"] = 1,
+                },
+                ["filters"] = 
+                {
+                    ["SkySMapPin_collected"] = false,
+                    ["SkySMapPin_unknown"] = true,
+                    ["SkySCompassPin_unknown"] = true,
+                },
+                ["version"] = 4,
+                ["skillPanelDisplay"] = 2,
+                ["immersiveMode"] = 1,
+                ["$LastCharacterName"] = "noobwink",
+                ["mainworldSkyshards"] = "ffffff",
+            },
+            ["8796093077286887"] = 
+            {
+                ["compassMaxDistance"] = 0.0500000000,
+                ["pinTexture"] = 
+                {
+                    ["size"] = 38,
+                    ["level"] = 80,
+                    ["type"] = 1,
+                },
+                ["filters"] = 
+                {
+                    ["SkySMapPin_collected"] = false,
+                    ["SkySMapPin_unknown"] = true,
+                    ["SkySCompassPin_unknown"] = true,
+                },
+                ["version"] = 4,
+                ["skillPanelDisplay"] = 2,
+                ["immersiveMode"] = 1,
+                ["$LastCharacterName"] = "noobhappy",
+                ["mainworldSkyshards"] = "ffffff",
             },
             ["8796093077546265"] = 
             {
+                ["compassMaxDistance"] = 0.0500000000,
+                ["pinTexture"] = 
+                {
+                    ["size"] = 38,
+                    ["level"] = 80,
+                    ["type"] = 1,
+                },
                 ["filters"] = 
                 {
                     ["SkySMapPin_collected"] = true,
                     ["SkySMapPin_unknown"] = false,
                     ["SkySCompassPin_unknown"] = false,
                 },
-                ["compassMaxDistance"] = 0.0500000000,
+                ["version"] = 4,
+                ["skillPanelDisplay"] = 2,
+                ["immersiveMode"] = 1,
                 ["$LastCharacterName"] = "Galen Chef Mike",
-                ["version"] = 4,
                 ["mainworldSkyshards"] = "ffffff",
-                ["skillPanelDisplay"] = 2,
-                ["pinTexture"] = 
-                {
-                    ["level"] = 80,
-                    ["size"] = 38,
-                    ["type"] = 1,
-                },
-                ["immersiveMode"] = 1,
-            },
-            ["8796093080474427"] = 
-            {
-                ["filters"] = 
-                {
-                    ["SkySMapPin_collected"] = true,
-                    ["SkySMapPin_unknown"] = true,
-                    ["SkySCompassPin_unknown"] = true,
-                },
-                ["compassMaxDistance"] = 0.0500000000,
-                ["$LastCharacterName"] = "Vex Vex Loop",
-                ["version"] = 4,
-                ["mainworldSkyshards"] = "ffffff",
-                ["skillPanelDisplay"] = 2,
-                ["pinTexture"] = 
-                {
-                    ["level"] = 80,
-                    ["size"] = 38,
-                    ["type"] = 1,
-                },
-                ["immersiveMode"] = 1,
-            },
-            ["8796093077286759"] = 
-            {
-                ["filters"] = 
-                {
-                    ["SkySMapPin_collected"] = false,
-                    ["SkySMapPin_unknown"] = true,
-                    ["SkySCompassPin_unknown"] = true,
-                },
-                ["compassMaxDistance"] = 0.0500000000,
-                ["$LastCharacterName"] = "Lumina Hoaying",
-                ["version"] = 4,
-                ["mainworldSkyshards"] = "ffffff",
-                ["skillPanelDisplay"] = 2,
-                ["pinTexture"] = 
-                {
-                    ["level"] = 80,
-                    ["size"] = 38,
-                    ["type"] = 1,
-                },
-                ["immersiveMode"] = 1,
-            },
-            ["8796093078078769"] = 
-            {
-                ["filters"] = 
-                {
-                    ["SkySMapPin_collected"] = false,
-                    ["SkySMapPin_unknown"] = true,
-                    ["SkySCompassPin_unknown"] = true,
-                },
-                ["compassMaxDistance"] = 0.0500000000,
-                ["$LastCharacterName"] = "noobmiss",
-                ["version"] = 4,
-                ["mainworldSkyshards"] = "ffffff",
-                ["skillPanelDisplay"] = 2,
-                ["pinTexture"] = 
-                {
-                    ["level"] = 80,
-                    ["size"] = 38,
-                    ["type"] = 1,
-                },
-                ["immersiveMode"] = 1,
-            },
-            ["8796093080564143"] = 
-            {
-                ["filters"] = 
-                {
-                    ["SkySMapPin_collected"] = true,
-                    ["SkySMapPin_unknown"] = true,
-                    ["SkySCompassPin_unknown"] = true,
-                },
-                ["compassMaxDistance"] = 0.0500000000,
-                ["$LastCharacterName"] = "Wasted Wasted",
-                ["version"] = 4,
-                ["mainworldSkyshards"] = "ffffff",
-                ["skillPanelDisplay"] = 2,
-                ["pinTexture"] = 
-                {
-                    ["level"] = 80,
-                    ["size"] = 38,
-                    ["type"] = 1,
-                },
-                ["immersiveMode"] = 1,
-            },
-            ["8796093077575525"] = 
-            {
-                ["filters"] = 
-                {
-                    ["SkySMapPin_collected"] = false,
-                    ["SkySMapPin_unknown"] = true,
-                    ["SkySCompassPin_unknown"] = true,
-                },
-                ["compassMaxDistance"] = 0.0500000000,
-                ["$LastCharacterName"] = "Joyous Socks",
-                ["version"] = 4,
-                ["mainworldSkyshards"] = "ffffff",
-                ["skillPanelDisplay"] = 2,
-                ["pinTexture"] = 
-                {
-                    ["level"] = 80,
-                    ["size"] = 38,
-                    ["type"] = 1,
-                },
-                ["immersiveMode"] = 1,
-            },
-            ["8796093077280363"] = 
-            {
-                ["filters"] = 
-                {
-                    ["SkySMapPin_collected"] = false,
-                    ["SkySMapPin_unknown"] = true,
-                    ["SkySCompassPin_unknown"] = true,
-                },
-                ["compassMaxDistance"] = 0.0500000000,
-                ["$LastCharacterName"] = "noobsmile",
-                ["version"] = 4,
-                ["mainworldSkyshards"] = "ffffff",
-                ["skillPanelDisplay"] = 2,
-                ["pinTexture"] = 
-                {
-                    ["level"] = 80,
-                    ["size"] = 38,
-                    ["type"] = 1,
-                },
-                ["immersiveMode"] = 1,
-            },
-            ["8796093077338611"] = 
-            {
-                ["filters"] = 
-                {
-                    ["SkySMapPin_collected"] = false,
-                    ["SkySMapPin_unknown"] = true,
-                    ["SkySCompassPin_unknown"] = true,
-                },
-                ["compassMaxDistance"] = 0.0500000000,
-                ["$LastCharacterName"] = "noobsimper",
-                ["version"] = 4,
-                ["mainworldSkyshards"] = "ffffff",
-                ["skillPanelDisplay"] = 2,
-                ["pinTexture"] = 
-                {
-                    ["level"] = 80,
-                    ["size"] = 38,
-                    ["type"] = 1,
-                },
-                ["immersiveMode"] = 1,
-            },
-            ["8798292100191884"] = 
-            {
-                ["filters"] = 
-                {
-                    ["SkySMapPin_collected"] = true,
-                    ["SkySMapPin_unknown"] = true,
-                    ["SkySCompassPin_unknown"] = true,
-                },
-                ["compassMaxDistance"] = 0.0500000000,
-                ["$LastCharacterName"] = "noobkiss",
-                ["version"] = 4,
-                ["mainworldSkyshards"] = "ffffff",
-                ["skillPanelDisplay"] = 2,
-                ["pinTexture"] = 
-                {
-                    ["level"] = 80,
-                    ["size"] = 38,
-                    ["type"] = 1,
-                },
-                ["immersiveMode"] = 1,
-            },
-            ["8796093077280469"] = 
-            {
-                ["filters"] = 
-                {
-                    ["SkySMapPin_collected"] = false,
-                    ["SkySMapPin_unknown"] = true,
-                    ["SkySCompassPin_unknown"] = true,
-                },
-                ["compassMaxDistance"] = 0.0500000000,
-                ["$LastCharacterName"] = "noobxoxo",
-                ["version"] = 4,
-                ["mainworldSkyshards"] = "ffffff",
-                ["skillPanelDisplay"] = 2,
-                ["pinTexture"] = 
-                {
-                    ["level"] = 40,
-                    ["size"] = 38,
-                    ["type"] = 1,
-                },
-                ["immersiveMode"] = 1,
-            },
-            ["8796093077142221"] = 
-            {
-                ["filters"] = 
-                {
-                    ["SkySMapPin_collected"] = false,
-                    ["SkySMapPin_unknown"] = true,
-                    ["SkySCompassPin_unknown"] = true,
-                },
-                ["compassMaxDistance"] = 0.0500000000,
-                ["$LastCharacterName"] = "noobxoxo",
-                ["version"] = 4,
-                ["mainworldSkyshards"] = "ffffff",
-                ["skillPanelDisplay"] = 2,
-                ["pinTexture"] = 
-                {
-                    ["level"] = 80,
-                    ["size"] = 38,
-                    ["type"] = 1,
-                },
-                ["immersiveMode"] = 1,
-            },
-            ["8796093077286887"] = 
-            {
-                ["filters"] = 
-                {
-                    ["SkySMapPin_collected"] = false,
-                    ["SkySMapPin_unknown"] = true,
-                    ["SkySCompassPin_unknown"] = true,
-                },
-                ["compassMaxDistance"] = 0.0500000000,
-                ["$LastCharacterName"] = "noobhappy",
-                ["version"] = 4,
-                ["mainworldSkyshards"] = "ffffff",
-                ["skillPanelDisplay"] = 2,
-                ["pinTexture"] = 
-                {
-                    ["level"] = 80,
-                    ["size"] = 38,
-                    ["type"] = 1,
-                },
-                ["immersiveMode"] = 1,
-            },
-            ["8796093080475359"] = 
-            {
-                ["filters"] = 
-                {
-                    ["SkySMapPin_collected"] = true,
-                    ["SkySMapPin_unknown"] = true,
-                    ["SkySCompassPin_unknown"] = true,
-                },
-                ["compassMaxDistance"] = 0.0500000000,
-                ["$LastCharacterName"] = "Hymn Hemy",
-                ["version"] = 4,
-                ["mainworldSkyshards"] = "ffffff",
-                ["skillPanelDisplay"] = 2,
-                ["pinTexture"] = 
-                {
-                    ["level"] = 80,
-                    ["size"] = 38,
-                    ["type"] = 1,
-                },
-                ["immersiveMode"] = 1,
-            },
-            ["8796093076445407"] = 
-            {
-                ["filters"] = 
-                {
-                    ["SkySMapPin_collected"] = false,
-                    ["SkySMapPin_unknown"] = true,
-                    ["SkySCompassPin_unknown"] = true,
-                },
-                ["compassMaxDistance"] = 0.0500000000,
-                ["$LastCharacterName"] = "noobkiss",
-                ["version"] = 4,
-                ["mainworldSkyshards"] = "ffffff",
-                ["skillPanelDisplay"] = 2,
-                ["pinTexture"] = 
-                {
-                    ["level"] = 80,
-                    ["size"] = 38,
-                    ["type"] = 1,
-                },
-                ["immersiveMode"] = 1,
-            },
-            ["8796093080650625"] = 
-            {
-                ["filters"] = 
-                {
-                    ["SkySMapPin_collected"] = true,
-                    ["SkySMapPin_unknown"] = true,
-                    ["SkySCompassPin_unknown"] = true,
-                },
-                ["compassMaxDistance"] = 0.0500000000,
-                ["$LastCharacterName"] = "Flawed Mangoes",
-                ["version"] = 4,
-                ["mainworldSkyshards"] = "ffffff",
-                ["skillPanelDisplay"] = 2,
-                ["pinTexture"] = 
-                {
-                    ["level"] = 80,
-                    ["size"] = 38,
-                    ["type"] = 1,
-                },
-                ["immersiveMode"] = 1,
-            },
-            ["8796093077976825"] = 
-            {
-                ["filters"] = 
-                {
-                    ["SkySMapPin_collected"] = false,
-                    ["SkySMapPin_unknown"] = true,
-                    ["SkySCompassPin_unknown"] = true,
-                },
-                ["compassMaxDistance"] = 0.0500000000,
-                ["$LastCharacterName"] = "Sunken Feb",
-                ["version"] = 4,
-                ["mainworldSkyshards"] = "ffffff",
-                ["skillPanelDisplay"] = 2,
-                ["pinTexture"] = 
-                {
-                    ["level"] = 80,
-                    ["size"] = 38,
-                    ["type"] = 1,
-                },
-                ["immersiveMode"] = 1,
-            },
-            ["8796093077354797"] = 
-            {
-                ["filters"] = 
-                {
-                    ["SkySMapPin_collected"] = false,
-                    ["SkySMapPin_unknown"] = true,
-                    ["SkySCompassPin_unknown"] = true,
-                },
-                ["compassMaxDistance"] = 0.0500000000,
-                ["$LastCharacterName"] = "noobsmell",
-                ["version"] = 4,
-                ["mainworldSkyshards"] = "ffffff",
-                ["skillPanelDisplay"] = 2,
-                ["pinTexture"] = 
-                {
-                    ["level"] = 80,
-                    ["size"] = 38,
-                    ["type"] = 1,
-                },
-                ["immersiveMode"] = 1,
-            },
-            ["8796093079602369"] = 
-            {
-                ["filters"] = 
-                {
-                    ["SkySMapPin_collected"] = false,
-                    ["SkySMapPin_unknown"] = true,
-                    ["SkySCompassPin_unknown"] = true,
-                },
-                ["compassMaxDistance"] = 0.0500000000,
-                ["$LastCharacterName"] = "Zou Kimcheng",
-                ["version"] = 4,
-                ["mainworldSkyshards"] = "ffffff",
-                ["skillPanelDisplay"] = 2,
-                ["pinTexture"] = 
-                {
-                    ["level"] = 80,
-                    ["size"] = 38,
-                    ["type"] = 1,
-                },
-                ["immersiveMode"] = 1,
-            },
-            ["8796093078739949"] = 
-            {
-                ["filters"] = 
-                {
-                    ["SkySMapPin_collected"] = false,
-                    ["SkySMapPin_unknown"] = true,
-                    ["SkySCompassPin_unknown"] = true,
-                },
-                ["compassMaxDistance"] = 0.0500000000,
-                ["$LastCharacterName"] = "noobbomb",
-                ["version"] = 4,
-                ["mainworldSkyshards"] = "ffffff",
-                ["skillPanelDisplay"] = 2,
-                ["pinTexture"] = 
-                {
-                    ["level"] = 80,
-                    ["size"] = 38,
-                    ["type"] = 1,
-                },
-                ["immersiveMode"] = 1,
-            },
-            ["8796093080474203"] = 
-            {
-                ["filters"] = 
-                {
-                    ["SkySMapPin_collected"] = true,
-                    ["SkySMapPin_unknown"] = true,
-                    ["SkySCompassPin_unknown"] = true,
-                },
-                ["compassMaxDistance"] = 0.0500000000,
-                ["$LastCharacterName"] = "Dizzy Dizzo",
-                ["version"] = 4,
-                ["mainworldSkyshards"] = "ffffff",
-                ["skillPanelDisplay"] = 2,
-                ["pinTexture"] = 
-                {
-                    ["level"] = 80,
-                    ["size"] = 38,
-                    ["type"] = 1,
-                },
-                ["immersiveMode"] = 1,
-            },
-            ["8796093077575729"] = 
-            {
-                ["filters"] = 
-                {
-                    ["SkySMapPin_collected"] = false,
-                    ["SkySMapPin_unknown"] = true,
-                    ["SkySCompassPin_unknown"] = true,
-                },
-                ["compassMaxDistance"] = 0.0500000000,
-                ["$LastCharacterName"] = "noobwick",
-                ["version"] = 4,
-                ["mainworldSkyshards"] = "ffffff",
-                ["skillPanelDisplay"] = 2,
-                ["pinTexture"] = 
-                {
-                    ["level"] = 80,
-                    ["size"] = 38,
-                    ["type"] = 1,
-                },
-                ["immersiveMode"] = 1,
-            },
-            ["8796093077280431"] = 
-            {
-                ["filters"] = 
-                {
-                    ["SkySMapPin_collected"] = false,
-                    ["SkySMapPin_unknown"] = true,
-                    ["SkySCompassPin_unknown"] = true,
-                },
-                ["compassMaxDistance"] = 0.0500000000,
-                ["$LastCharacterName"] = "noobwink",
-                ["version"] = 4,
-                ["mainworldSkyshards"] = "ffffff",
-                ["skillPanelDisplay"] = 2,
-                ["pinTexture"] = 
-                {
-                    ["level"] = 80,
-                    ["size"] = 38,
-                    ["type"] = 1,
-                },
-                ["immersiveMode"] = 1,
-            },
-            ["8796093077130605"] = 
-            {
-                ["filters"] = 
-                {
-                    ["SkySMapPin_collected"] = false,
-                    ["SkySMapPin_unknown"] = true,
-                    ["SkySCompassPin_unknown"] = true,
-                },
-                ["compassMaxDistance"] = 0.0500000000,
-                ["$LastCharacterName"] = "noobhugs",
-                ["version"] = 4,
-                ["mainworldSkyshards"] = "ffffff",
-                ["skillPanelDisplay"] = 2,
-                ["pinTexture"] = 
-                {
-                    ["level"] = 80,
-                    ["size"] = 38,
-                    ["type"] = 1,
-                },
-                ["immersiveMode"] = 1,
-            },
-            ["8796093077546157"] = 
-            {
-                ["filters"] = 
-                {
-                    ["SkySMapPin_collected"] = false,
-                    ["SkySMapPin_unknown"] = true,
-                    ["SkySCompassPin_unknown"] = true,
-                },
-                ["compassMaxDistance"] = 0.0500000000,
-                ["$LastCharacterName"] = "noobsmirk",
-                ["version"] = 4,
-                ["mainworldSkyshards"] = "ffffff",
-                ["skillPanelDisplay"] = 2,
-                ["pinTexture"] = 
-                {
-                    ["level"] = 40,
-                    ["size"] = 38,
-                    ["type"] = 1,
-                },
-                ["immersiveMode"] = 1,
-            },
-            ["8796093077977575"] = 
-            {
-                ["filters"] = 
-                {
-                    ["SkySMapPin_collected"] = false,
-                    ["SkySMapPin_unknown"] = true,
-                    ["SkySCompassPin_unknown"] = true,
-                },
-                ["compassMaxDistance"] = 0.0500000000,
-                ["$LastCharacterName"] = "Killswitch Memories",
-                ["version"] = 4,
-                ["mainworldSkyshards"] = "ffffff",
-                ["skillPanelDisplay"] = 2,
-                ["pinTexture"] = 
-                {
-                    ["level"] = 80,
-                    ["size"] = 38,
-                    ["type"] = 1,
-                },
-                ["immersiveMode"] = 1,
-            },
-            ["8796093078411849"] = 
-            {
-                ["filters"] = 
-                {
-                    ["SkySMapPin_collected"] = false,
-                    ["SkySMapPin_unknown"] = true,
-                    ["SkySCompassPin_unknown"] = true,
-                },
-                ["compassMaxDistance"] = 0.0500000000,
-                ["$LastCharacterName"] = "Young Ming",
-                ["version"] = 4,
-                ["mainworldSkyshards"] = "ffffff",
-                ["skillPanelDisplay"] = 2,
-                ["pinTexture"] = 
-                {
-                    ["level"] = 80,
-                    ["size"] = 38,
-                    ["type"] = 1,
-                },
-                ["immersiveMode"] = 1,
             },
             ["8796093080564087"] = 
             {
+                ["compassMaxDistance"] = 0.0500000000,
+                ["pinTexture"] = 
+                {
+                    ["size"] = 38,
+                    ["level"] = 80,
+                    ["type"] = 1,
+                },
                 ["filters"] = 
                 {
                     ["SkySMapPin_collected"] = true,
                     ["SkySMapPin_unknown"] = true,
                     ["SkySCompassPin_unknown"] = true,
                 },
-                ["compassMaxDistance"] = 0.0500000000,
-                ["$LastCharacterName"] = "Wasted Wasted",
                 ["version"] = 4,
-                ["mainworldSkyshards"] = "ffffff",
                 ["skillPanelDisplay"] = 2,
+                ["immersiveMode"] = 1,
+                ["$LastCharacterName"] = "Wasted Wasted",
+                ["mainworldSkyshards"] = "ffffff",
+            },
+            ["8798292100191884"] = 
+            {
+                ["compassMaxDistance"] = 0.0500000000,
                 ["pinTexture"] = 
                 {
-                    ["level"] = 80,
                     ["size"] = 38,
+                    ["level"] = 80,
                     ["type"] = 1,
                 },
+                ["filters"] = 
+                {
+                    ["SkySMapPin_collected"] = true,
+                    ["SkySMapPin_unknown"] = true,
+                    ["SkySCompassPin_unknown"] = true,
+                },
+                ["version"] = 4,
+                ["skillPanelDisplay"] = 2,
                 ["immersiveMode"] = 1,
+                ["$LastCharacterName"] = "noobkiss",
+                ["mainworldSkyshards"] = "ffffff",
             },
-            ["8796093077977317"] = 
+            ["8796093077546157"] = 
             {
+                ["compassMaxDistance"] = 0.0500000000,
+                ["pinTexture"] = 
+                {
+                    ["size"] = 38,
+                    ["level"] = 40,
+                    ["type"] = 1,
+                },
                 ["filters"] = 
                 {
                     ["SkySMapPin_collected"] = false,
                     ["SkySMapPin_unknown"] = true,
                     ["SkySCompassPin_unknown"] = true,
                 },
-                ["compassMaxDistance"] = 0.0500000000,
-                ["$LastCharacterName"] = "Simmy Seek Snow",
                 ["version"] = 4,
-                ["mainworldSkyshards"] = "ffffff",
                 ["skillPanelDisplay"] = 2,
+                ["immersiveMode"] = 1,
+                ["$LastCharacterName"] = "noobsmirk",
+                ["mainworldSkyshards"] = "ffffff",
+            },
+            ["8796093080475359"] = 
+            {
+                ["compassMaxDistance"] = 0.0500000000,
                 ["pinTexture"] = 
                 {
-                    ["level"] = 80,
                     ["size"] = 38,
+                    ["level"] = 80,
                     ["type"] = 1,
                 },
-                ["immersiveMode"] = 1,
-            },
-        },
-        ["@YYDS1214"] = 
-        {
-            ["8796093077181565"] = 
-            {
                 ["filters"] = 
                 {
                     ["SkySMapPin_collected"] = true,
                     ["SkySMapPin_unknown"] = true,
                     ["SkySCompassPin_unknown"] = true,
                 },
-                ["compassMaxDistance"] = 0.0500000000,
-                ["$LastCharacterName"] = "Aqiya",
                 ["version"] = 4,
-                ["mainworldSkyshards"] = "ffffff",
                 ["skillPanelDisplay"] = 2,
+                ["immersiveMode"] = 1,
+                ["$LastCharacterName"] = "Hymn Hemy",
+                ["mainworldSkyshards"] = "ffffff",
+            },
+            ["8796093080564143"] = 
+            {
+                ["compassMaxDistance"] = 0.0500000000,
                 ["pinTexture"] = 
                 {
-                    ["level"] = 80,
                     ["size"] = 38,
+                    ["level"] = 80,
                     ["type"] = 1,
                 },
-                ["immersiveMode"] = 1,
-            },
-            ["8796093077165965"] = 
-            {
                 ["filters"] = 
                 {
                     ["SkySMapPin_collected"] = true,
                     ["SkySMapPin_unknown"] = true,
                     ["SkySCompassPin_unknown"] = true,
                 },
-                ["compassMaxDistance"] = 0.0500000000,
-                ["$LastCharacterName"] = "Junjunya",
                 ["version"] = 4,
-                ["mainworldSkyshards"] = "ffffff",
                 ["skillPanelDisplay"] = 2,
+                ["immersiveMode"] = 1,
+                ["$LastCharacterName"] = "Wasted Wasted",
+                ["mainworldSkyshards"] = "ffffff",
+            },
+            ["8796093077286759"] = 
+            {
+                ["compassMaxDistance"] = 0.0500000000,
                 ["pinTexture"] = 
                 {
-                    ["level"] = 80,
                     ["size"] = 38,
+                    ["level"] = 80,
                     ["type"] = 1,
                 },
+                ["filters"] = 
+                {
+                    ["SkySMapPin_collected"] = false,
+                    ["SkySMapPin_unknown"] = true,
+                    ["SkySCompassPin_unknown"] = true,
+                },
+                ["version"] = 4,
+                ["skillPanelDisplay"] = 2,
                 ["immersiveMode"] = 1,
+                ["$LastCharacterName"] = "Lumina Hoaying",
+                ["mainworldSkyshards"] = "ffffff",
             },
-            ["8796093077181579"] = 
+            ["8796093077130605"] = 
             {
+                ["compassMaxDistance"] = 0.0500000000,
+                ["pinTexture"] = 
+                {
+                    ["size"] = 38,
+                    ["level"] = 80,
+                    ["type"] = 1,
+                },
+                ["filters"] = 
+                {
+                    ["SkySMapPin_collected"] = false,
+                    ["SkySMapPin_unknown"] = true,
+                    ["SkySCompassPin_unknown"] = true,
+                },
+                ["version"] = 4,
+                ["skillPanelDisplay"] = 2,
+                ["immersiveMode"] = 1,
+                ["$LastCharacterName"] = "noobhugs",
+                ["mainworldSkyshards"] = "ffffff",
+            },
+            ["8796093078078769"] = 
+            {
+                ["compassMaxDistance"] = 0.0500000000,
+                ["pinTexture"] = 
+                {
+                    ["size"] = 38,
+                    ["level"] = 80,
+                    ["type"] = 1,
+                },
+                ["filters"] = 
+                {
+                    ["SkySMapPin_collected"] = false,
+                    ["SkySMapPin_unknown"] = true,
+                    ["SkySCompassPin_unknown"] = true,
+                },
+                ["version"] = 4,
+                ["skillPanelDisplay"] = 2,
+                ["immersiveMode"] = 1,
+                ["$LastCharacterName"] = "noobmiss",
+                ["mainworldSkyshards"] = "ffffff",
+            },
+            ["8796093080474203"] = 
+            {
+                ["compassMaxDistance"] = 0.0500000000,
+                ["pinTexture"] = 
+                {
+                    ["size"] = 38,
+                    ["level"] = 80,
+                    ["type"] = 1,
+                },
                 ["filters"] = 
                 {
                     ["SkySMapPin_collected"] = true,
                     ["SkySMapPin_unknown"] = true,
                     ["SkySCompassPin_unknown"] = true,
                 },
-                ["compassMaxDistance"] = 0.0500000000,
-                ["$LastCharacterName"] = "A qiya",
                 ["version"] = 4,
-                ["mainworldSkyshards"] = "ffffff",
                 ["skillPanelDisplay"] = 2,
+                ["immersiveMode"] = 1,
+                ["$LastCharacterName"] = "Dizzy Dizzo",
+                ["mainworldSkyshards"] = "ffffff",
+            },
+            ["8796093077338611"] = 
+            {
+                ["compassMaxDistance"] = 0.0500000000,
                 ["pinTexture"] = 
                 {
-                    ["level"] = 80,
                     ["size"] = 38,
+                    ["level"] = 80,
                     ["type"] = 1,
                 },
+                ["filters"] = 
+                {
+                    ["SkySMapPin_collected"] = false,
+                    ["SkySMapPin_unknown"] = true,
+                    ["SkySCompassPin_unknown"] = true,
+                },
+                ["version"] = 4,
+                ["skillPanelDisplay"] = 2,
                 ["immersiveMode"] = 1,
+                ["$LastCharacterName"] = "noobsimper",
+                ["mainworldSkyshards"] = "ffffff",
             },
-            ["8796093077181587"] = 
+            ["8796093080474427"] = 
             {
+                ["compassMaxDistance"] = 0.0500000000,
+                ["pinTexture"] = 
+                {
+                    ["size"] = 38,
+                    ["level"] = 80,
+                    ["type"] = 1,
+                },
                 ["filters"] = 
                 {
                     ["SkySMapPin_collected"] = true,
                     ["SkySMapPin_unknown"] = true,
                     ["SkySCompassPin_unknown"] = true,
                 },
-                ["compassMaxDistance"] = 0.0500000000,
-                ["$LastCharacterName"] = "a qi ya",
                 ["version"] = 4,
-                ["mainworldSkyshards"] = "ffffff",
                 ["skillPanelDisplay"] = 2,
+                ["immersiveMode"] = 1,
+                ["$LastCharacterName"] = "Vex Vex Loop",
+                ["mainworldSkyshards"] = "ffffff",
+            },
+            ["8796093077280469"] = 
+            {
+                ["compassMaxDistance"] = 0.0500000000,
                 ["pinTexture"] = 
                 {
-                    ["level"] = 80,
                     ["size"] = 38,
+                    ["level"] = 40,
                     ["type"] = 1,
                 },
-                ["immersiveMode"] = 1,
-            },
-            ["8796093077616617"] = 
-            {
                 ["filters"] = 
                 {
-                    ["SkySMapPin_collected"] = true,
+                    ["SkySMapPin_collected"] = false,
                     ["SkySMapPin_unknown"] = true,
                     ["SkySCompassPin_unknown"] = true,
                 },
-                ["compassMaxDistance"] = 0.0500000000,
-                ["$LastCharacterName"] = "shiaqi",
                 ["version"] = 4,
-                ["mainworldSkyshards"] = "ffffff",
                 ["skillPanelDisplay"] = 2,
+                ["immersiveMode"] = 1,
+                ["$LastCharacterName"] = "noobxoxo",
+                ["mainworldSkyshards"] = "ffffff",
+            },
+            ["8796093079602369"] = 
+            {
+                ["compassMaxDistance"] = 0.0500000000,
                 ["pinTexture"] = 
                 {
-                    ["level"] = 80,
                     ["size"] = 38,
+                    ["level"] = 80,
                     ["type"] = 1,
                 },
-                ["immersiveMode"] = 1,
-            },
-            ["8796093077595053"] = 
-            {
                 ["filters"] = 
                 {
-                    ["SkySMapPin_collected"] = true,
+                    ["SkySMapPin_collected"] = false,
                     ["SkySMapPin_unknown"] = true,
                     ["SkySCompassPin_unknown"] = true,
                 },
-                ["compassMaxDistance"] = 0.0500000000,
-                ["$LastCharacterName"] = "aqi ya",
                 ["version"] = 4,
-                ["mainworldSkyshards"] = "ffffff",
                 ["skillPanelDisplay"] = 2,
+                ["immersiveMode"] = 1,
+                ["$LastCharacterName"] = "Zou Kimcheng",
+                ["mainworldSkyshards"] = "ffffff",
+            },
+            ["8796093077142221"] = 
+            {
+                ["compassMaxDistance"] = 0.0500000000,
                 ["pinTexture"] = 
                 {
-                    ["level"] = 80,
                     ["size"] = 38,
+                    ["level"] = 80,
                     ["type"] = 1,
                 },
-                ["immersiveMode"] = 1,
-            },
-            ["8796093077181623"] = 
-            {
                 ["filters"] = 
                 {
-                    ["SkySMapPin_collected"] = true,
+                    ["SkySMapPin_collected"] = false,
                     ["SkySMapPin_unknown"] = true,
                     ["SkySCompassPin_unknown"] = true,
                 },
-                ["compassMaxDistance"] = 0.0500000000,
-                ["$LastCharacterName"] = "Aqi Yaa",
                 ["version"] = 4,
-                ["mainworldSkyshards"] = "ffffff",
                 ["skillPanelDisplay"] = 2,
+                ["immersiveMode"] = 1,
+                ["$LastCharacterName"] = "noobxoxo",
+                ["mainworldSkyshards"] = "ffffff",
+            },
+            ["8796093077977575"] = 
+            {
+                ["compassMaxDistance"] = 0.0500000000,
                 ["pinTexture"] = 
                 {
-                    ["level"] = 80,
                     ["size"] = 38,
+                    ["level"] = 80,
                     ["type"] = 1,
                 },
-                ["immersiveMode"] = 1,
-            },
-            ["8796093077153837"] = 
-            {
                 ["filters"] = 
                 {
-                    ["SkySMapPin_collected"] = true,
+                    ["SkySMapPin_collected"] = false,
                     ["SkySMapPin_unknown"] = true,
                     ["SkySCompassPin_unknown"] = true,
                 },
-                ["compassMaxDistance"] = 0.0500000000,
-                ["$LastCharacterName"] = "Yang Yyds",
                 ["version"] = 4,
-                ["mainworldSkyshards"] = "ffffff",
                 ["skillPanelDisplay"] = 2,
+                ["immersiveMode"] = 1,
+                ["$LastCharacterName"] = "Killswitch Memories",
+                ["mainworldSkyshards"] = "ffffff",
+            },
+            ["8796093076445407"] = 
+            {
+                ["compassMaxDistance"] = 0.0500000000,
                 ["pinTexture"] = 
                 {
-                    ["level"] = 80,
                     ["size"] = 38,
+                    ["level"] = 80,
                     ["type"] = 1,
                 },
+                ["filters"] = 
+                {
+                    ["SkySMapPin_collected"] = false,
+                    ["SkySMapPin_unknown"] = true,
+                    ["SkySCompassPin_unknown"] = true,
+                },
+                ["version"] = 4,
+                ["skillPanelDisplay"] = 2,
                 ["immersiveMode"] = 1,
+                ["$LastCharacterName"] = "noobkiss",
+                ["mainworldSkyshards"] = "ffffff",
+            },
+            ["8796093077622069"] = 
+            {
+                ["compassMaxDistance"] = 0.0500000000,
+                ["pinTexture"] = 
+                {
+                    ["size"] = 38,
+                    ["level"] = 40,
+                    ["type"] = 1,
+                },
+                ["filters"] = 
+                {
+                    ["SkySMapPin_collected"] = false,
+                    ["SkySMapPin_unknown"] = true,
+                    ["SkySCompassPin_unknown"] = true,
+                },
+                ["version"] = 4,
+                ["skillPanelDisplay"] = 2,
+                ["immersiveMode"] = 1,
+                ["$LastCharacterName"] = "noobwick",
+                ["mainworldSkyshards"] = "ffffff",
+            },
+            ["8796093077280363"] = 
+            {
+                ["compassMaxDistance"] = 0.0500000000,
+                ["pinTexture"] = 
+                {
+                    ["size"] = 38,
+                    ["level"] = 80,
+                    ["type"] = 1,
+                },
+                ["filters"] = 
+                {
+                    ["SkySMapPin_collected"] = false,
+                    ["SkySMapPin_unknown"] = true,
+                    ["SkySCompassPin_unknown"] = true,
+                },
+                ["version"] = 4,
+                ["skillPanelDisplay"] = 2,
+                ["immersiveMode"] = 1,
+                ["$LastCharacterName"] = "noobsmile",
+                ["mainworldSkyshards"] = "ffffff",
             },
         },
     },

@@ -2,13 +2,22 @@ LibCustomIconsSV =
 {
     ["Default"] = 
     {
+        ["@YYDS1214"] = 
+        {
+            ["$AccountWide"] = 
+            {
+                ["genAnimated"] = false,
+                ["version"] = 1,
+                ["genStatic"] = false,
+            },
+        },
         ["@Kankerkop"] = 
         {
             ["$AccountWide"] = 
             {
                 ["genAnimated"] = false,
-                ["genStatic"] = false,
                 ["version"] = 1,
+                ["genStatic"] = false,
             },
         },
         ["@noobkiss"] = 
@@ -16,17 +25,8 @@ LibCustomIconsSV =
             ["$AccountWide"] = 
             {
                 ["genAnimated"] = false,
-                ["genStatic"] = false,
                 ["version"] = 1,
-            },
-        },
-        ["@YYDS1214"] = 
-        {
-            ["$AccountWide"] = 
-            {
-                ["genAnimated"] = false,
                 ["genStatic"] = false,
-                ["version"] = 1,
             },
         },
     },

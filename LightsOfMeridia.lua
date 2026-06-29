@@ -2,29 +2,10 @@ LightsOfMeridiaVars =
 {
     ["Default"] = 
     {
-        ["@Jonzouio"] = 
-        {
-            ["$AccountWide"] = 
-            {
-                ["Options"] = 
-                {
-                },
-                ["Data"] = 
-                {
-                    ["Settings"] = 
-                    {
-                    },
-                },
-                ["version"] = 1,
-            },
-        },
         ["@Kankerkop"] = 
         {
             ["$AccountWide"] = 
             {
-                ["Options"] = 
-                {
-                },
                 ["Data"] = 
                 {
                     ["Settings"] = 
@@ -32,15 +13,47 @@ LightsOfMeridiaVars =
                     },
                 },
                 ["version"] = 1,
+                ["Options"] = 
+                {
+                },
+            },
+        },
+        ["@YYDS1214"] = 
+        {
+            ["$AccountWide"] = 
+            {
+                ["Data"] = 
+                {
+                    ["Settings"] = 
+                    {
+                    },
+                },
+                ["version"] = 1,
+                ["Options"] = 
+                {
+                },
+            },
+        },
+        ["@Jonzouio"] = 
+        {
+            ["$AccountWide"] = 
+            {
+                ["Data"] = 
+                {
+                    ["Settings"] = 
+                    {
+                    },
+                },
+                ["version"] = 1,
+                ["Options"] = 
+                {
+                },
             },
         },
         ["@noobkiss"] = 
         {
             ["$AccountWide"] = 
             {
-                ["Options"] = 
-                {
-                },
                 ["Data"] = 
                 {
                     ["Settings"] = 
@@ -51,22 +64,9 @@ LightsOfMeridiaVars =
                     ["WarningVideoSettings"] = true,
                 },
                 ["version"] = 1,
-            },
-        },
-        ["@YYDS1214"] = 
-        {
-            ["$AccountWide"] = 
-            {
                 ["Options"] = 
                 {
                 },
-                ["Data"] = 
-                {
-                    ["Settings"] = 
-                    {
-                    },
-                },
-                ["version"] = 1,
             },
         },
     },

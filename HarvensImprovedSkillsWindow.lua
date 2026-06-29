@@ -2,226 +2,226 @@ HarvensImprovedSkillsWindow_SavedVariables =
 {
     ["Default"] = 
     {
-        ["@Jonzouio"] = 
-        {
-            ["Jonzouio"] = 
-            {
-                ["showDetails"] = true,
-                ["showTotal"] = false,
-                ["version"] = 1,
-            },
-        },
         ["@Kankerkop"] = 
         {
-            ["Kaaskop"] = 
-            {
-                ["showDetails"] = true,
-                ["showTotal"] = false,
-                ["version"] = 1,
-            },
             ["Kankerkop"] = 
             {
-                ["showDetails"] = true,
                 ["showTotal"] = false,
                 ["version"] = 1,
+                ["showDetails"] = true,
             },
-        },
-        ["@noobkiss"] = 
-        {
-            ["Killswitch Memories"] = 
+            ["Kaaskop"] = 
             {
-                ["showDetails"] = true,
                 ["showTotal"] = false,
                 ["version"] = 1,
-            },
-            ["Sunken Feb"] = 
-            {
                 ["showDetails"] = true,
-                ["showTotal"] = false,
-                ["version"] = 1,
-            },
-            ["noobkiss"] = 
-            {
-                ["showDetails"] = true,
-                ["showTotal"] = false,
-                ["version"] = 1,
-            },
-            ["noobmiss"] = 
-            {
-                ["showDetails"] = true,
-                ["showTotal"] = false,
-                ["version"] = 1,
-            },
-            ["Hymn Hemy"] = 
-            {
-                ["showDetails"] = true,
-                ["showTotal"] = false,
-                ["version"] = 1,
-            },
-            ["Vex Vex Loop"] = 
-            {
-                ["showDetails"] = true,
-                ["showTotal"] = false,
-                ["version"] = 1,
-            },
-            ["noobbomb"] = 
-            {
-                ["showDetails"] = true,
-                ["showTotal"] = false,
-                ["version"] = 1,
-            },
-            ["noobxoxo"] = 
-            {
-                ["showDetails"] = true,
-                ["showTotal"] = false,
-                ["version"] = 1,
-            },
-            ["noobhugs"] = 
-            {
-                ["showDetails"] = true,
-                ["showTotal"] = false,
-                ["version"] = 1,
-            },
-            ["noobhappy"] = 
-            {
-                ["showDetails"] = true,
-                ["showTotal"] = false,
-                ["version"] = 1,
-            },
-            ["Joyous Socks"] = 
-            {
-                ["showDetails"] = true,
-                ["showTotal"] = false,
-                ["version"] = 1,
-            },
-            ["Galen Chef Mike"] = 
-            {
-                ["showDetails"] = true,
-                ["showTotal"] = false,
-                ["version"] = 1,
-            },
-            ["noobsmell"] = 
-            {
-                ["showDetails"] = true,
-                ["showTotal"] = false,
-                ["version"] = 1,
-            },
-            ["Simmy Seek Snow"] = 
-            {
-                ["showDetails"] = true,
-                ["showTotal"] = false,
-                ["version"] = 1,
-            },
-            ["Zou Kimcheng"] = 
-            {
-                ["showDetails"] = true,
-                ["showTotal"] = false,
-                ["version"] = 1,
-            },
-            ["noobsimper"] = 
-            {
-                ["showDetails"] = true,
-                ["showTotal"] = false,
-                ["version"] = 1,
-            },
-            ["Lumina Hoaying"] = 
-            {
-                ["showDetails"] = true,
-                ["showTotal"] = false,
-                ["version"] = 1,
-            },
-            ["Wasted Wasted"] = 
-            {
-                ["showDetails"] = true,
-                ["showTotal"] = false,
-                ["version"] = 1,
-            },
-            ["noobwick"] = 
-            {
-                ["showDetails"] = true,
-                ["showTotal"] = false,
-                ["version"] = 1,
-            },
-            ["noobwink"] = 
-            {
-                ["showDetails"] = true,
-                ["showTotal"] = false,
-                ["version"] = 1,
-            },
-            ["noobsmile"] = 
-            {
-                ["showDetails"] = true,
-                ["showTotal"] = false,
-                ["version"] = 1,
-            },
-            ["Young Ming"] = 
-            {
-                ["showDetails"] = true,
-                ["showTotal"] = false,
-                ["version"] = 1,
-            },
-            ["Flawed Mangoes"] = 
-            {
-                ["showDetails"] = true,
-                ["showTotal"] = false,
-                ["version"] = 1,
-            },
-            ["Dizzy Dizzo"] = 
-            {
-                ["showDetails"] = true,
-                ["showTotal"] = false,
-                ["version"] = 1,
             },
         },
         ["@YYDS1214"] = 
         {
-            ["aqi ya"] = 
+            ["shiaqi"] = 
             {
-                ["showDetails"] = true,
                 ["showTotal"] = false,
                 ["version"] = 1,
-            },
-            ["Yang Yyds"] = 
-            {
                 ["showDetails"] = true,
-                ["showTotal"] = false,
-                ["version"] = 1,
             },
             ["A qiya"] = 
             {
-                ["showDetails"] = true,
                 ["showTotal"] = false,
                 ["version"] = 1,
+                ["showDetails"] = true,
             },
-            ["Aqi Yaa"] = 
+            ["aqi ya"] = 
             {
-                ["showDetails"] = true,
                 ["showTotal"] = false,
                 ["version"] = 1,
+                ["showDetails"] = true,
             },
-            ["Junjunya"] = 
+            ["Yang Yyds"] = 
             {
-                ["showDetails"] = true,
                 ["showTotal"] = false,
                 ["version"] = 1,
+                ["showDetails"] = true,
             },
             ["a qi ya"] = 
             {
-                ["showDetails"] = true,
                 ["showTotal"] = false,
                 ["version"] = 1,
+                ["showDetails"] = true,
+            },
+            ["Aqi Yaa"] = 
+            {
+                ["showTotal"] = false,
+                ["version"] = 1,
+                ["showDetails"] = true,
             },
             ["Aqiya"] = 
             {
-                ["showDetails"] = true,
                 ["showTotal"] = false,
                 ["version"] = 1,
+                ["showDetails"] = true,
             },
-            ["shiaqi"] = 
+            ["Junjunya"] = 
             {
-                ["showDetails"] = true,
                 ["showTotal"] = false,
                 ["version"] = 1,
+                ["showDetails"] = true,
+            },
+        },
+        ["@Jonzouio"] = 
+        {
+            ["Jonzouio"] = 
+            {
+                ["showTotal"] = false,
+                ["version"] = 1,
+                ["showDetails"] = true,
+            },
+        },
+        ["@noobkiss"] = 
+        {
+            ["noobsmile"] = 
+            {
+                ["showTotal"] = false,
+                ["version"] = 1,
+                ["showDetails"] = true,
+            },
+            ["noobkiss"] = 
+            {
+                ["showTotal"] = false,
+                ["version"] = 1,
+                ["showDetails"] = true,
+            },
+            ["noobhappy"] = 
+            {
+                ["showTotal"] = false,
+                ["version"] = 1,
+                ["showDetails"] = true,
+            },
+            ["noobwick"] = 
+            {
+                ["showTotal"] = false,
+                ["version"] = 1,
+                ["showDetails"] = true,
+            },
+            ["Wasted Wasted"] = 
+            {
+                ["showTotal"] = false,
+                ["version"] = 1,
+                ["showDetails"] = true,
+            },
+            ["Hymn Hemy"] = 
+            {
+                ["showTotal"] = false,
+                ["version"] = 1,
+                ["showDetails"] = true,
+            },
+            ["Dizzy Dizzo"] = 
+            {
+                ["showTotal"] = false,
+                ["version"] = 1,
+                ["showDetails"] = true,
+            },
+            ["Young Ming"] = 
+            {
+                ["showTotal"] = false,
+                ["version"] = 1,
+                ["showDetails"] = true,
+            },
+            ["Lumina Hoaying"] = 
+            {
+                ["showTotal"] = false,
+                ["version"] = 1,
+                ["showDetails"] = true,
+            },
+            ["noobwink"] = 
+            {
+                ["showTotal"] = false,
+                ["version"] = 1,
+                ["showDetails"] = true,
+            },
+            ["noobhugs"] = 
+            {
+                ["showTotal"] = false,
+                ["version"] = 1,
+                ["showDetails"] = true,
+            },
+            ["noobsmell"] = 
+            {
+                ["showTotal"] = false,
+                ["version"] = 1,
+                ["showDetails"] = true,
+            },
+            ["noobmiss"] = 
+            {
+                ["showTotal"] = false,
+                ["version"] = 1,
+                ["showDetails"] = true,
+            },
+            ["noobsimper"] = 
+            {
+                ["showTotal"] = false,
+                ["version"] = 1,
+                ["showDetails"] = true,
+            },
+            ["Galen Chef Mike"] = 
+            {
+                ["showTotal"] = false,
+                ["version"] = 1,
+                ["showDetails"] = true,
+            },
+            ["Sunken Feb"] = 
+            {
+                ["showTotal"] = false,
+                ["version"] = 1,
+                ["showDetails"] = true,
+            },
+            ["Vex Vex Loop"] = 
+            {
+                ["showTotal"] = false,
+                ["version"] = 1,
+                ["showDetails"] = true,
+            },
+            ["noobbomb"] = 
+            {
+                ["showTotal"] = false,
+                ["version"] = 1,
+                ["showDetails"] = true,
+            },
+            ["Zou Kimcheng"] = 
+            {
+                ["showTotal"] = false,
+                ["version"] = 1,
+                ["showDetails"] = true,
+            },
+            ["Joyous Socks"] = 
+            {
+                ["showTotal"] = false,
+                ["version"] = 1,
+                ["showDetails"] = true,
+            },
+            ["Killswitch Memories"] = 
+            {
+                ["showTotal"] = false,
+                ["version"] = 1,
+                ["showDetails"] = true,
+            },
+            ["Flawed Mangoes"] = 
+            {
+                ["showTotal"] = false,
+                ["version"] = 1,
+                ["showDetails"] = true,
+            },
+            ["noobxoxo"] = 
+            {
+                ["showTotal"] = false,
+                ["version"] = 1,
+                ["showDetails"] = true,
+            },
+            ["Simmy Seek Snow"] = 
+            {
+                ["showTotal"] = false,
+                ["version"] = 1,
+                ["showDetails"] = true,
             },
         },
     },

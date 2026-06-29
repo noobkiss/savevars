@@ -2,73 +2,41 @@ AddonSelectorSavedVars =
 {
     ["Default"] = 
     {
-        ["@Jonzouio"] = 
-        {
-            ["$AccountWide"] = 
-            {
-                ["selectedPackNameForCharacters"] = 
-                {
-                },
-                ["showGroupedByCharacterName"] = false,
-                ["showGlobalPacks"] = true,
-                ["searchHistory"] = 
-                {
-                },
-                ["packKeybinds"] = 
-                {
-                    [1] = 
-                    {
-                    },
-                    [2] = 
-                    {
-                    },
-                    [3] = 
-                    {
-                    },
-                    [4] = 
-                    {
-                    },
-                    [5] = 
-                    {
-                    },
-                },
-                ["searchExcludeFilename"] = false,
-                ["svMigrationToServerDone"] = false,
-                ["packChangedBeforeReloadUI"] = false,
-                ["showSearchFilterAtPacksList"] = true,
-                ["addonPacksOfChar"] = 
-                {
-                },
-                ["showSubMenuAtGlobalPacks"] = true,
-                ["saveGroupedByCharacterName"] = false,
-                ["searchSaveHistory"] = false,
-                ["autoReloadUI"] = false,
-                ["searchHistoryMaxEntries"] = 10,
-                ["selectAllSave"] = 
-                {
-                },
-                ["addPackTooltip"] = false,
-                ["version"] = 1,
-                ["showPacksAddonList"] = false,
-                ["addonPacks"] = 
-                {
-                },
-                ["lastLoadedPackNameForCharacters"] = 
-                {
-                },
-                ["showPacksOfOtherAccountsChars"] = true,
-            },
-        },
         ["@Kankerkop"] = 
         {
             ["$AccountWide"] = 
             {
+                ["searchSaveHistory"] = false,
+                ["showPacksAddonList"] = false,
+                ["selectAllSave"] = 
+                {
+                },
+                ["showGlobalPacks"] = true,
+                ["showSearchFilterAtPacksList"] = true,
                 ["selectedPackNameForCharacters"] = 
                 {
                 },
-                ["showGroupedByCharacterName"] = false,
-                ["showGlobalPacks"] = true,
+                ["version"] = 1,
+                ["autoAddMissingDependencyAtPackLoad"] = false,
+                ["showPacksOfOtherAccountsChars"] = true,
+                ["svMigrationToServerDone"] = false,
+                ["packChangedBeforeReloadUI"] = false,
+                ["autoReloadUI"] = false,
+                ["lastLoadedPackNameForCharacters"] = 
+                {
+                },
+                ["searchExcludeFilename"] = false,
+                ["saveGroupedByCharacterName"] = false,
+                ["addPackTooltip"] = false,
                 ["searchHistory"] = 
+                {
+                },
+                ["addonPacksOfChar"] = 
+                {
+                },
+                ["showGroupedByCharacterName"] = false,
+                ["showSubMenuAtGlobalPacks"] = true,
+                ["addonPacks"] = 
                 {
                 },
                 ["packKeybinds"] = 
@@ -89,102 +57,44 @@ AddonSelectorSavedVars =
                     {
                     },
                 },
-                ["searchExcludeFilename"] = false,
-                ["svMigrationToServerDone"] = false,
-                ["packChangedBeforeReloadUI"] = false,
-                ["autoAddMissingDependencyAtPackLoad"] = false,
-                ["addonPacksOfChar"] = 
-                {
-                },
-                ["showSubMenuAtGlobalPacks"] = true,
-                ["saveGroupedByCharacterName"] = false,
-                ["searchSaveHistory"] = false,
-                ["autoReloadUI"] = false,
                 ["searchHistoryMaxEntries"] = 10,
-                ["selectAllSave"] = 
-                {
-                },
-                ["showSearchFilterAtPacksList"] = true,
-                ["addPackTooltip"] = false,
-                ["version"] = 1,
-                ["showPacksAddonList"] = false,
-                ["addonPacks"] = 
-                {
-                },
-                ["lastLoadedPackNameForCharacters"] = 
-                {
-                },
-                ["showPacksOfOtherAccountsChars"] = true,
-            },
-        },
-        ["@noobkiss"] = 
-        {
-            ["$AccountWide"] = 
-            {
-                ["selectedPackNameForCharacters"] = 
-                {
-                },
-                ["showGroupedByCharacterName"] = false,
-                ["showGlobalPacks"] = true,
-                ["searchHistory"] = 
-                {
-                },
-                ["packKeybinds"] = 
-                {
-                    [1] = 
-                    {
-                    },
-                    [2] = 
-                    {
-                    },
-                    [3] = 
-                    {
-                    },
-                    [4] = 
-                    {
-                    },
-                    [5] = 
-                    {
-                    },
-                },
-                ["searchExcludeFilename"] = false,
-                ["svMigrationToServerDone"] = false,
-                ["packChangedBeforeReloadUI"] = false,
-                ["autoAddMissingDependencyAtPackLoad"] = false,
-                ["addonPacksOfChar"] = 
-                {
-                },
-                ["showSubMenuAtGlobalPacks"] = true,
-                ["saveGroupedByCharacterName"] = false,
-                ["searchSaveHistory"] = false,
-                ["autoReloadUI"] = false,
-                ["searchHistoryMaxEntries"] = 10,
-                ["selectAllSave"] = 
-                {
-                },
-                ["showSearchFilterAtPacksList"] = true,
-                ["addPackTooltip"] = false,
-                ["version"] = 1,
-                ["showPacksAddonList"] = false,
-                ["addonPacks"] = 
-                {
-                },
-                ["lastLoadedPackNameForCharacters"] = 
-                {
-                },
-                ["showPacksOfOtherAccountsChars"] = true,
             },
         },
         ["@YYDS1214"] = 
         {
             ["$AccountWide"] = 
             {
+                ["searchSaveHistory"] = false,
+                ["showPacksAddonList"] = false,
+                ["selectAllSave"] = 
+                {
+                },
+                ["showGlobalPacks"] = true,
+                ["showSearchFilterAtPacksList"] = true,
                 ["selectedPackNameForCharacters"] = 
                 {
                 },
-                ["showGroupedByCharacterName"] = false,
-                ["showGlobalPacks"] = true,
+                ["version"] = 1,
+                ["autoAddMissingDependencyAtPackLoad"] = false,
+                ["showPacksOfOtherAccountsChars"] = true,
+                ["svMigrationToServerDone"] = false,
+                ["packChangedBeforeReloadUI"] = false,
+                ["autoReloadUI"] = false,
+                ["lastLoadedPackNameForCharacters"] = 
+                {
+                },
+                ["searchExcludeFilename"] = false,
+                ["saveGroupedByCharacterName"] = false,
+                ["addPackTooltip"] = false,
                 ["searchHistory"] = 
+                {
+                },
+                ["addonPacksOfChar"] = 
+                {
+                },
+                ["showGroupedByCharacterName"] = false,
+                ["showSubMenuAtGlobalPacks"] = true,
+                ["addonPacks"] = 
                 {
                 },
                 ["packKeybinds"] = 
@@ -205,56 +115,43 @@ AddonSelectorSavedVars =
                     {
                     },
                 },
-                ["searchExcludeFilename"] = false,
-                ["svMigrationToServerDone"] = false,
-                ["packChangedBeforeReloadUI"] = false,
-                ["autoAddMissingDependencyAtPackLoad"] = false,
-                ["addonPacksOfChar"] = 
-                {
-                },
-                ["showSubMenuAtGlobalPacks"] = true,
-                ["saveGroupedByCharacterName"] = false,
-                ["searchSaveHistory"] = false,
-                ["autoReloadUI"] = false,
                 ["searchHistoryMaxEntries"] = 10,
-                ["selectAllSave"] = 
-                {
-                },
-                ["showSearchFilterAtPacksList"] = true,
-                ["addPackTooltip"] = false,
-                ["version"] = 1,
-                ["showPacksAddonList"] = false,
-                ["addonPacks"] = 
-                {
-                },
-                ["lastLoadedPackNameForCharacters"] = 
-                {
-                },
-                ["showPacksOfOtherAccountsChars"] = true,
             },
         },
-    },
-    ["EU Megaserver"] = 
-    {
-        ["@noobkiss"] = 
-        {
-            ["8798292100191884"] = 
-            {
-                ["skipLoadAddonPackOnLogout"] = false,
-                ["$LastCharacterName"] = "noobkiss",
-                ["version"] = 1,
-            },
-        },
-        ["AllAccounts"] = 
+        ["@Jonzouio"] = 
         {
             ["$AccountWide"] = 
             {
+                ["searchSaveHistory"] = false,
+                ["showPacksAddonList"] = false,
+                ["selectAllSave"] = 
+                {
+                },
+                ["showGlobalPacks"] = true,
+                ["showSearchFilterAtPacksList"] = true,
                 ["selectedPackNameForCharacters"] = 
                 {
                 },
-                ["showGroupedByCharacterName"] = false,
-                ["showGlobalPacks"] = true,
+                ["version"] = 1,
+                ["showPacksOfOtherAccountsChars"] = true,
+                ["svMigrationToServerDone"] = false,
+                ["packChangedBeforeReloadUI"] = false,
+                ["saveGroupedByCharacterName"] = false,
+                ["lastLoadedPackNameForCharacters"] = 
+                {
+                },
+                ["searchExcludeFilename"] = false,
+                ["autoReloadUI"] = false,
+                ["addPackTooltip"] = false,
                 ["searchHistory"] = 
+                {
+                },
+                ["addonPacksOfChar"] = 
+                {
+                },
+                ["showGroupedByCharacterName"] = false,
+                ["showSubMenuAtGlobalPacks"] = true,
+                ["addonPacks"] = 
                 {
                 },
                 ["packKeybinds"] = 
@@ -275,274 +172,151 @@ AddonSelectorSavedVars =
                     {
                     },
                 },
-                ["searchExcludeFilename"] = false,
-                ["svMigrationToServerDone"] = true,
-                ["packChangedBeforeReloadUI"] = false,
-                ["autoAddMissingDependencyAtPackLoad"] = false,
-                ["addonPacksOfChar"] = 
-                {
-                },
-                ["showSubMenuAtGlobalPacks"] = true,
-                ["saveGroupedByCharacterName"] = false,
-                ["searchSaveHistory"] = false,
-                ["autoReloadUI"] = false,
                 ["searchHistoryMaxEntries"] = 10,
+            },
+        },
+        ["@noobkiss"] = 
+        {
+            ["$AccountWide"] = 
+            {
+                ["searchSaveHistory"] = false,
+                ["showPacksAddonList"] = false,
                 ["selectAllSave"] = 
                 {
                 },
+                ["showGlobalPacks"] = true,
                 ["showSearchFilterAtPacksList"] = true,
-                ["addPackTooltip"] = false,
-                ["version"] = 1,
-                ["showPacksAddonList"] = false,
-                ["addonPacks"] = 
+                ["selectedPackNameForCharacters"] = 
                 {
                 },
+                ["version"] = 1,
+                ["autoAddMissingDependencyAtPackLoad"] = false,
+                ["showPacksOfOtherAccountsChars"] = true,
+                ["svMigrationToServerDone"] = false,
+                ["packChangedBeforeReloadUI"] = false,
+                ["autoReloadUI"] = false,
                 ["lastLoadedPackNameForCharacters"] = 
                 {
                 },
-                ["showPacksOfOtherAccountsChars"] = true,
+                ["searchExcludeFilename"] = false,
+                ["saveGroupedByCharacterName"] = false,
+                ["addPackTooltip"] = false,
+                ["searchHistory"] = 
+                {
+                },
+                ["addonPacksOfChar"] = 
+                {
+                },
+                ["showGroupedByCharacterName"] = false,
+                ["showSubMenuAtGlobalPacks"] = true,
+                ["addonPacks"] = 
+                {
+                },
+                ["packKeybinds"] = 
+                {
+                    [1] = 
+                    {
+                    },
+                    [2] = 
+                    {
+                    },
+                    [3] = 
+                    {
+                    },
+                    [4] = 
+                    {
+                    },
+                    [5] = 
+                    {
+                    },
+                },
+                ["searchHistoryMaxEntries"] = 10,
             },
         },
     },
     ["NA Megaserver"] = 
     {
-        ["@noobkiss"] = 
+        ["@YYDS1214"] = 
         {
-            ["8796093077622069"] = 
+            ["8796093077181579"] = 
             {
-                ["skipLoadAddonPackOnLogout"] = false,
-                ["$LastCharacterName"] = "noobwick",
+                ["$LastCharacterName"] = "A qiya",
                 ["version"] = 1,
+                ["skipLoadAddonPackOnLogout"] = false,
             },
-            ["8796093077546265"] = 
+            ["8796093077181565"] = 
             {
-                ["skipLoadAddonPackOnLogout"] = false,
-                ["$LastCharacterName"] = "Galen Chef Mike",
+                ["$LastCharacterName"] = "Aqiya",
                 ["version"] = 1,
+                ["skipLoadAddonPackOnLogout"] = false,
             },
-            ["8796093080474427"] = 
+            ["8796093077153837"] = 
             {
-                ["skipLoadAddonPackOnLogout"] = false,
-                ["$LastCharacterName"] = "Vex Vex Loop",
+                ["$LastCharacterName"] = "Yang Yyds",
                 ["version"] = 1,
+                ["skipLoadAddonPackOnLogout"] = false,
             },
-            ["8796093077286759"] = 
+            ["8796093077595053"] = 
             {
-                ["skipLoadAddonPackOnLogout"] = false,
-                ["$LastCharacterName"] = "Lumina Hoaying",
+                ["$LastCharacterName"] = "aqi ya",
                 ["version"] = 1,
+                ["skipLoadAddonPackOnLogout"] = false,
             },
-            ["8796093078078769"] = 
+            ["8796093077181587"] = 
             {
-                ["skipLoadAddonPackOnLogout"] = false,
-                ["$LastCharacterName"] = "noobmiss",
+                ["$LastCharacterName"] = "a qi ya",
                 ["version"] = 1,
+                ["skipLoadAddonPackOnLogout"] = false,
             },
-            ["8796093080564143"] = 
+            ["8796093077616617"] = 
             {
-                ["skipLoadAddonPackOnLogout"] = false,
-                ["$LastCharacterName"] = "Wasted Wasted",
+                ["$LastCharacterName"] = "shiaqi",
                 ["version"] = 1,
+                ["skipLoadAddonPackOnLogout"] = false,
             },
-            ["8796093077280363"] = 
+            ["8796093077181623"] = 
             {
-                ["skipLoadAddonPackOnLogout"] = false,
-                ["$LastCharacterName"] = "noobsmile",
+                ["$LastCharacterName"] = "Aqi Yaa",
                 ["version"] = 1,
+                ["skipLoadAddonPackOnLogout"] = false,
             },
-            ["8796093077338611"] = 
+            ["8796093077165965"] = 
             {
-                ["skipLoadAddonPackOnLogout"] = false,
-                ["$LastCharacterName"] = "noobsimper",
+                ["$LastCharacterName"] = "Junjunya",
                 ["version"] = 1,
-            },
-            ["8796093077575525"] = 
-            {
                 ["skipLoadAddonPackOnLogout"] = false,
-                ["$LastCharacterName"] = "Joyous Socks",
-                ["version"] = 1,
-            },
-            ["8796093077280469"] = 
-            {
-                ["skipLoadAddonPackOnLogout"] = false,
-                ["$LastCharacterName"] = "noobxoxo",
-                ["version"] = 1,
-            },
-            ["8796093077142221"] = 
-            {
-                ["skipLoadAddonPackOnLogout"] = false,
-                ["$LastCharacterName"] = "noobxoxo",
-                ["version"] = 1,
-            },
-            ["8796093077286887"] = 
-            {
-                ["skipLoadAddonPackOnLogout"] = false,
-                ["$LastCharacterName"] = "noobhappy",
-                ["version"] = 1,
-            },
-            ["8796093080475359"] = 
-            {
-                ["skipLoadAddonPackOnLogout"] = false,
-                ["$LastCharacterName"] = "Hymn Hemy",
-                ["version"] = 1,
-            },
-            ["8796093076445407"] = 
-            {
-                ["skipLoadAddonPackOnLogout"] = false,
-                ["$LastCharacterName"] = "noobkiss",
-                ["version"] = 1,
-            },
-            ["8796093080650625"] = 
-            {
-                ["skipLoadAddonPackOnLogout"] = false,
-                ["$LastCharacterName"] = "Flawed Mangoes",
-                ["version"] = 1,
-            },
-            ["8796093077976825"] = 
-            {
-                ["skipLoadAddonPackOnLogout"] = false,
-                ["$LastCharacterName"] = "Sunken Feb",
-                ["version"] = 1,
-            },
-            ["8796093077354797"] = 
-            {
-                ["skipLoadAddonPackOnLogout"] = false,
-                ["$LastCharacterName"] = "noobsmell",
-                ["version"] = 1,
-            },
-            ["8796093079602369"] = 
-            {
-                ["skipLoadAddonPackOnLogout"] = false,
-                ["$LastCharacterName"] = "Zou Kimcheng",
-                ["version"] = 1,
-            },
-            ["8796093078739949"] = 
-            {
-                ["skipLoadAddonPackOnLogout"] = false,
-                ["$LastCharacterName"] = "noobbomb",
-                ["version"] = 1,
-            },
-            ["8796093077575729"] = 
-            {
-                ["skipLoadAddonPackOnLogout"] = false,
-                ["$LastCharacterName"] = "noobwick",
-                ["version"] = 1,
-            },
-            ["8796093080474203"] = 
-            {
-                ["skipLoadAddonPackOnLogout"] = false,
-                ["$LastCharacterName"] = "Dizzy Dizzo",
-                ["version"] = 1,
-            },
-            ["8796093077280431"] = 
-            {
-                ["skipLoadAddonPackOnLogout"] = false,
-                ["$LastCharacterName"] = "noobwink",
-                ["version"] = 1,
-            },
-            ["8796093077130605"] = 
-            {
-                ["skipLoadAddonPackOnLogout"] = false,
-                ["$LastCharacterName"] = "noobhugs",
-                ["version"] = 1,
-            },
-            ["8796093077546157"] = 
-            {
-                ["skipLoadAddonPackOnLogout"] = false,
-                ["$LastCharacterName"] = "noobsmirk",
-                ["version"] = 1,
-            },
-            ["8796093077977575"] = 
-            {
-                ["skipLoadAddonPackOnLogout"] = false,
-                ["$LastCharacterName"] = "Killswitch Memories",
-                ["version"] = 1,
-            },
-            ["8796093078411849"] = 
-            {
-                ["skipLoadAddonPackOnLogout"] = false,
-                ["$LastCharacterName"] = "Young Ming",
-                ["version"] = 1,
-            },
-            ["8796093080564087"] = 
-            {
-                ["skipLoadAddonPackOnLogout"] = false,
-                ["$LastCharacterName"] = "Wasted Wasted",
-                ["version"] = 1,
-            },
-            ["8796093077977317"] = 
-            {
-                ["skipLoadAddonPackOnLogout"] = false,
-                ["$LastCharacterName"] = "Simmy Seek Snow",
-                ["version"] = 1,
-            },
-        },
-        ["@Kankerkop"] = 
-        {
-            ["8796093079748457"] = 
-            {
-                ["skipLoadAddonPackOnLogout"] = false,
-                ["$LastCharacterName"] = "Kaaskop",
-                ["version"] = 1,
-            },
-            ["8796093078606003"] = 
-            {
-                ["skipLoadAddonPackOnLogout"] = false,
-                ["$LastCharacterName"] = "Kankerkop",
-                ["version"] = 1,
             },
         },
         ["@Jonzouio"] = 
         {
             ["8796093077413993"] = 
             {
-                ["skipLoadAddonPackOnLogout"] = false,
                 ["$LastCharacterName"] = "Jonzouio",
                 ["version"] = 1,
+                ["skipLoadAddonPackOnLogout"] = false,
+            },
+        },
+        ["@Kankerkop"] = 
+        {
+            ["8796093078606003"] = 
+            {
+                ["$LastCharacterName"] = "Kankerkop",
+                ["version"] = 1,
+                ["skipLoadAddonPackOnLogout"] = false,
+            },
+            ["8796093079748457"] = 
+            {
+                ["$LastCharacterName"] = "Kaaskop",
+                ["version"] = 1,
+                ["skipLoadAddonPackOnLogout"] = false,
             },
         },
         ["AllAccounts"] = 
         {
             ["$AccountWide"] = 
             {
-                ["selectedPackNameForCharacters"] = 
-                {
-                },
-                ["showGroupedByCharacterName"] = true,
-                ["showGlobalPacks"] = true,
-                ["searchHistory"] = 
-                {
-                },
-                ["packKeybinds"] = 
-                {
-                    [1] = 
-                    {
-                    },
-                    [2] = 
-                    {
-                    },
-                    [3] = 
-                    {
-                    },
-                    [4] = 
-                    {
-                    },
-                    [5] = 
-                    {
-                    },
-                },
-                ["searchExcludeFilename"] = false,
-                ["svMigrationToServerDone"] = true,
-                ["packChangedBeforeReloadUI"] = false,
-                ["autoAddMissingDependencyAtPackLoad"] = false,
-                ["addonPacksOfChar"] = 
-                {
-                },
-                ["showSubMenuAtGlobalPacks"] = true,
-                ["saveGroupedByCharacterName"] = false,
                 ["searchSaveHistory"] = false,
-                ["autoReloadUI"] = false,
-                ["searchHistoryMaxEntries"] = 10,
+                ["showPacksAddonList"] = false,
                 ["selectAllSave"] = 
                 {
                     [1] = true,
@@ -875,369 +649,595 @@ AddonSelectorSavedVars =
                     [328] = true,
                     [329] = true,
                 },
-                ["lastMassMarkingSavedProfile"] = 
-                {
-                    ["SimpleDailyCraft"] = "SimpleDailyCraft",
-                    ["LibCopyWindow"] = "LibCopyWindow",
-                    ["AmIBlocking"] = "AmIBlocking",
-                    ["GS09Data"] = "LibGuildStore Data File GS09Data",
-                    ["LibHyper"] = "LibHyper",
-                    ["LibHarvensAddonSettings"] = "LibHarvensAddonSettings",
-                    ["BetterDungeonFinder"] = "BetterDungeonFinder",
-                    ["NoAccidentalStealing"] = "NoAccidentalStealing",
-                    ["ITTsDonationBot"] = "ITTs Donation Bot",
-                    ["Containerz"] = "Containerz",
-                    ["EnglishPOINames"] = "English POI & Keep Names",
-                    ["MemeSupportIcons"] = "Meme Support Icons",
-                    ["PvPRanks"] = "PvP Ranks",
-                    ["VotansFishFillet"] = "Votan's Fish Fillet",
-                    ["CombatMetrics"] = "CombatMetrics",
-                    ["FontChanger"] = "Font Changer",
-                    ["LibGroupCombatStats"] = "LibGroupCombatStats",
-                    ["SuperStar"] = "SuperStar",
-                    ["CarosSkillPointSaver"] = "Caro's Skill Point Saver",
-                    ["MuchSmarterAutoLoot"] = "Lykeion's AutoLoot+",
-                    ["VotansAchievementsOvw"] = "Votan's Achievements Overview",
-                    ["AlphaGear"] = "AlphaGear 2 v6.17.0",
-                    ["LibHistoire"] = "LibHistoire",
-                    ["AltGroupFrames"] = "Alternative Group Frames",
-                    ["LibResearch"] = "libResearch",
-                    ["BarSteward"] = "Bar Steward",
-                    ["LibChatMenuButton"] = "LibChatMenuButton",
-                    ["LibCombat"] = "LibCombat",
-                    ["LibImplex"] = "LibImplex",
-                    ["LibScrollList"] = "LibScrollList",
-                    ["DolgubonsLazyWritCreator"] = "Dolgubon's Lazy Writ Creator v4.0.5.7.7",
-                    ["DDPositions"] = "DDPositions",
-                    ["tim99sFTSIO"] = "tim99s FTSIO",
-                    ["LibDialog"] = "LibDialog",
-                    ["GS13Data"] = "LibGuildStore Data File GS13Data",
-                    ["JournalQuestLog"] = "Journal Quest Log",
-                    ["GS00Data"] = "LibGuildStore Data File GS00Data",
-                    ["LykeionsHomeSweetHome"] = "Lykeion's Home Sweet Home",
-                    ["GS08Data"] = "LibGuildStore Data File GS08Data",
-                    ["ITTsRosterBot"] = "ITTs Roster Bot",
-                    ["Killz"] = "Killz",
-                    ["Raidificator"] = "Raidificator",
-                    ["MapPins"] = "Map Pins",
-                    ["LibSort"] = "LibSort",
-                    ["LibGroupPotionCooldowns"] = "LibGroupPotionCooldowns",
-                    ["ImprovedNightMarketHUD"] = "Improved Night Market HUD",
-                    ["LibMediaProvider"] = "LibMediaProvider",
-                    ["LibGuildStore"] = "LibGuildStore",
-                    ["MasterRecipeList"] = "ESO Master Recipe List",
-                    ["DynamicCP"] = "Dynamic CP",
-                    ["LibMOTD"] = "LibMOTD",
-                    ["LibCombatAlerts"] = "LibCombatAlerts",
-                    ["LibFonts"] = "LibFonts",
-                    ["GS12Data"] = "LibGuildStore Data File GS12Data",
-                    ["BetterScoreboard"] = "Better Scoreboard",
-                    ["PvDoor"] = "PvDoor",
-                    ["LibClockTST"] = "LibClockTST-1.0",
-                    ["Azurah"] = "Azurah",
-                    ["ChatWindowManager"] = "Chat Window Manager",
-                    ["LibFilters-3.0"] = "LibFilters-3.0",
-                    ["LibScrollableMenu"] = "LibScrollableMenu",
-                    ["HarvestMap"] = "HarvestMap",
-                    ["VotansAdaptiveSettings"] = "Votan's Adaptive (Video-)Settings",
-                    ["LibTypeRegistry"] = "Lib Type Registry",
-                    ["GuildHallButton"] = "Guild Hall Button",
-                    ["VotansAchievementFavorites"] = "Votan's Achievement Favorites",
-                    ["FCOLockpicker"] = "FCO Lockpicker",
-                    ["AllianceBaseCartographer"] = "Alliance Base Cartographer",
-                    ["HarvestPins"] = "HarvestPins",
-                    ["LibAddonMenuSoundSlider"] = "LibAddonMenu-2.0 - Sound slider widget",
-                    ["LibDebugLogger"] = "LibDebugLogger",
-                    ["VotansFishermanExport"] = "Votan's Fisherman Export",
-                    ["LibTextFilter"] = "LibTextFilter",
-                    ["CombatMetricsFightData"] = "CombatMetricsFightData",
-                    ["LibAddonMenuOrderListBox"] = "LibAddonMenu-2.0 - OrderListBox widget",
-                    ["tim99sColoredLists"] = "tim99s Colored Lists",
-                    ["LibDateTime"] = "LibDateTime",
-                    ["LibGroupResources"] = "LibGroupResources",
-                    ["HarvestMapDLC"] = "HarvestMap-DLC-Zones",
-                    ["RidinDirty"] = "RidinDirty",
-                    ["displayleads"] = "Display Leads",
-                    ["VotansGroupPins"] = "Votan's Group Pins",
-                    ["GS14Data"] = "LibGuildStore Data File GS14Data",
-                    ["LibGroupBroadcast"] = "LibGroupBroadcast",
-                    ["LibGetText"] = "LibGetText",
-                    ["RaidNotifier"] = "RaidNotifier",
-                    ["CompanionRapportInfo"] = "Improved Companion Rapport Information",
-                    ["LibAddonMenu-2.0"] = "LibAddonMenu-2.0",
-                    ["LibExecutionQueue"] = "LibExecutionQueue",
-                    ["LibZone"] = "LibZone",
-                    ["AutoHandleSharedQuests"] = "Auto Handle Shared Quests",
-                    ["GS10Data"] = "LibGuildStore Data File GS10Data",
-                    ["AsylumNotifier"] = "Asylum Sanctorium Status Panel",
-                    ["LibGroupUIReload"] = "LibGroupUIReload",
-                    ["M0RMarkers"] = "More Markers",
-                    ["libChat2"] = "libChat2",
-                    ["RewardsTracker"] = "Rewards Tracker",
-                    ["m00SupportIconsExtension"] = "m00SupportIconsExtension",
-                    ["AddedInfoGroupWindowShowIgnored"] = "Added Info - Group Window (Show Ignored Players Patch)",
-                    ["HodorReflexes"] = "HodorReflexes",
-                    ["LibCovetousCountess"] = "LibCovetousCountess",
-                    ["IIfA"] = "Inventory Insight",
-                    ["pChat"] = "pChat",
-                    ["DariansUtilities"] = "DariansUtilities",
-                    ["HideGroupFrames"] = "HideGroupFrames",
-                    ["AddedInfoFriendList"] = "Added Info - Friends List",
-                    ["LibGroupSocket"] = "LibGroupBroadcast - LibGroupSocket compatibility layer",
-                    ["QuestMap"] = "Quest Map v3.29",
-                    ["LibUndauntedPledges"] = "LibUndauntedPledges",
-                    ["LibChatMessage"] = "LibChatMessage",
-                    ["GS05Data"] = "LibGuildStore Data File GS05Data",
-                    ["AltGroupFramesBuffTracker"] = "Alternative Group Frames : Buffs",
-                    ["VotansAdvancedSettings"] = "Votan's Advanced Settings",
-                    ["LibMediaProvider-1.0"] = "LibMediaProvider-1.0",
-                    ["LibLazyCrafting"] = "LibLazyCrafting v4.039",
-                    ["AutoInvite"] = "AutoInvite",
-                    ["AsylumTracker"] = "Asylum Tracker.LangPatch",
-                    ["DailyAlchemy"] = "Daily Alchemy",
-                    ["LibQuestData"] = "LibQuestData",
-                    ["GS17Data"] = "LibGuildStore Data File GS17Data",
-                    ["SkyShards"] = "SkyShards v10.64",
-                    ["Roomba"] = "Roomba",
-                    ["Recharge"] = "Auto Recharge",
-                    ["VotansMiniMap"] = "Votan's Minimap",
-                    ["GS15Data"] = "LibGuildStore Data File GS15Data",
-                    ["LibExoYsUtilities"] = "LibExoYsUtilities",
-                    ["BeamMeUp"] = "BeamMeUp - Teleporter",
-                    ["LibAlchemy"] = "LibAlchemy",
-                    ["LibNotification"] = "LibNotification",
-                    ["LibSimpleSavedVars"] = "LibSimpleSavedVars",
-                    ["LoreBooks"] = "LoreBooks",
-                    ["LibSkillBlocker"] = "LibSkillBlocker",
-                    ["GS16Data"] = "LibGuildStore Data File GS16Data",
-                    ["Lib3D"] = "Lib3D-v3",
-                    ["AddedInfoRaidInfo"] = "Added Info - Raid Info",
-                    ["LibSlashCommander"] = "LibSlashCommander",
-                    ["LibCharacterKnowledge"] = "LibCharacterKnowledge",
-                    ["ScriptTracker"] = "ScriptTracker",
-                    ["HarvensImprovedSkillsWindow"] = "Harven's Improved Skills Window",
-                    ["PvpAlerts"] = "Miat's Pvp Alerts",
-                    ["SimpleXPBar"] = "SimpleXPBar",
-                    ["MasterMerchant"] = "Master Merchant 3.8.24 by Sharlikran",
-                    ["LibExtendedJournal"] = "LibExtendedJournal",
-                    ["NoThankYou"] = "No, thank you!",
-                    ["LibFeedback"] = "LibFeedback",
-                    ["LibAddonMenuDatePicker"] = "LibAddonMenu-2.0 - DatePicker widget",
-                    ["BanditsUserInterface"] = "Bandits User Interface",
-                    ["LibMotifCategories"] = "LibMotifCategories",
-                    ["CombatAlerts"] = "Code's Combat Alerts",
-                    ["LibAddonMenuMultiSelectDropdown"] = "LibAddonMenu-2.0 - MultiSelect dropdown widget",
-                    ["HodorReflexesIconExtension"] = "HodorReflexesIconExtension",
-                    ["AccountSettings"] = "Account Settings",
-                    ["Srendarr"] = "S'rendarr",
-                    ["LightsOfMeridia"] = "Lights of Meridia",
-                    ["GS04Data"] = "LibGuildStore Data File GS04Data",
-                    ["WizardsWardrobe"] = "Wizard's Wardrobe",
-                    ["LibHandler"] = "LibHandler",
-                    ["SynergyToggle"] = "Synergy Toggle",
-                    ["TamrielTradeCentre"] = "Tamriel Trade Centre",
-                    ["LibUnits2"] = "LibUnits2",
-                    ["HarvestMapEP"] = "HarvestMap-EP-Zones",
-                    ["LibSetDetection"] = "LibSetDetection",
-                    ["LibMotif"] = "LibMotif 7.3.1",
-                    ["LibKeepTooltip"] = "LibKeepTooltip",
-                    ["MarkPledges"] = "MarkPledges",
-                    ["LibShifterBox"] = "LibShifterBox",
-                    ["LibMapPing"] = "LibMapPing",
-                    ["LibMarify"] = "LibMarify",
-                    ["LibGPS"] = "LibGPS",
-                    ["LibAlchemyStation"] = "LibAlchemyStation",
-                    ["LostTreasure"] = "Lost Treasure",
-                    ["CyrodiilAyleidWells"] = "CyrodiilAyleidWells",
-                    ["LibTextDict"] = "Lib Text Dict",
-                    ["DeconstructionAssistant"] = "Deconstruction Assistant",
-                    ["NodeDetection"] = "NodeDetection",
-                    ["Destinations"] = "Destinations",
-                    ["LibRecipe"] = "LibRecipe",
-                    ["AIResearchGrid"] = "AI RESEARCH GRID",
-                    ["DailyProvisioning"] = "Daily Provisioning",
-                    ["LibCustomNames"] = "LibCustomNames",
-                    ["LibDataPacker"] = "LibDataPacker",
-                    ["LibId64"] = "LibId64",
-                    ["EzStalking"] = "Easy Stalking",
-                    ["BuffTheGroup"] = "Buff The Group",
-                    ["LibTableFunctions-1.0"] = "LibTableFunctions-1.0",
-                    ["AddedInfoTargetedUnitFrame"] = "Added Info - Targeted Unit Frame",
-                    ["LibPrice"] = "LibPrice 7.53",
-                    ["GroupNotifications"] = "Group Notifications",
-                    ["DragonNextLocation"] = "Dragon Next Location",
-                    ["FriendRemovedNotification"] = "Friend Removed Notification v2.01",
-                    ["ExoYsCruxTracker"] = "ExoYs Crux Tracker",
-                    ["LibSurfaceTools"] = "LibSurfaceTools",
-                    ["displayleadsZHPatch"] = "Display Leads - with Location Info - ZH PATCH",
-                    ["QuietBanner"] = "Quiet Banner",
-                    ["LibAnnyoingUpdateNotificationInG"] = "LibAnnyoingUpdateNotificationInGame (LAUNIG)",
-                    ["SanitysEdgeHelper"] = "Sanity's Edge Helper",
-                    ["LibTreasure"] = "LibTreasure",
-                    ["GroupUserId"] = "Group User ID",
-                    ["CustomCompassPins"] = "CustomCompassPins v1.38",
-                    ["LibLootSummary"] = "LibLootSummary",
-                    ["LibFBCommon"] = "LibFBCommon",
-                    ["Fontaccessibility"] = "Fontaccessibility",
-                    ["AutoCategory"] = "AutoCategory",
-                    ["Chat2Clipboard"] = "Chat2Clipboard",
-                    ["LibAsync"] = "LibAsync",
-                    ["LibDataEncode"] = "LibDataEncode",
-                    ["WizardsWardrobeExtensions"] = "Wizards Wardrobe Extensions",
-                    ["LibRunebox"] = "LibRunebox",
-                    ["FishBar"] = "Fish Bar",
-                    ["BattlegroundCoffers"] = "BattlegroundCoffers",
-                    ["CyrodiilMapLabels"] = "Cyrodiil Map Labels",
-                    ["GS01Data"] = "LibGuildStore Data File GS01Data",
-                    ["SuppressErrorMessage"] = "SuppressErrorMessage",
-                    ["VotansKeybinder"] = "Votan's Keybinder",
-                    ["JackOfAllTrades"] = "Jack of all trades",
-                    ["SiegedKeeps"] = "Sieged Keeps v1.05",
-                    ["ImpressiveStats"] = "Imp-ressive Stats",
-                    ["AwesomeGuildStore"] = "AwesomeGuildStore",
-                    ["SpentSkillPoints"] = "SpentSkillPoints",
-                    ["CrowdControlTracker"] = "Miat's CC Tracker",
-                    ["CraftStoreFixedAndImproved"] = "CraftStore",
-                    ["HarvestMapDC"] = "HarvestMap-DC-Zones",
-                    ["FCOChangeStuff"] = "FCO ChangeStuff",
-                    ["ShowTTCPrice"] = "Show TTC Price",
-                    ["LibVotansAddonList"] = "Votan's Addon List",
-                    ["AddonSelector"] = "Addon Selector",
-                    ["LootLog"] = "Loot Log",
-                    ["LibSets"] = "LibSets",
-                    ["LibCSA"] = "LibCSA",
-                    ["USPF"] = "Urich's Skill Point Finder",
-                    ["LibUnitTracker"] = "LibUnitTracker",
-                    ["LibWorldEvents"] = "LibWorldEvents",
-                    ["PlayerRoleIndicator"] = "Player role indicator",
-                    ["LibMsgWin-1.0"] = "LibMsgWin-1.0",
-                    ["LibDelayedHandler"] = "LibDelayedHandler",
-                    ["LibGuildRoster"] = "LibGuildRoster",
-                    ["ItemBrowser"] = "Item Set Browser",
-                    ["WritWorthy"] = "WritWorthy 7.5.8",
-                    ["LibItemLink"] = "LibItemLink",
-                    ["GroupFinderPlus"] = "GroupFinder+",
-                    ["LibCustomIcons"] = "LibCustomIcons",
-                    ["GS03Data"] = "LibGuildStore Data File GS03Data",
-                    ["LibStub"] = "LibStub",
-                    ["EnglishTooltips"] = "English Tooltips",
-                    ["LibAddonMenuDualListBox"] = "LibAddonMenu-2.0 - Dual list box widget",
-                    ["GS06Data"] = "LibGuildStore Data File GS06Data",
-                    ["libAddonKeybinds"] = "libAddonKeybinds",
-                    ["AltAttributes"] = "Alternative Attribute Bars",
-                    ["LibPromises"] = "LibPromises",
-                    ["LibMainMenu-2.0"] = "LibMainMenu-2.0",
-                    ["MementoRefresh"] = "Memento Refresh",
-                    ["libCommonInventoryFilters"] = "libCommonInventoryFilters [OBSOLETE]Please deinstall!",
-                    ["SoundBoard"] = "SoundBoard (Dev Tool)",
-                    ["WalkingBad"] = "WalkingBad",
-                    ["AddedInfoGuildLogins"] = "Added Info - Guild Logins",
-                    ["FancyActionBar"] = "FancyActionBar",
-                    ["LibUespQuestData"] = "LibUespQuestData",
-                    ["LockpickNotifier"] = "Lockpick Notifier",
-                    ["LibMapPins-1.0"] = "LibMapPins 1.0 r47",
-                    ["CharacterKnowledge"] = "Character Knowledge",
-                    ["CBookFontStylist"] = "Calamath's BookFont Stylist",
-                    ["LibAnimation-1.0"] = "LibAnimation-1.0",
-                    ["GS02Data"] = "LibGuildStore Data File GS02Data",
-                    ["LibCustomMenu"] = "LibCustomMenu",
-                    ["HarvestMapAD"] = "HarvestMap-AD-Zones",
-                    ["AddedInfoGroupWindow"] = "Added Info - Group Window",
-                    ["EsoZH"] = "EsoZH",
-                    ["CrutchAlerts"] = "CrutchAlerts",
-                    ["VotansFisherman"] = "Votan's Fisherman",
-                    ["LibMapData"] = "LibMapData",
-                    ["WPamA"] = "WPamA (What Pledges at my Alts)",
-                    ["LibSFUtils"] = "LibSFUtils",
-                    ["GS11Data"] = "LibGuildStore Data File GS11Data",
-                    ["WizardsWardrobeDungeons"] = "Wizards Wardrobe Dungeons",
-                    ["LibSkillsFactory"] = "LibSkillsFactory",
-                    ["AddedInfoGuildRoster"] = "Added Info - Guild Roster",
-                    ["CASE"] = "CASE — Character Addon Settings Editor",
-                    ["HarvestMapNF"] = "HarvestMap-NoFaction-Zones",
-                    ["VotansImprovedQuests"] = "Votan's Improved Quests",
-                    ["LibSavedVars"] = "LibSavedVars",
-                    ["StarNames"] = "Star Names",
-                    ["LibCharacter"] = "LibCharacter",
-                    ["GroupManager"] = "Lilith's Group Manager",
-                    ["Untaunted"] = "Untaunted",
-                    ["ScrySpy"] = "ScrySpy",
-                    ["LibServerResetTime"] = "LibServerResetTime",
-                    ["MailHistory"] = "Mail History",
-                    ["LibBinaryEncode"] = "LibBinaryEncode",
-                    ["GS07Data"] = "LibGuildStore Data File GS07Data",
-                    ["GroupLootNotifier"] = "Group Loot Notifier(查看队员掉落)",
-                    ["TheQuestingGuide"] = "The Questing Guide",
-                    ["LibFoodDrinkBuff"] = "LibFoodDrinkBuff",
-                    ["PotionMaker"] = "Potion Maker (for Alchemy Crafting)",
-                    ["pChatZHPatch"] = "pChatZHPatch",
-                    ["OdySupportIcons"] = "OdySupportIcons",
-                    ["CombatAlertsExtended"] = "Code's Combat Alerts Extended",
-                    ["KillCounter"] = "Kill Counter",
-                },
+                ["searchHistoryMaxEntries"] = 10,
                 ["showSearchFilterAtPacksList"] = true,
-                ["addonPacks"] = 
-                {
-                },
-                ["addPackTooltip"] = false,
-                ["version"] = 1,
-                ["showPacksAddonList"] = false,
-                ["lastLoadedPackNameForCharacters"] = 
+                ["selectedPackNameForCharacters"] = 
                 {
                 },
                 ["lastMassMarkingSavedProfileTime"] = 1780947793,
+                ["lastMassMarkingSavedProfile"] = 
+                {
+                    ["LibHistoire"] = "LibHistoire",
+                    ["JournalQuestLog"] = "Journal Quest Log",
+                    ["GS11Data"] = "LibGuildStore Data File GS11Data",
+                    ["MarkPledges"] = "MarkPledges",
+                    ["AltAttributes"] = "Alternative Attribute Bars",
+                    ["LykeionsHomeSweetHome"] = "Lykeion's Home Sweet Home",
+                    ["LibImplex"] = "LibImplex",
+                    ["LibMapData"] = "LibMapData",
+                    ["AddedInfoRaidInfo"] = "Added Info - Raid Info",
+                    ["AsylumNotifier"] = "Asylum Sanctorium Status Panel",
+                    ["RidinDirty"] = "RidinDirty",
+                    ["LibGuildStore"] = "LibGuildStore",
+                    ["GS15Data"] = "LibGuildStore Data File GS15Data",
+                    ["HarvestMapAD"] = "HarvestMap-AD-Zones",
+                    ["LibPromises"] = "LibPromises",
+                    ["AddedInfoGroupWindow"] = "Added Info - Group Window",
+                    ["GS05Data"] = "LibGuildStore Data File GS05Data",
+                    ["DynamicCP"] = "Dynamic CP",
+                    ["pChat"] = "pChat",
+                    ["DolgubonsLazyWritCreator"] = "Dolgubon's Lazy Writ Creator v4.0.5.7.7",
+                    ["LibGetText"] = "LibGetText",
+                    ["AutoCategory"] = "AutoCategory",
+                    ["LibExtendedJournal"] = "LibExtendedJournal",
+                    ["AddedInfoGuildLogins"] = "Added Info - Guild Logins",
+                    ["CombatMetrics"] = "CombatMetrics",
+                    ["WizardsWardrobe"] = "Wizard's Wardrobe",
+                    ["AddedInfoGroupWindowShowIgnored"] = "Added Info - Group Window (Show Ignored Players Patch)",
+                    ["LibAddonMenu-2.0"] = "LibAddonMenu-2.0",
+                    ["LibGroupUIReload"] = "LibGroupUIReload",
+                    ["GS06Data"] = "LibGuildStore Data File GS06Data",
+                    ["LibMsgWin-1.0"] = "LibMsgWin-1.0",
+                    ["FCOChangeStuff"] = "FCO ChangeStuff",
+                    ["EzStalking"] = "Easy Stalking",
+                    ["displayleads"] = "Display Leads",
+                    ["VotansAchievementsOvw"] = "Votan's Achievements Overview",
+                    ["AutoHandleSharedQuests"] = "Auto Handle Shared Quests",
+                    ["LibDelayedHandler"] = "LibDelayedHandler",
+                    ["ExoYsCruxTracker"] = "ExoYs Crux Tracker",
+                    ["GroupFinderPlus"] = "GroupFinder+",
+                    ["QuietBanner"] = "Quiet Banner",
+                    ["VotansFisherman"] = "Votan's Fisherman",
+                    ["M0RMarkers"] = "More Markers",
+                    ["PotionMaker"] = "Potion Maker (for Alchemy Crafting)",
+                    ["MasterRecipeList"] = "ESO Master Recipe List",
+                    ["VotansKeybinder"] = "Votan's Keybinder",
+                    ["HarvestMapNF"] = "HarvestMap-NoFaction-Zones",
+                    ["LibCopyWindow"] = "LibCopyWindow",
+                    ["LibWorldEvents"] = "LibWorldEvents",
+                    ["LibSimpleSavedVars"] = "LibSimpleSavedVars",
+                    ["Roomba"] = "Roomba",
+                    ["LibAddonMenuMultiSelectDropdown"] = "LibAddonMenu-2.0 - MultiSelect dropdown widget",
+                    ["displayleadsZHPatch"] = "Display Leads - with Location Info - ZH PATCH",
+                    ["GS07Data"] = "LibGuildStore Data File GS07Data",
+                    ["LibScrollableMenu"] = "LibScrollableMenu",
+                    ["AIResearchGrid"] = "AI RESEARCH GRID",
+                    ["LibHandler"] = "LibHandler",
+                    ["ImpressiveStats"] = "Imp-ressive Stats",
+                    ["PvpAlerts"] = "Miat's Pvp Alerts",
+                    ["NoAccidentalStealing"] = "NoAccidentalStealing",
+                    ["LibRecipe"] = "LibRecipe",
+                    ["LibMotif"] = "LibMotif 7.3.1",
+                    ["LibClockTST"] = "LibClockTST-1.0",
+                    ["LibAddonMenuDualListBox"] = "LibAddonMenu-2.0 - Dual list box widget",
+                    ["BetterScoreboard"] = "Better Scoreboard",
+                    ["VotansAdaptiveSettings"] = "Votan's Adaptive (Video-)Settings",
+                    ["LibAddonMenuOrderListBox"] = "LibAddonMenu-2.0 - OrderListBox widget",
+                    ["LibAnimation-1.0"] = "LibAnimation-1.0",
+                    ["LockpickNotifier"] = "Lockpick Notifier",
+                    ["RaidNotifier"] = "RaidNotifier",
+                    ["GS02Data"] = "LibGuildStore Data File GS02Data",
+                    ["EsoZH"] = "EsoZH",
+                    ["LibAddonMenuSoundSlider"] = "LibAddonMenu-2.0 - Sound slider widget",
+                    ["QuestMap"] = "Quest Map v3.29",
+                    ["LibExoYsUtilities"] = "LibExoYsUtilities",
+                    ["GS17Data"] = "LibGuildStore Data File GS17Data",
+                    ["ScriptTracker"] = "ScriptTracker",
+                    ["Azurah"] = "Azurah",
+                    ["LibServerResetTime"] = "LibServerResetTime",
+                    ["GS09Data"] = "LibGuildStore Data File GS09Data",
+                    ["AsylumTracker"] = "Asylum Tracker.LangPatch",
+                    ["WalkingBad"] = "WalkingBad",
+                    ["GuildHallButton"] = "Guild Hall Button",
+                    ["VotansImprovedQuests"] = "Votan's Improved Quests",
+                    ["OdySupportIcons"] = "OdySupportIcons",
+                    ["SanitysEdgeHelper"] = "Sanity's Edge Helper",
+                    ["FishBar"] = "Fish Bar",
+                    ["CBookFontStylist"] = "Calamath's BookFont Stylist",
+                    ["LibGroupSocket"] = "LibGroupBroadcast - LibGroupSocket compatibility layer",
+                    ["CombatAlerts"] = "Code's Combat Alerts",
+                    ["CyrodiilMapLabels"] = "Cyrodiil Map Labels",
+                    ["VotansAdvancedSettings"] = "Votan's Advanced Settings",
+                    ["tim99sFTSIO"] = "tim99s FTSIO",
+                    ["LibUndauntedPledges"] = "LibUndauntedPledges",
+                    ["GS00Data"] = "LibGuildStore Data File GS00Data",
+                    ["ChatWindowManager"] = "Chat Window Manager",
+                    ["CustomCompassPins"] = "CustomCompassPins v1.38",
+                    ["FontChanger"] = "Font Changer",
+                    ["LibCSA"] = "LibCSA",
+                    ["libAddonKeybinds"] = "libAddonKeybinds",
+                    ["LibCombatAlerts"] = "LibCombatAlerts",
+                    ["LibCharacterKnowledge"] = "LibCharacterKnowledge",
+                    ["HarvestPins"] = "HarvestPins",
+                    ["LibNotification"] = "LibNotification",
+                    ["LibSort"] = "LibSort",
+                    ["CarosSkillPointSaver"] = "Caro's Skill Point Saver",
+                    ["LibAlchemyStation"] = "LibAlchemyStation",
+                    ["LibVotansAddonList"] = "Votan's Addon List",
+                    ["LibSkillsFactory"] = "LibSkillsFactory",
+                    ["LibMapPing"] = "LibMapPing",
+                    ["Fontaccessibility"] = "Fontaccessibility",
+                    ["VotansMiniMap"] = "Votan's Minimap",
+                    ["AddedInfoFriendList"] = "Added Info - Friends List",
+                    ["LibItemLink"] = "LibItemLink",
+                    ["CASE"] = "CASE — Character Addon Settings Editor",
+                    ["AlphaGear"] = "AlphaGear 2 v6.17.0",
+                    ["HarvestMapDLC"] = "HarvestMap-DLC-Zones",
+                    ["VotansAchievementFavorites"] = "Votan's Achievement Favorites",
+                    ["Raidificator"] = "Raidificator",
+                    ["HodorReflexesIconExtension"] = "HodorReflexesIconExtension",
+                    ["WPamA"] = "WPamA (What Pledges at my Alts)",
+                    ["LibCovetousCountess"] = "LibCovetousCountess",
+                    ["StarNames"] = "Star Names",
+                    ["LibFeedback"] = "LibFeedback",
+                    ["SpentSkillPoints"] = "SpentSkillPoints",
+                    ["VotansFishermanExport"] = "Votan's Fisherman Export",
+                    ["LibMarify"] = "LibMarify",
+                    ["Untaunted"] = "Untaunted",
+                    ["BanditsUserInterface"] = "Bandits User Interface",
+                    ["LibUnits2"] = "LibUnits2",
+                    ["LibFBCommon"] = "LibFBCommon",
+                    ["LibMediaProvider-1.0"] = "LibMediaProvider-1.0",
+                    ["WizardsWardrobeExtensions"] = "Wizards Wardrobe Extensions",
+                    ["Lib3D"] = "Lib3D-v3",
+                    ["AllianceBaseCartographer"] = "Alliance Base Cartographer",
+                    ["LibFoodDrinkBuff"] = "LibFoodDrinkBuff",
+                    ["tim99sColoredLists"] = "tim99s Colored Lists",
+                    ["AddedInfoTargetedUnitFrame"] = "Added Info - Targeted Unit Frame",
+                    ["BuffTheGroup"] = "Buff The Group",
+                    ["LibTextFilter"] = "LibTextFilter",
+                    ["GroupLootNotifier"] = "Group Loot Notifier(查看队员掉落)",
+                    ["LibCustomIcons"] = "LibCustomIcons",
+                    ["AltGroupFramesBuffTracker"] = "Alternative Group Frames : Buffs",
+                    ["libChat2"] = "libChat2",
+                    ["LibPrice"] = "LibPrice 7.53",
+                    ["CrutchAlerts"] = "CrutchAlerts",
+                    ["CombatMetricsFightData"] = "CombatMetricsFightData",
+                    ["LibSFUtils"] = "LibSFUtils",
+                    ["LibDialog"] = "LibDialog",
+                    ["LibBinaryEncode"] = "LibBinaryEncode",
+                    ["TheQuestingGuide"] = "The Questing Guide",
+                    ["LightsOfMeridia"] = "Lights of Meridia",
+                    ["LibLazyCrafting"] = "LibLazyCrafting v4.039",
+                    ["LibAnnyoingUpdateNotificationInG"] = "LibAnnyoingUpdateNotificationInGame (LAUNIG)",
+                    ["LibMainMenu-2.0"] = "LibMainMenu-2.0",
+                    ["LibSurfaceTools"] = "LibSurfaceTools",
+                    ["LibId64"] = "LibId64",
+                    ["m00SupportIconsExtension"] = "m00SupportIconsExtension",
+                    ["CompanionRapportInfo"] = "Improved Companion Rapport Information",
+                    ["CrowdControlTracker"] = "Miat's CC Tracker",
+                    ["LibUnitTracker"] = "LibUnitTracker",
+                    ["HarvensImprovedSkillsWindow"] = "Harven's Improved Skills Window",
+                    ["MementoRefresh"] = "Memento Refresh",
+                    ["LibMOTD"] = "LibMOTD",
+                    ["BetterDungeonFinder"] = "BetterDungeonFinder",
+                    ["LibAddonMenuDatePicker"] = "LibAddonMenu-2.0 - DatePicker widget",
+                    ["JackOfAllTrades"] = "Jack of all trades",
+                    ["EnglishPOINames"] = "English POI & Keep Names",
+                    ["AwesomeGuildStore"] = "AwesomeGuildStore",
+                    ["DragonNextLocation"] = "Dragon Next Location",
+                    ["LibCombat"] = "LibCombat",
+                    ["ImprovedNightMarketHUD"] = "Improved Night Market HUD",
+                    ["LibRunebox"] = "LibRunebox",
+                    ["LibScrollList"] = "LibScrollList",
+                    ["VotansFishFillet"] = "Votan's Fish Fillet",
+                    ["TamrielTradeCentre"] = "Tamriel Trade Centre",
+                    ["LibGPS"] = "LibGPS",
+                    ["LibChatMessage"] = "LibChatMessage",
+                    ["LibMapPins-1.0"] = "LibMapPins 1.0 r47",
+                    ["SimpleXPBar"] = "SimpleXPBar",
+                    ["LibTableFunctions-1.0"] = "LibTableFunctions-1.0",
+                    ["LibTreasure"] = "LibTreasure",
+                    ["GS14Data"] = "LibGuildStore Data File GS14Data",
+                    ["HarvestMapEP"] = "HarvestMap-EP-Zones",
+                    ["LibResearch"] = "libResearch",
+                    ["GS12Data"] = "LibGuildStore Data File GS12Data",
+                    ["DeconstructionAssistant"] = "Deconstruction Assistant",
+                    ["DailyProvisioning"] = "Daily Provisioning",
+                    ["LibSets"] = "LibSets",
+                    ["NoThankYou"] = "No, thank you!",
+                    ["AddedInfoGuildRoster"] = "Added Info - Guild Roster",
+                    ["LibFilters-3.0"] = "LibFilters-3.0",
+                    ["LibChatMenuButton"] = "LibChatMenuButton",
+                    ["KillCounter"] = "Kill Counter",
+                    ["AccountSettings"] = "Account Settings",
+                    ["LibDateTime"] = "LibDateTime",
+                    ["LibGroupCombatStats"] = "LibGroupCombatStats",
+                    ["LibQuestData"] = "LibQuestData",
+                    ["Killz"] = "Killz",
+                    ["AutoInvite"] = "AutoInvite",
+                    ["MuchSmarterAutoLoot"] = "Lykeion's AutoLoot+",
+                    ["MailHistory"] = "Mail History",
+                    ["WritWorthy"] = "WritWorthy 7.5.8",
+                    ["LibSlashCommander"] = "LibSlashCommander",
+                    ["LibAsync"] = "LibAsync",
+                    ["SuperStar"] = "SuperStar",
+                    ["AddonSelector"] = "Addon Selector",
+                    ["PvDoor"] = "PvDoor",
+                    ["DariansUtilities"] = "DariansUtilities",
+                    ["LibTextDict"] = "Lib Text Dict",
+                    ["LibLootSummary"] = "LibLootSummary",
+                    ["BeamMeUp"] = "BeamMeUp - Teleporter",
+                    ["Srendarr"] = "S'rendarr",
+                    ["GS16Data"] = "LibGuildStore Data File GS16Data",
+                    ["FCOLockpicker"] = "FCO Lockpicker",
+                    ["LibSavedVars"] = "LibSavedVars",
+                    ["LibGroupBroadcast"] = "LibGroupBroadcast",
+                    ["ScrySpy"] = "ScrySpy",
+                    ["LibCustomNames"] = "LibCustomNames",
+                    ["FriendRemovedNotification"] = "Friend Removed Notification v2.01",
+                    ["GS01Data"] = "LibGuildStore Data File GS01Data",
+                    ["NodeDetection"] = "NodeDetection",
+                    ["LibTypeRegistry"] = "Lib Type Registry",
+                    ["LostTreasure"] = "Lost Treasure",
+                    ["ITTsDonationBot"] = "ITTs Donation Bot",
+                    ["LibMediaProvider"] = "LibMediaProvider",
+                    ["LibCharacter"] = "LibCharacter",
+                    ["PvPRanks"] = "PvP Ranks",
+                    ["HideGroupFrames"] = "HideGroupFrames",
+                    ["RewardsTracker"] = "Rewards Tracker",
+                    ["DDPositions"] = "DDPositions",
+                    ["LibSetDetection"] = "LibSetDetection",
+                    ["LibDebugLogger"] = "LibDebugLogger",
+                    ["LibSkillBlocker"] = "LibSkillBlocker",
+                    ["Recharge"] = "Auto Recharge",
+                    ["CyrodiilAyleidWells"] = "CyrodiilAyleidWells",
+                    ["MemeSupportIcons"] = "Meme Support Icons",
+                    ["LootLog"] = "Loot Log",
+                    ["LibHarvensAddonSettings"] = "LibHarvensAddonSettings",
+                    ["LibMotifCategories"] = "LibMotifCategories",
+                    ["LibDataEncode"] = "LibDataEncode",
+                    ["SkyShards"] = "SkyShards v10.64",
+                    ["LibZone"] = "LibZone",
+                    ["GroupNotifications"] = "Group Notifications",
+                    ["FancyActionBar"] = "FancyActionBar",
+                    ["SynergyToggle"] = "Synergy Toggle",
+                    ["libCommonInventoryFilters"] = "libCommonInventoryFilters [OBSOLETE]Please deinstall!",
+                    ["GS13Data"] = "LibGuildStore Data File GS13Data",
+                    ["SimpleDailyCraft"] = "SimpleDailyCraft",
+                    ["LibDataPacker"] = "LibDataPacker",
+                    ["AmIBlocking"] = "AmIBlocking",
+                    ["USPF"] = "Urich's Skill Point Finder",
+                    ["DailyAlchemy"] = "Daily Alchemy",
+                    ["GS04Data"] = "LibGuildStore Data File GS04Data",
+                    ["GS08Data"] = "LibGuildStore Data File GS08Data",
+                    ["MasterMerchant"] = "Master Merchant 3.8.24 by Sharlikran",
+                    ["Chat2Clipboard"] = "Chat2Clipboard",
+                    ["PlayerRoleIndicator"] = "Player role indicator",
+                    ["IIfA"] = "Inventory Insight",
+                    ["LibAlchemy"] = "LibAlchemy",
+                    ["LibKeepTooltip"] = "LibKeepTooltip",
+                    ["CombatAlertsExtended"] = "Code's Combat Alerts Extended",
+                    ["SuppressErrorMessage"] = "SuppressErrorMessage",
+                    ["Destinations"] = "Destinations",
+                    ["HarvestMap"] = "HarvestMap",
+                    ["GroupManager"] = "Lilith's Group Manager",
+                    ["ITTsRosterBot"] = "ITTs Roster Bot",
+                    ["WizardsWardrobeDungeons"] = "Wizards Wardrobe Dungeons",
+                    ["BattlegroundCoffers"] = "BattlegroundCoffers",
+                    ["LibFonts"] = "LibFonts",
+                    ["CraftStoreFixedAndImproved"] = "CraftStore",
+                    ["LoreBooks"] = "LoreBooks",
+                    ["HodorReflexes"] = "HodorReflexes",
+                    ["GroupUserId"] = "Group User ID",
+                    ["GS03Data"] = "LibGuildStore Data File GS03Data",
+                    ["Containerz"] = "Containerz",
+                    ["LibGroupResources"] = "LibGroupResources",
+                    ["LibStub"] = "LibStub",
+                    ["EnglishTooltips"] = "English Tooltips",
+                    ["pChatZHPatch"] = "pChatZHPatch",
+                    ["CharacterKnowledge"] = "Character Knowledge",
+                    ["LibShifterBox"] = "LibShifterBox",
+                    ["LibExecutionQueue"] = "LibExecutionQueue",
+                    ["ItemBrowser"] = "Item Set Browser",
+                    ["GS10Data"] = "LibGuildStore Data File GS10Data",
+                    ["SoundBoard"] = "SoundBoard (Dev Tool)",
+                    ["LibGroupPotionCooldowns"] = "LibGroupPotionCooldowns",
+                    ["MapPins"] = "Map Pins",
+                    ["BarSteward"] = "Bar Steward",
+                    ["LibHyper"] = "LibHyper",
+                    ["ShowTTCPrice"] = "Show TTC Price",
+                    ["VotansGroupPins"] = "Votan's Group Pins",
+                    ["LibCustomMenu"] = "LibCustomMenu",
+                    ["LibGuildRoster"] = "LibGuildRoster",
+                    ["LibUespQuestData"] = "LibUespQuestData",
+                    ["AltGroupFrames"] = "Alternative Group Frames",
+                    ["HarvestMapDC"] = "HarvestMap-DC-Zones",
+                    ["SiegedKeeps"] = "Sieged Keeps v1.05",
+                },
+                ["autoAddMissingDependencyAtPackLoad"] = false,
+                ["lastLoadedPackNameForCharacters"] = 
+                {
+                },
                 ["showPacksOfOtherAccountsChars"] = true,
+                ["svMigrationToServerDone"] = true,
+                ["packChangedBeforeReloadUI"] = false,
+                ["autoReloadUI"] = false,
+                ["saveGroupedByCharacterName"] = false,
+                ["searchExcludeFilename"] = false,
+                ["showSubMenuAtGlobalPacks"] = true,
+                ["addPackTooltip"] = false,
+                ["searchHistory"] = 
+                {
+                },
+                ["addonPacksOfChar"] = 
+                {
+                },
+                ["showGroupedByCharacterName"] = true,
+                ["showGlobalPacks"] = true,
+                ["addonPacks"] = 
+                {
+                },
+                ["packKeybinds"] = 
+                {
+                    [1] = 
+                    {
+                    },
+                    [2] = 
+                    {
+                    },
+                    [3] = 
+                    {
+                    },
+                    [4] = 
+                    {
+                    },
+                    [5] = 
+                    {
+                    },
+                },
+                ["version"] = 1,
             },
         },
-        ["@YYDS1214"] = 
+        ["@noobkiss"] = 
         {
-            ["8796093077181565"] = 
+            ["8796093077575525"] = 
             {
-                ["skipLoadAddonPackOnLogout"] = false,
-                ["$LastCharacterName"] = "Aqiya",
+                ["$LastCharacterName"] = "Joyous Socks",
                 ["version"] = 1,
+                ["skipLoadAddonPackOnLogout"] = false,
             },
-            ["8796093077165965"] = 
+            ["8796093077575729"] = 
             {
-                ["skipLoadAddonPackOnLogout"] = false,
-                ["$LastCharacterName"] = "Junjunya",
+                ["$LastCharacterName"] = "noobwick",
                 ["version"] = 1,
+                ["skipLoadAddonPackOnLogout"] = false,
             },
-            ["8796093077181579"] = 
+            ["8796093080650625"] = 
             {
-                ["skipLoadAddonPackOnLogout"] = false,
-                ["$LastCharacterName"] = "A qiya",
+                ["$LastCharacterName"] = "Flawed Mangoes",
                 ["version"] = 1,
+                ["skipLoadAddonPackOnLogout"] = false,
             },
-            ["8796093077181587"] = 
+            ["8796093077977317"] = 
             {
-                ["skipLoadAddonPackOnLogout"] = false,
-                ["$LastCharacterName"] = "a qi ya",
+                ["$LastCharacterName"] = "Simmy Seek Snow",
                 ["version"] = 1,
+                ["skipLoadAddonPackOnLogout"] = false,
             },
-            ["8796093077616617"] = 
+            ["8796093077286887"] = 
             {
-                ["skipLoadAddonPackOnLogout"] = false,
-                ["$LastCharacterName"] = "shiaqi",
+                ["$LastCharacterName"] = "noobhappy",
                 ["version"] = 1,
+                ["skipLoadAddonPackOnLogout"] = false,
             },
-            ["8796093077595053"] = 
+            ["8796093077354797"] = 
             {
-                ["skipLoadAddonPackOnLogout"] = false,
-                ["$LastCharacterName"] = "aqi ya",
+                ["$LastCharacterName"] = "noobsmell",
                 ["version"] = 1,
+                ["skipLoadAddonPackOnLogout"] = false,
             },
-            ["8796093077181623"] = 
+            ["8796093077976825"] = 
             {
-                ["skipLoadAddonPackOnLogout"] = false,
-                ["$LastCharacterName"] = "Aqi Yaa",
+                ["$LastCharacterName"] = "Sunken Feb",
                 ["version"] = 1,
+                ["skipLoadAddonPackOnLogout"] = false,
             },
-            ["8796093077153837"] = 
+            ["8796093078739949"] = 
             {
-                ["skipLoadAddonPackOnLogout"] = false,
-                ["$LastCharacterName"] = "Yang Yyds",
+                ["$LastCharacterName"] = "noobbomb",
                 ["version"] = 1,
+                ["skipLoadAddonPackOnLogout"] = false,
+            },
+            ["8796093076445407"] = 
+            {
+                ["$LastCharacterName"] = "noobkiss",
+                ["version"] = 1,
+                ["skipLoadAddonPackOnLogout"] = false,
+            },
+            ["8796093077546265"] = 
+            {
+                ["$LastCharacterName"] = "Galen Chef Mike",
+                ["version"] = 1,
+                ["skipLoadAddonPackOnLogout"] = false,
+            },
+            ["8796093080564087"] = 
+            {
+                ["$LastCharacterName"] = "Wasted Wasted",
+                ["version"] = 1,
+                ["skipLoadAddonPackOnLogout"] = false,
+            },
+            ["8796093078411849"] = 
+            {
+                ["$LastCharacterName"] = "Young Ming",
+                ["version"] = 1,
+                ["skipLoadAddonPackOnLogout"] = false,
+            },
+            ["8796093077546157"] = 
+            {
+                ["$LastCharacterName"] = "noobsmirk",
+                ["version"] = 1,
+                ["skipLoadAddonPackOnLogout"] = false,
+            },
+            ["8796093080475359"] = 
+            {
+                ["$LastCharacterName"] = "Hymn Hemy",
+                ["version"] = 1,
+                ["skipLoadAddonPackOnLogout"] = false,
+            },
+            ["8796093080564143"] = 
+            {
+                ["$LastCharacterName"] = "Wasted Wasted",
+                ["version"] = 1,
+                ["skipLoadAddonPackOnLogout"] = false,
+            },
+            ["8796093077286759"] = 
+            {
+                ["$LastCharacterName"] = "Lumina Hoaying",
+                ["version"] = 1,
+                ["skipLoadAddonPackOnLogout"] = false,
+            },
+            ["8796093077130605"] = 
+            {
+                ["$LastCharacterName"] = "noobhugs",
+                ["version"] = 1,
+                ["skipLoadAddonPackOnLogout"] = false,
+            },
+            ["8796093078078769"] = 
+            {
+                ["$LastCharacterName"] = "noobmiss",
+                ["version"] = 1,
+                ["skipLoadAddonPackOnLogout"] = false,
+            },
+            ["8796093080474203"] = 
+            {
+                ["$LastCharacterName"] = "Dizzy Dizzo",
+                ["version"] = 1,
+                ["skipLoadAddonPackOnLogout"] = false,
+            },
+            ["8796093077338611"] = 
+            {
+                ["$LastCharacterName"] = "noobsimper",
+                ["version"] = 1,
+                ["skipLoadAddonPackOnLogout"] = false,
+            },
+            ["8796093080474427"] = 
+            {
+                ["$LastCharacterName"] = "Vex Vex Loop",
+                ["version"] = 1,
+                ["skipLoadAddonPackOnLogout"] = false,
+            },
+            ["8796093077280469"] = 
+            {
+                ["$LastCharacterName"] = "noobxoxo",
+                ["version"] = 1,
+                ["skipLoadAddonPackOnLogout"] = false,
+            },
+            ["8796093079602369"] = 
+            {
+                ["$LastCharacterName"] = "Zou Kimcheng",
+                ["version"] = 1,
+                ["skipLoadAddonPackOnLogout"] = false,
+            },
+            ["8796093077142221"] = 
+            {
+                ["$LastCharacterName"] = "noobxoxo",
+                ["version"] = 1,
+                ["skipLoadAddonPackOnLogout"] = false,
+            },
+            ["8796093077977575"] = 
+            {
+                ["$LastCharacterName"] = "Killswitch Memories",
+                ["version"] = 1,
+                ["skipLoadAddonPackOnLogout"] = false,
+            },
+            ["8796093077280431"] = 
+            {
+                ["$LastCharacterName"] = "noobwink",
+                ["version"] = 1,
+                ["skipLoadAddonPackOnLogout"] = false,
+            },
+            ["8796093077622069"] = 
+            {
+                ["$LastCharacterName"] = "noobwick",
+                ["version"] = 1,
+                ["skipLoadAddonPackOnLogout"] = false,
+            },
+            ["8796093077280363"] = 
+            {
+                ["$LastCharacterName"] = "noobsmile",
+                ["version"] = 1,
+                ["skipLoadAddonPackOnLogout"] = false,
+            },
+        },
+    },
+    ["EU Megaserver"] = 
+    {
+        ["@noobkiss"] = 
+        {
+            ["8798292100191884"] = 
+            {
+                ["$LastCharacterName"] = "noobkiss",
+                ["version"] = 1,
+                ["skipLoadAddonPackOnLogout"] = false,
+            },
+        },
+        ["AllAccounts"] = 
+        {
+            ["$AccountWide"] = 
+            {
+                ["searchSaveHistory"] = false,
+                ["showPacksAddonList"] = false,
+                ["selectAllSave"] = 
+                {
+                },
+                ["showGlobalPacks"] = true,
+                ["showSearchFilterAtPacksList"] = true,
+                ["selectedPackNameForCharacters"] = 
+                {
+                },
+                ["version"] = 1,
+                ["autoAddMissingDependencyAtPackLoad"] = false,
+                ["showPacksOfOtherAccountsChars"] = true,
+                ["svMigrationToServerDone"] = true,
+                ["packChangedBeforeReloadUI"] = false,
+                ["autoReloadUI"] = false,
+                ["lastLoadedPackNameForCharacters"] = 
+                {
+                },
+                ["searchExcludeFilename"] = false,
+                ["saveGroupedByCharacterName"] = false,
+                ["addPackTooltip"] = false,
+                ["searchHistory"] = 
+                {
+                },
+                ["addonPacksOfChar"] = 
+                {
+                },
+                ["showGroupedByCharacterName"] = false,
+                ["showSubMenuAtGlobalPacks"] = true,
+                ["addonPacks"] = 
+                {
+                },
+                ["packKeybinds"] = 
+                {
+                    [1] = 
+                    {
+                    },
+                    [2] = 
+                    {
+                    },
+                    [3] = 
+                    {
+                    },
+                    [4] = 
+                    {
+                    },
+                    [5] = 
+                    {
+                    },
+                },
+                ["searchHistoryMaxEntries"] = 10,
             },
         },
     },

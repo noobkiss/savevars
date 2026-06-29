@@ -6,32 +6,42 @@ DDPositions_SavedVars =
         {
             ["$AccountWide"] = 
             {
+                ["savedAssignments"] = 
+                {
+                },
                 ["freeAssignments"] = 
                 {
                 },
+                ["version"] = 2,
                 ["panelPosition"] = 
                 {
                     ["x"] = 500,
                     ["y"] = 300,
                 },
+            },
+        },
+        ["@YYDS1214"] = 
+        {
+            ["$AccountWide"] = 
+            {
                 ["savedAssignments"] = 
                 {
                 },
+                ["freeAssignments"] = 
+                {
+                },
                 ["version"] = 2,
+                ["panelPosition"] = 
+                {
+                    ["x"] = 500,
+                    ["y"] = 300,
+                },
             },
         },
         ["@noobkiss"] = 
         {
             ["$AccountWide"] = 
             {
-                ["freeAssignments"] = 
-                {
-                },
-                ["panelPosition"] = 
-                {
-                    ["x"] = 500,
-                    ["y"] = 300,
-                },
                 ["savedAssignments"] = 
                 {
                     [1478] = 
@@ -113,25 +123,15 @@ DDPositions_SavedVars =
                         },
                     },
                 },
-                ["version"] = 2,
-            },
-        },
-        ["@YYDS1214"] = 
-        {
-            ["$AccountWide"] = 
-            {
                 ["freeAssignments"] = 
                 {
                 },
+                ["version"] = 2,
                 ["panelPosition"] = 
                 {
                     ["x"] = 500,
                     ["y"] = 300,
                 },
-                ["savedAssignments"] = 
-                {
-                },
-                ["version"] = 2,
             },
         },
     },

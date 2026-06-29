@@ -2,48 +2,48 @@ VotansImprovedQuests_Data =
 {
     ["Default"] = 
     {
-        ["@Jonzouio"] = 
-        {
-            ["$AccountWide"] = 
-            {
-                ["consolidateOtherZones"] = true,
-                ["version"] = 1,
-                ["alwaysShowOnMap"] = false,
-                ["alwaysShowQuests"] = false,
-                ["showLevels"] = false,
-            },
-        },
         ["@Kankerkop"] = 
         {
             ["$AccountWide"] = 
             {
-                ["consolidateOtherZones"] = true,
-                ["version"] = 1,
+                ["showLevels"] = false,
                 ["alwaysShowOnMap"] = false,
-                ["alwaysShowQuests"] = false,
-                ["showLevels"] = false,
-            },
-        },
-        ["@noobkiss"] = 
-        {
-            ["$AccountWide"] = 
-            {
-                ["consolidateOtherZones"] = true,
                 ["version"] = 1,
-                ["alwaysShowOnMap"] = true,
+                ["consolidateOtherZones"] = true,
                 ["alwaysShowQuests"] = false,
-                ["showLevels"] = false,
             },
         },
         ["@YYDS1214"] = 
         {
             ["$AccountWide"] = 
             {
-                ["consolidateOtherZones"] = true,
-                ["version"] = 1,
-                ["alwaysShowOnMap"] = false,
-                ["alwaysShowQuests"] = false,
                 ["showLevels"] = false,
+                ["alwaysShowOnMap"] = false,
+                ["version"] = 1,
+                ["consolidateOtherZones"] = true,
+                ["alwaysShowQuests"] = false,
+            },
+        },
+        ["@Jonzouio"] = 
+        {
+            ["$AccountWide"] = 
+            {
+                ["showLevels"] = false,
+                ["alwaysShowOnMap"] = false,
+                ["version"] = 1,
+                ["consolidateOtherZones"] = true,
+                ["alwaysShowQuests"] = false,
+            },
+        },
+        ["@noobkiss"] = 
+        {
+            ["$AccountWide"] = 
+            {
+                ["showLevels"] = false,
+                ["alwaysShowOnMap"] = true,
+                ["version"] = 1,
+                ["consolidateOtherZones"] = true,
+                ["alwaysShowQuests"] = false,
             },
         },
     },

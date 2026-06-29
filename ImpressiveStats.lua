@@ -2,64 +2,64 @@ ImpressiveStatsSV =
 {
     ["Default"] = 
     {
-        ["@noobkiss"] = 
-        {
-            ["$AccountWide"] = 
-            {
-                ["tot"] = 
-                {
-                    ["leaderboard"] = false,
-                    ["namingMode"] = 1,
-                    ["enabled"] = true,
-                },
-                ["errors"] = 
-                {
-                    ["allowAlerts"] = true,
-                    ["enabled"] = true,
-                    ["allowCSA"] = false,
-                },
-                ["duels"] = 
-                {
-                    ["saveBuilds"] = false,
-                    ["namingMode"] = 2,
-                    ["enabled"] = true,
-                },
-                ["battlegrounds"] = 
-                {
-                    ["showOnlyLastUpdateMatches"] = false,
-                    ["namingMode"] = 1,
-                    ["saveBuilds"] = false,
-                    ["last150"] = false,
-                    ["enabled"] = true,
-                },
-                ["version"] = 1,
-            },
-        },
         ["@YYDS1214"] = 
         {
             ["$AccountWide"] = 
             {
-                ["duels"] = 
+                ["battlegrounds"] = 
                 {
+                    ["enabled"] = true,
                     ["saveBuilds"] = false,
                     ["namingMode"] = 1,
-                    ["enabled"] = true,
+                    ["last150"] = false,
+                    ["showOnlyLastUpdateMatches"] = false,
                 },
                 ["tot"] = 
                 {
-                    ["leaderboard"] = false,
+                    ["enabled"] = true,
                     ["namingMode"] = 1,
+                    ["leaderboard"] = false,
+                },
+                ["version"] = 1,
+                ["duels"] = 
+                {
+                    ["enabled"] = true,
+                    ["saveBuilds"] = false,
+                    ["namingMode"] = 1,
+                },
+            },
+        },
+        ["@noobkiss"] = 
+        {
+            ["$AccountWide"] = 
+            {
+                ["errors"] = 
+                {
+                    ["allowAlerts"] = true,
+                    ["allowCSA"] = false,
                     ["enabled"] = true,
                 },
                 ["battlegrounds"] = 
                 {
-                    ["showOnlyLastUpdateMatches"] = false,
-                    ["namingMode"] = 1,
-                    ["saveBuilds"] = false,
-                    ["last150"] = false,
                     ["enabled"] = true,
+                    ["saveBuilds"] = false,
+                    ["namingMode"] = 1,
+                    ["last150"] = false,
+                    ["showOnlyLastUpdateMatches"] = false,
+                },
+                ["tot"] = 
+                {
+                    ["enabled"] = true,
+                    ["namingMode"] = 1,
+                    ["leaderboard"] = false,
                 },
                 ["version"] = 1,
+                ["duels"] = 
+                {
+                    ["enabled"] = true,
+                    ["saveBuilds"] = false,
+                    ["namingMode"] = 2,
+                },
             },
         },
     },
@@ -68,523 +68,108 @@ ImpressiveStatsCSV =
 {
     ["Default"] = 
     {
+        ["@YYDS1214"] = 
+        {
+            ["8796093077165965"] = 
+            {
+                ["battlegrounds"] = 
+                {
+                    ["characters"] = 
+                    {
+                        ["8796093077165965"] = true,
+                    },
+                    ["modes"] = 
+                    {
+                        [1] = 1,
+                        [2] = 2,
+                        [3] = 3,
+                        [4] = 4,
+                        [5] = 5,
+                        [6] = 6,
+                    },
+                    ["teamTypes"] = 
+                    {
+                        [1] = 1,
+                        [2] = 2,
+                        [3] = 3,
+                        [4] = 4,
+                        [5] = 5,
+                        [6] = 6,
+                    },
+                    ["selectedCharacters"] = 
+                    {
+                    },
+                },
+                ["$LastCharacterName"] = "Junjunya",
+                ["tot"] = 
+                {
+                    ["selectedCharacters"] = 
+                    {
+                    },
+                },
+                ["version"] = 1,
+                ["duels"] = 
+                {
+                    ["selectedCharacters"] = 
+                    {
+                        ["8796093077165965"] = true,
+                    },
+                },
+            },
+        },
         ["@noobkiss"] = 
         {
-            ["8796093080650625"] = 
-            {
-                ["tot"] = 
-                {
-                    ["selectedCharacters"] = 
-                    {
-                    },
-                },
-                ["version"] = 1,
-                ["duels"] = 
-                {
-                    ["selectedCharacters"] = 
-                    {
-                        ["8796093080650625"] = true,
-                    },
-                },
-                ["$LastCharacterName"] = "Flawed Mangoes",
-                ["battlegrounds"] = 
-                {
-                    ["teamTypes"] = 
-                    {
-                        [4] = 4,
-                        [1] = 1,
-                        [2] = 2,
-                        [3] = 3,
-                    },
-                    ["characters"] = 
-                    {
-                        ["8796093080650625"] = true,
-                    },
-                    ["selectedCharacters"] = 
-                    {
-                    },
-                    ["modes"] = 
-                    {
-                        [1] = 1,
-                        [2] = 5,
-                        [3] = 2,
-                        [4] = 4,
-                        [5] = 3,
-                        [6] = 6,
-                    },
-                },
-            },
-            ["8796093077546265"] = 
-            {
-                ["tot"] = 
-                {
-                    ["selectedCharacters"] = 
-                    {
-                    },
-                },
-                ["version"] = 1,
-                ["duels"] = 
-                {
-                    ["selectedCharacters"] = 
-                    {
-                        ["8796093077546265"] = true,
-                    },
-                },
-                ["$LastCharacterName"] = "Galen Chef Mike",
-                ["battlegrounds"] = 
-                {
-                    ["teamTypes"] = 
-                    {
-                        [4] = 4,
-                        [1] = 1,
-                        [2] = 2,
-                        [3] = 3,
-                    },
-                    ["characters"] = 
-                    {
-                        ["8796093077546265"] = true,
-                    },
-                    ["selectedCharacters"] = 
-                    {
-                    },
-                    ["modes"] = 
-                    {
-                        [1] = 1,
-                        [2] = 5,
-                        [3] = 2,
-                        [4] = 4,
-                        [5] = 3,
-                        [6] = 6,
-                    },
-                },
-            },
-            ["8796093077286759"] = 
-            {
-                ["tot"] = 
-                {
-                    ["selectedCharacters"] = 
-                    {
-                    },
-                },
-                ["version"] = 1,
-                ["duels"] = 
-                {
-                    ["selectedCharacters"] = 
-                    {
-                        ["8796093077286759"] = true,
-                    },
-                },
-                ["$LastCharacterName"] = "Lumina Hoaying",
-                ["battlegrounds"] = 
-                {
-                    ["teamTypes"] = 
-                    {
-                        [4] = 4,
-                        [1] = 1,
-                        [2] = 2,
-                        [3] = 3,
-                    },
-                    ["characters"] = 
-                    {
-                        ["8796093077286759"] = true,
-                    },
-                    ["selectedCharacters"] = 
-                    {
-                    },
-                    ["modes"] = 
-                    {
-                        [1] = 1,
-                        [2] = 5,
-                        [3] = 2,
-                        [4] = 4,
-                        [5] = 3,
-                        [6] = 6,
-                    },
-                },
-            },
-            ["8796093078078769"] = 
-            {
-                ["tot"] = 
-                {
-                    ["selectedCharacters"] = 
-                    {
-                    },
-                },
-                ["version"] = 1,
-                ["duels"] = 
-                {
-                    ["selectedCharacters"] = 
-                    {
-                        ["8796093078078769"] = true,
-                    },
-                },
-                ["$LastCharacterName"] = "noobmiss",
-                ["battlegrounds"] = 
-                {
-                    ["teamTypes"] = 
-                    {
-                        [4] = 4,
-                        [1] = 1,
-                        [2] = 2,
-                        [3] = 3,
-                    },
-                    ["characters"] = 
-                    {
-                        ["8796093078078769"] = true,
-                    },
-                    ["selectedCharacters"] = 
-                    {
-                    },
-                    ["modes"] = 
-                    {
-                        [1] = 1,
-                        [2] = 5,
-                        [3] = 2,
-                        [4] = 4,
-                        [5] = 3,
-                        [6] = 6,
-                    },
-                },
-            },
-            ["8796093080564143"] = 
-            {
-                ["tot"] = 
-                {
-                    ["selectedCharacters"] = 
-                    {
-                    },
-                },
-                ["version"] = 1,
-                ["duels"] = 
-                {
-                    ["selectedCharacters"] = 
-                    {
-                        ["8796093080564143"] = true,
-                    },
-                },
-                ["$LastCharacterName"] = "Wasted Wasted",
-                ["battlegrounds"] = 
-                {
-                    ["teamTypes"] = 
-                    {
-                        [4] = 4,
-                        [1] = 1,
-                        [2] = 2,
-                        [3] = 3,
-                    },
-                    ["characters"] = 
-                    {
-                        ["8796093080564143"] = true,
-                    },
-                    ["selectedCharacters"] = 
-                    {
-                    },
-                    ["modes"] = 
-                    {
-                        [1] = 1,
-                        [2] = 5,
-                        [3] = 2,
-                        [4] = 4,
-                        [5] = 3,
-                        [6] = 6,
-                    },
-                },
-            },
-            ["8796093077280363"] = 
-            {
-                ["tot"] = 
-                {
-                    ["selectedCharacters"] = 
-                    {
-                    },
-                },
-                ["version"] = 1,
-                ["duels"] = 
-                {
-                    ["selectedCharacters"] = 
-                    {
-                        ["8796093077280363"] = true,
-                    },
-                },
-                ["$LastCharacterName"] = "noobsmile",
-                ["battlegrounds"] = 
-                {
-                    ["teamTypes"] = 
-                    {
-                        [1] = 1,
-                        [2] = 2,
-                        [3] = 3,
-                        [4] = 4,
-                        [5] = 5,
-                        [6] = 6,
-                    },
-                    ["characters"] = 
-                    {
-                        ["8796093077280363"] = true,
-                    },
-                    ["selectedCharacters"] = 
-                    {
-                    },
-                    ["modes"] = 
-                    {
-                        [1] = 1,
-                        [2] = 2,
-                        [3] = 3,
-                        [4] = 4,
-                        [5] = 5,
-                        [6] = 6,
-                    },
-                },
-            },
-            ["8798292100191884"] = 
-            {
-                ["tot"] = 
-                {
-                    ["selectedCharacters"] = 
-                    {
-                    },
-                },
-                ["version"] = 1,
-                ["duels"] = 
-                {
-                    ["selectedCharacters"] = 
-                    {
-                        ["8798292100191884"] = true,
-                    },
-                },
-                ["$LastCharacterName"] = "noobkiss",
-                ["battlegrounds"] = 
-                {
-                    ["teamTypes"] = 
-                    {
-                        [1] = 1,
-                        [2] = 2,
-                        [3] = 3,
-                        [4] = 4,
-                        [5] = 5,
-                        [6] = 6,
-                    },
-                    ["characters"] = 
-                    {
-                        ["8798292100191884"] = true,
-                    },
-                    ["selectedCharacters"] = 
-                    {
-                    },
-                    ["modes"] = 
-                    {
-                        [1] = 1,
-                        [2] = 2,
-                        [3] = 3,
-                        [4] = 4,
-                        [5] = 5,
-                        [6] = 6,
-                    },
-                },
-            },
-            ["8796093076445407"] = 
-            {
-                ["tot"] = 
-                {
-                    ["selectedCharacters"] = 
-                    {
-                    },
-                },
-                ["version"] = 1,
-                ["duels"] = 
-                {
-                    ["selectedCharacters"] = 
-                    {
-                        ["8796093076445407"] = true,
-                    },
-                },
-                ["$LastCharacterName"] = "noobkiss",
-                ["battlegrounds"] = 
-                {
-                    ["teamTypes"] = 
-                    {
-                        [4] = 4,
-                        [1] = 1,
-                        [2] = 2,
-                        [3] = 3,
-                    },
-                    ["characters"] = 
-                    {
-                        ["8796093079602369"] = false,
-                        ["8796093077546265"] = false,
-                        ["8796093076445407"] = true,
-                    },
-                    ["selectedCharacters"] = 
-                    {
-                    },
-                    ["modes"] = 
-                    {
-                        [1] = 1,
-                        [2] = 5,
-                        [3] = 2,
-                        [4] = 4,
-                        [5] = 3,
-                        [6] = 6,
-                    },
-                },
-            },
-            ["8796093077354797"] = 
-            {
-                ["tot"] = 
-                {
-                    ["selectedCharacters"] = 
-                    {
-                    },
-                },
-                ["version"] = 1,
-                ["duels"] = 
-                {
-                    ["selectedCharacters"] = 
-                    {
-                        ["8796093077354797"] = true,
-                    },
-                },
-                ["$LastCharacterName"] = "noobsmell",
-                ["battlegrounds"] = 
-                {
-                    ["teamTypes"] = 
-                    {
-                        [4] = 4,
-                        [1] = 1,
-                        [2] = 2,
-                        [3] = 3,
-                    },
-                    ["characters"] = 
-                    {
-                        ["8796093077354797"] = true,
-                        ["8796093079602369"] = true,
-                        ["8796093077546265"] = true,
-                    },
-                    ["selectedCharacters"] = 
-                    {
-                    },
-                    ["modes"] = 
-                    {
-                        [1] = 1,
-                        [2] = 5,
-                        [3] = 2,
-                        [4] = 4,
-                        [5] = 3,
-                        [6] = 6,
-                    },
-                },
-            },
-            ["8796093079602369"] = 
-            {
-                ["tot"] = 
-                {
-                    ["selectedCharacters"] = 
-                    {
-                    },
-                },
-                ["version"] = 1,
-                ["duels"] = 
-                {
-                    ["selectedCharacters"] = 
-                    {
-                        ["8796093077622069"] = false,
-                        ["8796093077546265"] = true,
-                        ["8796093077286759"] = false,
-                        ["8796093078078769"] = false,
-                        ["8796093080564143"] = false,
-                        ["8796093077280363"] = false,
-                        ["8796093076445407"] = false,
-                        ["8796093077354797"] = false,
-                        ["8796093079602369"] = true,
-                        ["8796093077575525"] = false,
-                        ["8796093077280469"] = false,
-                        ["8796093077976825"] = false,
-                        ["8796093077130605"] = false,
-                        ["8796093078411849"] = false,
-                        ["8796093077280431"] = false,
-                        ["8796093077977575"] = false,
-                        ["8796093077286887"] = false,
-                        ["8796093077977317"] = false,
-                    },
-                },
-                ["$LastCharacterName"] = "Zou Kimcheng",
-                ["battlegrounds"] = 
-                {
-                    ["teamTypes"] = 
-                    {
-                        [1] = 1,
-                        [2] = 2,
-                        [3] = 3,
-                        [4] = 4,
-                        [5] = 5,
-                    },
-                    ["characters"] = 
-                    {
-                        ["8796093077622069"] = false,
-                        ["8796093077546265"] = false,
-                        ["8796093077286759"] = false,
-                        ["8796093078078769"] = false,
-                        ["8796093080564143"] = false,
-                        ["8796093077280363"] = false,
-                        ["8796093076445407"] = false,
-                        ["8796093077354797"] = false,
-                        ["8796093079602369"] = true,
-                        ["8796093077575525"] = false,
-                        ["8796093077280469"] = false,
-                        ["8796093077976825"] = false,
-                        ["8796093077130605"] = false,
-                        ["8796093078411849"] = false,
-                        ["8796093077280431"] = false,
-                        ["8796093077977575"] = false,
-                        ["8796093077286887"] = false,
-                        ["8796093077977317"] = false,
-                    },
-                    ["selectedCharacters"] = 
-                    {
-                    },
-                    ["modes"] = 
-                    {
-                        [1] = 1,
-                        [2] = 5,
-                        [3] = 2,
-                        [4] = 4,
-                        [5] = 3,
-                        [6] = 6,
-                    },
-                },
-            },
             ["8796093077575525"] = 
             {
-                ["tot"] = 
+                ["battlegrounds"] = 
                 {
-                    ["selectedCharacters"] = 
-                    {
-                    },
-                },
-                ["version"] = 1,
-                ["duels"] = 
-                {
-                    ["selectedCharacters"] = 
+                    ["characters"] = 
                     {
                         ["8796093077575525"] = true,
+                    },
+                    ["modes"] = 
+                    {
+                        [1] = 1,
+                        [2] = 5,
+                        [3] = 2,
+                        [4] = 4,
+                        [5] = 3,
+                        [6] = 6,
+                    },
+                    ["teamTypes"] = 
+                    {
+                        [4] = 4,
+                        [1] = 1,
+                        [2] = 2,
+                        [3] = 3,
+                    },
+                    ["selectedCharacters"] = 
+                    {
                     },
                 },
                 ["$LastCharacterName"] = "Joyous Socks",
-                ["battlegrounds"] = 
+                ["tot"] = 
                 {
-                    ["teamTypes"] = 
+                    ["selectedCharacters"] = 
                     {
-                        [4] = 4,
-                        [1] = 1,
-                        [2] = 2,
-                        [3] = 3,
                     },
-                    ["characters"] = 
+                },
+                ["version"] = 1,
+                ["duels"] = 
+                {
+                    ["selectedCharacters"] = 
                     {
                         ["8796093077575525"] = true,
                     },
-                    ["selectedCharacters"] = 
+                },
+            },
+            ["8796093080650625"] = 
+            {
+                ["battlegrounds"] = 
+                {
+                    ["characters"] = 
                     {
+                        ["8796093080650625"] = true,
                     },
                     ["modes"] = 
                     {
@@ -595,10 +180,18 @@ ImpressiveStatsCSV =
                         [5] = 3,
                         [6] = 6,
                     },
+                    ["teamTypes"] = 
+                    {
+                        [4] = 4,
+                        [1] = 1,
+                        [2] = 2,
+                        [3] = 3,
+                    },
+                    ["selectedCharacters"] = 
+                    {
+                    },
                 },
-            },
-            ["8796093077280469"] = 
-            {
+                ["$LastCharacterName"] = "Flawed Mangoes",
                 ["tot"] = 
                 {
                     ["selectedCharacters"] = 
@@ -610,377 +203,17 @@ ImpressiveStatsCSV =
                 {
                     ["selectedCharacters"] = 
                     {
-                        ["8796093077280469"] = true,
-                    },
-                },
-                ["$LastCharacterName"] = "noobxoxo",
-                ["battlegrounds"] = 
-                {
-                    ["teamTypes"] = 
-                    {
-                        [4] = 4,
-                        [1] = 1,
-                        [2] = 2,
-                        [3] = 3,
-                    },
-                    ["characters"] = 
-                    {
-                        ["8796093077280469"] = true,
-                    },
-                    ["selectedCharacters"] = 
-                    {
-                    },
-                    ["modes"] = 
-                    {
-                        [1] = 1,
-                        [2] = 5,
-                        [3] = 2,
-                        [4] = 4,
-                        [5] = 3,
-                        [6] = 6,
-                    },
-                },
-            },
-            ["8796093077622069"] = 
-            {
-                ["tot"] = 
-                {
-                    ["selectedCharacters"] = 
-                    {
-                    },
-                },
-                ["version"] = 1,
-                ["duels"] = 
-                {
-                    ["selectedCharacters"] = 
-                    {
-                        ["8796093077622069"] = true,
-                    },
-                },
-                ["$LastCharacterName"] = "noobwick",
-                ["battlegrounds"] = 
-                {
-                    ["teamTypes"] = 
-                    {
-                        [4] = 4,
-                        [1] = 1,
-                        [2] = 2,
-                        [3] = 3,
-                    },
-                    ["characters"] = 
-                    {
-                        ["8796093077622069"] = true,
-                    },
-                    ["selectedCharacters"] = 
-                    {
-                    },
-                    ["modes"] = 
-                    {
-                        [1] = 1,
-                        [2] = 5,
-                        [3] = 2,
-                        [4] = 4,
-                        [5] = 3,
-                        [6] = 6,
-                    },
-                },
-            },
-            ["8796093077976825"] = 
-            {
-                ["tot"] = 
-                {
-                    ["selectedCharacters"] = 
-                    {
-                    },
-                },
-                ["version"] = 1,
-                ["duels"] = 
-                {
-                    ["selectedCharacters"] = 
-                    {
-                        ["8796093077976825"] = true,
-                    },
-                },
-                ["$LastCharacterName"] = "Sunken Feb",
-                ["battlegrounds"] = 
-                {
-                    ["teamTypes"] = 
-                    {
-                        [4] = 4,
-                        [1] = 1,
-                        [2] = 2,
-                        [3] = 3,
-                    },
-                    ["characters"] = 
-                    {
-                        ["8796093077976825"] = true,
-                    },
-                    ["selectedCharacters"] = 
-                    {
-                    },
-                    ["modes"] = 
-                    {
-                        [1] = 1,
-                        [2] = 5,
-                        [3] = 2,
-                        [4] = 4,
-                        [5] = 3,
-                        [6] = 6,
-                    },
-                },
-            },
-            ["8796093077130605"] = 
-            {
-                ["tot"] = 
-                {
-                    ["selectedCharacters"] = 
-                    {
-                    },
-                },
-                ["version"] = 1,
-                ["duels"] = 
-                {
-                    ["selectedCharacters"] = 
-                    {
-                        ["8796093077130605"] = true,
-                    },
-                },
-                ["$LastCharacterName"] = "noobhugs",
-                ["battlegrounds"] = 
-                {
-                    ["teamTypes"] = 
-                    {
-                        [4] = 4,
-                        [1] = 1,
-                        [2] = 2,
-                        [3] = 3,
-                    },
-                    ["characters"] = 
-                    {
-                        ["8796093077130605"] = true,
-                    },
-                    ["selectedCharacters"] = 
-                    {
-                    },
-                    ["modes"] = 
-                    {
-                        [1] = 1,
-                        [2] = 5,
-                        [3] = 2,
-                        [4] = 4,
-                        [5] = 3,
-                        [6] = 6,
-                    },
-                },
-            },
-            ["8796093078411849"] = 
-            {
-                ["tot"] = 
-                {
-                    ["selectedCharacters"] = 
-                    {
-                    },
-                },
-                ["version"] = 1,
-                ["duels"] = 
-                {
-                    ["selectedCharacters"] = 
-                    {
-                        ["8796093078411849"] = true,
-                    },
-                },
-                ["$LastCharacterName"] = "Young Ming",
-                ["battlegrounds"] = 
-                {
-                    ["teamTypes"] = 
-                    {
-                        [4] = 4,
-                        [1] = 1,
-                        [2] = 2,
-                        [3] = 3,
-                    },
-                    ["characters"] = 
-                    {
-                        ["8796093078411849"] = true,
-                    },
-                    ["selectedCharacters"] = 
-                    {
-                    },
-                    ["modes"] = 
-                    {
-                        [1] = 1,
-                        [2] = 5,
-                        [3] = 2,
-                        [4] = 4,
-                        [5] = 3,
-                        [6] = 6,
-                    },
-                },
-            },
-            ["8796093077280431"] = 
-            {
-                ["tot"] = 
-                {
-                    ["selectedCharacters"] = 
-                    {
-                    },
-                },
-                ["version"] = 1,
-                ["duels"] = 
-                {
-                    ["selectedCharacters"] = 
-                    {
-                        ["8796093077280431"] = true,
-                    },
-                },
-                ["$LastCharacterName"] = "noobwink",
-                ["battlegrounds"] = 
-                {
-                    ["teamTypes"] = 
-                    {
-                        [4] = 4,
-                        [1] = 1,
-                        [2] = 2,
-                        [3] = 3,
-                    },
-                    ["characters"] = 
-                    {
-                        ["8796093077280431"] = true,
-                    },
-                    ["selectedCharacters"] = 
-                    {
-                    },
-                    ["modes"] = 
-                    {
-                        [1] = 1,
-                        [2] = 5,
-                        [3] = 2,
-                        [4] = 4,
-                        [5] = 3,
-                        [6] = 6,
-                    },
-                },
-            },
-            ["8796093077977575"] = 
-            {
-                ["tot"] = 
-                {
-                    ["selectedCharacters"] = 
-                    {
-                    },
-                },
-                ["version"] = 1,
-                ["duels"] = 
-                {
-                    ["selectedCharacters"] = 
-                    {
-                        ["8796093077977575"] = true,
-                    },
-                },
-                ["$LastCharacterName"] = "Killswitch Memories",
-                ["battlegrounds"] = 
-                {
-                    ["teamTypes"] = 
-                    {
-                        [4] = 4,
-                        [1] = 1,
-                        [2] = 2,
-                        [3] = 3,
-                    },
-                    ["characters"] = 
-                    {
-                        ["8796093077977575"] = true,
-                    },
-                    ["selectedCharacters"] = 
-                    {
-                    },
-                    ["modes"] = 
-                    {
-                        [1] = 1,
-                        [2] = 5,
-                        [3] = 2,
-                        [4] = 4,
-                        [5] = 3,
-                        [6] = 6,
-                    },
-                },
-            },
-            ["8796093077286887"] = 
-            {
-                ["tot"] = 
-                {
-                    ["selectedCharacters"] = 
-                    {
-                    },
-                },
-                ["version"] = 1,
-                ["duels"] = 
-                {
-                    ["selectedCharacters"] = 
-                    {
-                        ["8796093077286887"] = true,
-                    },
-                },
-                ["$LastCharacterName"] = "noobhappy",
-                ["battlegrounds"] = 
-                {
-                    ["teamTypes"] = 
-                    {
-                        [4] = 4,
-                        [1] = 1,
-                        [2] = 2,
-                        [3] = 3,
-                    },
-                    ["characters"] = 
-                    {
-                        ["8796093077286887"] = true,
-                    },
-                    ["selectedCharacters"] = 
-                    {
-                    },
-                    ["modes"] = 
-                    {
-                        [1] = 1,
-                        [2] = 5,
-                        [3] = 2,
-                        [4] = 4,
-                        [5] = 3,
-                        [6] = 6,
+                        ["8796093080650625"] = true,
                     },
                 },
             },
             ["8796093077977317"] = 
             {
-                ["tot"] = 
-                {
-                    ["selectedCharacters"] = 
-                    {
-                    },
-                },
-                ["version"] = 1,
-                ["duels"] = 
-                {
-                    ["selectedCharacters"] = 
-                    {
-                        ["8796093077977317"] = true,
-                    },
-                },
-                ["$LastCharacterName"] = "Simmy Seek Snow",
                 ["battlegrounds"] = 
                 {
-                    ["teamTypes"] = 
-                    {
-                        [4] = 4,
-                        [1] = 1,
-                        [2] = 2,
-                        [3] = 3,
-                    },
                     ["characters"] = 
                     {
                         ["8796093077977317"] = true,
-                    },
-                    ["selectedCharacters"] = 
-                    {
                     },
                     ["modes"] = 
                     {
@@ -991,13 +224,18 @@ ImpressiveStatsCSV =
                         [5] = 3,
                         [6] = 6,
                     },
+                    ["teamTypes"] = 
+                    {
+                        [4] = 4,
+                        [1] = 1,
+                        [2] = 2,
+                        [3] = 3,
+                    },
+                    ["selectedCharacters"] = 
+                    {
+                    },
                 },
-            },
-        },
-        ["@YYDS1214"] = 
-        {
-            ["8796093077165965"] = 
-            {
+                ["$LastCharacterName"] = "Simmy Seek Snow",
                 ["tot"] = 
                 {
                     ["selectedCharacters"] = 
@@ -1009,27 +247,151 @@ ImpressiveStatsCSV =
                 {
                     ["selectedCharacters"] = 
                     {
-                        ["8796093077165965"] = true,
+                        ["8796093077977317"] = true,
                     },
                 },
-                ["$LastCharacterName"] = "Junjunya",
+            },
+            ["8796093077354797"] = 
+            {
                 ["battlegrounds"] = 
                 {
+                    ["characters"] = 
+                    {
+                        ["8796093077354797"] = true,
+                        ["8796093079602369"] = true,
+                        ["8796093077546265"] = true,
+                    },
+                    ["modes"] = 
+                    {
+                        [1] = 1,
+                        [2] = 5,
+                        [3] = 2,
+                        [4] = 4,
+                        [5] = 3,
+                        [6] = 6,
+                    },
                     ["teamTypes"] = 
                     {
+                        [4] = 4,
                         [1] = 1,
                         [2] = 2,
                         [3] = 3,
-                        [4] = 4,
-                        [5] = 5,
-                        [6] = 6,
-                    },
-                    ["characters"] = 
-                    {
-                        ["8796093077165965"] = true,
                     },
                     ["selectedCharacters"] = 
                     {
+                    },
+                },
+                ["$LastCharacterName"] = "noobsmell",
+                ["tot"] = 
+                {
+                    ["selectedCharacters"] = 
+                    {
+                    },
+                },
+                ["version"] = 1,
+                ["duels"] = 
+                {
+                    ["selectedCharacters"] = 
+                    {
+                        ["8796093077354797"] = true,
+                    },
+                },
+            },
+            ["8796093077976825"] = 
+            {
+                ["battlegrounds"] = 
+                {
+                    ["characters"] = 
+                    {
+                        ["8796093077976825"] = true,
+                    },
+                    ["modes"] = 
+                    {
+                        [1] = 1,
+                        [2] = 5,
+                        [3] = 2,
+                        [4] = 4,
+                        [5] = 3,
+                        [6] = 6,
+                    },
+                    ["teamTypes"] = 
+                    {
+                        [4] = 4,
+                        [1] = 1,
+                        [2] = 2,
+                        [3] = 3,
+                    },
+                    ["selectedCharacters"] = 
+                    {
+                    },
+                },
+                ["$LastCharacterName"] = "Sunken Feb",
+                ["tot"] = 
+                {
+                    ["selectedCharacters"] = 
+                    {
+                    },
+                },
+                ["version"] = 1,
+                ["duels"] = 
+                {
+                    ["selectedCharacters"] = 
+                    {
+                        ["8796093077976825"] = true,
+                    },
+                },
+            },
+            ["8796093077546265"] = 
+            {
+                ["battlegrounds"] = 
+                {
+                    ["characters"] = 
+                    {
+                        ["8796093077546265"] = true,
+                    },
+                    ["modes"] = 
+                    {
+                        [1] = 1,
+                        [2] = 5,
+                        [3] = 2,
+                        [4] = 4,
+                        [5] = 3,
+                        [6] = 6,
+                    },
+                    ["teamTypes"] = 
+                    {
+                        [4] = 4,
+                        [1] = 1,
+                        [2] = 2,
+                        [3] = 3,
+                    },
+                    ["selectedCharacters"] = 
+                    {
+                    },
+                },
+                ["$LastCharacterName"] = "Galen Chef Mike",
+                ["tot"] = 
+                {
+                    ["selectedCharacters"] = 
+                    {
+                    },
+                },
+                ["version"] = 1,
+                ["duels"] = 
+                {
+                    ["selectedCharacters"] = 
+                    {
+                        ["8796093077546265"] = true,
+                    },
+                },
+            },
+            ["8798292100191884"] = 
+            {
+                ["battlegrounds"] = 
+                {
+                    ["characters"] = 
+                    {
+                        ["8798292100191884"] = true,
                     },
                     ["modes"] = 
                     {
@@ -1039,6 +401,644 @@ ImpressiveStatsCSV =
                         [4] = 4,
                         [5] = 5,
                         [6] = 6,
+                    },
+                    ["teamTypes"] = 
+                    {
+                        [1] = 1,
+                        [2] = 2,
+                        [3] = 3,
+                        [4] = 4,
+                        [5] = 5,
+                        [6] = 6,
+                    },
+                    ["selectedCharacters"] = 
+                    {
+                    },
+                },
+                ["$LastCharacterName"] = "noobkiss",
+                ["tot"] = 
+                {
+                    ["selectedCharacters"] = 
+                    {
+                    },
+                },
+                ["version"] = 1,
+                ["duels"] = 
+                {
+                    ["selectedCharacters"] = 
+                    {
+                        ["8798292100191884"] = true,
+                    },
+                },
+            },
+            ["8796093080564143"] = 
+            {
+                ["battlegrounds"] = 
+                {
+                    ["characters"] = 
+                    {
+                        ["8796093080564143"] = true,
+                    },
+                    ["modes"] = 
+                    {
+                        [1] = 1,
+                        [2] = 5,
+                        [3] = 2,
+                        [4] = 4,
+                        [5] = 3,
+                        [6] = 6,
+                    },
+                    ["teamTypes"] = 
+                    {
+                        [4] = 4,
+                        [1] = 1,
+                        [2] = 2,
+                        [3] = 3,
+                    },
+                    ["selectedCharacters"] = 
+                    {
+                    },
+                },
+                ["$LastCharacterName"] = "Wasted Wasted",
+                ["tot"] = 
+                {
+                    ["selectedCharacters"] = 
+                    {
+                    },
+                },
+                ["version"] = 1,
+                ["duels"] = 
+                {
+                    ["selectedCharacters"] = 
+                    {
+                        ["8796093080564143"] = true,
+                    },
+                },
+            },
+            ["8796093077286759"] = 
+            {
+                ["battlegrounds"] = 
+                {
+                    ["characters"] = 
+                    {
+                        ["8796093077286759"] = true,
+                    },
+                    ["modes"] = 
+                    {
+                        [1] = 1,
+                        [2] = 5,
+                        [3] = 2,
+                        [4] = 4,
+                        [5] = 3,
+                        [6] = 6,
+                    },
+                    ["teamTypes"] = 
+                    {
+                        [4] = 4,
+                        [1] = 1,
+                        [2] = 2,
+                        [3] = 3,
+                    },
+                    ["selectedCharacters"] = 
+                    {
+                    },
+                },
+                ["$LastCharacterName"] = "Lumina Hoaying",
+                ["tot"] = 
+                {
+                    ["selectedCharacters"] = 
+                    {
+                    },
+                },
+                ["version"] = 1,
+                ["duels"] = 
+                {
+                    ["selectedCharacters"] = 
+                    {
+                        ["8796093077286759"] = true,
+                    },
+                },
+            },
+            ["8796093077130605"] = 
+            {
+                ["battlegrounds"] = 
+                {
+                    ["characters"] = 
+                    {
+                        ["8796093077130605"] = true,
+                    },
+                    ["modes"] = 
+                    {
+                        [1] = 1,
+                        [2] = 5,
+                        [3] = 2,
+                        [4] = 4,
+                        [5] = 3,
+                        [6] = 6,
+                    },
+                    ["teamTypes"] = 
+                    {
+                        [4] = 4,
+                        [1] = 1,
+                        [2] = 2,
+                        [3] = 3,
+                    },
+                    ["selectedCharacters"] = 
+                    {
+                    },
+                },
+                ["$LastCharacterName"] = "noobhugs",
+                ["tot"] = 
+                {
+                    ["selectedCharacters"] = 
+                    {
+                    },
+                },
+                ["version"] = 1,
+                ["duels"] = 
+                {
+                    ["selectedCharacters"] = 
+                    {
+                        ["8796093077130605"] = true,
+                    },
+                },
+            },
+            ["8796093078078769"] = 
+            {
+                ["battlegrounds"] = 
+                {
+                    ["characters"] = 
+                    {
+                        ["8796093078078769"] = true,
+                    },
+                    ["modes"] = 
+                    {
+                        [1] = 1,
+                        [2] = 5,
+                        [3] = 2,
+                        [4] = 4,
+                        [5] = 3,
+                        [6] = 6,
+                    },
+                    ["teamTypes"] = 
+                    {
+                        [4] = 4,
+                        [1] = 1,
+                        [2] = 2,
+                        [3] = 3,
+                    },
+                    ["selectedCharacters"] = 
+                    {
+                    },
+                },
+                ["$LastCharacterName"] = "noobmiss",
+                ["tot"] = 
+                {
+                    ["selectedCharacters"] = 
+                    {
+                    },
+                },
+                ["version"] = 1,
+                ["duels"] = 
+                {
+                    ["selectedCharacters"] = 
+                    {
+                        ["8796093078078769"] = true,
+                    },
+                },
+            },
+            ["8796093079602369"] = 
+            {
+                ["battlegrounds"] = 
+                {
+                    ["characters"] = 
+                    {
+                        ["8796093077575525"] = false,
+                        ["8796093077977317"] = false,
+                        ["8796093077354797"] = false,
+                        ["8796093077976825"] = false,
+                        ["8796093077546265"] = false,
+                        ["8796093078411849"] = false,
+                        ["8796093080564143"] = false,
+                        ["8796093077286759"] = false,
+                        ["8796093077130605"] = false,
+                        ["8796093078078769"] = false,
+                        ["8796093079602369"] = true,
+                        ["8796093076445407"] = false,
+                        ["8796093077280469"] = false,
+                        ["8796093077286887"] = false,
+                        ["8796093077977575"] = false,
+                        ["8796093077622069"] = false,
+                        ["8796093077280363"] = false,
+                        ["8796093077280431"] = false,
+                    },
+                    ["modes"] = 
+                    {
+                        [1] = 1,
+                        [2] = 5,
+                        [3] = 2,
+                        [4] = 4,
+                        [5] = 3,
+                        [6] = 6,
+                    },
+                    ["teamTypes"] = 
+                    {
+                        [1] = 1,
+                        [2] = 2,
+                        [3] = 3,
+                        [4] = 4,
+                        [5] = 5,
+                    },
+                    ["selectedCharacters"] = 
+                    {
+                    },
+                },
+                ["$LastCharacterName"] = "Zou Kimcheng",
+                ["tot"] = 
+                {
+                    ["selectedCharacters"] = 
+                    {
+                    },
+                },
+                ["version"] = 1,
+                ["duels"] = 
+                {
+                    ["selectedCharacters"] = 
+                    {
+                        ["8796093077575525"] = false,
+                        ["8796093077977317"] = false,
+                        ["8796093077354797"] = false,
+                        ["8796093077976825"] = false,
+                        ["8796093077546265"] = true,
+                        ["8796093078411849"] = false,
+                        ["8796093080564143"] = false,
+                        ["8796093077286759"] = false,
+                        ["8796093077130605"] = false,
+                        ["8796093078078769"] = false,
+                        ["8796093079602369"] = true,
+                        ["8796093076445407"] = false,
+                        ["8796093077280469"] = false,
+                        ["8796093077286887"] = false,
+                        ["8796093077977575"] = false,
+                        ["8796093077622069"] = false,
+                        ["8796093077280363"] = false,
+                        ["8796093077280431"] = false,
+                    },
+                },
+            },
+            ["8796093076445407"] = 
+            {
+                ["battlegrounds"] = 
+                {
+                    ["characters"] = 
+                    {
+                        ["8796093077546265"] = false,
+                        ["8796093079602369"] = false,
+                        ["8796093076445407"] = true,
+                    },
+                    ["modes"] = 
+                    {
+                        [1] = 1,
+                        [2] = 5,
+                        [3] = 2,
+                        [4] = 4,
+                        [5] = 3,
+                        [6] = 6,
+                    },
+                    ["teamTypes"] = 
+                    {
+                        [4] = 4,
+                        [1] = 1,
+                        [2] = 2,
+                        [3] = 3,
+                    },
+                    ["selectedCharacters"] = 
+                    {
+                    },
+                },
+                ["$LastCharacterName"] = "noobkiss",
+                ["tot"] = 
+                {
+                    ["selectedCharacters"] = 
+                    {
+                    },
+                },
+                ["version"] = 1,
+                ["duels"] = 
+                {
+                    ["selectedCharacters"] = 
+                    {
+                        ["8796093076445407"] = true,
+                    },
+                },
+            },
+            ["8796093077280469"] = 
+            {
+                ["battlegrounds"] = 
+                {
+                    ["characters"] = 
+                    {
+                        ["8796093077280469"] = true,
+                    },
+                    ["modes"] = 
+                    {
+                        [1] = 1,
+                        [2] = 5,
+                        [3] = 2,
+                        [4] = 4,
+                        [5] = 3,
+                        [6] = 6,
+                    },
+                    ["teamTypes"] = 
+                    {
+                        [4] = 4,
+                        [1] = 1,
+                        [2] = 2,
+                        [3] = 3,
+                    },
+                    ["selectedCharacters"] = 
+                    {
+                    },
+                },
+                ["$LastCharacterName"] = "noobxoxo",
+                ["tot"] = 
+                {
+                    ["selectedCharacters"] = 
+                    {
+                    },
+                },
+                ["version"] = 1,
+                ["duels"] = 
+                {
+                    ["selectedCharacters"] = 
+                    {
+                        ["8796093077280469"] = true,
+                    },
+                },
+            },
+            ["8796093077622069"] = 
+            {
+                ["battlegrounds"] = 
+                {
+                    ["characters"] = 
+                    {
+                        ["8796093077622069"] = true,
+                    },
+                    ["modes"] = 
+                    {
+                        [1] = 1,
+                        [2] = 5,
+                        [3] = 2,
+                        [4] = 4,
+                        [5] = 3,
+                        [6] = 6,
+                    },
+                    ["teamTypes"] = 
+                    {
+                        [4] = 4,
+                        [1] = 1,
+                        [2] = 2,
+                        [3] = 3,
+                    },
+                    ["selectedCharacters"] = 
+                    {
+                    },
+                },
+                ["$LastCharacterName"] = "noobwick",
+                ["tot"] = 
+                {
+                    ["selectedCharacters"] = 
+                    {
+                    },
+                },
+                ["version"] = 1,
+                ["duels"] = 
+                {
+                    ["selectedCharacters"] = 
+                    {
+                        ["8796093077622069"] = true,
+                    },
+                },
+            },
+            ["8796093077286887"] = 
+            {
+                ["battlegrounds"] = 
+                {
+                    ["characters"] = 
+                    {
+                        ["8796093077286887"] = true,
+                    },
+                    ["modes"] = 
+                    {
+                        [1] = 1,
+                        [2] = 5,
+                        [3] = 2,
+                        [4] = 4,
+                        [5] = 3,
+                        [6] = 6,
+                    },
+                    ["teamTypes"] = 
+                    {
+                        [4] = 4,
+                        [1] = 1,
+                        [2] = 2,
+                        [3] = 3,
+                    },
+                    ["selectedCharacters"] = 
+                    {
+                    },
+                },
+                ["$LastCharacterName"] = "noobhappy",
+                ["tot"] = 
+                {
+                    ["selectedCharacters"] = 
+                    {
+                    },
+                },
+                ["version"] = 1,
+                ["duels"] = 
+                {
+                    ["selectedCharacters"] = 
+                    {
+                        ["8796093077286887"] = true,
+                    },
+                },
+            },
+            ["8796093077977575"] = 
+            {
+                ["battlegrounds"] = 
+                {
+                    ["characters"] = 
+                    {
+                        ["8796093077977575"] = true,
+                    },
+                    ["modes"] = 
+                    {
+                        [1] = 1,
+                        [2] = 5,
+                        [3] = 2,
+                        [4] = 4,
+                        [5] = 3,
+                        [6] = 6,
+                    },
+                    ["teamTypes"] = 
+                    {
+                        [4] = 4,
+                        [1] = 1,
+                        [2] = 2,
+                        [3] = 3,
+                    },
+                    ["selectedCharacters"] = 
+                    {
+                    },
+                },
+                ["$LastCharacterName"] = "Killswitch Memories",
+                ["tot"] = 
+                {
+                    ["selectedCharacters"] = 
+                    {
+                    },
+                },
+                ["version"] = 1,
+                ["duels"] = 
+                {
+                    ["selectedCharacters"] = 
+                    {
+                        ["8796093077977575"] = true,
+                    },
+                },
+            },
+            ["8796093077280363"] = 
+            {
+                ["battlegrounds"] = 
+                {
+                    ["characters"] = 
+                    {
+                        ["8796093077280363"] = true,
+                    },
+                    ["modes"] = 
+                    {
+                        [1] = 1,
+                        [2] = 2,
+                        [3] = 3,
+                        [4] = 4,
+                        [5] = 5,
+                        [6] = 6,
+                    },
+                    ["teamTypes"] = 
+                    {
+                        [1] = 1,
+                        [2] = 2,
+                        [3] = 3,
+                        [4] = 4,
+                        [5] = 5,
+                        [6] = 6,
+                    },
+                    ["selectedCharacters"] = 
+                    {
+                    },
+                },
+                ["$LastCharacterName"] = "noobsmile",
+                ["tot"] = 
+                {
+                    ["selectedCharacters"] = 
+                    {
+                    },
+                },
+                ["version"] = 1,
+                ["duels"] = 
+                {
+                    ["selectedCharacters"] = 
+                    {
+                        ["8796093077280363"] = true,
+                    },
+                },
+            },
+            ["8796093077280431"] = 
+            {
+                ["battlegrounds"] = 
+                {
+                    ["characters"] = 
+                    {
+                        ["8796093077280431"] = true,
+                    },
+                    ["modes"] = 
+                    {
+                        [1] = 1,
+                        [2] = 5,
+                        [3] = 2,
+                        [4] = 4,
+                        [5] = 3,
+                        [6] = 6,
+                    },
+                    ["teamTypes"] = 
+                    {
+                        [4] = 4,
+                        [1] = 1,
+                        [2] = 2,
+                        [3] = 3,
+                    },
+                    ["selectedCharacters"] = 
+                    {
+                    },
+                },
+                ["$LastCharacterName"] = "noobwink",
+                ["tot"] = 
+                {
+                    ["selectedCharacters"] = 
+                    {
+                    },
+                },
+                ["version"] = 1,
+                ["duels"] = 
+                {
+                    ["selectedCharacters"] = 
+                    {
+                        ["8796093077280431"] = true,
+                    },
+                },
+            },
+            ["8796093078411849"] = 
+            {
+                ["battlegrounds"] = 
+                {
+                    ["characters"] = 
+                    {
+                        ["8796093078411849"] = true,
+                    },
+                    ["modes"] = 
+                    {
+                        [1] = 1,
+                        [2] = 5,
+                        [3] = 2,
+                        [4] = 4,
+                        [5] = 3,
+                        [6] = 6,
+                    },
+                    ["teamTypes"] = 
+                    {
+                        [4] = 4,
+                        [1] = 1,
+                        [2] = 2,
+                        [3] = 3,
+                    },
+                    ["selectedCharacters"] = 
+                    {
+                    },
+                },
+                ["$LastCharacterName"] = "Young Ming",
+                ["tot"] = 
+                {
+                    ["selectedCharacters"] = 
+                    {
+                    },
+                },
+                ["version"] = 1,
+                ["duels"] = 
+                {
+                    ["selectedCharacters"] = 
+                    {
+                        ["8796093078411849"] = true,
                     },
                 },
             },
@@ -1120,11 +1120,196 @@ ImpressiveStatsMatchesData =
         [69] = "HENgm1LqR88Bx5mcsBmcmBmbupmbqpGZq5lG9Qp3y7t6mDkpebs1mzrmwLBQu92bitWazNX4uAGYgAUMBoyCAEAwtAVYp5GdzBydpRHag4WdtJWZyNnXNh3BgELs5w6LskuGQADMwREg6JAAAAmCrSTsymzNx8yI8QAkVpJWZz5EUhwBAgBCIGCAQFAAAAjyT0R3bgIVYnlmbn1yU09mct5VT4hAomebt6y7t6ilKQADIwJVALiAiFASFme7N3KLPQoDtyAZK6CrNyKzNvaCvGAx0bv5WZ51CVv9mbz5AXgCAgA8cApDBAAAQEzB3bupnXNhHEguKt5QLv3q7uykrMzKLM5U5MQABIAeDgtMACVA8ClejuwWLszKzrmw7AQKl2ZwsWdhMAAgBAYZAwdCAAAAShQphWel9mbe1EeIASo0QLvyezNX+CUAAEEcDguDgWAASTLcIAgeo0b59WdzByUvN2az5VT4lAI3e7NxWLt5mL6fADMgAidAcSBQFA4WgKs0cju5A5u0oDNQcru2ErM5mzrmw7AQiF2cY9FWi7CIgBGA3Bw9EAAAAThVpJWZz5mYeZEeIAyq0Ers5cCqwrAAwAA8dBQUCAAAgR5J6o7NQkKszSztzaZK6eTu28qJ8QAUTvtWd59WdhfEQgBGoqHgCRAOCApCTv9mbllHI0hWZgMFdh1GZl5mXNhXDgY6t3crs8ahq3ezt5cSMgBAQADRgRXAAAAIi5g7N30zrmwDCQXl2col3b1dXZyVmZlFmcmUDQABAo6BALHgxCAehSvRXYrF2Zl5VT4dAIlS7MYWruQfAAwABEUAweBAAAApQo0QLvyezNvaCPEAJUaolXZv5mDLBGAgCuSBIhBQHAApDHOEAADllcB",
         [70] = "H0Quy1Lqh/8Bx5mcsBmcmBmbyxGYkZGbyJKD9Qr3qDklSrtxQrM3OzrmwLBQu92bitWazNXQMBYgACU3EUtI4DBQQIVYtVWee1EeHASqwCrtyyTsABHMwBgBCAlCkRAILGCtyMLN3GjOvaCPEANEalZWa4cjIYBIoADE7C45DAAAwQMHcv5mee1EeQA6q0mDt8eru7KTuyMrswkLUyACQQB3eAYIDIxAwKUKM90juyGzrmwDBQKFme6RXZjJxdgAMoAjiAvOBoHAEIMFGZ5BCTslGbslGdo5lR4tAIrKzt3abK0KTu6CpfAADAwAAg3DBuwBMDnSbswAhq0crMvMCPGAlUbt9mc0FGbp5WZRUEYgCUgVJgZNAAAAThQphWel9mbe1EeIASo0QLvyezNRlBQwAJ4iIQsEQnBAWjfgHAU4yF",
         [71] = "HERn91Lq1/8Bx5mcsBmcmBmbyxGYkZGbyJKD9Qr3qDklSrtxQrM3OzrmwLBQu92bitWazNnAVBKIgAM8CI7CQCBQgwUYklHIMxWasxWa0hmXGh3CgsqM3ertpQrM5qLcJBAEAAKAAUXBAbCwUaKt1QLM2AppwOrs5YLs8KTOvaCPIAtkbpdGa0NFbhlXZyNDN1IyPgAGYAQfAaoA0FAEOTVmc2Vmc1NHICxWYkVGIvZGIDFmbkxWZz5VT41AopKTO7KTu6mroxkrOR1CAAABwMBAqBAAAgIho0Yjt8A5I3CTu5oLtxWzrmwDBQHF2c0J3bjJlMABCgAelAxjA2JAQDLBXde1EeIAaqxgLt3cbugECQgABM7EwRQAAAApQpw0TP6KbMvaCPEApUY6pHdlNWALBCgAC4uBQTE4GAQoQFavJnbhJHIkVGIL9mc1JHZe1EeNAipyaKN5C7syiJnauJsEAAEAA0BAGQAAAAI1YBACAFucB",
+        [72] = "HENyBAPqR88Bx5mcsBmcmBmbyxGYkZGbyJKH9Qr3qDklSrtxQrM3OzrmwLBQu92bitWazNnjzBKAADsVBYuAAPAQWg2byF2Ylxmae1EeKACt3kLsxKDGZiJ8KAAMAA5IAUfAAAAIMcqM5IDu3urM58qJ8aAkTlJHZQ92dlJnN2YTYJAAYAAkIAkZCAAAQcAlcv1WazVGcpV2ce1EePAKs0ILM3oDtyOru8qzt3U/IgABYQgGAqHAgAAMDnSbO0qTtwSzNvaCvEA5UazhWZzhmSuRFIAAE4pAAqCAhHA2xUjFmclRGalFmc05VT4pAIpCLNyKztpeztQ4AEwAAc5BALDwJAAhAq0gbYU9qJ8SAEVlJnch1SOz44TACAYgCOATOAAAAEJL5WanhGdggWe152YrVGbe1EeOAqpwoLtwm7owETu0KjtwrAAwAAMhAI2CAAAgQ3CcIAgeo1b1BySp12YoVmbn5VT4lAI3e7NxWLt5mzV3ADAACCvAYgA8bAILQ7N5CbsyYTNvaCPFAh2byF2YlBjMxEeFAAGAgnKASTAkAAEGOVmckB3b3Vmce1EeNAypykjMoe7uykzGbsJiRABMAAnMAWaBAAAIOgSu3aLt5KDu0KbOvaCvHAFWakFmb0hWZnVXe152bu8FoAAII4DwrDAiAAmhTpNHa1pWYp5mXNhXCgcKt5Qrs5QTJVqBAQAAMJAIADA+CA7YqxCTuyIDtyCTO68qJ8UAkUhlGZl52Uv5WglAAYgACAB0eBoJAgQAVawNMqe1EeJAiqykTuwaJnZcxJABAUwVHAbKAAAAiklcLtzQjOQQLv6cbs1KjNvaCPHA1UY0lWYzdUYiJXalxW4VAAYAA4TAQWBAAAQobBOEAADllcB",
+        [73] = "HgQaJCPqV/cBx5mcsBmcmBmbyxGYkZGbyJKD9Qr3qDklSrtxQrM3OzrmwLBQu92bitWazNns2AaIgF4mEIAE4eAQUsEIVBCTgYlXNhXBgWqKmsKgqAEgwA0bBG5DAAAIKGKM3CztzCzLjwbBQTR3buFmcolmbpJ6IADK4BLWBsiAeCAcGHV3ZhBCTpBXYeZEeJA6o6OLMmSDuwElRAADAADCgciAt+A8FhkTthD1N3AhO0KDEpqjO0Yrs5mzrmwzBQCJnah5mbUhWZCVWYyF2OgAO4gy8AunBieAEKTRnclF2agUkb0hWdzlWYzRnXNhnCgCqs5oDtysLN8k7HQDB0QOogsjBAAAEDtApp3a7txQLNvaCPFAJke51CVl5GZvF2OgBWIA9VAHNBAAA8IPBHdp1WdzBCUylWatVmXNhnDgGCt0Kzsvm7t5CrmYgJUZACYAButB8uFAAAQ1AC+BAFmcB",
+        [74] = "HwMc8FPqN88Bx5mcsBmcmBmbyxGYkZGbyJKH9Qr3qDklSrtxQrM3OzrmwLBQu92bitWazNXrHCQAACqnBgFBYGAQaoUYjtGIGJ3bzRnXNh3CgoCpiKKInm6qZkSEOAAMQAKLAqbBAAAgLIaYcnrthHdOvaCvEAR0bz1WYzFTMiwBAgBCwPEgXKAAAApBVpJXazRXYulWYeZEeIAqo5GrM3GrMR4AAwAB0xAgpBAAAAtIIy0rlkYLs58qJ8MAkRy9Was1qWgAAQAhFAKMAilAwEBNXYpxGbeZEeIAio6mbtykLs8cCEQAEY5AgQCw3BAFxpwSLM5CDkikLP3I7N58yI8WAERoFWbtFGR1RWZNeFQAAQAKEAdEg5AAXxQyVHe4VGZe1EeJAqJ5cppwkbt6EhDQADAQ9Bg/EAAAAONH2CAA6hWvVHILlWbjhWZudmXNhXCgc7t3Ebt0mbuWpDYAAC8lBYUBAaAg0QpwGbNQMSu3mjOvaCvFARFSFVUQON1VzIlQfACYAAikAQbCYIAAXQ0w4OXbDP6ce1EeJAio3mrtwmLmYEmDAADEwRGgIPAAAASDqSTu0mjuwcLtw8yI8QAURzNWZuNWZiwBAgBC4XBwqEAAAAaRQkpXLJxWYz5VT4ZAIjk7t0YLlaAAEgACLAanA0dAgJCauwSjN28yI8QAER1N3alJXYtbKYAAO4EDQsBAUIAKiThlWYyFGIFJXeuR2by5lR4tAIiQLs2aLMiqjsyaPOwAAkArJA4LAODAuihkrO8wrMy8qJ8SAUTy5SThJ3a1JWCAAGAANDAEMAAAAcaOsFAAwQZLXA",
+        [75] = "HUQTOPPqB/8Bx5mcsBmcmBmbyxGYkZGbyJKD9Qr3qDklSrtxQrM3OzrmwLBQu92bitWazNXwPCgAgJEPLMrDgHAQU00bzlWc1VmXNhnBgaKIsYaJxoCAwCAgUEw1TAAAg1gp3kjMQoKvzqbOvaCPHAVEczlGbv52XPJXav5mIZCAgAAyJAoBL4GGQUgUY6V2cp5mXNh3CgGbswcjsyY7NcyJsOALAgCfbCCVAAAAQQCqMykLtxA5J5Sbu3czrmwDCQzFmbhRWYflXdrlWb1JXYh/QIAAAoVDwzKgcaA2wSwVnXNhHCgmaM4S7N3mLW+AVEwERwE0SBAAAQKUCt3cLM6ezrmwzBQTtWasxGS15GdlJXM4IQfgAgAgHnAdLFeDCYFEpXa1BHbh5VT4pAozkLsx07uzkrMBhDAgEAwGAQbWgkNAVDgoAAU0yF",
+        [76] = "HEN0pBQqR88Bx5mcsBmcmBmbyxGYkZGbyJqG9Qr3qDklSrtxQrM3OzrmwLBQu92bitWazNXMqAAYAAYUCAbDwgAQsIEbh1WZz1CVoVWLJ52c0FmbjVmXNhnDgiquyqrs5CaOqCzt1mzlzABAQCWlAYGBEZAIYY6t3WDkgoDkmyDkhQrsyWTs3crs58yI8UA0QsFWeMV2dpNn/bBEAAE0jBACBAAAgkkEICFGd0xWZiVWYzRHIJ5VT4hAIiCrN3+KN6CvCAADAwhDgsJAAAAMDlyzNQKSu5G2WvMCvEAFEZklWZ0x2dhUDAgBAYJAwXJgoIA+Be4dWYtVGe4N3byNmXNhnCgw6L8OKomKCPscENACAMARJgpGAAAA0DswrFheTuyCbuWwCPvaCvFARUYkRWehR3b35m7gBCAgBinA0YCAxDAZgUY0VXbhRXdh5VT4BBIoQLM3o7t2OKM3ObO6KTug+AAwAA42AoDEArAATDAcIAgeo1b1BySp12YoVmbn5VT4lAI3e7NxWLt5mLgMAAMAAHZAe4AoIAIWEitwars5ahK0KrlkcbO6CztxKzrmwzBQRVXZ1V2cBNHVh52az5IaABAwAXKAmHAKIAEMM92brBSQ0BST5ByQoVWZrJ2buV2ceZEeKAaI2CLPmK7u0mzZ8AHAQASlAgWAAAAQSSCEhCjO6YrMxKLs5oDkk8qJ8QAERh1mbflGdBAAAgBAAAAg+AAAAAmhS55GIFJ3cDbrXGhXCgCiMySrM6Y7uAkBAwAAkCAAyDgkDA/AP8OLs2KDP8m7N5GzrmwTBQY9FeHFUTFhHW+uDIAAKYBDw0BAAAA6BW41iQvJXZhNXLYhnXNh3CgIKMyILvwo7t7cz9jAAAQB3OAURA4VAgMQKM6qrtworuw8qJ8gAEUoFmb09WbHFmbnNHdlJXAZAAYAAISAkKCALAgpBAhDAADllcB",
+        [77] = "HERFwBQq1/8Bx5mcsBmcmBmbyxGYkZGbyJK78Qr3qDklSrtxQrM3OzrmwLBQu92bitWazNngvAIAAACkBw0AAWAQY0WZyNWekV3Yr5VT4tAIyqbs1yDmbMju7ExJAAAAQSAg6LAJJAskkARowojO2KTsyCbO6AJJvaCPEARUYt52XpRXIcAAQAAEaAM0AAAAgXUFb0lmdpRXZe1EeHAKMmSbG30KMRAAEAAToAwbAAAAQPaKMymDtwI7t7aLM38qJ8aAUTBR0coFGZvdXbh5m4VAAAAB4xBIkAIUAgvQUZtFmbkJXZkBSQsBiThVmYsl2ce1EeMAiuyGDtwcjM1qzt1C3FAABAA4Agi0AQFA8inmbu3IrO5ezrmwDBQyhWZsVmbvJeFAAAQA9LAyKAAAA0acABBgCXuA",
+        [78] = "HERm3BQq1/8Bx5mcsBmcmBmbyxGYkZGbyJKD9Qr3qDklSrtxQrM3OzrmwLBQu92bitWazNXY7AGAAC4XC45DwRAQUIVYndWLFRnXNhXCgQ6N6G7txC7NhwBAABBguCgEFQiAgx4o3kbtTGCt3gzrmwzAQOlXY3Jnw1ACYAAUhBwPDI4AAf0UYkNHahR2b31WYu5VT41AomCio5QLMye7u2CztARCQAAD8FDIcFwFEAvAq3GbthVlu58yI8YAkR1xGbw92YrVGdzJaQAAEAgwHAhrAeKBwINF2ZuV3cg0UYjFmYyVmXNhXCgaKMyaKszcLtw2BEAAFcuC44EAXAgqRp3cDkiYjsykDkpGTu3YjNQeyN2Szty8qJ8cA0QolWZm91cvNXY1EDMCFFAgAAgtGAeaAAAAaCRyFGe1NHICx2bvRmcl5GZe1EePAyq0WLN3Ozp3kjO0arM3CYEgABYAOSAMIAUBAUNCCEAQhLXA",
+        [79] = "HgQ79BQqV/cBx5mcsBmcmBmbyxGYkZGbyJqC9Qr3qDklSrtxQrM3OzrmwLBQu92bitWazNX4uAGggAWFEcFFoPAQUsEIVBCTgYlXNhXBgWqKmsSmcAFEQCbNBMzDAAAILOit0IrMxejOvaCvEAdEbpRWZi9GdhtDQgCIIXQAQegQBAmxRvJ3anMEavBnXNhnBgcKvwuTOhECowAIkVIIBLgTBASpo8ILt5ApI5Sbt5I7N6oLN58yI8YAEU1NHafB1b15GZzJ6cAACAAADAVVB8iC4HNFGZzhWYk92dtFmbe1EeNAqpgIaO0Cjs3urtwcTinAIIACgfBmQEgJBwOmCtwaLM3Kbu4qrMvaCvFA1UZ0FmZlJnclRX4uAA4ACMFC0ZDonAghUEb2lmbggUZy9WauVmXGhXCgoqM5kLsWyZmQgBIwBC0cGI8GAAAAVjAAIAUYyF",
+        [80] = "HENlECQqR88Bx5mcsBmcmBmbyxGYkZGbyJqG9Qr3qDklSrtxQrM3OzrmwLBQu92bitWazNXUZAAYAAQOBQ1BIKAQUkEZoF2JqFmXGhnCgaKsxCbsy0LM5CIDAADAwNFAYTAPCA4jpCjsWYKN2aZK4qjMvMCPFAVUZld3d3JDN34aQAAAAgaAA0VA6WBYFSF2Zn1SR05VT4lAIkejuxebsweLQLAAMAAzWAuJBAAAYLqiN6Szu0orMvaCvDAFGTpNjba52OgBAYAVTApWAAAAIGH9mcrdyQo9Gce1EeGAyp8C7O5crMQBAUAFJA4PAmCA4ijYLNyKTs3ozrmwLBQHxWakVmYvRnPpBIAAD8qBkHBAAAgn0UYkNHIkVGISF2c0JXajtmXNhXEgEqM5mrM5WrM5aRoyC7M2KLgMAAMAATLAwwAgFAI0AAHCAoHa9WdgsUatNGal52Ze1EeJAyt3eTs1Sbu5a3TABAgQ6bgUuA4FAiikIDtwORtw8yI8UAUThNWYjVmehJXZgCIQgCUvCIYFQrBAfMVYk1CTpxWLTBXdk5lR4pAoiKrs7u7OZo5GRLFAwAAkCAonIg4TArQqwO7sWKiOvaCvEAh0b0N2bjF2bdHGQAAMAvIgVNAEDAbRVsRXa2lGdl5VT4dAowYKtZcTLxPCEwADMtFgANAAAAx4o3kbtTGCt3gzrmwzAQOlXY3JnoaBCYgBu7D8+DAvAAXcEbpRWZi9Gde1EeJA6I2SjsyE7N6EYJwADEAPUginAxBA8kmCjs5AhsyARqwmjO5Sbs18qJ8iAkQlJ3clJ3alJXLCVWYnxWZh1GQgBIQ1FgrQAGKAhmDDHAA9Qr3qDklSrtxQrM3OzrmwLBQu92bitWazNX0vAAYgAADCMeEorAQUkEZoF2JqFmXGhnCgaKsxCbsy0LM5C6DAADEwvIgOQAYCA4jpCjsWYKN2aZK4qjMvMCPFAVUZld3d3JDN34eeAAAAAAAAhnAm2BYFSF2Zn1SR05VT4lAIkejuxebsweLkxABMAA+sACsB0fAYLqiN6Szu0orMvaCvDAFGTpNjba5iTACAoAyZAbaAAAAIGH9mcrdyQo9Gce1EeGAyp8C7O5czQQAAoQxWgQSAIEA4ijYLNyKTs3ozrmwLBQHxWakVmYvRnOTCOIgBmgCQkEYbAgn0UYkNHIkVGISF2c0JXajtmXNhXEgEqM5mrM5WrM5aRoyC7M2KLUUAAMAAGeA0BCAWAI0tAHCAllcB",
+        [81] = "HENUYCQqR88Bx5mcsBmcmBmbyxGYkZGbyJqG9Qr3qDklSrtxQrM3OzrmwLBQu92bitWazNXgXBCYgACgEMhFYpAQY0UYk1WYn5Wdz5VT4lAomCjsmC7M3ST5HBBEAArKACbCgtFwMEqsyMDEhk7N38qJ8WAkYpdmYlVmZ4ADMKOLYgAOAJLAPTgrLAWhUhd2ZtUEde1EeJACp3obs3GLs30iQgBBUgfUgHsAMAAmigk7t0GDt08yI8YAEVoFGdfFkcjhWZyFKKgAGQAMYAKvAAAAIFNl2Yo9Gdh5lR4BBoporM4QLM3Kis7CTOymzGHvCIAAIU3DQYKAmAgCxo0cLM2ahoymDuwSTOvaCvGAZUauFGbEV2cwFWayF0HAAGIAxaAArAKDAkHFxWa6FGIHFmcuVmceZEeIAaqxyjt0eztIMCEwABM/EAJIQqAgQfIcIAgeo1b1BySp12YoVmbn5VT4lAI3e7NxWLt5mLoPABMAAoGBEVBkKAIMaKMyaLszcru58qJ8SAUThRWThdmbp5MqgAAIAtDAzCBs4CYGCVWZmBiQy9mbe1EeLASs0OTsyKzMcgBGHnFMAAIgRFgzIg5EArQqwO7sWKiOvaCvEAh0b0N2bjF2b6JGogACwnDAtJAjBATRQy9WajhWaeZEeMAiK0CjuvCSuxQrM5CvCAADAAQPgcZAAAAkimSbM0ejuw8yI8gA0U0VGcoFmbFR2dhJHZzZj3nBGAgE+cBA7DAAAQhYUauFGbtQUZzBXYpJnXNhXDgMKN3CjNiKbO4CLN5CvCAADAQ2MgPSAfAAyjiYLN9CDkjCTO3KTOvMCPEAN1Y5xWav5WIcAAYgAivBUVCIGAQobBOEAADllcB",
+        [82] = "HwM9iCQqN88Bx5mcsBmcmBmbyxGYkZGbyJKH9Qr3qDklSrtxQrM3OzrmwLBQu92bitWazNXnICEAgEk0C8wDQpAQiQUYytGIJ52YlBHdp9mbe1EePAiogkapvSyphKCKqS6JnaoLQBAMgMNAsYAAAASlhQ7N2KbO6KTu3YDE2KzuyYbOvaCPFAJ0bytmQvJ3azlyZgBC4ARlAIYAyIAIFBJ3bpNGap5lR4xAIqQLM6+KI5GDtykL9jACEgBCsAuTBAAAQIaaYQrjNvMCPFAlEdnM3XNFWdsJrIAAGQAPmAG0AAAAoFQ92YrNsq0NnXGhHDgMqO2YDu3GbtyobOhfEEwAAIPBoFJgwOA2Ap3crs8aZo3aTMvMCvGAJUZsxWaudGapVmcpJmIAAGQAvRAl2AyAAQFNl2Yo9Gdh5lR4BBoporM4QLM3Kis7CTOymzG5YBEwABcvCISKwhAgSzhaBAgeo1b1BySp12YoVmbn5VT4lAI3e7NxWLt5mrDMBEAgBbaByGBIcAIRIKM5WDkkcbsygju0ezNvaCvHARUQSt0XJ50QFBFVJ9kTJnGggAOIGHwAIAAAApyQo9GblNHdlJ3bsBCblZXZsNnXNhnCgE6N5WTo3kbt5SwRwABYwQPgBNANIAkigk7t0GDt08yI8YAEVoFGdfFkcjhWZylaQgACwg6bAj1AAAAIENNMo1xmXGhnCgSiuTm7rmCrO2EFFgADEgVOAIfAAAA0Coebs1GWV6mzLjwjBQGVHbsB3bjtWZ0NngJCAYAAWlAgSEIsHAbg0buVWetM0btJmXGhXDgEqM2YLN3ODt0KTu0EpGQADEAoEAPZA8DAoimSbM0ejuw8yI8gA0U0VGcoFmbFR2dhJHZzZjoBBAYABEpB4KFIpAQp5wDBAADltcB",
+        [83] = "H0Q01CQqh/8Bx5mcsBmcmBmbyxGYkZGbyJKD9Qr3qDklSrtxQrM3OzrmwLBQu92bitWazNnsiAMIAEQMCAAB4LAQoMFdlFGbzBSWvVncg40bkV2ce1EeOAaI5yDO6Sbsme7tzYrMJJBkAAG8wFYdDAAAAtYq1CjN6QrM58qJ8SA0UrFGb0hWZyFaQAAMAAqHAhIB+LAUFOhWYtJ3br5VT4tAI5KjO5ebO2Srt5C0HAAEMw2IAtaATGAoClqDEjqzs68yI8UA0alBXawx2by9mo8AGQgFeaCIVDoIAQSIVZplXeh5lR4BBokajo7S7M0obqxQTu6orsw2BAgBBsHBQ0HQxBglwK2KbuxQzrmwzBQG9Vaud2U152colmblFbRgBMAAFgA0oBAAAUFNl2Yo9Gdh5lR4BBoporM4QLM3Kis7CTOymzGhSBQAALoWD4eEggAgWDEAIAU4yF",
+        [84] = "H0QbCDQqh/8Bx5mcsBmcmBmbyxGYkZGbyJKD9Qr3qDklSrtxQrM3OzrmwLBQu92bitWazNnEKBWIACisCc7C4QAQU0Uajh2b0FmXGhHEgmiuygDtwcrIyuLM5IbObENIwAAcg4NAPkAAAAKDikLswWDt3czNvaCvFARkchtGav5mb3kTALBAwADCICE1DwqAQcQVZoJXZhxGcp1Gce1EeOA6K0KztkuKs5CCq0aDuAkBEQBCcLDQTHAAAAFhq3wTt1AhqyYzOxkru18qJ8MAEVvhnarFyPACIAAIlAT0AAAAIKSF2ZuFmcy1iQsF2Yr1WYuVmXNh3CgWKs0mrM5arM3CTIhAEQAB7tAEfBQIAIJcKs5mTP88qJ8WAka5BDMyQDNwATORtEIAECQWCAdNgXBA1xRvR2csFWelJ3c65VT41Ao5qDuykrtycTGbyxGpHCUQAFQYCQoFAAAgUDP4HAU4yF",
+        [85] = "H4NUJDQqp88Bx5mcsBmcmBmbyxGYkZGbyJKD9Qr3qDklSrtxQrM3OzrmwLBQu92bitWazNXoBBKAgCQ8BsADYWAQc4UZlJXZgUFbhVXbeZEeOAaK0Cjs3ubqwOrscwJnwlEAAAAALAIZCAkLA3AK2CTu1Sbu0CzNvaCPGA5UZzJXZk5WYYhFWCIDIgBAQ9DQkOAWCAuCVoJXYzNXah52clhHcs9Wa0JnXGh3BgSqp8oDN0EIDAACAgLDgiKALBAEEjSztwYDEiKbO4CLN58qJ8aAkRp5WYsRUZzBXYpJXcOBIAgDmfBseEopAQUQUaEHoYs9mXNh3Cgc6N5IbowkTs3cLufAEEwBG6A+sAAAAYKCSu3SbM0SzLjwjBQUhWY09VQyNGalJnAyAAggAoEBwFEAAAgsgUdtBHblRWdtBnZ0hWZnJXZhRnXNh3DgOKs2KTOaYKNzKLmcuJHByAAABBILFAQDwMAAVDgAAAUUyF",
+        [86] = "HAKNdDQqJ88Bx5mcsBmcmBmbyxGYkZGbyJKH9Qr3qDklSrtxQrM3OzrmwLBQu92bitWazNnIcAAYgAuxAs9BACAQcYkclNHagMFdhJHde1EeFAqt2YCqWnDYAAFIFGQoEAAAANJIxybu5CjNQm6N5GrM5KTOvaCvDA5UdxEzXw0iTABA4AIhAmmAAAAoKB5GdvlmblBiUvFXdDnqb0lmbe1EeOASp6crMpCLN3kJmaiJGRcCAwAAQHBggIwmKASpo5G7N5gLtweDEneju6kzt38qJ8aAEZ1RWYt9GdhJDMxMT7HBAAAAKfAkyCQLDQsIUdpxGZgQHahRHIpNWZgcXYsxmXGhnDgMKN3SbO0KTu3M7uwkr05AEIwB7mBQSBAAAgNmCtwkru5QztwazLjwLBQUV2aoVmb3lnIcACYAAkRCcxEAAAg0o0buBSRsRWZyByUjJ3bsxGIP5Gbp5WZe1EeOAaI0SrMz+au3mLsaiBGpSBEwABw3CoRNAAAARzhaBAgeo1b1BySp12YoVmbn5VT4lAI3e7NxWLt5mz+OBFIwBTfCsPEcSAIOMSuymDNQmiuwkjOvaCvCA1WbMBVoBBAYgB8AEMdMAAAgmEkY5N3chxGIT9mcjVmclJnXNh3BgcquYi5LYC5MAADMQThAv1AsGAUlgcju3SztyARq3iruhT1N6SzNvaCPHApUduVmUhlmbyETNxEjyoCAIACKoBU0EgqTApU0cj9mcwlWYvBiTvRXdy52be1EeNAis6ILs2ejuwkBmYmJ8jAAMAAMgA8LCsQDIWEqu0YjMQoDtwoDk0GrMQuLM2YzLjwzBQGlmbpNHalJ3bmdXYyF4TgBGAAk9AK8AAAAwGThWYyV3co5WYt5lR4lAIqKbN0Kzt7yzt2ADAwB6KCWOEAAAQaU6N3ApI2IrM5AZqxk7N2YDkncjt0crMvaCPHANEapVmZfN3bzFWNxAjn6BIAgDQtCkTEAAAgoPEOEAQP06t6AZp0abM0Kztz8qJ8SAkbv9mYrl2cz5logCA4AsLBdMBkKAEHGJXZzhGITRXYyRnXNhXBgarNmgKkaAAMQA/xB+CGAAAQTCSs8mbuwYDkpeTuxKTuykzrmw7AQOVXMx8FMhfEAgBCY3MAnYAOCAqSQuR3bp5WZgI1bxV3wp6Gdp5mXNhnDgUqO3KTqwSzNZipmYiRh+AAEAAfmAqtDQ1EgUKauxeTO4SLs3Axp3orO5c7NvaCvGARWdkFWbvRXYyATMzE+RAAGAAFPA88B05AELCVXasRGI0hWY0BSajVGI3FGbs5lR45AIjSzt0mDtyk7NzuLM5ChDQADAwBHgLMAAAAYjpQLM5qbO0cLs28yI8SAEVltGal52d55yZgBAwguNBOgAAAAINK9mbgUEbkVmcgM1Yy9GbsByTuxWauVmXNhnDgGCt0Kzsvm7t5CrmYgxT9AEAwB4fBUfBAAAQ0tAHCAlBeB",
+        [87] = "H0QC3DQqh/8Bx5mcsBmcmBmbyxGYkZGbyJKD9Qr3qDklSrtxQrM3OzrmwLBQu92bitWazNnQRBIIACAMCsSDofAQWM1ahxGdoVmce1EeJAaq1CjN6QrM5E3FAADMAcCARZAEDA6iqYju0sLN6Kzrmw7AQhxUaz4mWBhDggAGAuKw7LAAAACCRhJ3Zv5GICJXZhRHae1EeKAiI5K7u5WLvbuRsdACMgA75AOtBsPAIMeiNyARI5qjuy8qJ8aAkRp5WYsRUZzBXYpJnY2AGIgCocCguFAAAgUQUaEHoYs9mXNh3Cgc6N5IbowkTs3cLEOACMQBmBBCfAAAAYRIKM5WDkkcbsygju0ezNvaCvHARUQSt0XJ50QFBFVJ9kThUDAgBEoCEAsMAAAABiT1tWeg4UdrVmc09mbe1EeNAyt6WLP3qbtykju3cLAZACIABxBB+LDUtAQ1AC+BAFucB",
+        [88] = "HwMy9DQqN88Bx5mcsBmcmBmbyxGYkZGbyJqG9Qr3qDklSrtxQrM3OzrmwLBQu92bitWazNXYjACYAAQkBoHDAGAQcYkclNHagMFdhJHde1EeFAqt2YCqQ4AAwABY8DAcNAAAABhowk7s3cDEhkrswoDNvaCPFARkcld3crl3N349iACAABu4A3tAkAAEGPxGZgIkc1RXZe1EeNAyo0cLM2Iqs5gLs0kzR0AFAgBhyAAYBAAAQKCSu3SbM0SzLjwjBQUhWY09VQyNGalJXIcAAYgAQiBskCAAAgYcUdnFGIMlGch5lR4lAojq7swYKN4CLMcBAMAArBAW+AwODwWEqu0YjMQoDtwoDk0GrMQuLM2YzLjwzBQGlmbpNHalJ3bmdXYypkYgBC4g9fA4hAAAAQFKh2buFGdv5VT45AopWLN2YDp6cjuykLGccoPAAAAQeAAJUAqTBMdLwhAA6hWvVHILlWbjhWZudmXNhXCgc7t3Ebt0mbuoyAAwAAUADwdGAeAg4wI5KbO0AZK6CTO68qJ8KAUbtxEUhXBAgBAIlEwKgAAAACCRhJ3Zv5GICJXZhRHae1EeKAiI5K7u5WLvbuxNNBGAQBT5BANBMAAIMeiNyARI5qjuy8qJ8aAkRp5WYsRUZzBXYpJnb7ACAgC4HB0kBAAAgUEkcvl2YolmXGhHDgoCtwo7rgkbM0KTuwrAAwAAA8BIvEAAAAx4o6OLMQYKN4CzLjwLBQHV3ZhxUawFWwlEAYAAmGAUkBQaHgtIUdpxGZgQHahRHIpNWZgcXYsxmXGhnDgMKN3SbO0KTu3M7uwkzh6AFAABjSBWEBAAAgKUCt3cLM6ezrmwzBQTtWasxGS15GdlJXM44sdAAAAAyBAJVAeaCYaAgDBAwQZLXA",
+        [89] = "HwMjFEQqN88Bx5mcsBmcmBmbyxGYkZGbyJqG9Qr3qDklSrtxQrM3OzrmwLBQu92bitWazNnY7AAYgBUFBkbDIhAQuMFdyVWYr1yU0JXZhtWLTRnclF2ae1EeIAipskKmhgaJJqCIwABodBoLDgnBA5Yp3qTuwAhqwQLsy8qJ8aAkTp5WZ0lXOslmdlNXZ7ACQgCMlAgpAAAAweoUYjtGIEV2Yp1Wdz5VT4tAIqQqoiCyppuaGpKpGgACMwdHgxNAAAAkCiWbt0Yjtw8qJ8OAUQtlmc1AjALBGYABuaBU2CYnAQY8EbkBiQyVHdl5VT41AIjSztwYjoymDuwSTu8sCQQAD4pBYaEAAAAtYK0Cjt3ILt58qJ8YAEZtN2ap5mbllXM0IQGAAGAAIFAkUA4DAkEp1WYnVWeeZEeTAqt8Q7N2KbuzS7swEjtwmjuyIrR0AFAgBkHB8QBAAAI0cY4AAoHa9WdgsUatNGal52Ze1EeJAyt3eTs1Sbu5kyOwADEQnMAiiAzJAylpoTuyCbtWmiO5KLs1aZK6krswWzrmwDBQMllUxMEULJXSgAGQAdmAKNBEMAIHL9WdyFGIUFGahVmXNhXDgcKN3Kju8yht0srs5q5FAACQw3GgCIAAAA2DlCbs1AhoyGLt2qbOvaCvFARFSFVUQON1VzIV6HBIIACGrBQQBAAAgUQ0arlGbsFmXNh3BgCqt0krGYERMAADQQ0KAyYAGMACjnYjMQESu6orMvaCvGAZUauFGbEV2cwFWay1aQACAYgGUAA/AAAAoFThWYs9GZpNnXNhHDgIrtxWLN3crs8ihGRRBAwAAEnAIdCQbBgkIt2C7syyzLjwbCQtlHavxWZzdWanFmYsF2c0VGZ5IIggAMYxLwTUAAAAhmDpFAAMU2yF",
+        [90] = "HERrOEQq1/8Bx5mcsBmcmBmbyxGYkZGbyJqC9Qr3qDklSrtxQrM3OzrmwLBQu92bitWazNX4uACYgAypB8xDQUAQWcEbpRWZi9Gde1EeJA6I2SjsyE7N6E3FQACMw4LgXTAKGAcFqQTuwmbu0Czt5KDP4Y7t0oTOvMCvDAlUT5RHaoJwSABAwAPpA67AkEAIJFRXZy5WYsByUwV2Y0JXZe1EeLAiK5ejN2Crt0orMJjCQQACYKCYZKAAAABhowk7s3cDEhkrswoDNvaCPFARkcld3crl3N3ESNAAIIAAiAWSB4KAEFTFmbtFWZs5VT45AI2qbswm7s0ezuwczt0CCHQABAAySgwXAWCAkE1eztwoDt2CjNyeDEygbOvaCPGAp2buFGdo1WYsR2bhGEIABAoHIg0PA9BAKRatF2ZllnXGh3EgaLP0ejtym7s0OLMxYLs5orMykiHwAAQQQWAlnAAAASNmgfAQhLXA",
+        [91] = "HgQaaEQqV/8Bx5mcsBmcmBmbyxGYkZGbyJqC9Qr3qDklSrtxQrM3OzrmwLBQu92bitWazNnsBCUQADUANwOPgUFQc4UZlJXZgUFbhVXbeZEeOAaK0Cjs3ubqwOrscwJnQ3JAwAAEACoZegypA7wI5KbO0AZK6CTO68qJ8KAUbtxEUi1GAAAOYNYgblAAAAqCVoJXYzNXah52clhHcs9Wa0JnXGh3BgSqp8oDN0kwLwADswYdBA3B0LA0jpCjsWYKN2aZK4qjMvMCPFAVUZld3d3JDN3Ee0CAGAAvAA7gEoXIYFEtWLul2ap5lR4lAogmzuwkLncmJEABBUQBKQIYFLY7AINsKN6CjNQKyu0YzLjwbBQJNHatVWZ09mblFm1ADMIALHCKuFklBoKSlHZpFmbgQHalBiUlZXa2Vmce1EeOASqwSzt0c7MikLszezNBwDQgALg2QoEZAuAgWjfIHAUYyF",
+        [92] = 
+        {
+            ["teamType"] = 1,
+            ["locked"] = true,
+            ["result"] = 2,
+            ["grouped"] = false,
+            ["playerClass"] = 1,
+            ["playerCharacterId"] = "8796093079602369",
+            ["playerRace"] = 10,
+            ["teamSize"] = 4,
+            ["lfgActivityId"] = 964,
+            ["rounds"] = 
+            {
+                [1] = 
+                {
+                    ["scores"] = 
+                    {
+                        [1] = 540,
+                        [2] = 45,
+                        [3] = 0,
+                    },
+                    ["result"] = 1,
+                    ["players"] = 
+                    {
+                        [1] = 
+                        {
+                            ["battlegroundTeam"] = 2,
+                            ["classId"] = 1,
+                            ["displayName"] = "@noobkiss",
+                            ["lives"] = 1,
+                            ["deaths"] = 2,
+                            ["assists"] = 0,
+                            ["damageTaken"] = 275035,
+                            ["healingDone"] = 26988,
+                            ["characterName"] = "Zou Kimcheng^Mx",
+                            ["kills"] = 1,
+                            ["damageDone"] = 296184,
+                            ["medalScore"] = 770,
+                        },
+                        [2] = 
+                        {
+                            ["battlegroundTeam"] = 1,
+                            ["classId"] = 2,
+                            ["displayName"] = "@berrserrg",
+                            ["lives"] = 3,
+                            ["deaths"] = 0,
+                            ["assists"] = 4,
+                            ["damageTaken"] = 130974,
+                            ["healingDone"] = 8628,
+                            ["characterName"] = "Exorrk^Mx",
+                            ["kills"] = 3,
+                            ["damageDone"] = 312414,
+                            ["medalScore"] = 1433,
+                        },
+                        [3] = 
+                        {
+                            ["battlegroundTeam"] = 2,
+                            ["classId"] = 2,
+                            ["displayName"] = "@NocturnalNyx",
+                            ["lives"] = 0,
+                            ["deaths"] = 3,
+                            ["assists"] = 0,
+                            ["damageTaken"] = 83166,
+                            ["healingDone"] = 0,
+                            ["characterName"] = "Vashka Xi^Fx",
+                            ["kills"] = 0,
+                            ["damageDone"] = 0,
+                            ["medalScore"] = 0,
+                        },
+                        [4] = 
+                        {
+                            ["battlegroundTeam"] = 2,
+                            ["classId"] = 2,
+                            ["displayName"] = "@Scpions",
+                            ["lives"] = 0,
+                            ["deaths"] = 3,
+                            ["assists"] = 1,
+                            ["damageTaken"] = 721587,
+                            ["healingDone"] = 0,
+                            ["characterName"] = "Kpu^Mx",
+                            ["kills"] = 0,
+                            ["damageDone"] = 95601,
+                            ["medalScore"] = 450,
+                        },
+                        [5] = 
+                        {
+                            ["battlegroundTeam"] = 1,
+                            ["classId"] = 2,
+                            ["displayName"] = "@aLi3nZ",
+                            ["lives"] = 3,
+                            ["deaths"] = 0,
+                            ["assists"] = 4,
+                            ["damageTaken"] = 91744,
+                            ["healingDone"] = 0,
+                            ["characterName"] = "Ultivite^Mx",
+                            ["kills"] = 7,
+                            ["damageDone"] = 603233,
+                            ["medalScore"] = 1850,
+                        },
+                        [6] = 
+                        {
+                            ["battlegroundTeam"] = 1,
+                            ["classId"] = 4,
+                            ["displayName"] = "@Isxun",
+                            ["lives"] = 2,
+                            ["deaths"] = 1,
+                            ["assists"] = 8,
+                            ["damageTaken"] = 243451,
+                            ["healingDone"] = 50321,
+                            ["characterName"] = "hamoodhhabibi^Mx",
+                            ["kills"] = 2,
+                            ["damageDone"] = 633443,
+                            ["medalScore"] = 2550,
+                        },
+                        [7] = 
+                        {
+                            ["battlegroundTeam"] = 2,
+                            ["classId"] = 1,
+                            ["displayName"] = "@supermen2696",
+                            ["lives"] = 0,
+                            ["deaths"] = 3,
+                            ["assists"] = 0,
+                            ["damageTaken"] = 458119,
+                            ["healingDone"] = 0,
+                            ["characterName"] = "Godslayersz^Mx",
+                            ["kills"] = 0,
+                            ["damageDone"] = 86666,
+                            ["medalScore"] = 350,
+                        },
+                    },
+                },
+                [2] = 
+                {
+                    ["players"] = 
+                    {
+                    },
+                    ["scores"] = 
+                    {
+                        [1] = 0,
+                        [2] = 0,
+                        [3] = 0,
+                    },
+                },
+                [3] = 
+                {
+                    ["players"] = 
+                    {
+                    },
+                    ["scores"] = 
+                    {
+                        [1] = 0,
+                        [2] = 0,
+                        [3] = 0,
+                    },
+                },
+            },
+            ["zoneId"] = 1481,
+            ["playedFromStart"] = false,
+            ["api"] = 101050,
+            ["entryTimestamp"] = 1782638024,
+            ["battlegroundId"] = 209,
+            ["type"] = 2,
+        },
+        [93] = "HENFZOQqR8cBx5mcsBmcmBmbyxGYkZGbyJqW9Qr3qDklSrtxQrM3OzrmwLBQu92bitWazNnJwACQAAkcB4rCwhAQaE0btMFapdWdyVmXNhnCgmLM6ebO0Sbt0aAAAAAAAAAAAAAAAA0iqYju0sLN6Kzrmw7AQhxUaz4mWtOH4AAIAyLQlDAAAAKRR49mcytmXNhnCgErM5kbuykTuz6MLwAAQANMAPKAWBAUFiKbu3YLt5AZqwsLszKTs3kzNvaCvEAFkckFmbNFGbtwBAAACYrBAQEAAAAhhVhNHarFGIYlmXGhXDgc6txorO5cLM2cKP8EAAAADAAAAAgGAAAAkhlgrOvaCPEAN1Ywl2buNnIcAAYgA4dAADHAAAgoQUa2lmbnBiQvRWegAlclN3ceZEeMASqwYjt8SztzGSu8EvCAABAQxDglHAJAAEE0Crt3ejM0QLMxSTs08qJ8MAUSzhXdul2nABCABfxADmAuPAQHH9GZzxWY5VmczpnXNhXDgmrO4KTu2KzNZsJHbEvCAADAwYDgyjAAAASNH2CAA6hWvVHILlWbjhWZudmXNhXCgc7t3Ebt0mbORGAAwAAYPAYlCwJAgsoK2oLN7Sjuy8qJ8OAUYMl2MupVjPBKAABKKBsRAAAAgSUEevJncr5VT4pAIxKTO5mrM5k7suECMAADwWBA+AAAAAxwqwmDt1CDEsSzLjwrBQO92Y0VncuFGbOlHeCkBAgBAgsBgAFghAAywSwVnXNhHCgmaM4S7N3mT8KAAMAASIA8+AAAAQNC6tWmCt0OrO5KzrmwTBQzFGdvNHaptWatUDAAAEoJBwcCAjCACCah12bvRGaoFmYpJWae1EeGAKp5wrO3a2NwAAYgoNgGEAlFAojjejs5YLs8KTu50zrmwrBQzVHclJXbl5mM2kjNilAAgBA4jAQlMAAAAh+9AAAAMUWyF",
+        [94] = "HgQ2dOQqV/8Bx5mcsBmcmBmbyxGYkZGbyJKD9Qr3qDklSrtxQrM3OzrmwLBQu92bitWazNngXBaAgEWPGE0IQqAQaE0btMFapdWdyVmXNhnCgmLM6ebO0Sbt0CoPAAIIgCPgsSBl6A0iqYju0sLN6Kzrmw7AQhxUaz4mWBqHYACGAVQgcPAAAAKRR49mcytmXNhnCgErM5kbuykTuzi4JABHEgSiAfSCSAAkimqbtwkTu38qJ8KAUe5BDMy1KogCaASYg5ZAVBAhRan9GdzRXZlpnXNhnCgS7s3obO6KrM9CxJAAKQgWUANbBAAAEEkS7M0KbO6ABq3urM58qJ8YAUQsF2crF2ciVWYyJyLBAAAgjLA2vAcrDYIoFWbv9GZohWYilmYp5VT4ZAokmDv6cTK3ALIwDhdE0pDYGBg1YC+BAFmcB",
     },
+    ["version"] = 1151000,
     ["EU"] = 
     {
     },
-    ["version"] = 1151000,
 }
 ImpressiveStatsMatchesUpgradesProblems =
 {
@@ -1143,2338 +1328,2723 @@ ImpressiveStatsMatchesUpgradesProblems =
     [1108004] = 
     {
     },
-    [1151000] = 
+    [1120000] = 
     {
     },
-    [1120000] = 
+    [1151000] = 
     {
     },
 }
 ImpressiveStatsDuelsData =
 {
+    ["EU"] = 
+    {
+    },
     ["NA"] = 
     {
         [1] = 
         {
-            ["damageTaken"] = 28282,
-            ["HPSIn"] = 1362,
-            ["duelEnd"] = 14187139,
-            ["DPSIn"] = 2626,
-            ["duration"] = 11.9400000000,
-            ["DPSOut"] = 2655,
-            ["wasLocalPlayersResult"] = true,
-            ["duelStart"] = 14174518,
-            ["result"] = 1,
-            ["opponent"] = 
-            {
-                ["gender"] = 1,
-                ["raceId"] = 9,
-                ["displayName"] = "@Mythrium",
-                ["alliance"] = 2,
-                ["characterName"] = "Enermengarda^Fx",
-                ["classId"] = 6,
-            },
-            ["damageShilded"] = 0,
             ["player"] = 
             {
-                ["gender"] = 2,
-                ["characterId"] = "8796093077546265",
-                ["raceId"] = 3,
-                ["displayName"] = "@noobkiss",
                 ["classId"] = 1,
-                ["characterName"] = "Galen Chef Mike^Mx",
                 ["alliance"] = 3,
+                ["gender"] = 2,
+                ["characterName"] = "Galen Chef Mike^Mx",
+                ["characterId"] = "8796093077546265",
+                ["displayName"] = "@noobkiss",
+                ["raceId"] = 3,
             },
+            ["result"] = 1,
+            ["duelStart"] = 14174518,
+            ["wasLocalPlayersResult"] = true,
+            ["DPSIn"] = 2626,
             ["healingTaken"] = 12112,
-            ["damageDone"] = 28596,
+            ["DPSOut"] = 2655,
+            ["HPSIn"] = 1362,
+            ["opponent"] = 
+            {
+                ["alliance"] = 2,
+                ["gender"] = 1,
+                ["characterName"] = "Enermengarda^Fx",
+                ["classId"] = 6,
+                ["displayName"] = "@Mythrium",
+                ["raceId"] = 9,
+            },
+            ["damageTaken"] = 28282,
+            ["damageShilded"] = 0,
+            ["duelEnd"] = 14187139,
             ["timestamp"] = 1778895517,
+            ["damageDone"] = 28596,
+            ["duration"] = 11.9400000000,
         },
         [2] = 
         {
-            ["damageTaken"] = 55237,
-            ["HPSIn"] = 1989,
-            ["duelEnd"] = 14232207,
-            ["DPSIn"] = 2736,
-            ["duration"] = 24.4800000000,
-            ["DPSOut"] = 2718,
-            ["wasLocalPlayersResult"] = true,
-            ["duelStart"] = 14207958,
-            ["result"] = 1,
-            ["opponent"] = 
-            {
-                ["gender"] = 1,
-                ["raceId"] = 9,
-                ["displayName"] = "@Mythrium",
-                ["alliance"] = 2,
-                ["characterName"] = "Enermengarda^Fx",
-                ["classId"] = 6,
-            },
-            ["damageShilded"] = 2650,
             ["player"] = 
             {
-                ["gender"] = 2,
-                ["characterId"] = "8796093077546265",
-                ["raceId"] = 3,
-                ["displayName"] = "@noobkiss",
                 ["classId"] = 1,
-                ["characterName"] = "Galen Chef Mike^Mx",
                 ["alliance"] = 3,
+                ["gender"] = 2,
+                ["characterName"] = "Galen Chef Mike^Mx",
+                ["characterId"] = "8796093077546265",
+                ["displayName"] = "@noobkiss",
+                ["raceId"] = 3,
             },
+            ["result"] = 1,
+            ["duelStart"] = 14207958,
+            ["wasLocalPlayersResult"] = true,
+            ["DPSIn"] = 2736,
             ["healingTaken"] = 44831,
-            ["damageDone"] = 54870,
+            ["DPSOut"] = 2718,
+            ["HPSIn"] = 1989,
+            ["opponent"] = 
+            {
+                ["alliance"] = 2,
+                ["gender"] = 1,
+                ["characterName"] = "Enermengarda^Fx",
+                ["classId"] = 6,
+                ["displayName"] = "@Mythrium",
+                ["raceId"] = 9,
+            },
+            ["damageTaken"] = 55237,
+            ["damageShilded"] = 2650,
+            ["duelEnd"] = 14232207,
             ["timestamp"] = 1778895550,
+            ["damageDone"] = 54870,
+            ["duration"] = 24.4800000000,
         },
         [3] = 
         {
-            ["damageTaken"] = 15661,
-            ["HPSIn"] = 2302,
-            ["duelEnd"] = 14273700,
-            ["DPSIn"] = 2553,
-            ["duration"] = 8.0400000000,
-            ["DPSOut"] = 4060,
-            ["wasLocalPlayersResult"] = true,
-            ["duelStart"] = 14266054,
-            ["result"] = 1,
-            ["opponent"] = 
-            {
-                ["gender"] = 1,
-                ["raceId"] = 9,
-                ["displayName"] = "@Mythrium",
-                ["alliance"] = 2,
-                ["characterName"] = "Enermengarda^Fx",
-                ["classId"] = 6,
-            },
-            ["damageShilded"] = 1958,
             ["player"] = 
             {
-                ["gender"] = 2,
-                ["characterId"] = "8796093077546265",
-                ["raceId"] = 3,
-                ["displayName"] = "@noobkiss",
                 ["classId"] = 1,
-                ["characterName"] = "Galen Chef Mike^Mx",
                 ["alliance"] = 3,
+                ["gender"] = 2,
+                ["characterName"] = "Galen Chef Mike^Mx",
+                ["characterId"] = "8796093077546265",
+                ["displayName"] = "@noobkiss",
+                ["raceId"] = 3,
             },
+            ["result"] = 1,
+            ["duelStart"] = 14266054,
+            ["wasLocalPlayersResult"] = true,
+            ["DPSIn"] = 2553,
             ["healingTaken"] = 15149,
-            ["damageDone"] = 24907,
+            ["DPSOut"] = 4060,
+            ["HPSIn"] = 2302,
+            ["opponent"] = 
+            {
+                ["alliance"] = 2,
+                ["gender"] = 1,
+                ["characterName"] = "Enermengarda^Fx",
+                ["classId"] = 6,
+                ["displayName"] = "@Mythrium",
+                ["raceId"] = 9,
+            },
+            ["damageTaken"] = 15661,
+            ["damageShilded"] = 1958,
+            ["duelEnd"] = 14273700,
             ["timestamp"] = 1778895608,
+            ["damageDone"] = 24907,
+            ["duration"] = 8.0400000000,
         },
         [4] = 
         {
-            ["damageTaken"] = 156528,
-            ["HPSIn"] = 1000,
-            ["duelEnd"] = 14444604,
-            ["DPSIn"] = 1112,
-            ["duration"] = 141.8300000000,
-            ["DPSOut"] = 3715,
-            ["wasLocalPlayersResult"] = true,
-            ["duelStart"] = 14302270,
-            ["result"] = 1,
-            ["opponent"] = 
-            {
-                ["gender"] = 1,
-                ["raceId"] = 9,
-                ["displayName"] = "@Mythrium",
-                ["alliance"] = 2,
-                ["characterName"] = "Enermengarda^Fx",
-                ["classId"] = 6,
-            },
-            ["damageShilded"] = 1184,
             ["player"] = 
             {
-                ["gender"] = 2,
-                ["characterId"] = "8796093077546265",
-                ["raceId"] = 3,
-                ["displayName"] = "@noobkiss",
                 ["classId"] = 1,
-                ["characterName"] = "Galen Chef Mike^Mx",
                 ["alliance"] = 3,
+                ["gender"] = 2,
+                ["characterName"] = "Galen Chef Mike^Mx",
+                ["characterId"] = "8796093077546265",
+                ["displayName"] = "@noobkiss",
+                ["raceId"] = 3,
             },
+            ["result"] = 1,
+            ["duelStart"] = 14302270,
+            ["wasLocalPlayersResult"] = true,
+            ["DPSIn"] = 1112,
             ["healingTaken"] = 138880,
-            ["damageDone"] = 522762,
+            ["DPSOut"] = 3715,
+            ["HPSIn"] = 1000,
+            ["opponent"] = 
+            {
+                ["alliance"] = 2,
+                ["gender"] = 1,
+                ["characterName"] = "Enermengarda^Fx",
+                ["classId"] = 6,
+                ["displayName"] = "@Mythrium",
+                ["raceId"] = 9,
+            },
+            ["damageTaken"] = 156528,
+            ["damageShilded"] = 1184,
+            ["duelEnd"] = 14444604,
             ["timestamp"] = 1778895644,
+            ["damageDone"] = 522762,
+            ["duration"] = 141.8300000000,
         },
         [5] = 
         {
-            ["damageTaken"] = 199965,
-            ["HPSIn"] = 954,
-            ["duelEnd"] = 15972880,
-            ["DPSIn"] = 997,
-            ["duration"] = 211.7100000000,
-            ["DPSOut"] = 2096,
-            ["wasLocalPlayersResult"] = true,
-            ["duelStart"] = 15761693,
-            ["result"] = 1,
-            ["opponent"] = 
-            {
-                ["gender"] = 1,
-                ["raceId"] = 9,
-                ["displayName"] = "@Mythrium",
-                ["alliance"] = 2,
-                ["characterName"] = "Enermengarda^Fx",
-                ["classId"] = 6,
-            },
-            ["damageShilded"] = 10250,
             ["player"] = 
             {
-                ["gender"] = 2,
-                ["characterId"] = "8796093077546265",
-                ["raceId"] = 3,
-                ["displayName"] = "@noobkiss",
                 ["classId"] = 1,
-                ["characterName"] = "Galen Chef Mike^Mx",
                 ["alliance"] = 3,
+                ["gender"] = 2,
+                ["characterName"] = "Galen Chef Mike^Mx",
+                ["characterId"] = "8796093077546265",
+                ["displayName"] = "@noobkiss",
+                ["raceId"] = 3,
             },
+            ["result"] = 1,
+            ["duelStart"] = 15761693,
+            ["wasLocalPlayersResult"] = true,
+            ["DPSIn"] = 997,
             ["healingTaken"] = 190936,
-            ["damageDone"] = 420594,
+            ["DPSOut"] = 2096,
+            ["HPSIn"] = 954,
+            ["opponent"] = 
+            {
+                ["alliance"] = 2,
+                ["gender"] = 1,
+                ["characterName"] = "Enermengarda^Fx",
+                ["classId"] = 6,
+                ["displayName"] = "@Mythrium",
+                ["raceId"] = 9,
+            },
+            ["damageTaken"] = 199965,
+            ["damageShilded"] = 10250,
+            ["duelEnd"] = 15972880,
             ["timestamp"] = 1778897104,
+            ["damageDone"] = 420594,
+            ["duration"] = 211.7100000000,
         },
         [6] = 
         {
-            ["damageTaken"] = 127014,
-            ["HPSIn"] = 2261,
-            ["duelEnd"] = 15718539,
-            ["DPSIn"] = 3364,
-            ["duration"] = 40.5300000000,
-            ["DPSOut"] = 4133,
-            ["wasLocalPlayersResult"] = true,
-            ["duelStart"] = 15677416,
-            ["result"] = 1,
-            ["opponent"] = 
-            {
-                ["gender"] = 1,
-                ["raceId"] = 8,
-                ["displayName"] = "@elev-8",
-                ["alliance"] = 1,
-                ["characterName"] = "Elevâte^Fx",
-                ["classId"] = 3,
-            },
-            ["damageShilded"] = 2978,
             ["player"] = 
             {
-                ["gender"] = 2,
-                ["characterId"] = "8796093079602369",
-                ["raceId"] = 10,
-                ["displayName"] = "@noobkiss",
                 ["classId"] = 1,
-                ["characterName"] = "Zou Kimcheng^Mx",
                 ["alliance"] = 1,
+                ["gender"] = 2,
+                ["characterName"] = "Zou Kimcheng^Mx",
+                ["characterId"] = "8796093079602369",
+                ["displayName"] = "@noobkiss",
+                ["raceId"] = 10,
             },
+            ["result"] = 1,
+            ["duelStart"] = 15677416,
+            ["wasLocalPlayersResult"] = true,
+            ["DPSIn"] = 3364,
             ["healingTaken"] = 90208,
-            ["damageDone"] = 156047,
+            ["DPSOut"] = 4133,
+            ["HPSIn"] = 2261,
+            ["opponent"] = 
+            {
+                ["alliance"] = 1,
+                ["gender"] = 1,
+                ["characterName"] = "Elevâte^Fx",
+                ["classId"] = 3,
+                ["displayName"] = "@elev-8",
+                ["raceId"] = 8,
+            },
+            ["damageTaken"] = 127014,
+            ["damageShilded"] = 2978,
+            ["duelEnd"] = 15718539,
             ["timestamp"] = 1778952660,
+            ["damageDone"] = 156047,
+            ["duration"] = 40.5300000000,
         },
         [7] = 
         {
-            ["damageTaken"] = 273270,
-            ["HPSIn"] = 2060,
-            ["duelEnd"] = 15865090,
-            ["DPSIn"] = 2446,
-            ["duration"] = 112.9300000000,
-            ["DPSOut"] = 3308,
-            ["wasLocalPlayersResult"] = true,
-            ["duelStart"] = 15751328,
-            ["result"] = 1,
-            ["opponent"] = 
-            {
-                ["gender"] = 1,
-                ["raceId"] = 8,
-                ["displayName"] = "@elev-8",
-                ["alliance"] = 1,
-                ["characterName"] = "Elevâte^Fx",
-                ["classId"] = 3,
-            },
-            ["damageShilded"] = 15341,
             ["player"] = 
             {
-                ["gender"] = 2,
-                ["characterId"] = "8796093079602369",
-                ["raceId"] = 10,
-                ["displayName"] = "@noobkiss",
                 ["classId"] = 1,
-                ["characterName"] = "Zou Kimcheng^Mx",
                 ["alliance"] = 1,
+                ["gender"] = 2,
+                ["characterName"] = "Zou Kimcheng^Mx",
+                ["characterId"] = "8796093079602369",
+                ["displayName"] = "@noobkiss",
+                ["raceId"] = 10,
             },
+            ["result"] = 1,
+            ["duelStart"] = 15751328,
+            ["wasLocalPlayersResult"] = true,
+            ["DPSIn"] = 2446,
             ["healingTaken"] = 230214,
-            ["damageDone"] = 369683,
+            ["DPSOut"] = 3308,
+            ["HPSIn"] = 2060,
+            ["opponent"] = 
+            {
+                ["alliance"] = 1,
+                ["gender"] = 1,
+                ["characterName"] = "Elevâte^Fx",
+                ["classId"] = 3,
+                ["displayName"] = "@elev-8",
+                ["raceId"] = 8,
+            },
+            ["damageTaken"] = 273270,
+            ["damageShilded"] = 15341,
+            ["duelEnd"] = 15865090,
             ["timestamp"] = 1778952734,
+            ["damageDone"] = 369683,
+            ["duration"] = 112.9300000000,
         },
         [8] = 
         {
-            ["damageTaken"] = 99898,
-            ["HPSIn"] = 1724,
-            ["duelEnd"] = 15965838,
-            ["DPSIn"] = 2558,
-            ["duration"] = 40.4200000000,
-            ["DPSOut"] = 3664,
-            ["wasLocalPlayersResult"] = false,
-            ["duelStart"] = 15924758,
-            ["result"] = 1,
-            ["opponent"] = 
-            {
-                ["gender"] = 1,
-                ["raceId"] = 8,
-                ["displayName"] = "@elev-8",
-                ["alliance"] = 1,
-                ["characterName"] = "Elevâte^Fx",
-                ["classId"] = 3,
-            },
-            ["damageShilded"] = 6311,
             ["player"] = 
             {
-                ["gender"] = 2,
-                ["characterId"] = "8796093079602369",
-                ["raceId"] = 10,
-                ["displayName"] = "@noobkiss",
                 ["classId"] = 1,
-                ["characterName"] = "Zou Kimcheng^Mx",
                 ["alliance"] = 1,
+                ["gender"] = 2,
+                ["characterName"] = "Zou Kimcheng^Mx",
+                ["characterId"] = "8796093079602369",
+                ["displayName"] = "@noobkiss",
+                ["raceId"] = 10,
             },
+            ["result"] = 1,
+            ["duelStart"] = 15924758,
+            ["wasLocalPlayersResult"] = false,
+            ["DPSIn"] = 2558,
             ["healingTaken"] = 61313,
-            ["damageDone"] = 143124,
+            ["DPSOut"] = 3664,
+            ["HPSIn"] = 1724,
+            ["opponent"] = 
+            {
+                ["alliance"] = 1,
+                ["gender"] = 1,
+                ["characterName"] = "Elevâte^Fx",
+                ["classId"] = 3,
+                ["displayName"] = "@elev-8",
+                ["raceId"] = 8,
+            },
+            ["damageTaken"] = 99898,
+            ["damageShilded"] = 6311,
+            ["duelEnd"] = 15965838,
             ["timestamp"] = 1778952908,
+            ["damageDone"] = 143124,
+            ["duration"] = 40.4200000000,
         },
         [9] = 
         {
-            ["damageTaken"] = 302405,
-            ["HPSIn"] = 2753,
-            ["duelEnd"] = 16191327,
-            ["DPSIn"] = 3632,
-            ["duration"] = 90.6100000000,
-            ["DPSOut"] = 2551,
-            ["wasLocalPlayersResult"] = false,
-            ["duelStart"] = 16100178,
-            ["result"] = 1,
-            ["opponent"] = 
-            {
-                ["gender"] = 1,
-                ["raceId"] = 9,
-                ["displayName"] = "@QR1234666",
-                ["alliance"] = 1,
-                ["characterName"] = "Xiao Qin^Fx",
-                ["classId"] = 3,
-            },
-            ["damageShilded"] = 13052,
             ["player"] = 
             {
-                ["gender"] = 2,
-                ["characterId"] = "8796093079602369",
-                ["raceId"] = 10,
-                ["displayName"] = "@noobkiss",
                 ["classId"] = 1,
-                ["characterName"] = "Zou Kimcheng^Mx",
                 ["alliance"] = 1,
+                ["gender"] = 2,
+                ["characterName"] = "Zou Kimcheng^Mx",
+                ["characterId"] = "8796093079602369",
+                ["displayName"] = "@noobkiss",
+                ["raceId"] = 10,
             },
+            ["result"] = 1,
+            ["duelStart"] = 16100178,
+            ["wasLocalPlayersResult"] = false,
+            ["DPSIn"] = 3632,
             ["healingTaken"] = 243192,
-            ["damageDone"] = 212401,
+            ["DPSOut"] = 2551,
+            ["HPSIn"] = 2753,
+            ["opponent"] = 
+            {
+                ["alliance"] = 1,
+                ["gender"] = 1,
+                ["characterName"] = "Xiao Qin^Fx",
+                ["classId"] = 3,
+                ["displayName"] = "@QR1234666",
+                ["raceId"] = 9,
+            },
+            ["damageTaken"] = 302405,
+            ["damageShilded"] = 13052,
+            ["duelEnd"] = 16191327,
             ["timestamp"] = 1778953083,
+            ["damageDone"] = 212401,
+            ["duration"] = 90.6100000000,
         },
         [10] = 
         {
-            ["damageTaken"] = 37156,
-            ["HPSIn"] = 1589,
-            ["duelEnd"] = 16343515,
-            ["DPSIn"] = 3981,
-            ["duration"] = 19.3900000000,
-            ["DPSOut"] = 7655,
-            ["wasLocalPlayersResult"] = true,
-            ["duelStart"] = 16324023,
-            ["result"] = 1,
-            ["opponent"] = 
-            {
-                ["gender"] = 1,
-                ["raceId"] = 7,
-                ["displayName"] = "@SikumaReborn",
-                ["alliance"] = 1,
-                ["characterName"] = "Sikumatwo^Fx",
-                ["classId"] = 1,
-            },
-            ["damageShilded"] = 3470,
             ["player"] = 
             {
-                ["gender"] = 2,
-                ["characterId"] = "8796093079602369",
-                ["raceId"] = 10,
-                ["displayName"] = "@noobkiss",
                 ["classId"] = 1,
-                ["characterName"] = "Zou Kimcheng^Mx",
                 ["alliance"] = 1,
+                ["gender"] = 2,
+                ["characterName"] = "Zou Kimcheng^Mx",
+                ["characterId"] = "8796093079602369",
+                ["displayName"] = "@noobkiss",
+                ["raceId"] = 10,
             },
+            ["result"] = 1,
+            ["duelStart"] = 16324023,
+            ["wasLocalPlayersResult"] = true,
+            ["DPSIn"] = 3981,
             ["healingTaken"] = 29370,
-            ["damageDone"] = 71442,
+            ["DPSOut"] = 7655,
+            ["HPSIn"] = 1589,
+            ["opponent"] = 
+            {
+                ["alliance"] = 1,
+                ["gender"] = 1,
+                ["characterName"] = "Sikumatwo^Fx",
+                ["classId"] = 1,
+                ["displayName"] = "@SikumaReborn",
+                ["raceId"] = 7,
+            },
+            ["damageTaken"] = 37156,
+            ["damageShilded"] = 3470,
+            ["duelEnd"] = 16343515,
             ["timestamp"] = 1778953307,
+            ["damageDone"] = 71442,
+            ["duration"] = 19.3900000000,
         },
         [11] = 
         {
-            ["damageTaken"] = 84320,
-            ["HPSIn"] = 1725,
-            ["duelEnd"] = 16415974,
-            ["DPSIn"] = 3211,
-            ["duration"] = 44.8200000000,
-            ["DPSOut"] = 3913,
-            ["wasLocalPlayersResult"] = true,
-            ["duelStart"] = 16370235,
-            ["result"] = 1,
-            ["opponent"] = 
-            {
-                ["gender"] = 1,
-                ["raceId"] = 5,
-                ["displayName"] = "@shengunde19",
-                ["alliance"] = 1,
-                ["characterName"] = "Diowzwzwz^Fx",
-                ["classId"] = 3,
-            },
-            ["damageShilded"] = 5675,
             ["player"] = 
             {
-                ["gender"] = 2,
-                ["characterId"] = "8796093079602369",
-                ["raceId"] = 10,
-                ["displayName"] = "@noobkiss",
                 ["classId"] = 1,
-                ["characterName"] = "Zou Kimcheng^Mx",
                 ["alliance"] = 1,
+                ["gender"] = 2,
+                ["characterName"] = "Zou Kimcheng^Mx",
+                ["characterId"] = "8796093079602369",
+                ["displayName"] = "@noobkiss",
+                ["raceId"] = 10,
             },
+            ["result"] = 1,
+            ["duelStart"] = 16370235,
+            ["wasLocalPlayersResult"] = true,
+            ["DPSIn"] = 3211,
             ["healingTaken"] = 76055,
-            ["damageDone"] = 102753,
+            ["DPSOut"] = 3913,
+            ["HPSIn"] = 1725,
+            ["opponent"] = 
+            {
+                ["alliance"] = 1,
+                ["gender"] = 1,
+                ["characterName"] = "Diowzwzwz^Fx",
+                ["classId"] = 3,
+                ["displayName"] = "@shengunde19",
+                ["raceId"] = 5,
+            },
+            ["damageTaken"] = 84320,
+            ["damageShilded"] = 5675,
+            ["duelEnd"] = 16415974,
             ["timestamp"] = 1778953353,
+            ["damageDone"] = 102753,
+            ["duration"] = 44.8200000000,
         },
         [12] = 
         {
-            ["damageTaken"] = 48887,
-            ["HPSIn"] = 1641,
-            ["duelEnd"] = 16496575,
-            ["DPSIn"] = 1847,
-            ["duration"] = 29.4900000000,
-            ["DPSOut"] = 3353,
-            ["wasLocalPlayersResult"] = true,
-            ["duelStart"] = 16466995,
-            ["result"] = 1,
-            ["opponent"] = 
-            {
-                ["gender"] = 1,
-                ["raceId"] = 7,
-                ["displayName"] = "@SikumaReborn",
-                ["alliance"] = 1,
-                ["characterName"] = "Sikumatwo^Fx",
-                ["classId"] = 1,
-            },
-            ["damageShilded"] = 3492,
             ["player"] = 
             {
-                ["gender"] = 2,
-                ["characterId"] = "8796093079602369",
-                ["raceId"] = 10,
-                ["displayName"] = "@noobkiss",
                 ["classId"] = 1,
-                ["characterName"] = "Zou Kimcheng^Mx",
                 ["alliance"] = 1,
+                ["gender"] = 2,
+                ["characterName"] = "Zou Kimcheng^Mx",
+                ["characterId"] = "8796093079602369",
+                ["displayName"] = "@noobkiss",
+                ["raceId"] = 10,
             },
+            ["result"] = 1,
+            ["duelStart"] = 16466995,
+            ["wasLocalPlayersResult"] = true,
+            ["DPSIn"] = 1847,
             ["healingTaken"] = 47744,
-            ["damageDone"] = 88752,
+            ["DPSOut"] = 3353,
+            ["HPSIn"] = 1641,
+            ["opponent"] = 
+            {
+                ["alliance"] = 1,
+                ["gender"] = 1,
+                ["characterName"] = "Sikumatwo^Fx",
+                ["classId"] = 1,
+                ["displayName"] = "@SikumaReborn",
+                ["raceId"] = 7,
+            },
+            ["damageTaken"] = 48887,
+            ["damageShilded"] = 3492,
+            ["duelEnd"] = 16496575,
             ["timestamp"] = 1778953450,
+            ["damageDone"] = 88752,
+            ["duration"] = 29.4900000000,
         },
         [13] = 
         {
-            ["damageTaken"] = 191917,
-            ["HPSIn"] = 1221,
-            ["duelEnd"] = 16714785,
-            ["DPSIn"] = 1317,
-            ["duration"] = 185.6400000000,
-            ["DPSOut"] = 2126,
-            ["wasLocalPlayersResult"] = false,
-            ["duelStart"] = 16529130,
-            ["result"] = 0,
-            ["opponent"] = 
-            {
-                ["gender"] = 1,
-                ["raceId"] = 7,
-                ["displayName"] = "@SikumaReborn",
-                ["alliance"] = 1,
-                ["characterName"] = "Sikumatwo^Fx",
-                ["classId"] = 1,
-            },
-            ["damageShilded"] = 15851,
             ["player"] = 
             {
-                ["gender"] = 2,
-                ["characterId"] = "8796093079602369",
-                ["raceId"] = 10,
-                ["displayName"] = "@noobkiss",
                 ["classId"] = 1,
-                ["characterName"] = "Zou Kimcheng^Mx",
                 ["alliance"] = 1,
+                ["gender"] = 2,
+                ["characterName"] = "Zou Kimcheng^Mx",
+                ["characterId"] = "8796093079602369",
+                ["displayName"] = "@noobkiss",
+                ["raceId"] = 10,
             },
+            ["result"] = 0,
+            ["duelStart"] = 16529130,
+            ["wasLocalPlayersResult"] = false,
+            ["DPSIn"] = 1317,
             ["healingTaken"] = 188161,
-            ["damageDone"] = 309754,
+            ["DPSOut"] = 2126,
+            ["HPSIn"] = 1221,
+            ["opponent"] = 
+            {
+                ["alliance"] = 1,
+                ["gender"] = 1,
+                ["characterName"] = "Sikumatwo^Fx",
+                ["classId"] = 1,
+                ["displayName"] = "@SikumaReborn",
+                ["raceId"] = 7,
+            },
+            ["damageTaken"] = 191917,
+            ["damageShilded"] = 15851,
+            ["duelEnd"] = 16714785,
             ["timestamp"] = 1778953512,
+            ["damageDone"] = 309754,
+            ["duration"] = 185.6400000000,
         },
         [14] = 
         {
-            ["damageTaken"] = 860326,
-            ["HPSIn"] = 2563,
-            ["duelEnd"] = 17247030,
-            ["DPSIn"] = 2771,
-            ["duration"] = 313.4600000000,
-            ["DPSOut"] = 3068,
-            ["wasLocalPlayersResult"] = true,
-            ["duelStart"] = 16933122,
-            ["result"] = 1,
-            ["opponent"] = 
-            {
-                ["gender"] = 2,
-                ["raceId"] = 4,
-                ["displayName"] = "@Haven_Fan",
-                ["alliance"] = 1,
-                ["characterName"] = "Hyhle^Mx",
-                ["classId"] = 1,
-            },
-            ["damageShilded"] = 26277,
             ["player"] = 
             {
-                ["gender"] = 2,
-                ["characterId"] = "8796093079602369",
-                ["raceId"] = 10,
-                ["displayName"] = "@noobkiss",
                 ["classId"] = 1,
-                ["characterName"] = "Zou Kimcheng^Mx",
                 ["alliance"] = 1,
+                ["gender"] = 2,
+                ["characterName"] = "Zou Kimcheng^Mx",
+                ["characterId"] = "8796093079602369",
+                ["displayName"] = "@noobkiss",
+                ["raceId"] = 10,
             },
+            ["result"] = 1,
+            ["duelStart"] = 16933122,
+            ["wasLocalPlayersResult"] = true,
+            ["DPSIn"] = 2771,
             ["healingTaken"] = 801977,
-            ["damageDone"] = 952449,
+            ["DPSOut"] = 3068,
+            ["HPSIn"] = 2563,
+            ["opponent"] = 
+            {
+                ["alliance"] = 1,
+                ["gender"] = 2,
+                ["characterName"] = "Hyhle^Mx",
+                ["classId"] = 1,
+                ["displayName"] = "@Haven_Fan",
+                ["raceId"] = 4,
+            },
+            ["damageTaken"] = 860326,
+            ["damageShilded"] = 26277,
+            ["duelEnd"] = 17247030,
             ["timestamp"] = 1778953916,
+            ["damageDone"] = 952449,
+            ["duration"] = 313.4600000000,
         },
         [15] = 
         {
-            ["damageTaken"] = 165438,
-            ["HPSIn"] = 2085,
-            ["duelEnd"] = 17338803,
-            ["DPSIn"] = 3032,
-            ["duration"] = 59.7000000000,
-            ["DPSOut"] = 4603,
-            ["wasLocalPlayersResult"] = false,
-            ["duelStart"] = 17278240,
-            ["result"] = 1,
-            ["opponent"] = 
-            {
-                ["gender"] = 1,
-                ["raceId"] = 9,
-                ["displayName"] = "@QR1234666",
-                ["alliance"] = 1,
-                ["characterName"] = "Xiao Qin^Fx",
-                ["classId"] = 3,
-            },
-            ["damageShilded"] = 8507,
             ["player"] = 
             {
-                ["gender"] = 2,
-                ["characterId"] = "8796093079602369",
-                ["raceId"] = 10,
-                ["displayName"] = "@noobkiss",
                 ["classId"] = 1,
-                ["characterName"] = "Zou Kimcheng^Mx",
                 ["alliance"] = 1,
+                ["gender"] = 2,
+                ["characterName"] = "Zou Kimcheng^Mx",
+                ["characterId"] = "8796093079602369",
+                ["displayName"] = "@noobkiss",
+                ["raceId"] = 10,
             },
+            ["result"] = 1,
+            ["duelStart"] = 17278240,
+            ["wasLocalPlayersResult"] = false,
+            ["DPSIn"] = 3032,
             ["healingTaken"] = 121318,
-            ["damageDone"] = 251177,
+            ["DPSOut"] = 4603,
+            ["HPSIn"] = 2085,
+            ["opponent"] = 
+            {
+                ["alliance"] = 1,
+                ["gender"] = 1,
+                ["characterName"] = "Xiao Qin^Fx",
+                ["classId"] = 3,
+                ["displayName"] = "@QR1234666",
+                ["raceId"] = 9,
+            },
+            ["damageTaken"] = 165438,
+            ["damageShilded"] = 8507,
+            ["duelEnd"] = 17338803,
             ["timestamp"] = 1778954261,
+            ["damageDone"] = 251177,
+            ["duration"] = 59.7000000000,
         },
         [16] = 
         {
-            ["damageTaken"] = 74062,
-            ["HPSIn"] = 3019,
-            ["duelEnd"] = 17659138,
-            ["DPSIn"] = 3569,
-            ["duration"] = 23.8800000000,
-            ["DPSOut"] = 4572,
-            ["wasLocalPlayersResult"] = true,
-            ["duelStart"] = 17634816,
-            ["result"] = 1,
-            ["opponent"] = 
-            {
-                ["gender"] = 2,
-                ["raceId"] = 1,
-                ["displayName"] = "@elev-8",
-                ["alliance"] = 1,
-                ["characterName"] = "Elevãte^Mx",
-                ["classId"] = 1,
-            },
-            ["damageShilded"] = 7500,
             ["player"] = 
             {
-                ["gender"] = 2,
-                ["characterId"] = "8796093079602369",
-                ["raceId"] = 10,
-                ["displayName"] = "@noobkiss",
                 ["classId"] = 1,
-                ["characterName"] = "Zou Kimcheng^Mx",
                 ["alliance"] = 1,
+                ["gender"] = 2,
+                ["characterName"] = "Zou Kimcheng^Mx",
+                ["characterId"] = "8796093079602369",
+                ["displayName"] = "@noobkiss",
+                ["raceId"] = 10,
             },
+            ["result"] = 1,
+            ["duelStart"] = 17634816,
+            ["wasLocalPlayersResult"] = true,
+            ["DPSIn"] = 3569,
             ["healingTaken"] = 70367,
-            ["damageDone"] = 94883,
+            ["DPSOut"] = 4572,
+            ["HPSIn"] = 3019,
+            ["opponent"] = 
+            {
+                ["alliance"] = 1,
+                ["gender"] = 2,
+                ["characterName"] = "Elevãte^Mx",
+                ["classId"] = 1,
+                ["displayName"] = "@elev-8",
+                ["raceId"] = 1,
+            },
+            ["damageTaken"] = 74062,
+            ["damageShilded"] = 7500,
+            ["duelEnd"] = 17659138,
             ["timestamp"] = 1778954618,
+            ["damageDone"] = 94883,
+            ["duration"] = 23.8800000000,
         },
         [17] = 
         {
-            ["damageTaken"] = 297076,
-            ["HPSIn"] = 2438,
-            ["duelEnd"] = 17806923,
-            ["DPSIn"] = 2760,
-            ["duration"] = 110.9200000000,
-            ["DPSOut"] = 2634,
-            ["wasLocalPlayersResult"] = true,
-            ["duelStart"] = 17695801,
-            ["result"] = 1,
-            ["opponent"] = 
-            {
-                ["gender"] = 2,
-                ["raceId"] = 1,
-                ["displayName"] = "@elev-8",
-                ["alliance"] = 1,
-                ["characterName"] = "Elevãte^Mx",
-                ["classId"] = 1,
-            },
-            ["damageShilded"] = 11222,
             ["player"] = 
             {
-                ["gender"] = 2,
-                ["characterId"] = "8796093079602369",
-                ["raceId"] = 10,
-                ["displayName"] = "@noobkiss",
                 ["classId"] = 1,
-                ["characterName"] = "Zou Kimcheng^Mx",
                 ["alliance"] = 1,
+                ["gender"] = 2,
+                ["characterName"] = "Zou Kimcheng^Mx",
+                ["characterId"] = "8796093079602369",
+                ["displayName"] = "@noobkiss",
+                ["raceId"] = 10,
             },
+            ["result"] = 1,
+            ["duelStart"] = 17695801,
+            ["wasLocalPlayersResult"] = true,
+            ["DPSIn"] = 2760,
             ["healingTaken"] = 268812,
-            ["damageDone"] = 283432,
+            ["DPSOut"] = 2634,
+            ["HPSIn"] = 2438,
+            ["opponent"] = 
+            {
+                ["alliance"] = 1,
+                ["gender"] = 2,
+                ["characterName"] = "Elevãte^Mx",
+                ["classId"] = 1,
+                ["displayName"] = "@elev-8",
+                ["raceId"] = 1,
+            },
+            ["damageTaken"] = 297076,
+            ["damageShilded"] = 11222,
+            ["duelEnd"] = 17806923,
             ["timestamp"] = 1778954679,
+            ["damageDone"] = 283432,
+            ["duration"] = 110.9200000000,
         },
         [18] = 
         {
-            ["damageTaken"] = 14379,
-            ["HPSIn"] = 125,
-            ["duelEnd"] = 18068523,
-            ["DPSIn"] = 201,
-            ["duration"] = 128.0500000000,
-            ["DPSOut"] = 154,
-            ["wasLocalPlayersResult"] = false,
-            ["duelStart"] = 17940336,
-            ["result"] = 0,
-            ["opponent"] = 
-            {
-                ["gender"] = 2,
-                ["raceId"] = 1,
-                ["displayName"] = "@elev-8",
-                ["alliance"] = 1,
-                ["characterName"] = "Elevãte^Mx",
-                ["classId"] = 1,
-            },
-            ["damageShilded"] = 0,
             ["player"] = 
             {
-                ["gender"] = 2,
-                ["characterId"] = "8796093079602369",
-                ["raceId"] = 10,
-                ["displayName"] = "@noobkiss",
                 ["classId"] = 1,
-                ["characterName"] = "Zou Kimcheng^Mx",
                 ["alliance"] = 1,
+                ["gender"] = 2,
+                ["characterName"] = "Zou Kimcheng^Mx",
+                ["characterId"] = "8796093079602369",
+                ["displayName"] = "@noobkiss",
+                ["raceId"] = 10,
             },
+            ["result"] = 0,
+            ["duelStart"] = 17940336,
+            ["wasLocalPlayersResult"] = false,
+            ["DPSIn"] = 201,
             ["healingTaken"] = 8944,
-            ["damageDone"] = 11020,
+            ["DPSOut"] = 154,
+            ["HPSIn"] = 125,
+            ["opponent"] = 
+            {
+                ["alliance"] = 1,
+                ["gender"] = 2,
+                ["characterName"] = "Elevãte^Mx",
+                ["classId"] = 1,
+                ["displayName"] = "@elev-8",
+                ["raceId"] = 1,
+            },
+            ["damageTaken"] = 14379,
+            ["damageShilded"] = 0,
+            ["duelEnd"] = 18068523,
             ["timestamp"] = 1778954923,
+            ["damageDone"] = 11020,
+            ["duration"] = 128.0500000000,
         },
         [19] = 
         {
-            ["damageTaken"] = 10779,
-            ["HPSIn"] = 5,
-            ["duelEnd"] = 18370029,
-            ["DPSIn"] = 48,
-            ["duration"] = 274.4600000000,
-            ["DPSOut"] = 149,
-            ["wasLocalPlayersResult"] = false,
-            ["duelStart"] = 18095104,
-            ["result"] = 0,
-            ["opponent"] = 
-            {
-                ["gender"] = 2,
-                ["raceId"] = 1,
-                ["displayName"] = "@elev-8",
-                ["alliance"] = 1,
-                ["characterName"] = "Elevãte^Mx",
-                ["classId"] = 1,
-            },
-            ["damageShilded"] = 0,
             ["player"] = 
             {
-                ["gender"] = 2,
-                ["characterId"] = "8796093079602369",
-                ["raceId"] = 10,
-                ["displayName"] = "@noobkiss",
                 ["classId"] = 1,
-                ["characterName"] = "Zou Kimcheng^Mx",
                 ["alliance"] = 1,
+                ["gender"] = 2,
+                ["characterName"] = "Zou Kimcheng^Mx",
+                ["characterId"] = "8796093079602369",
+                ["displayName"] = "@noobkiss",
+                ["raceId"] = 10,
             },
+            ["result"] = 0,
+            ["duelStart"] = 18095104,
+            ["wasLocalPlayersResult"] = false,
+            ["DPSIn"] = 48,
             ["healingTaken"] = 1170,
-            ["damageDone"] = 33539,
+            ["DPSOut"] = 149,
+            ["HPSIn"] = 5,
+            ["opponent"] = 
+            {
+                ["alliance"] = 1,
+                ["gender"] = 2,
+                ["characterName"] = "Elevãte^Mx",
+                ["classId"] = 1,
+                ["displayName"] = "@elev-8",
+                ["raceId"] = 1,
+            },
+            ["damageTaken"] = 10779,
+            ["damageShilded"] = 0,
+            ["duelEnd"] = 18370029,
             ["timestamp"] = 1778955078,
+            ["damageDone"] = 33539,
+            ["duration"] = 274.4600000000,
         },
         [20] = 
         {
-            ["damageTaken"] = 131014,
-            ["HPSIn"] = 2150,
-            ["duelEnd"] = 18475589,
-            ["DPSIn"] = 3222,
-            ["duration"] = 46.8800000000,
-            ["DPSOut"] = 3505,
-            ["wasLocalPlayersResult"] = true,
-            ["duelStart"] = 18427886,
-            ["result"] = 1,
-            ["opponent"] = 
-            {
-                ["gender"] = 2,
-                ["raceId"] = 1,
-                ["displayName"] = "@elev-8",
-                ["alliance"] = 1,
-                ["characterName"] = "Elevãte^Mx",
-                ["classId"] = 1,
-            },
-            ["damageShilded"] = 2491,
             ["player"] = 
             {
-                ["gender"] = 2,
-                ["characterId"] = "8796093079602369",
-                ["raceId"] = 10,
-                ["displayName"] = "@noobkiss",
                 ["classId"] = 1,
-                ["characterName"] = "Zou Kimcheng^Mx",
                 ["alliance"] = 1,
+                ["gender"] = 2,
+                ["characterName"] = "Zou Kimcheng^Mx",
+                ["characterId"] = "8796093079602369",
+                ["displayName"] = "@noobkiss",
+                ["raceId"] = 10,
             },
+            ["result"] = 1,
+            ["duelStart"] = 18427886,
+            ["wasLocalPlayersResult"] = true,
+            ["DPSIn"] = 3222,
             ["healingTaken"] = 97052,
-            ["damageDone"] = 142523,
+            ["DPSOut"] = 3505,
+            ["HPSIn"] = 2150,
+            ["opponent"] = 
+            {
+                ["alliance"] = 1,
+                ["gender"] = 2,
+                ["characterName"] = "Elevãte^Mx",
+                ["classId"] = 1,
+                ["displayName"] = "@elev-8",
+                ["raceId"] = 1,
+            },
+            ["damageTaken"] = 131014,
+            ["damageShilded"] = 2491,
+            ["duelEnd"] = 18475589,
             ["timestamp"] = 1778955411,
+            ["damageDone"] = 142523,
+            ["duration"] = 46.8800000000,
         },
         [21] = 
         {
-            ["damageTaken"] = 110814,
-            ["HPSIn"] = 2836,
-            ["duelEnd"] = 18547058,
-            ["DPSIn"] = 3405,
-            ["duration"] = 36.0500000000,
-            ["DPSOut"] = 3289,
-            ["wasLocalPlayersResult"] = true,
-            ["duelStart"] = 18510542,
-            ["result"] = 1,
-            ["opponent"] = 
-            {
-                ["gender"] = 2,
-                ["raceId"] = 1,
-                ["displayName"] = "@elev-8",
-                ["alliance"] = 1,
-                ["characterName"] = "Elevãte^Mx",
-                ["classId"] = 1,
-            },
-            ["damageShilded"] = 6173,
             ["player"] = 
             {
-                ["gender"] = 2,
-                ["characterId"] = "8796093079602369",
-                ["raceId"] = 10,
-                ["displayName"] = "@noobkiss",
                 ["classId"] = 1,
-                ["characterName"] = "Zou Kimcheng^Mx",
                 ["alliance"] = 1,
+                ["gender"] = 2,
+                ["characterName"] = "Zou Kimcheng^Mx",
+                ["characterId"] = "8796093079602369",
+                ["displayName"] = "@noobkiss",
+                ["raceId"] = 10,
             },
+            ["result"] = 1,
+            ["duelStart"] = 18510542,
+            ["wasLocalPlayersResult"] = true,
+            ["DPSIn"] = 3405,
             ["healingTaken"] = 101337,
-            ["damageDone"] = 107024,
+            ["DPSOut"] = 3289,
+            ["HPSIn"] = 2836,
+            ["opponent"] = 
+            {
+                ["alliance"] = 1,
+                ["gender"] = 2,
+                ["characterName"] = "Elevãte^Mx",
+                ["classId"] = 1,
+                ["displayName"] = "@elev-8",
+                ["raceId"] = 1,
+            },
+            ["damageTaken"] = 110814,
+            ["damageShilded"] = 6173,
+            ["duelEnd"] = 18547058,
             ["timestamp"] = 1778955494,
+            ["damageDone"] = 107024,
+            ["duration"] = 36.0500000000,
         },
         [22] = 
         {
-            ["damageTaken"] = 399800,
-            ["HPSIn"] = 1975,
-            ["duelEnd"] = 18842283,
-            ["DPSIn"] = 2451,
-            ["duration"] = 169.4900000000,
-            ["DPSOut"] = 3031,
-            ["wasLocalPlayersResult"] = false,
-            ["duelStart"] = 18672204,
-            ["result"] = 1,
-            ["opponent"] = 
-            {
-                ["gender"] = 1,
-                ["raceId"] = 9,
-                ["displayName"] = "@QR1234666",
-                ["alliance"] = 1,
-                ["characterName"] = "Xiao Qin^Fx",
-                ["classId"] = 3,
-            },
-            ["damageShilded"] = 16974,
             ["player"] = 
             {
-                ["gender"] = 2,
-                ["characterId"] = "8796093079602369",
-                ["raceId"] = 10,
-                ["displayName"] = "@noobkiss",
                 ["classId"] = 1,
-                ["characterName"] = "Zou Kimcheng^Mx",
                 ["alliance"] = 1,
+                ["gender"] = 2,
+                ["characterName"] = "Zou Kimcheng^Mx",
+                ["characterId"] = "8796093079602369",
+                ["displayName"] = "@noobkiss",
+                ["raceId"] = 10,
             },
+            ["result"] = 1,
+            ["duelStart"] = 18672204,
+            ["wasLocalPlayersResult"] = false,
+            ["DPSIn"] = 2451,
             ["healingTaken"] = 331354,
-            ["damageDone"] = 494344,
+            ["DPSOut"] = 3031,
+            ["HPSIn"] = 1975,
+            ["opponent"] = 
+            {
+                ["alliance"] = 1,
+                ["gender"] = 1,
+                ["characterName"] = "Xiao Qin^Fx",
+                ["classId"] = 3,
+                ["displayName"] = "@QR1234666",
+                ["raceId"] = 9,
+            },
+            ["damageTaken"] = 399800,
+            ["damageShilded"] = 16974,
+            ["duelEnd"] = 18842283,
             ["timestamp"] = 1778955655,
+            ["damageDone"] = 494344,
+            ["duration"] = 169.4900000000,
         },
         [23] = 
         {
-            ["damageTaken"] = 297724,
-            ["HPSIn"] = 1774,
-            ["duelEnd"] = 20507522,
-            ["DPSIn"] = 1972,
-            ["duration"] = 158.3100000000,
-            ["DPSOut"] = 2756,
-            ["wasLocalPlayersResult"] = true,
-            ["duelStart"] = 20349035,
-            ["result"] = 1,
-            ["opponent"] = 
-            {
-                ["gender"] = 1,
-                ["raceId"] = 9,
-                ["displayName"] = "@QR1234666",
-                ["alliance"] = 1,
-                ["characterName"] = "Xiao Qin^Fx",
-                ["classId"] = 3,
-            },
-            ["damageShilded"] = 12495,
             ["player"] = 
             {
-                ["gender"] = 2,
-                ["characterId"] = "8796093079602369",
-                ["raceId"] = 10,
-                ["displayName"] = "@noobkiss",
                 ["classId"] = 1,
-                ["characterName"] = "Zou Kimcheng^Mx",
                 ["alliance"] = 1,
+                ["gender"] = 2,
+                ["characterName"] = "Zou Kimcheng^Mx",
+                ["characterId"] = "8796093079602369",
+                ["displayName"] = "@noobkiss",
+                ["raceId"] = 10,
             },
+            ["result"] = 1,
+            ["duelStart"] = 20349035,
+            ["wasLocalPlayersResult"] = true,
+            ["DPSIn"] = 1972,
             ["healingTaken"] = 275433,
-            ["damageDone"] = 416031,
+            ["DPSOut"] = 2756,
+            ["HPSIn"] = 1774,
+            ["opponent"] = 
+            {
+                ["alliance"] = 1,
+                ["gender"] = 1,
+                ["characterName"] = "Xiao Qin^Fx",
+                ["classId"] = 3,
+                ["displayName"] = "@QR1234666",
+                ["raceId"] = 9,
+            },
+            ["damageTaken"] = 297724,
+            ["damageShilded"] = 12495,
+            ["duelEnd"] = 20507522,
             ["timestamp"] = 1779209649,
+            ["damageDone"] = 416031,
+            ["duration"] = 158.3100000000,
         },
         [24] = 
         {
-            ["damageTaken"] = 901220,
-            ["HPSIn"] = 1783,
-            ["duelEnd"] = 20985550,
-            ["DPSIn"] = 2003,
-            ["duration"] = 451.9600000000,
-            ["DPSOut"] = 2745,
-            ["wasLocalPlayersResult"] = true,
-            ["duelStart"] = 20533557,
-            ["result"] = 1,
-            ["opponent"] = 
-            {
-                ["gender"] = 1,
-                ["raceId"] = 9,
-                ["displayName"] = "@QR1234666",
-                ["alliance"] = 1,
-                ["characterName"] = "Xiao Qin^Fx",
-                ["classId"] = 3,
-            },
-            ["damageShilded"] = 27914,
             ["player"] = 
             {
-                ["gender"] = 2,
-                ["characterId"] = "8796093079602369",
-                ["raceId"] = 10,
-                ["displayName"] = "@noobkiss",
                 ["classId"] = 1,
-                ["characterName"] = "Zou Kimcheng^Mx",
                 ["alliance"] = 1,
+                ["gender"] = 2,
+                ["characterName"] = "Zou Kimcheng^Mx",
+                ["characterId"] = "8796093079602369",
+                ["displayName"] = "@noobkiss",
+                ["raceId"] = 10,
             },
+            ["result"] = 1,
+            ["duelStart"] = 20533557,
+            ["wasLocalPlayersResult"] = true,
+            ["DPSIn"] = 2003,
             ["healingTaken"] = 803251,
-            ["damageDone"] = 1235083,
+            ["DPSOut"] = 2745,
+            ["HPSIn"] = 1783,
+            ["opponent"] = 
+            {
+                ["alliance"] = 1,
+                ["gender"] = 1,
+                ["characterName"] = "Xiao Qin^Fx",
+                ["classId"] = 3,
+                ["displayName"] = "@QR1234666",
+                ["raceId"] = 9,
+            },
+            ["damageTaken"] = 901220,
+            ["damageShilded"] = 27914,
+            ["duelEnd"] = 20985550,
             ["timestamp"] = 1779209834,
+            ["damageDone"] = 1235083,
+            ["duration"] = 451.9600000000,
         },
         [25] = 
         {
-            ["damageTaken"] = 203249,
-            ["HPSIn"] = 1306,
-            ["duelEnd"] = 21200611,
-            ["DPSIn"] = 1611,
-            ["duration"] = 140.7100000000,
-            ["DPSOut"] = 2058,
-            ["wasLocalPlayersResult"] = true,
-            ["duelStart"] = 21060777,
-            ["result"] = 1,
-            ["opponent"] = 
-            {
-                ["gender"] = 1,
-                ["raceId"] = 5,
-                ["displayName"] = "@shengunde19",
-                ["alliance"] = 1,
-                ["characterName"] = "Diowzwzwz^Fx",
-                ["classId"] = 3,
-            },
-            ["damageShilded"] = 7500,
             ["player"] = 
             {
-                ["gender"] = 2,
-                ["characterId"] = "8796093079602369",
-                ["raceId"] = 10,
-                ["displayName"] = "@noobkiss",
                 ["classId"] = 1,
-                ["characterName"] = "Zou Kimcheng^Mx",
                 ["alliance"] = 1,
+                ["gender"] = 2,
+                ["characterName"] = "Zou Kimcheng^Mx",
+                ["characterId"] = "8796093079602369",
+                ["displayName"] = "@noobkiss",
+                ["raceId"] = 10,
             },
+            ["result"] = 1,
+            ["duelStart"] = 21060777,
+            ["wasLocalPlayersResult"] = true,
+            ["DPSIn"] = 1611,
             ["healingTaken"] = 182016,
-            ["damageDone"] = 259603,
+            ["DPSOut"] = 2058,
+            ["HPSIn"] = 1306,
+            ["opponent"] = 
+            {
+                ["alliance"] = 1,
+                ["gender"] = 1,
+                ["characterName"] = "Diowzwzwz^Fx",
+                ["classId"] = 3,
+                ["displayName"] = "@shengunde19",
+                ["raceId"] = 5,
+            },
+            ["damageTaken"] = 203249,
+            ["damageShilded"] = 7500,
+            ["duelEnd"] = 21200611,
             ["timestamp"] = 1779210361,
+            ["damageDone"] = 259603,
+            ["duration"] = 140.7100000000,
         },
         [26] = 
         {
-            ["damageTaken"] = 85635,
-            ["HPSIn"] = 2590,
-            ["duelEnd"] = 21237043,
-            ["DPSIn"] = 6226,
-            ["duration"] = 19.4200000000,
-            ["DPSOut"] = 1979,
-            ["wasLocalPlayersResult"] = false,
-            ["duelStart"] = 21217047,
-            ["result"] = 1,
-            ["opponent"] = 
-            {
-                ["gender"] = 1,
-                ["raceId"] = 9,
-                ["displayName"] = "@QR1234666",
-                ["alliance"] = 1,
-                ["characterName"] = "Xiao Qin^Fx",
-                ["classId"] = 3,
-            },
-            ["damageShilded"] = 3157,
             ["player"] = 
             {
-                ["gender"] = 2,
-                ["characterId"] = "8796093079602369",
-                ["raceId"] = 10,
-                ["displayName"] = "@noobkiss",
                 ["classId"] = 1,
-                ["characterName"] = "Zou Kimcheng^Mx",
                 ["alliance"] = 1,
+                ["gender"] = 2,
+                ["characterName"] = "Zou Kimcheng^Mx",
+                ["characterId"] = "8796093079602369",
+                ["displayName"] = "@noobkiss",
+                ["raceId"] = 10,
             },
+            ["result"] = 1,
+            ["duelStart"] = 21217047,
+            ["wasLocalPlayersResult"] = false,
+            ["DPSIn"] = 6226,
             ["healingTaken"] = 48154,
-            ["damageDone"] = 27223,
+            ["DPSOut"] = 1979,
+            ["HPSIn"] = 2590,
+            ["opponent"] = 
+            {
+                ["alliance"] = 1,
+                ["gender"] = 1,
+                ["characterName"] = "Xiao Qin^Fx",
+                ["classId"] = 3,
+                ["displayName"] = "@QR1234666",
+                ["raceId"] = 9,
+            },
+            ["damageTaken"] = 85635,
+            ["damageShilded"] = 3157,
+            ["duelEnd"] = 21237043,
             ["timestamp"] = 1779210517,
+            ["damageDone"] = 27223,
+            ["duration"] = 19.4200000000,
         },
         [27] = 
         {
-            ["damageTaken"] = 181605,
-            ["HPSIn"] = 2642,
-            ["duelEnd"] = 21391654,
-            ["DPSIn"] = 4005,
-            ["duration"] = 57.1300000000,
-            ["DPSOut"] = 1973,
-            ["wasLocalPlayersResult"] = false,
-            ["duelStart"] = 21334349,
-            ["result"] = 1,
-            ["opponent"] = 
-            {
-                ["gender"] = 1,
-                ["raceId"] = 9,
-                ["displayName"] = "@QR1234666",
-                ["alliance"] = 1,
-                ["characterName"] = "Xiao Qin^Fx",
-                ["classId"] = 3,
-            },
-            ["damageShilded"] = 2920,
             ["player"] = 
             {
-                ["gender"] = 2,
-                ["characterId"] = "8796093079602369",
-                ["raceId"] = 10,
-                ["displayName"] = "@noobkiss",
                 ["classId"] = 1,
-                ["characterName"] = "Zou Kimcheng^Mx",
                 ["alliance"] = 1,
+                ["gender"] = 2,
+                ["characterName"] = "Zou Kimcheng^Mx",
+                ["characterId"] = "8796093079602369",
+                ["displayName"] = "@noobkiss",
+                ["raceId"] = 10,
             },
+            ["result"] = 1,
+            ["duelStart"] = 21334349,
+            ["wasLocalPlayersResult"] = false,
+            ["DPSIn"] = 4005,
             ["healingTaken"] = 129357,
-            ["damageDone"] = 89480,
+            ["DPSOut"] = 1973,
+            ["HPSIn"] = 2642,
+            ["opponent"] = 
+            {
+                ["alliance"] = 1,
+                ["gender"] = 1,
+                ["characterName"] = "Xiao Qin^Fx",
+                ["classId"] = 3,
+                ["displayName"] = "@QR1234666",
+                ["raceId"] = 9,
+            },
+            ["damageTaken"] = 181605,
+            ["damageShilded"] = 2920,
+            ["duelEnd"] = 21391654,
             ["timestamp"] = 1779210635,
+            ["damageDone"] = 89480,
+            ["duration"] = 57.1300000000,
         },
         [28] = 
         {
-            ["damageTaken"] = 603554,
-            ["HPSIn"] = 2225,
-            ["duelEnd"] = 21687574,
-            ["DPSIn"] = 2553,
-            ["duration"] = 248.8700000000,
-            ["DPSOut"] = 1742,
-            ["wasLocalPlayersResult"] = true,
-            ["duelStart"] = 21438627,
-            ["result"] = 1,
-            ["opponent"] = 
-            {
-                ["gender"] = 1,
-                ["raceId"] = 9,
-                ["displayName"] = "@QR1234666",
-                ["alliance"] = 1,
-                ["characterName"] = "Xiao Qin^Fx",
-                ["classId"] = 3,
-            },
-            ["damageShilded"] = 18719,
             ["player"] = 
             {
-                ["gender"] = 2,
-                ["characterId"] = "8796093079602369",
-                ["raceId"] = 10,
-                ["displayName"] = "@noobkiss",
                 ["classId"] = 1,
-                ["characterName"] = "Zou Kimcheng^Mx",
                 ["alliance"] = 1,
+                ["gender"] = 2,
+                ["characterName"] = "Zou Kimcheng^Mx",
+                ["characterId"] = "8796093079602369",
+                ["displayName"] = "@noobkiss",
+                ["raceId"] = 10,
             },
+            ["result"] = 1,
+            ["duelStart"] = 21438627,
+            ["wasLocalPlayersResult"] = true,
+            ["DPSIn"] = 2553,
             ["healingTaken"] = 547954,
-            ["damageDone"] = 411952,
+            ["DPSOut"] = 1742,
+            ["HPSIn"] = 2225,
+            ["opponent"] = 
+            {
+                ["alliance"] = 1,
+                ["gender"] = 1,
+                ["characterName"] = "Xiao Qin^Fx",
+                ["classId"] = 3,
+                ["displayName"] = "@QR1234666",
+                ["raceId"] = 9,
+            },
+            ["damageTaken"] = 603554,
+            ["damageShilded"] = 18719,
+            ["duelEnd"] = 21687574,
             ["timestamp"] = 1779210739,
+            ["damageDone"] = 411952,
+            ["duration"] = 248.8700000000,
         },
         [29] = 
         {
-            ["damageTaken"] = 282617,
-            ["HPSIn"] = 1613,
-            ["duelEnd"] = 22086754,
-            ["DPSIn"] = 2082,
-            ["duration"] = 142.6200000000,
-            ["DPSOut"] = 2615,
-            ["wasLocalPlayersResult"] = false,
-            ["duelStart"] = 21943255,
-            ["result"] = 1,
-            ["opponent"] = 
-            {
-                ["gender"] = 1,
-                ["raceId"] = 9,
-                ["displayName"] = "@QR1234666",
-                ["alliance"] = 1,
-                ["characterName"] = "Xiao Qin^Fx",
-                ["classId"] = 3,
-            },
-            ["damageShilded"] = 6453,
             ["player"] = 
             {
-                ["gender"] = 2,
-                ["characterId"] = "8796093079602369",
-                ["raceId"] = 10,
-                ["displayName"] = "@noobkiss",
                 ["classId"] = 1,
-                ["characterName"] = "Zou Kimcheng^Mx",
                 ["alliance"] = 1,
+                ["gender"] = 2,
+                ["characterName"] = "Zou Kimcheng^Mx",
+                ["characterId"] = "8796093079602369",
+                ["displayName"] = "@noobkiss",
+                ["raceId"] = 10,
             },
+            ["result"] = 1,
+            ["duelStart"] = 21943255,
+            ["wasLocalPlayersResult"] = false,
+            ["DPSIn"] = 2082,
             ["healingTaken"] = 225147,
-            ["damageDone"] = 354949,
+            ["DPSOut"] = 2615,
+            ["HPSIn"] = 1613,
+            ["opponent"] = 
+            {
+                ["alliance"] = 1,
+                ["gender"] = 1,
+                ["characterName"] = "Xiao Qin^Fx",
+                ["classId"] = 3,
+                ["displayName"] = "@QR1234666",
+                ["raceId"] = 9,
+            },
+            ["damageTaken"] = 282617,
+            ["damageShilded"] = 6453,
+            ["duelEnd"] = 22086754,
             ["timestamp"] = 1779211244,
+            ["damageDone"] = 354949,
+            ["duration"] = 142.6200000000,
         },
         [30] = 
         {
-            ["damageTaken"] = 88616,
-            ["HPSIn"] = 2485,
-            ["duelEnd"] = 22330611,
-            ["DPSIn"] = 4855,
-            ["duration"] = 24.1900000000,
-            ["DPSOut"] = 4436,
-            ["wasLocalPlayersResult"] = false,
-            ["duelStart"] = 22305442,
-            ["result"] = 1,
-            ["opponent"] = 
-            {
-                ["gender"] = 1,
-                ["raceId"] = 9,
-                ["displayName"] = "@QR1234666",
-                ["alliance"] = 1,
-                ["characterName"] = "Xiao Qin^Fx",
-                ["classId"] = 3,
-            },
-            ["damageShilded"] = 0,
             ["player"] = 
             {
-                ["gender"] = 2,
-                ["characterId"] = "8796093079602369",
-                ["raceId"] = 10,
-                ["displayName"] = "@noobkiss",
                 ["classId"] = 1,
-                ["characterName"] = "Zou Kimcheng^Mx",
                 ["alliance"] = 1,
+                ["gender"] = 2,
+                ["characterName"] = "Zou Kimcheng^Mx",
+                ["characterId"] = "8796093079602369",
+                ["displayName"] = "@noobkiss",
+                ["raceId"] = 10,
             },
+            ["result"] = 1,
+            ["duelStart"] = 22305442,
+            ["wasLocalPlayersResult"] = false,
+            ["DPSIn"] = 4855,
             ["healingTaken"] = 52206,
-            ["damageDone"] = 80978,
+            ["DPSOut"] = 4436,
+            ["HPSIn"] = 2485,
+            ["opponent"] = 
+            {
+                ["alliance"] = 1,
+                ["gender"] = 1,
+                ["characterName"] = "Xiao Qin^Fx",
+                ["classId"] = 3,
+                ["displayName"] = "@QR1234666",
+                ["raceId"] = 9,
+            },
+            ["damageTaken"] = 88616,
+            ["damageShilded"] = 0,
+            ["duelEnd"] = 22330611,
             ["timestamp"] = 1779211606,
+            ["damageDone"] = 80978,
+            ["duration"] = 24.1900000000,
         },
         [31] = 
         {
-            ["damageTaken"] = 665266,
-            ["HPSIn"] = 2580,
-            ["duelEnd"] = 22972770,
-            ["DPSIn"] = 2952,
-            ["duration"] = 231.6100000000,
-            ["DPSOut"] = 1598,
-            ["wasLocalPlayersResult"] = false,
-            ["duelStart"] = 22740158,
-            ["result"] = 1,
-            ["opponent"] = 
-            {
-                ["gender"] = 1,
-                ["raceId"] = 9,
-                ["displayName"] = "@QR1234666",
-                ["alliance"] = 1,
-                ["characterName"] = "Xiao Qin^Fx",
-                ["classId"] = 3,
-            },
-            ["damageShilded"] = 0,
             ["player"] = 
             {
-                ["gender"] = 2,
-                ["characterId"] = "8796093079602369",
-                ["raceId"] = 10,
-                ["displayName"] = "@noobkiss",
                 ["classId"] = 1,
-                ["characterName"] = "Zou Kimcheng^Mx",
                 ["alliance"] = 1,
+                ["gender"] = 2,
+                ["characterName"] = "Zou Kimcheng^Mx",
+                ["characterId"] = "8796093079602369",
+                ["displayName"] = "@noobkiss",
+                ["raceId"] = 10,
             },
+            ["result"] = 1,
+            ["duelStart"] = 22740158,
+            ["wasLocalPlayersResult"] = false,
+            ["DPSIn"] = 2952,
             ["healingTaken"] = 595773,
-            ["damageDone"] = 360118,
+            ["DPSOut"] = 1598,
+            ["HPSIn"] = 2580,
+            ["opponent"] = 
+            {
+                ["alliance"] = 1,
+                ["gender"] = 1,
+                ["characterName"] = "Xiao Qin^Fx",
+                ["classId"] = 3,
+                ["displayName"] = "@QR1234666",
+                ["raceId"] = 9,
+            },
+            ["damageTaken"] = 665266,
+            ["damageShilded"] = 0,
+            ["duelEnd"] = 22972770,
             ["timestamp"] = 1779212041,
+            ["damageDone"] = 360118,
+            ["duration"] = 231.6100000000,
         },
         [32] = 
         {
-            ["damageTaken"] = 264762,
-            ["HPSIn"] = 2865,
-            ["duelEnd"] = 24020813,
-            ["DPSIn"] = 4152,
-            ["duration"] = 75.9000000000,
-            ["DPSOut"] = 2402,
-            ["wasLocalPlayersResult"] = false,
-            ["duelStart"] = 23944897,
-            ["result"] = 1,
-            ["opponent"] = 
-            {
-                ["gender"] = 1,
-                ["raceId"] = 9,
-                ["displayName"] = "@QR1234666",
-                ["alliance"] = 1,
-                ["characterName"] = "Xiaoqeya^Fx",
-                ["classId"] = 2,
-            },
-            ["damageShilded"] = 0,
             ["player"] = 
             {
-                ["gender"] = 2,
-                ["characterId"] = "8796093079602369",
-                ["raceId"] = 10,
-                ["displayName"] = "@noobkiss",
                 ["classId"] = 1,
-                ["characterName"] = "Zou Kimcheng^Mx",
                 ["alliance"] = 1,
+                ["gender"] = 2,
+                ["characterName"] = "Zou Kimcheng^Mx",
+                ["characterId"] = "8796093079602369",
+                ["displayName"] = "@noobkiss",
+                ["raceId"] = 10,
             },
+            ["result"] = 1,
+            ["duelStart"] = 23944897,
+            ["wasLocalPlayersResult"] = false,
+            ["DPSIn"] = 4152,
             ["healingTaken"] = 213273,
-            ["damageDone"] = 153184,
+            ["DPSOut"] = 2402,
+            ["HPSIn"] = 2865,
+            ["opponent"] = 
+            {
+                ["alliance"] = 1,
+                ["gender"] = 1,
+                ["characterName"] = "Xiaoqeya^Fx",
+                ["classId"] = 2,
+                ["displayName"] = "@QR1234666",
+                ["raceId"] = 9,
+            },
+            ["damageTaken"] = 264762,
+            ["damageShilded"] = 0,
+            ["duelEnd"] = 24020813,
             ["timestamp"] = 1779213245,
+            ["damageDone"] = 153184,
+            ["duration"] = 75.9000000000,
         },
         [33] = 
         {
-            ["damageTaken"] = 267459,
-            ["HPSIn"] = 3191,
-            ["duelEnd"] = 24168198,
-            ["DPSIn"] = 4255,
-            ["duration"] = 72.0200000000,
-            ["DPSOut"] = 2380,
-            ["wasLocalPlayersResult"] = true,
-            ["duelStart"] = 24096663,
-            ["result"] = 1,
-            ["opponent"] = 
-            {
-                ["gender"] = 1,
-                ["raceId"] = 9,
-                ["displayName"] = "@QR1234666",
-                ["alliance"] = 1,
-                ["characterName"] = "Xiaoqeya^Fx",
-                ["classId"] = 2,
-            },
-            ["damageShilded"] = 0,
             ["player"] = 
             {
-                ["gender"] = 2,
-                ["characterId"] = "8796093079602369",
-                ["raceId"] = 10,
-                ["displayName"] = "@noobkiss",
                 ["classId"] = 1,
-                ["characterName"] = "Zou Kimcheng^Mx",
                 ["alliance"] = 1,
+                ["gender"] = 2,
+                ["characterName"] = "Zou Kimcheng^Mx",
+                ["characterId"] = "8796093079602369",
+                ["displayName"] = "@noobkiss",
+                ["raceId"] = 10,
             },
+            ["result"] = 1,
+            ["duelStart"] = 24096663,
+            ["wasLocalPlayersResult"] = true,
+            ["DPSIn"] = 4255,
             ["healingTaken"] = 224899,
-            ["damageDone"] = 149615,
+            ["DPSOut"] = 2380,
+            ["HPSIn"] = 3191,
+            ["opponent"] = 
+            {
+                ["alliance"] = 1,
+                ["gender"] = 1,
+                ["characterName"] = "Xiaoqeya^Fx",
+                ["classId"] = 2,
+                ["displayName"] = "@QR1234666",
+                ["raceId"] = 9,
+            },
+            ["damageTaken"] = 267459,
+            ["damageShilded"] = 0,
+            ["duelEnd"] = 24168198,
             ["timestamp"] = 1779213397,
+            ["damageDone"] = 149615,
+            ["duration"] = 72.0200000000,
         },
         [34] = 
         {
-            ["damageTaken"] = 1375137,
-            ["HPSIn"] = 2168,
-            ["duelEnd"] = 24822716,
-            ["DPSIn"] = 2358,
-            ["duration"] = 596.2400000000,
-            ["DPSOut"] = 1592,
-            ["wasLocalPlayersResult"] = false,
-            ["duelStart"] = 24225979,
-            ["result"] = 0,
-            ["opponent"] = 
-            {
-                ["gender"] = 1,
-                ["raceId"] = 9,
-                ["displayName"] = "@QR1234666",
-                ["alliance"] = 1,
-                ["characterName"] = "Xiaoqeya^Fx",
-                ["classId"] = 2,
-            },
-            ["damageShilded"] = 0,
             ["player"] = 
             {
-                ["gender"] = 2,
-                ["characterId"] = "8796093079602369",
-                ["raceId"] = 10,
-                ["displayName"] = "@noobkiss",
                 ["classId"] = 1,
-                ["characterName"] = "Zou Kimcheng^Mx",
                 ["alliance"] = 1,
+                ["gender"] = 2,
+                ["characterName"] = "Zou Kimcheng^Mx",
+                ["characterId"] = "8796093079602369",
+                ["displayName"] = "@noobkiss",
+                ["raceId"] = 10,
             },
+            ["result"] = 0,
+            ["duelStart"] = 24225979,
+            ["wasLocalPlayersResult"] = false,
+            ["DPSIn"] = 2358,
             ["healingTaken"] = 1289130,
-            ["damageDone"] = 928055,
+            ["DPSOut"] = 1592,
+            ["HPSIn"] = 2168,
+            ["opponent"] = 
+            {
+                ["alliance"] = 1,
+                ["gender"] = 1,
+                ["characterName"] = "Xiaoqeya^Fx",
+                ["classId"] = 2,
+                ["displayName"] = "@QR1234666",
+                ["raceId"] = 9,
+            },
+            ["damageTaken"] = 1375137,
+            ["damageShilded"] = 0,
+            ["duelEnd"] = 24822716,
             ["timestamp"] = 1779213526,
+            ["damageDone"] = 928055,
+            ["duration"] = 596.2400000000,
         },
         [35] = 
         {
-            ["damageTaken"] = 413869,
-            ["HPSIn"] = 2044,
-            ["duelEnd"] = 3952019,
-            ["DPSIn"] = 2482,
-            ["duration"] = 192.3800000000,
-            ["DPSOut"] = 1767,
-            ["wasLocalPlayersResult"] = false,
-            ["duelStart"] = 3760247,
-            ["result"] = 1,
-            ["opponent"] = 
-            {
-                ["gender"] = 2,
-                ["raceId"] = 1,
-                ["displayName"] = "@PuIs3",
-                ["alliance"] = 1,
-                ["characterName"] = "yíkes^Mx",
-                ["classId"] = 2,
-            },
-            ["damageShilded"] = 0,
             ["player"] = 
             {
-                ["gender"] = 2,
-                ["characterId"] = "8796093079602369",
-                ["raceId"] = 10,
-                ["displayName"] = "@noobkiss",
                 ["classId"] = 1,
-                ["characterName"] = "Zou Kimcheng^Mx",
                 ["alliance"] = 1,
+                ["gender"] = 2,
+                ["characterName"] = "Zou Kimcheng^Mx",
+                ["characterId"] = "8796093079602369",
+                ["displayName"] = "@noobkiss",
+                ["raceId"] = 10,
             },
+            ["result"] = 1,
+            ["duelStart"] = 3760247,
+            ["wasLocalPlayersResult"] = false,
+            ["DPSIn"] = 2482,
             ["healingTaken"] = 379999,
-            ["damageDone"] = 294699,
+            ["DPSOut"] = 1767,
+            ["HPSIn"] = 2044,
+            ["opponent"] = 
+            {
+                ["alliance"] = 1,
+                ["gender"] = 2,
+                ["characterName"] = "yíkes^Mx",
+                ["classId"] = 2,
+                ["displayName"] = "@PuIs3",
+                ["raceId"] = 1,
+            },
+            ["damageTaken"] = 413869,
+            ["damageShilded"] = 0,
+            ["duelEnd"] = 3952019,
             ["timestamp"] = 1779575064,
+            ["damageDone"] = 294699,
+            ["duration"] = 192.3800000000,
         },
         [36] = 
         {
-            ["damageTaken"] = 53130,
-            ["HPSIn"] = 0,
-            ["duelEnd"] = 839507,
-            ["DPSIn"] = 0,
-            ["duration"] = 70.5100000000,
-            ["DPSOut"] = 0,
-            ["wasLocalPlayersResult"] = false,
-            ["duelStart"] = 769248,
-            ["result"] = 1,
-            ["opponent"] = 
-            {
-                ["gender"] = 2,
-                ["raceId"] = 5,
-                ["displayName"] = "@Herstory111",
-                ["alliance"] = 2,
-                ["characterName"] = "-Herstory^Mx",
-                ["classId"] = 1,
-            },
-            ["damageShilded"] = 0,
             ["player"] = 
             {
-                ["gender"] = 2,
-                ["characterId"] = "8796093079602369",
-                ["raceId"] = 10,
-                ["displayName"] = "@noobkiss",
                 ["classId"] = 1,
-                ["characterName"] = "Zou Kimcheng^Mx",
                 ["alliance"] = 1,
+                ["gender"] = 2,
+                ["characterName"] = "Zou Kimcheng^Mx",
+                ["characterId"] = "8796093079602369",
+                ["displayName"] = "@noobkiss",
+                ["raceId"] = 10,
             },
+            ["result"] = 1,
+            ["duelStart"] = 769248,
+            ["wasLocalPlayersResult"] = false,
+            ["DPSIn"] = 0,
             ["healingTaken"] = 0,
-            ["damageDone"] = 0,
+            ["DPSOut"] = 0,
+            ["HPSIn"] = 0,
+            ["opponent"] = 
+            {
+                ["alliance"] = 2,
+                ["gender"] = 2,
+                ["characterName"] = "-Herstory^Mx",
+                ["classId"] = 1,
+                ["displayName"] = "@Herstory111",
+                ["raceId"] = 5,
+            },
+            ["damageTaken"] = 53130,
+            ["damageShilded"] = 0,
+            ["duelEnd"] = 839507,
             ["timestamp"] = 1780488966,
+            ["damageDone"] = 0,
+            ["duration"] = 70.5100000000,
         },
         [37] = 
         {
-            ["damageTaken"] = 5913,
-            ["HPSIn"] = 0,
-            ["duelEnd"] = 417382,
-            ["DPSIn"] = 0,
-            ["duration"] = 16.1600000000,
-            ["DPSOut"] = 0,
-            ["wasLocalPlayersResult"] = false,
-            ["duelStart"] = 400356,
-            ["result"] = 0,
-            ["opponent"] = 
-            {
-                ["gender"] = 1,
-                ["raceId"] = 9,
-                ["displayName"] = "@QR1234666",
-                ["alliance"] = 1,
-                ["characterName"] = "Xiao Qin^Fx",
-                ["classId"] = 3,
-            },
-            ["damageShilded"] = 0,
             ["player"] = 
             {
-                ["gender"] = 2,
-                ["characterId"] = "8796093079602369",
-                ["raceId"] = 10,
-                ["displayName"] = "@noobkiss",
                 ["classId"] = 1,
-                ["characterName"] = "Zou Kimcheng^Mx",
                 ["alliance"] = 1,
+                ["gender"] = 2,
+                ["characterName"] = "Zou Kimcheng^Mx",
+                ["characterId"] = "8796093079602369",
+                ["displayName"] = "@noobkiss",
+                ["raceId"] = 10,
             },
+            ["result"] = 0,
+            ["duelStart"] = 400356,
+            ["wasLocalPlayersResult"] = false,
+            ["DPSIn"] = 0,
             ["healingTaken"] = 0,
-            ["damageDone"] = 0,
+            ["DPSOut"] = 0,
+            ["HPSIn"] = 0,
+            ["opponent"] = 
+            {
+                ["alliance"] = 1,
+                ["gender"] = 1,
+                ["characterName"] = "Xiao Qin^Fx",
+                ["classId"] = 3,
+                ["displayName"] = "@QR1234666",
+                ["raceId"] = 9,
+            },
+            ["damageTaken"] = 5913,
+            ["damageShilded"] = 0,
+            ["duelEnd"] = 417382,
             ["timestamp"] = 1780772626,
+            ["damageDone"] = 0,
+            ["duration"] = 16.1600000000,
         },
         [38] = 
         {
-            ["damageTaken"] = 21088,
-            ["HPSIn"] = 0,
-            ["duelEnd"] = 554750,
-            ["DPSIn"] = 0,
-            ["duration"] = 116.8000000000,
-            ["DPSOut"] = 0,
-            ["wasLocalPlayersResult"] = true,
-            ["duelStart"] = 437029,
-            ["result"] = 0,
-            ["opponent"] = 
-            {
-                ["gender"] = 1,
-                ["raceId"] = 9,
-                ["displayName"] = "@QR1234666",
-                ["alliance"] = 1,
-                ["characterName"] = "Xiao Qin^Fx",
-                ["classId"] = 3,
-            },
-            ["damageShilded"] = 0,
             ["player"] = 
             {
-                ["gender"] = 2,
-                ["characterId"] = "8796093079602369",
-                ["raceId"] = 10,
-                ["displayName"] = "@noobkiss",
                 ["classId"] = 1,
-                ["characterName"] = "Zou Kimcheng^Mx",
                 ["alliance"] = 1,
+                ["gender"] = 2,
+                ["characterName"] = "Zou Kimcheng^Mx",
+                ["characterId"] = "8796093079602369",
+                ["displayName"] = "@noobkiss",
+                ["raceId"] = 10,
             },
+            ["result"] = 0,
+            ["duelStart"] = 437029,
+            ["wasLocalPlayersResult"] = true,
+            ["DPSIn"] = 0,
             ["healingTaken"] = 0,
-            ["damageDone"] = 0,
+            ["DPSOut"] = 0,
+            ["HPSIn"] = 0,
+            ["opponent"] = 
+            {
+                ["alliance"] = 1,
+                ["gender"] = 1,
+                ["characterName"] = "Xiao Qin^Fx",
+                ["classId"] = 3,
+                ["displayName"] = "@QR1234666",
+                ["raceId"] = 9,
+            },
+            ["damageTaken"] = 21088,
+            ["damageShilded"] = 0,
+            ["duelEnd"] = 554750,
             ["timestamp"] = 1780772662,
+            ["damageDone"] = 0,
+            ["duration"] = 116.8000000000,
         },
         [39] = 
         {
-            ["damageTaken"] = 133363,
-            ["HPSIn"] = 188,
-            ["duelEnd"] = 2013677,
-            ["DPSIn"] = 698,
-            ["duration"] = 402.5700000000,
-            ["DPSOut"] = 369,
-            ["wasLocalPlayersResult"] = false,
-            ["duelStart"] = 1610473,
-            ["result"] = 0,
-            ["opponent"] = 
-            {
-                ["gender"] = 1,
-                ["raceId"] = 9,
-                ["displayName"] = "@QR1234666",
-                ["alliance"] = 1,
-                ["characterName"] = "Xiaoqeya^Fx",
-                ["classId"] = 2,
-            },
-            ["damageShilded"] = 863,
             ["player"] = 
             {
-                ["gender"] = 2,
-                ["characterId"] = "8796093079602369",
-                ["raceId"] = 10,
-                ["displayName"] = "@noobkiss",
                 ["classId"] = 1,
-                ["characterName"] = "Zou Kimcheng^Mx",
                 ["alliance"] = 1,
+                ["gender"] = 2,
+                ["characterName"] = "Zou Kimcheng^Mx",
+                ["characterId"] = "8796093079602369",
+                ["displayName"] = "@noobkiss",
+                ["raceId"] = 10,
             },
+            ["result"] = 0,
+            ["duelStart"] = 1610473,
+            ["wasLocalPlayersResult"] = false,
+            ["DPSIn"] = 698,
             ["healingTaken"] = 37353,
-            ["damageDone"] = 70542,
+            ["DPSOut"] = 369,
+            ["HPSIn"] = 188,
+            ["opponent"] = 
+            {
+                ["alliance"] = 1,
+                ["gender"] = 1,
+                ["characterName"] = "Xiaoqeya^Fx",
+                ["classId"] = 2,
+                ["displayName"] = "@QR1234666",
+                ["raceId"] = 9,
+            },
+            ["damageTaken"] = 133363,
+            ["damageShilded"] = 863,
+            ["duelEnd"] = 2013677,
             ["timestamp"] = 1780773836,
+            ["damageDone"] = 70542,
+            ["duration"] = 402.5700000000,
         },
         [40] = 
         {
-            ["damageTaken"] = 10756,
-            ["HPSIn"] = 69,
-            ["duelEnd"] = 839346,
-            ["DPSIn"] = 10756,
-            ["duration"] = 92.8700000000,
-            ["DPSOut"] = 0,
-            ["wasLocalPlayersResult"] = true,
-            ["duelStart"] = 745761,
-            ["result"] = 0,
-            ["opponent"] = 
-            {
-                ["gender"] = 2,
-                ["raceId"] = 3,
-                ["displayName"] = "@lsr110j",
-                ["alliance"] = 3,
-                ["characterName"] = "Layton^Mx",
-                ["classId"] = 3,
-            },
-            ["damageShilded"] = 0,
             ["player"] = 
             {
-                ["gender"] = 2,
-                ["characterId"] = "8796093079602369",
-                ["raceId"] = 10,
-                ["displayName"] = "@noobkiss",
                 ["classId"] = 1,
-                ["characterName"] = "Zou Kimcheng^Mx",
                 ["alliance"] = 1,
+                ["gender"] = 2,
+                ["characterName"] = "Zou Kimcheng^Mx",
+                ["characterId"] = "8796093079602369",
+                ["displayName"] = "@noobkiss",
+                ["raceId"] = 10,
             },
+            ["result"] = 0,
+            ["duelStart"] = 745761,
+            ["wasLocalPlayersResult"] = true,
+            ["DPSIn"] = 10756,
             ["healingTaken"] = 5231,
-            ["damageDone"] = 0,
+            ["DPSOut"] = 0,
+            ["HPSIn"] = 69,
+            ["opponent"] = 
+            {
+                ["alliance"] = 3,
+                ["gender"] = 2,
+                ["characterName"] = "Layton^Mx",
+                ["classId"] = 3,
+                ["displayName"] = "@lsr110j",
+                ["raceId"] = 3,
+            },
+            ["damageTaken"] = 10756,
+            ["damageShilded"] = 0,
+            ["duelEnd"] = 839346,
             ["timestamp"] = 1780793512,
+            ["damageDone"] = 0,
+            ["duration"] = 92.8700000000,
         },
         [41] = 
         {
-            ["damageTaken"] = 2833,
-            ["HPSIn"] = 2,
-            ["duelEnd"] = 9498437,
-            ["DPSIn"] = 1426,
-            ["duration"] = 405.3700000000,
-            ["DPSOut"] = 1696,
-            ["wasLocalPlayersResult"] = true,
-            ["duelStart"] = 9092959,
-            ["result"] = 0,
-            ["opponent"] = 
-            {
-                ["gender"] = 2,
-                ["raceId"] = 1,
-                ["displayName"] = "@elev-8",
-                ["alliance"] = 1,
-                ["characterName"] = "Elevãte^Mx",
-                ["classId"] = 1,
-            },
-            ["damageShilded"] = 0,
             ["player"] = 
             {
-                ["gender"] = 2,
-                ["characterId"] = "8796093079602369",
-                ["raceId"] = 10,
-                ["displayName"] = "@noobkiss",
                 ["classId"] = 1,
-                ["characterName"] = "Zou Kimcheng^Mx",
                 ["alliance"] = 1,
+                ["gender"] = 2,
+                ["characterName"] = "Zou Kimcheng^Mx",
+                ["characterId"] = "8796093079602369",
+                ["displayName"] = "@noobkiss",
+                ["raceId"] = 10,
             },
+            ["result"] = 0,
+            ["duelStart"] = 9092959,
+            ["wasLocalPlayersResult"] = true,
+            ["DPSIn"] = 1426,
             ["healingTaken"] = 809,
-            ["damageDone"] = 3368,
+            ["DPSOut"] = 1696,
+            ["HPSIn"] = 2,
+            ["opponent"] = 
+            {
+                ["alliance"] = 1,
+                ["gender"] = 2,
+                ["characterName"] = "Elevãte^Mx",
+                ["classId"] = 1,
+                ["displayName"] = "@elev-8",
+                ["raceId"] = 1,
+            },
+            ["damageTaken"] = 2833,
+            ["damageShilded"] = 0,
+            ["duelEnd"] = 9498437,
             ["timestamp"] = 1780808165,
+            ["damageDone"] = 3368,
+            ["duration"] = 405.3700000000,
         },
         [42] = 
         {
-            ["damageTaken"] = 1918,
-            ["HPSIn"] = 0,
-            ["duelEnd"] = 9689189,
-            ["DPSIn"] = 319,
-            ["duration"] = 131.0200000000,
-            ["DPSOut"] = 2981,
-            ["wasLocalPlayersResult"] = false,
-            ["duelStart"] = 9557946,
-            ["result"] = 0,
-            ["opponent"] = 
-            {
-                ["gender"] = 2,
-                ["raceId"] = 1,
-                ["displayName"] = "@elev-8",
-                ["alliance"] = 1,
-                ["characterName"] = "Elevãte^Mx",
-                ["classId"] = 1,
-            },
-            ["damageShilded"] = 0,
             ["player"] = 
             {
-                ["gender"] = 2,
-                ["characterId"] = "8796093079602369",
-                ["raceId"] = 10,
-                ["displayName"] = "@noobkiss",
                 ["classId"] = 1,
-                ["characterName"] = "Zou Kimcheng^Mx",
                 ["alliance"] = 1,
+                ["gender"] = 2,
+                ["characterName"] = "Zou Kimcheng^Mx",
+                ["characterId"] = "8796093079602369",
+                ["displayName"] = "@noobkiss",
+                ["raceId"] = 10,
             },
+            ["result"] = 0,
+            ["duelStart"] = 9557946,
+            ["wasLocalPlayersResult"] = false,
+            ["DPSIn"] = 319,
             ["healingTaken"] = 0,
-            ["damageDone"] = 17921,
+            ["DPSOut"] = 2981,
+            ["HPSIn"] = 0,
+            ["opponent"] = 
+            {
+                ["alliance"] = 1,
+                ["gender"] = 2,
+                ["characterName"] = "Elevãte^Mx",
+                ["classId"] = 1,
+                ["displayName"] = "@elev-8",
+                ["raceId"] = 1,
+            },
+            ["damageTaken"] = 1918,
+            ["damageShilded"] = 0,
+            ["duelEnd"] = 9689189,
             ["timestamp"] = 1780808630,
+            ["damageDone"] = 17921,
+            ["duration"] = 131.0200000000,
         },
         [43] = 
         {
-            ["damageTaken"] = 2989,
-            ["HPSIn"] = 0,
-            ["duelEnd"] = 4337914,
-            ["DPSIn"] = 0,
-            ["duration"] = 114.5700000000,
-            ["DPSOut"] = 0,
-            ["wasLocalPlayersResult"] = false,
-            ["duelStart"] = 4222953,
-            ["result"] = 0,
-            ["opponent"] = 
-            {
-                ["gender"] = 1,
-                ["raceId"] = 4,
-                ["displayName"] = "@fzdsteam",
-                ["alliance"] = 1,
-                ["characterName"] = "I ovo l^Fx",
-                ["classId"] = 3,
-            },
-            ["damageShilded"] = 0,
             ["player"] = 
             {
-                ["gender"] = 2,
-                ["characterId"] = "8796093079602369",
-                ["raceId"] = 10,
-                ["displayName"] = "@noobkiss",
                 ["classId"] = 1,
-                ["characterName"] = "Zou Kimcheng^Mx",
                 ["alliance"] = 1,
+                ["gender"] = 2,
+                ["characterName"] = "Zou Kimcheng^Mx",
+                ["characterId"] = "8796093079602369",
+                ["displayName"] = "@noobkiss",
+                ["raceId"] = 10,
             },
+            ["result"] = 0,
+            ["duelStart"] = 4222953,
+            ["wasLocalPlayersResult"] = false,
+            ["DPSIn"] = 0,
             ["healingTaken"] = 0,
-            ["damageDone"] = 0,
+            ["DPSOut"] = 0,
+            ["HPSIn"] = 0,
+            ["opponent"] = 
+            {
+                ["alliance"] = 1,
+                ["gender"] = 1,
+                ["characterName"] = "I ovo l^Fx",
+                ["classId"] = 3,
+                ["displayName"] = "@fzdsteam",
+                ["raceId"] = 4,
+            },
+            ["damageTaken"] = 2989,
+            ["damageShilded"] = 0,
+            ["duelEnd"] = 4337914,
             ["timestamp"] = 1780851206,
+            ["damageDone"] = 0,
+            ["duration"] = 114.5700000000,
         },
         [44] = 
         {
-            ["damageTaken"] = 30292,
-            ["HPSIn"] = 0,
-            ["duelEnd"] = 5579081,
-            ["DPSIn"] = 0,
-            ["duration"] = 23.0300000000,
-            ["DPSOut"] = 0,
-            ["wasLocalPlayersResult"] = false,
-            ["duelStart"] = 5556144,
-            ["result"] = 0,
-            ["opponent"] = 
-            {
-                ["gender"] = 1,
-                ["raceId"] = 1,
-                ["displayName"] = "@garwa00",
-                ["alliance"] = 3,
-                ["characterName"] = "pulubiu^Fx",
-                ["classId"] = 2,
-            },
-            ["damageShilded"] = 0,
             ["player"] = 
             {
-                ["gender"] = 2,
-                ["characterId"] = "8796093079602369",
-                ["raceId"] = 10,
-                ["displayName"] = "@noobkiss",
                 ["classId"] = 1,
-                ["characterName"] = "Zou Kimcheng^Mx",
                 ["alliance"] = 1,
+                ["gender"] = 2,
+                ["characterName"] = "Zou Kimcheng^Mx",
+                ["characterId"] = "8796093079602369",
+                ["displayName"] = "@noobkiss",
+                ["raceId"] = 10,
             },
+            ["result"] = 0,
+            ["duelStart"] = 5556144,
+            ["wasLocalPlayersResult"] = false,
+            ["DPSIn"] = 0,
             ["healingTaken"] = 0,
-            ["damageDone"] = 0,
+            ["DPSOut"] = 0,
+            ["HPSIn"] = 0,
+            ["opponent"] = 
+            {
+                ["alliance"] = 3,
+                ["gender"] = 1,
+                ["characterName"] = "pulubiu^Fx",
+                ["classId"] = 2,
+                ["displayName"] = "@garwa00",
+                ["raceId"] = 1,
+            },
+            ["damageTaken"] = 30292,
+            ["damageShilded"] = 0,
+            ["duelEnd"] = 5579081,
             ["timestamp"] = 1780880067,
+            ["damageDone"] = 0,
+            ["duration"] = 23.0300000000,
         },
         [45] = 
         {
-            ["damageTaken"] = 0,
-            ["HPSIn"] = 0,
-            ["duelEnd"] = 5748945,
-            ["DPSIn"] = 0,
-            ["duration"] = 26.1400000000,
-            ["DPSOut"] = 0,
-            ["wasLocalPlayersResult"] = false,
-            ["duelStart"] = 5723539,
-            ["result"] = 0,
-            ["opponent"] = 
-            {
-                ["gender"] = 1,
-                ["raceId"] = 1,
-                ["displayName"] = "@garwa00",
-                ["alliance"] = 3,
-                ["characterName"] = "pulubiu^Fx",
-                ["classId"] = 2,
-            },
-            ["damageShilded"] = 0,
             ["player"] = 
             {
-                ["gender"] = 2,
-                ["characterId"] = "8796093079602369",
-                ["raceId"] = 10,
-                ["displayName"] = "@noobkiss",
                 ["classId"] = 1,
-                ["characterName"] = "Zou Kimcheng^Mx",
                 ["alliance"] = 1,
+                ["gender"] = 2,
+                ["characterName"] = "Zou Kimcheng^Mx",
+                ["characterId"] = "8796093079602369",
+                ["displayName"] = "@noobkiss",
+                ["raceId"] = 10,
             },
+            ["result"] = 0,
+            ["duelStart"] = 5723539,
+            ["wasLocalPlayersResult"] = false,
+            ["DPSIn"] = 0,
             ["healingTaken"] = 0,
-            ["damageDone"] = 0,
+            ["DPSOut"] = 0,
+            ["HPSIn"] = 0,
+            ["opponent"] = 
+            {
+                ["alliance"] = 3,
+                ["gender"] = 1,
+                ["characterName"] = "pulubiu^Fx",
+                ["classId"] = 2,
+                ["displayName"] = "@garwa00",
+                ["raceId"] = 1,
+            },
+            ["damageTaken"] = 0,
+            ["damageShilded"] = 0,
+            ["duelEnd"] = 5748945,
             ["timestamp"] = 1780880235,
+            ["damageDone"] = 0,
+            ["duration"] = 26.1400000000,
         },
         [46] = 
         {
-            ["damageTaken"] = 0,
-            ["HPSIn"] = 0,
-            ["duelEnd"] = 5844869,
-            ["DPSIn"] = 0,
-            ["duration"] = 33.2500000000,
-            ["DPSOut"] = 0,
-            ["wasLocalPlayersResult"] = false,
-            ["duelStart"] = 5810664,
-            ["result"] = 0,
-            ["opponent"] = 
-            {
-                ["gender"] = 1,
-                ["raceId"] = 1,
-                ["displayName"] = "@garwa00",
-                ["alliance"] = 3,
-                ["characterName"] = "pulubiu^Fx",
-                ["classId"] = 2,
-            },
-            ["damageShilded"] = 0,
             ["player"] = 
             {
-                ["gender"] = 2,
-                ["characterId"] = "8796093079602369",
-                ["raceId"] = 10,
-                ["displayName"] = "@noobkiss",
                 ["classId"] = 1,
-                ["characterName"] = "Zou Kimcheng^Mx",
                 ["alliance"] = 1,
+                ["gender"] = 2,
+                ["characterName"] = "Zou Kimcheng^Mx",
+                ["characterId"] = "8796093079602369",
+                ["displayName"] = "@noobkiss",
+                ["raceId"] = 10,
             },
+            ["result"] = 0,
+            ["duelStart"] = 5810664,
+            ["wasLocalPlayersResult"] = false,
+            ["DPSIn"] = 0,
             ["healingTaken"] = 0,
-            ["damageDone"] = 0,
+            ["DPSOut"] = 0,
+            ["HPSIn"] = 0,
+            ["opponent"] = 
+            {
+                ["alliance"] = 3,
+                ["gender"] = 1,
+                ["characterName"] = "pulubiu^Fx",
+                ["classId"] = 2,
+                ["displayName"] = "@garwa00",
+                ["raceId"] = 1,
+            },
+            ["damageTaken"] = 0,
+            ["damageShilded"] = 0,
+            ["duelEnd"] = 5844869,
             ["timestamp"] = 1780880322,
+            ["damageDone"] = 0,
+            ["duration"] = 33.2500000000,
         },
         [47] = 
         {
-            ["damageTaken"] = 34311,
-            ["HPSIn"] = 1420,
-            ["duelEnd"] = 6084051,
-            ["DPSIn"] = 34311,
-            ["duration"] = 20.8500000000,
-            ["DPSOut"] = 0,
-            ["wasLocalPlayersResult"] = false,
-            ["duelStart"] = 6062599,
-            ["result"] = 0,
-            ["opponent"] = 
-            {
-                ["gender"] = 1,
-                ["raceId"] = 1,
-                ["displayName"] = "@garwa00",
-                ["alliance"] = 3,
-                ["characterName"] = "pulubiu^Fx",
-                ["classId"] = 2,
-            },
-            ["damageShilded"] = 0,
             ["player"] = 
             {
-                ["gender"] = 2,
-                ["characterId"] = "8796093079602369",
-                ["raceId"] = 10,
-                ["displayName"] = "@noobkiss",
                 ["classId"] = 1,
-                ["characterName"] = "Zou Kimcheng^Mx",
                 ["alliance"] = 1,
+                ["gender"] = 2,
+                ["characterName"] = "Zou Kimcheng^Mx",
+                ["characterId"] = "8796093079602369",
+                ["displayName"] = "@noobkiss",
+                ["raceId"] = 10,
             },
+            ["result"] = 0,
+            ["duelStart"] = 6062599,
+            ["wasLocalPlayersResult"] = false,
+            ["DPSIn"] = 34311,
             ["healingTaken"] = 10855,
-            ["damageDone"] = 0,
+            ["DPSOut"] = 0,
+            ["HPSIn"] = 1420,
+            ["opponent"] = 
+            {
+                ["alliance"] = 3,
+                ["gender"] = 1,
+                ["characterName"] = "pulubiu^Fx",
+                ["classId"] = 2,
+                ["displayName"] = "@garwa00",
+                ["raceId"] = 1,
+            },
+            ["damageTaken"] = 34311,
+            ["damageShilded"] = 0,
+            ["duelEnd"] = 6084051,
             ["timestamp"] = 1780880574,
+            ["damageDone"] = 0,
+            ["duration"] = 20.8500000000,
         },
         [48] = 
         {
-            ["damageTaken"] = 17303,
-            ["HPSIn"] = 0,
-            ["duelEnd"] = 9371417,
-            ["DPSIn"] = 0,
-            ["duration"] = 95.0400000000,
-            ["DPSOut"] = 0,
-            ["wasLocalPlayersResult"] = false,
-            ["duelStart"] = 9277322,
-            ["result"] = 0,
-            ["opponent"] = 
-            {
-                ["gender"] = 1,
-                ["raceId"] = 1,
-                ["displayName"] = "@chaosgood",
-                ["alliance"] = 1,
-                ["characterName"] = "Kill them al^Fx",
-                ["classId"] = 4,
-            },
-            ["damageShilded"] = 0,
             ["player"] = 
             {
-                ["gender"] = 2,
-                ["characterId"] = "8796093079602369",
-                ["raceId"] = 10,
-                ["displayName"] = "@noobkiss",
                 ["classId"] = 1,
-                ["characterName"] = "Zou Kimcheng^Mx",
                 ["alliance"] = 1,
+                ["gender"] = 2,
+                ["characterName"] = "Zou Kimcheng^Mx",
+                ["characterId"] = "8796093079602369",
+                ["displayName"] = "@noobkiss",
+                ["raceId"] = 10,
             },
+            ["result"] = 0,
+            ["duelStart"] = 9277322,
+            ["wasLocalPlayersResult"] = false,
+            ["DPSIn"] = 0,
             ["healingTaken"] = 0,
-            ["damageDone"] = 0,
+            ["DPSOut"] = 0,
+            ["HPSIn"] = 0,
+            ["opponent"] = 
+            {
+                ["alliance"] = 1,
+                ["gender"] = 1,
+                ["characterName"] = "Kill them al^Fx",
+                ["classId"] = 4,
+                ["displayName"] = "@chaosgood",
+                ["raceId"] = 1,
+            },
+            ["damageTaken"] = 17303,
+            ["damageShilded"] = 0,
+            ["duelEnd"] = 9371417,
             ["timestamp"] = 1780883788,
+            ["damageDone"] = 0,
+            ["duration"] = 95.0400000000,
         },
         [49] = 
         {
-            ["damageTaken"] = 3708,
-            ["HPSIn"] = 0,
-            ["duelEnd"] = 9563730,
-            ["DPSIn"] = 0,
-            ["duration"] = 62.7400000000,
-            ["DPSOut"] = 0,
-            ["wasLocalPlayersResult"] = false,
-            ["duelStart"] = 9501712,
-            ["result"] = 0,
-            ["opponent"] = 
-            {
-                ["gender"] = 1,
-                ["raceId"] = 1,
-                ["displayName"] = "@chaosgood",
-                ["alliance"] = 1,
-                ["characterName"] = "Kill them al^Fx",
-                ["classId"] = 4,
-            },
-            ["damageShilded"] = 0,
             ["player"] = 
             {
-                ["gender"] = 2,
-                ["characterId"] = "8796093079602369",
-                ["raceId"] = 10,
-                ["displayName"] = "@noobkiss",
                 ["classId"] = 1,
-                ["characterName"] = "Zou Kimcheng^Mx",
                 ["alliance"] = 1,
+                ["gender"] = 2,
+                ["characterName"] = "Zou Kimcheng^Mx",
+                ["characterId"] = "8796093079602369",
+                ["displayName"] = "@noobkiss",
+                ["raceId"] = 10,
             },
+            ["result"] = 0,
+            ["duelStart"] = 9501712,
+            ["wasLocalPlayersResult"] = false,
+            ["DPSIn"] = 0,
             ["healingTaken"] = 0,
-            ["damageDone"] = 0,
+            ["DPSOut"] = 0,
+            ["HPSIn"] = 0,
+            ["opponent"] = 
+            {
+                ["alliance"] = 1,
+                ["gender"] = 1,
+                ["characterName"] = "Kill them al^Fx",
+                ["classId"] = 4,
+                ["displayName"] = "@chaosgood",
+                ["raceId"] = 1,
+            },
+            ["damageTaken"] = 3708,
+            ["damageShilded"] = 0,
+            ["duelEnd"] = 9563730,
             ["timestamp"] = 1780884013,
+            ["damageDone"] = 0,
+            ["duration"] = 62.7400000000,
         },
         [50] = 
         {
-            ["damageTaken"] = 1650,
-            ["HPSIn"] = 0,
-            ["duelEnd"] = 1050377,
-            ["DPSIn"] = 80,
-            ["duration"] = 32.9500000000,
-            ["DPSOut"] = 547,
-            ["wasLocalPlayersResult"] = false,
-            ["duelStart"] = 1016532,
-            ["result"] = 0,
-            ["opponent"] = 
-            {
-                ["gender"] = 1,
-                ["raceId"] = 10,
-                ["displayName"] = "@chaosgood",
-                ["alliance"] = 1,
-                ["characterName"] = "the last us^Fx",
-                ["classId"] = 117,
-            },
-            ["damageShilded"] = 0,
             ["player"] = 
             {
-                ["gender"] = 2,
-                ["characterId"] = "8796093079602369",
-                ["raceId"] = 10,
-                ["displayName"] = "@noobkiss",
                 ["classId"] = 1,
-                ["characterName"] = "Zou Kimcheng^Mx",
                 ["alliance"] = 1,
+                ["gender"] = 2,
+                ["characterName"] = "Zou Kimcheng^Mx",
+                ["characterId"] = "8796093079602369",
+                ["displayName"] = "@noobkiss",
+                ["raceId"] = 10,
             },
+            ["result"] = 0,
+            ["duelStart"] = 1016532,
+            ["wasLocalPlayersResult"] = false,
+            ["DPSIn"] = 80,
             ["healingTaken"] = 0,
-            ["damageDone"] = 11273,
+            ["DPSOut"] = 547,
+            ["HPSIn"] = 0,
+            ["opponent"] = 
+            {
+                ["alliance"] = 1,
+                ["gender"] = 1,
+                ["characterName"] = "the last us^Fx",
+                ["classId"] = 117,
+                ["displayName"] = "@chaosgood",
+                ["raceId"] = 10,
+            },
+            ["damageTaken"] = 1650,
+            ["damageShilded"] = 0,
+            ["duelEnd"] = 1050377,
             ["timestamp"] = 1780943044,
+            ["damageDone"] = 11273,
+            ["duration"] = 32.9500000000,
         },
         [51] = 
         {
-            ["damageTaken"] = 14350,
-            ["HPSIn"] = 655,
-            ["duelEnd"] = 16611058,
-            ["DPSIn"] = 14350,
-            ["duration"] = 40.3800000000,
-            ["DPSOut"] = 0,
-            ["wasLocalPlayersResult"] = true,
-            ["duelStart"] = 16571320,
-            ["result"] = 0,
-            ["opponent"] = 
-            {
-                ["gender"] = 1,
-                ["raceId"] = 9,
-                ["displayName"] = "@gzq666",
-                ["alliance"] = 1,
-                ["characterName"] = "qwqwqwqwqwqw^Fx",
-                ["classId"] = 1,
-            },
-            ["damageShilded"] = 0,
             ["player"] = 
             {
-                ["gender"] = 2,
-                ["characterId"] = "8796093079602369",
-                ["raceId"] = 10,
-                ["displayName"] = "@noobkiss",
                 ["classId"] = 1,
-                ["characterName"] = "Zou Kimcheng^Mx",
                 ["alliance"] = 1,
+                ["gender"] = 2,
+                ["characterName"] = "Zou Kimcheng^Mx",
+                ["characterId"] = "8796093079602369",
+                ["displayName"] = "@noobkiss",
+                ["raceId"] = 10,
             },
+            ["result"] = 0,
+            ["duelStart"] = 16571320,
+            ["wasLocalPlayersResult"] = true,
+            ["DPSIn"] = 14350,
             ["healingTaken"] = 11992,
-            ["damageDone"] = 0,
+            ["DPSOut"] = 0,
+            ["HPSIn"] = 655,
+            ["opponent"] = 
+            {
+                ["alliance"] = 1,
+                ["gender"] = 1,
+                ["characterName"] = "qwqwqwqwqwqw^Fx",
+                ["classId"] = 1,
+                ["displayName"] = "@gzq666",
+                ["raceId"] = 9,
+            },
+            ["damageTaken"] = 14350,
+            ["damageShilded"] = 0,
+            ["duelEnd"] = 16611058,
             ["timestamp"] = 1781062816,
+            ["damageDone"] = 0,
+            ["duration"] = 40.3800000000,
         },
         [52] = 
         {
-            ["damageTaken"] = 9506,
-            ["HPSIn"] = 0,
-            ["duelEnd"] = 16657830,
-            ["DPSIn"] = 0,
-            ["duration"] = 23.1100000000,
-            ["DPSOut"] = 0,
-            ["wasLocalPlayersResult"] = true,
-            ["duelStart"] = 16634684,
-            ["result"] = 0,
-            ["opponent"] = 
-            {
-                ["gender"] = 1,
-                ["raceId"] = 9,
-                ["displayName"] = "@gzq666",
-                ["alliance"] = 1,
-                ["characterName"] = "qwqwqwqwqwqw^Fx",
-                ["classId"] = 1,
-            },
-            ["damageShilded"] = 0,
             ["player"] = 
             {
-                ["gender"] = 2,
-                ["characterId"] = "8796093079602369",
-                ["raceId"] = 10,
-                ["displayName"] = "@noobkiss",
                 ["classId"] = 1,
-                ["characterName"] = "Zou Kimcheng^Mx",
                 ["alliance"] = 1,
+                ["gender"] = 2,
+                ["characterName"] = "Zou Kimcheng^Mx",
+                ["characterId"] = "8796093079602369",
+                ["displayName"] = "@noobkiss",
+                ["raceId"] = 10,
             },
+            ["result"] = 0,
+            ["duelStart"] = 16634684,
+            ["wasLocalPlayersResult"] = true,
+            ["DPSIn"] = 0,
             ["healingTaken"] = 0,
-            ["damageDone"] = 0,
+            ["DPSOut"] = 0,
+            ["HPSIn"] = 0,
+            ["opponent"] = 
+            {
+                ["alliance"] = 1,
+                ["gender"] = 1,
+                ["characterName"] = "qwqwqwqwqwqw^Fx",
+                ["classId"] = 1,
+                ["displayName"] = "@gzq666",
+                ["raceId"] = 9,
+            },
+            ["damageTaken"] = 9506,
+            ["damageShilded"] = 0,
+            ["duelEnd"] = 16657830,
             ["timestamp"] = 1781062879,
+            ["damageDone"] = 0,
+            ["duration"] = 23.1100000000,
         },
         [53] = 
         {
-            ["damageTaken"] = 13566,
-            ["HPSIn"] = 0,
-            ["duelEnd"] = 16699011,
-            ["DPSIn"] = 0,
-            ["duration"] = 17.0100000000,
-            ["DPSOut"] = 0,
-            ["wasLocalPlayersResult"] = true,
-            ["duelStart"] = 16681037,
-            ["result"] = 0,
-            ["opponent"] = 
-            {
-                ["gender"] = 1,
-                ["raceId"] = 9,
-                ["displayName"] = "@gzq666",
-                ["alliance"] = 1,
-                ["characterName"] = "qwqwqwqwqwqw^Fx",
-                ["classId"] = 1,
-            },
-            ["damageShilded"] = 0,
             ["player"] = 
             {
-                ["gender"] = 2,
-                ["characterId"] = "8796093079602369",
-                ["raceId"] = 10,
-                ["displayName"] = "@noobkiss",
                 ["classId"] = 1,
-                ["characterName"] = "Zou Kimcheng^Mx",
                 ["alliance"] = 1,
+                ["gender"] = 2,
+                ["characterName"] = "Zou Kimcheng^Mx",
+                ["characterId"] = "8796093079602369",
+                ["displayName"] = "@noobkiss",
+                ["raceId"] = 10,
             },
+            ["result"] = 0,
+            ["duelStart"] = 16681037,
+            ["wasLocalPlayersResult"] = true,
+            ["DPSIn"] = 0,
             ["healingTaken"] = 0,
-            ["damageDone"] = 0,
+            ["DPSOut"] = 0,
+            ["HPSIn"] = 0,
+            ["opponent"] = 
+            {
+                ["alliance"] = 1,
+                ["gender"] = 1,
+                ["characterName"] = "qwqwqwqwqwqw^Fx",
+                ["classId"] = 1,
+                ["displayName"] = "@gzq666",
+                ["raceId"] = 9,
+            },
+            ["damageTaken"] = 13566,
+            ["damageShilded"] = 0,
+            ["duelEnd"] = 16699011,
             ["timestamp"] = 1781062925,
+            ["damageDone"] = 0,
+            ["duration"] = 17.0100000000,
         },
         [54] = 
         {
-            ["damageTaken"] = 5758,
-            ["HPSIn"] = 0,
-            ["duelEnd"] = 16798634,
-            ["DPSIn"] = 0,
-            ["duration"] = 20.9700000000,
-            ["DPSOut"] = 0,
-            ["wasLocalPlayersResult"] = true,
-            ["duelStart"] = 16778228,
-            ["result"] = 0,
-            ["opponent"] = 
-            {
-                ["gender"] = 1,
-                ["raceId"] = 9,
-                ["displayName"] = "@gzq666",
-                ["alliance"] = 1,
-                ["characterName"] = "qwqwqwqwqwqw^Fx",
-                ["classId"] = 1,
-            },
-            ["damageShilded"] = 0,
             ["player"] = 
             {
-                ["gender"] = 2,
-                ["characterId"] = "8796093079602369",
-                ["raceId"] = 10,
-                ["displayName"] = "@noobkiss",
                 ["classId"] = 1,
-                ["characterName"] = "Zou Kimcheng^Mx",
                 ["alliance"] = 1,
+                ["gender"] = 2,
+                ["characterName"] = "Zou Kimcheng^Mx",
+                ["characterId"] = "8796093079602369",
+                ["displayName"] = "@noobkiss",
+                ["raceId"] = 10,
             },
+            ["result"] = 0,
+            ["duelStart"] = 16778228,
+            ["wasLocalPlayersResult"] = true,
+            ["DPSIn"] = 0,
             ["healingTaken"] = 0,
-            ["damageDone"] = 0,
+            ["DPSOut"] = 0,
+            ["HPSIn"] = 0,
+            ["opponent"] = 
+            {
+                ["alliance"] = 1,
+                ["gender"] = 1,
+                ["characterName"] = "qwqwqwqwqwqw^Fx",
+                ["classId"] = 1,
+                ["displayName"] = "@gzq666",
+                ["raceId"] = 9,
+            },
+            ["damageTaken"] = 5758,
+            ["damageShilded"] = 0,
+            ["duelEnd"] = 16798634,
             ["timestamp"] = 1781063022,
+            ["damageDone"] = 0,
+            ["duration"] = 20.9700000000,
         },
         [55] = 
         {
-            ["damageTaken"] = 19374,
-            ["HPSIn"] = 299,
-            ["duelEnd"] = 4667643,
-            ["DPSIn"] = 19374,
-            ["duration"] = 73.1100000000,
-            ["DPSOut"] = 0,
-            ["wasLocalPlayersResult"] = true,
-            ["duelStart"] = 4595024,
-            ["result"] = 0,
-            ["opponent"] = 
-            {
-                ["gender"] = 1,
-                ["raceId"] = 9,
-                ["displayName"] = "@gzq666",
-                ["alliance"] = 1,
-                ["characterName"] = "ajajajaj^Fx",
-                ["classId"] = 4,
-            },
-            ["damageShilded"] = 0,
             ["player"] = 
             {
-                ["gender"] = 1,
-                ["characterId"] = "8796093077286887",
-                ["raceId"] = 7,
-                ["displayName"] = "@noobkiss",
                 ["classId"] = 4,
-                ["characterName"] = "noobhappy^Fx",
                 ["alliance"] = 1,
+                ["gender"] = 1,
+                ["characterName"] = "noobhappy^Fx",
+                ["characterId"] = "8796093077286887",
+                ["displayName"] = "@noobkiss",
+                ["raceId"] = 7,
             },
+            ["result"] = 0,
+            ["duelStart"] = 4595024,
+            ["wasLocalPlayersResult"] = true,
+            ["DPSIn"] = 19374,
             ["healingTaken"] = 8562,
-            ["damageDone"] = 0,
+            ["DPSOut"] = 0,
+            ["HPSIn"] = 299,
+            ["opponent"] = 
+            {
+                ["alliance"] = 1,
+                ["gender"] = 1,
+                ["characterName"] = "ajajajaj^Fx",
+                ["classId"] = 4,
+                ["displayName"] = "@gzq666",
+                ["raceId"] = 9,
+            },
+            ["damageTaken"] = 19374,
+            ["damageShilded"] = 0,
+            ["duelEnd"] = 4667643,
             ["timestamp"] = 1781138475,
+            ["damageDone"] = 0,
+            ["duration"] = 73.1100000000,
         },
         [56] = 
         {
-            ["damageTaken"] = 28248,
-            ["HPSIn"] = 280,
-            ["duelEnd"] = 4796236,
-            ["DPSIn"] = 28248,
-            ["duration"] = 93.3300000000,
-            ["DPSOut"] = 0,
-            ["wasLocalPlayersResult"] = false,
-            ["duelStart"] = 4702615,
-            ["result"] = 0,
-            ["opponent"] = 
-            {
-                ["gender"] = 1,
-                ["raceId"] = 9,
-                ["displayName"] = "@gzq666",
-                ["alliance"] = 1,
-                ["characterName"] = "ajajajaj^Fx",
-                ["classId"] = 4,
-            },
-            ["damageShilded"] = 0,
             ["player"] = 
             {
-                ["gender"] = 1,
-                ["characterId"] = "8796093077286887",
-                ["raceId"] = 7,
-                ["displayName"] = "@noobkiss",
                 ["classId"] = 4,
-                ["characterName"] = "noobhappy^Fx",
                 ["alliance"] = 1,
+                ["gender"] = 1,
+                ["characterName"] = "noobhappy^Fx",
+                ["characterId"] = "8796093077286887",
+                ["displayName"] = "@noobkiss",
+                ["raceId"] = 7,
             },
+            ["result"] = 0,
+            ["duelStart"] = 4702615,
+            ["wasLocalPlayersResult"] = false,
+            ["DPSIn"] = 28248,
             ["healingTaken"] = 8904,
-            ["damageDone"] = 0,
+            ["DPSOut"] = 0,
+            ["HPSIn"] = 280,
+            ["opponent"] = 
+            {
+                ["alliance"] = 1,
+                ["gender"] = 1,
+                ["characterName"] = "ajajajaj^Fx",
+                ["classId"] = 4,
+                ["displayName"] = "@gzq666",
+                ["raceId"] = 9,
+            },
+            ["damageTaken"] = 28248,
+            ["damageShilded"] = 0,
+            ["duelEnd"] = 4796236,
             ["timestamp"] = 1781138583,
+            ["damageDone"] = 0,
+            ["duration"] = 93.3300000000,
         },
         [57] = 
         {
-            ["damageTaken"] = 0,
-            ["HPSIn"] = 0,
-            ["duelEnd"] = 12245718,
-            ["DPSIn"] = 0,
-            ["duration"] = 25.9600000000,
-            ["DPSOut"] = 0,
-            ["wasLocalPlayersResult"] = true,
-            ["duelStart"] = 12220098,
-            ["result"] = 0,
-            ["opponent"] = 
-            {
-                ["gender"] = 2,
-                ["raceId"] = 1,
-                ["displayName"] = "@SHYY.5708",
-                ["alliance"] = 1,
-                ["characterName"] = "dabaili^Mx",
-                ["classId"] = 4,
-            },
-            ["damageShilded"] = 0,
             ["player"] = 
             {
-                ["gender"] = 2,
-                ["characterId"] = "8796093079602369",
-                ["raceId"] = 10,
-                ["displayName"] = "@noobkiss",
                 ["classId"] = 1,
-                ["characterName"] = "Zou Kimcheng^Mx",
                 ["alliance"] = 1,
+                ["gender"] = 2,
+                ["characterName"] = "Zou Kimcheng^Mx",
+                ["characterId"] = "8796093079602369",
+                ["displayName"] = "@noobkiss",
+                ["raceId"] = 10,
             },
+            ["result"] = 0,
+            ["duelStart"] = 12220098,
+            ["wasLocalPlayersResult"] = true,
+            ["DPSIn"] = 0,
             ["healingTaken"] = 0,
-            ["damageDone"] = 0,
+            ["DPSOut"] = 0,
+            ["HPSIn"] = 0,
+            ["opponent"] = 
+            {
+                ["alliance"] = 1,
+                ["gender"] = 2,
+                ["characterName"] = "dabaili^Mx",
+                ["classId"] = 4,
+                ["displayName"] = "@SHYY.5708",
+                ["raceId"] = 1,
+            },
+            ["damageTaken"] = 0,
+            ["damageShilded"] = 0,
+            ["duelEnd"] = 12245718,
             ["timestamp"] = 1781186453,
+            ["damageDone"] = 0,
+            ["duration"] = 25.9600000000,
         },
         [58] = 
         {
-            ["damageTaken"] = 0,
-            ["HPSIn"] = 0,
-            ["duelEnd"] = 12318475,
-            ["DPSIn"] = 0,
-            ["duration"] = 43.6800000000,
-            ["DPSOut"] = 0,
-            ["wasLocalPlayersResult"] = true,
-            ["duelStart"] = 12275766,
-            ["result"] = 0,
-            ["opponent"] = 
-            {
-                ["gender"] = 2,
-                ["raceId"] = 1,
-                ["displayName"] = "@SHYY.5708",
-                ["alliance"] = 1,
-                ["characterName"] = "dabaili^Mx",
-                ["classId"] = 4,
-            },
-            ["damageShilded"] = 0,
             ["player"] = 
             {
-                ["gender"] = 2,
-                ["characterId"] = "8796093079602369",
-                ["raceId"] = 10,
-                ["displayName"] = "@noobkiss",
                 ["classId"] = 1,
-                ["characterName"] = "Zou Kimcheng^Mx",
                 ["alliance"] = 1,
+                ["gender"] = 2,
+                ["characterName"] = "Zou Kimcheng^Mx",
+                ["characterId"] = "8796093079602369",
+                ["displayName"] = "@noobkiss",
+                ["raceId"] = 10,
             },
+            ["result"] = 0,
+            ["duelStart"] = 12275766,
+            ["wasLocalPlayersResult"] = true,
+            ["DPSIn"] = 0,
             ["healingTaken"] = 0,
-            ["damageDone"] = 0,
+            ["DPSOut"] = 0,
+            ["HPSIn"] = 0,
+            ["opponent"] = 
+            {
+                ["alliance"] = 1,
+                ["gender"] = 2,
+                ["characterName"] = "dabaili^Mx",
+                ["classId"] = 4,
+                ["displayName"] = "@SHYY.5708",
+                ["raceId"] = 1,
+            },
+            ["damageTaken"] = 0,
+            ["damageShilded"] = 0,
+            ["duelEnd"] = 12318475,
             ["timestamp"] = 1781186509,
+            ["damageDone"] = 0,
+            ["duration"] = 43.6800000000,
         },
         [59] = 
         {
-            ["damageTaken"] = 0,
-            ["HPSIn"] = 133,
-            ["duelEnd"] = 13290355,
-            ["DPSIn"] = 0,
-            ["duration"] = 139.0200000000,
-            ["DPSOut"] = 2468,
-            ["wasLocalPlayersResult"] = true,
-            ["duelStart"] = 13151234,
-            ["result"] = 0,
-            ["opponent"] = 
-            {
-                ["gender"] = 2,
-                ["raceId"] = 1,
-                ["displayName"] = "@SHYY.5708",
-                ["alliance"] = 1,
-                ["characterName"] = "dabaili^Mx",
-                ["classId"] = 4,
-            },
-            ["damageShilded"] = 0,
             ["player"] = 
             {
-                ["gender"] = 2,
-                ["characterId"] = "8796093079602369",
-                ["raceId"] = 10,
-                ["displayName"] = "@noobkiss",
                 ["classId"] = 1,
-                ["characterName"] = "Zou Kimcheng^Mx",
                 ["alliance"] = 1,
+                ["gender"] = 2,
+                ["characterName"] = "Zou Kimcheng^Mx",
+                ["characterId"] = "8796093079602369",
+                ["displayName"] = "@noobkiss",
+                ["raceId"] = 10,
             },
+            ["result"] = 0,
+            ["duelStart"] = 13151234,
+            ["wasLocalPlayersResult"] = true,
+            ["DPSIn"] = 0,
             ["healingTaken"] = 534,
-            ["damageDone"] = 2468,
+            ["DPSOut"] = 2468,
+            ["HPSIn"] = 133,
+            ["opponent"] = 
+            {
+                ["alliance"] = 1,
+                ["gender"] = 2,
+                ["characterName"] = "dabaili^Mx",
+                ["classId"] = 4,
+                ["displayName"] = "@SHYY.5708",
+                ["raceId"] = 1,
+            },
+            ["damageTaken"] = 0,
+            ["damageShilded"] = 0,
+            ["duelEnd"] = 13290355,
             ["timestamp"] = 1781187385,
+            ["damageDone"] = 2468,
+            ["duration"] = 139.0200000000,
         },
         [60] = 
         {
-            ["damageTaken"] = 0,
-            ["HPSIn"] = 0,
-            ["duelEnd"] = 13440968,
-            ["DPSIn"] = 0,
-            ["duration"] = 95.7000000000,
-            ["DPSOut"] = 0,
-            ["wasLocalPlayersResult"] = true,
-            ["duelStart"] = 13345914,
-            ["result"] = 0,
-            ["opponent"] = 
-            {
-                ["gender"] = 2,
-                ["raceId"] = 1,
-                ["displayName"] = "@SHYY.5708",
-                ["alliance"] = 1,
-                ["characterName"] = "dabaili^Mx",
-                ["classId"] = 4,
-            },
-            ["damageShilded"] = 0,
             ["player"] = 
             {
-                ["gender"] = 2,
-                ["characterId"] = "8796093079602369",
-                ["raceId"] = 10,
-                ["displayName"] = "@noobkiss",
                 ["classId"] = 1,
-                ["characterName"] = "Zou Kimcheng^Mx",
                 ["alliance"] = 1,
+                ["gender"] = 2,
+                ["characterName"] = "Zou Kimcheng^Mx",
+                ["characterId"] = "8796093079602369",
+                ["displayName"] = "@noobkiss",
+                ["raceId"] = 10,
             },
+            ["result"] = 0,
+            ["duelStart"] = 13345914,
+            ["wasLocalPlayersResult"] = true,
+            ["DPSIn"] = 0,
             ["healingTaken"] = 0,
-            ["damageDone"] = 0,
+            ["DPSOut"] = 0,
+            ["HPSIn"] = 0,
+            ["opponent"] = 
+            {
+                ["alliance"] = 1,
+                ["gender"] = 2,
+                ["characterName"] = "dabaili^Mx",
+                ["classId"] = 4,
+                ["displayName"] = "@SHYY.5708",
+                ["raceId"] = 1,
+            },
+            ["damageTaken"] = 0,
+            ["damageShilded"] = 0,
+            ["duelEnd"] = 13440968,
             ["timestamp"] = 1781187579,
+            ["damageDone"] = 0,
+            ["duration"] = 95.7000000000,
         },
         [61] = 
         {
-            ["damageTaken"] = 0,
-            ["HPSIn"] = 0,
-            ["duelEnd"] = 13853339,
-            ["DPSIn"] = 0,
-            ["duration"] = 248.2200000000,
-            ["DPSOut"] = 0,
-            ["wasLocalPlayersResult"] = true,
-            ["duelStart"] = 13606627,
-            ["result"] = 0,
-            ["opponent"] = 
-            {
-                ["gender"] = 2,
-                ["raceId"] = 1,
-                ["displayName"] = "@SHYY.5708",
-                ["alliance"] = 1,
-                ["characterName"] = "dabaili^Mx",
-                ["classId"] = 4,
-            },
-            ["damageShilded"] = 0,
             ["player"] = 
             {
-                ["gender"] = 2,
-                ["characterId"] = "8796093079602369",
-                ["raceId"] = 10,
-                ["displayName"] = "@noobkiss",
                 ["classId"] = 1,
-                ["characterName"] = "Zou Kimcheng^Mx",
                 ["alliance"] = 1,
+                ["gender"] = 2,
+                ["characterName"] = "Zou Kimcheng^Mx",
+                ["characterId"] = "8796093079602369",
+                ["displayName"] = "@noobkiss",
+                ["raceId"] = 10,
             },
+            ["result"] = 0,
+            ["duelStart"] = 13606627,
+            ["wasLocalPlayersResult"] = true,
+            ["DPSIn"] = 0,
             ["healingTaken"] = 0,
-            ["damageDone"] = 0,
+            ["DPSOut"] = 0,
+            ["HPSIn"] = 0,
+            ["opponent"] = 
+            {
+                ["alliance"] = 1,
+                ["gender"] = 2,
+                ["characterName"] = "dabaili^Mx",
+                ["classId"] = 4,
+                ["displayName"] = "@SHYY.5708",
+                ["raceId"] = 1,
+            },
+            ["damageTaken"] = 0,
+            ["damageShilded"] = 0,
+            ["duelEnd"] = 13853339,
             ["timestamp"] = 1781187840,
+            ["damageDone"] = 0,
+            ["duration"] = 248.2200000000,
         },
         [62] = 
         {
-            ["damageTaken"] = 5378,
-            ["HPSIn"] = 0,
-            ["duelEnd"] = 1369266,
-            ["DPSIn"] = 0,
-            ["duration"] = 64.1600000000,
-            ["DPSOut"] = 0,
-            ["wasLocalPlayersResult"] = false,
-            ["duelStart"] = 1304644,
-            ["result"] = 0,
-            ["opponent"] = 
-            {
-                ["gender"] = 1,
-                ["raceId"] = 10,
-                ["displayName"] = "@garwa00",
-                ["alliance"] = 1,
-                ["characterName"] = "Lady Redamancy^Fx",
-                ["classId"] = 4,
-            },
-            ["damageShilded"] = 0,
             ["player"] = 
             {
-                ["gender"] = 2,
-                ["characterId"] = "8796093079602369",
-                ["raceId"] = 10,
-                ["displayName"] = "@noobkiss",
                 ["classId"] = 1,
-                ["characterName"] = "Zou Kimcheng^Mx",
                 ["alliance"] = 1,
+                ["gender"] = 2,
+                ["characterName"] = "Zou Kimcheng^Mx",
+                ["characterId"] = "8796093079602369",
+                ["displayName"] = "@noobkiss",
+                ["raceId"] = 10,
             },
+            ["result"] = 0,
+            ["duelStart"] = 1304644,
+            ["wasLocalPlayersResult"] = false,
+            ["DPSIn"] = 0,
             ["healingTaken"] = 0,
-            ["damageDone"] = 0,
+            ["DPSOut"] = 0,
+            ["HPSIn"] = 0,
+            ["opponent"] = 
+            {
+                ["alliance"] = 1,
+                ["gender"] = 1,
+                ["characterName"] = "Lady Redamancy^Fx",
+                ["classId"] = 4,
+                ["displayName"] = "@garwa00",
+                ["raceId"] = 10,
+            },
+            ["damageTaken"] = 5378,
+            ["damageShilded"] = 0,
+            ["duelEnd"] = 1369266,
             ["timestamp"] = 1781226615,
+            ["damageDone"] = 0,
+            ["duration"] = 64.1600000000,
         },
         [63] = 
         {
-            ["damageTaken"] = 9542,
-            ["HPSIn"] = 0,
-            ["duelEnd"] = 2079195,
-            ["DPSIn"] = 0,
-            ["duration"] = 129.1800000000,
-            ["DPSOut"] = 0,
-            ["wasLocalPlayersResult"] = false,
-            ["duelStart"] = 1949147,
-            ["result"] = 0,
-            ["opponent"] = 
-            {
-                ["gender"] = 1,
-                ["raceId"] = 10,
-                ["displayName"] = "@garwa00",
-                ["alliance"] = 1,
-                ["characterName"] = "Lady Redamancy^Fx",
-                ["classId"] = 4,
-            },
-            ["damageShilded"] = 0,
             ["player"] = 
             {
-                ["gender"] = 2,
-                ["characterId"] = "8796093079602369",
-                ["raceId"] = 10,
-                ["displayName"] = "@noobkiss",
                 ["classId"] = 1,
-                ["characterName"] = "Zou Kimcheng^Mx",
                 ["alliance"] = 1,
+                ["gender"] = 2,
+                ["characterName"] = "Zou Kimcheng^Mx",
+                ["characterId"] = "8796093079602369",
+                ["displayName"] = "@noobkiss",
+                ["raceId"] = 10,
             },
+            ["result"] = 0,
+            ["duelStart"] = 1949147,
+            ["wasLocalPlayersResult"] = false,
+            ["DPSIn"] = 0,
             ["healingTaken"] = 0,
-            ["damageDone"] = 0,
+            ["DPSOut"] = 0,
+            ["HPSIn"] = 0,
+            ["opponent"] = 
+            {
+                ["alliance"] = 1,
+                ["gender"] = 1,
+                ["characterName"] = "Lady Redamancy^Fx",
+                ["classId"] = 4,
+                ["displayName"] = "@garwa00",
+                ["raceId"] = 10,
+            },
+            ["damageTaken"] = 9542,
+            ["damageShilded"] = 0,
+            ["duelEnd"] = 2079195,
             ["timestamp"] = 1781227259,
+            ["damageDone"] = 0,
+            ["duration"] = 129.1800000000,
         },
         [64] = 
         {
-            ["damageTaken"] = 10822,
-            ["HPSIn"] = 0,
-            ["duelEnd"] = 2435057,
-            ["DPSIn"] = 0,
-            ["duration"] = 120.2500000000,
-            ["DPSOut"] = 0,
-            ["wasLocalPlayersResult"] = false,
-            ["duelStart"] = 2314885,
-            ["result"] = 0,
-            ["opponent"] = 
-            {
-                ["gender"] = 1,
-                ["raceId"] = 10,
-                ["displayName"] = "@garwa00",
-                ["alliance"] = 1,
-                ["characterName"] = "Lady Redamancy^Fx",
-                ["classId"] = 4,
-            },
-            ["damageShilded"] = 0,
             ["player"] = 
             {
-                ["gender"] = 2,
-                ["characterId"] = "8796093079602369",
-                ["raceId"] = 10,
-                ["displayName"] = "@noobkiss",
                 ["classId"] = 1,
-                ["characterName"] = "Zou Kimcheng^Mx",
                 ["alliance"] = 1,
+                ["gender"] = 2,
+                ["characterName"] = "Zou Kimcheng^Mx",
+                ["characterId"] = "8796093079602369",
+                ["displayName"] = "@noobkiss",
+                ["raceId"] = 10,
             },
+            ["result"] = 0,
+            ["duelStart"] = 2314885,
+            ["wasLocalPlayersResult"] = false,
+            ["DPSIn"] = 0,
             ["healingTaken"] = 0,
-            ["damageDone"] = 0,
+            ["DPSOut"] = 0,
+            ["HPSIn"] = 0,
+            ["opponent"] = 
+            {
+                ["alliance"] = 1,
+                ["gender"] = 1,
+                ["characterName"] = "Lady Redamancy^Fx",
+                ["classId"] = 4,
+                ["displayName"] = "@garwa00",
+                ["raceId"] = 10,
+            },
+            ["damageTaken"] = 10822,
+            ["damageShilded"] = 0,
+            ["duelEnd"] = 2435057,
             ["timestamp"] = 1781227625,
+            ["damageDone"] = 0,
+            ["duration"] = 120.2500000000,
         },
         [65] = 
         {
-            ["damageTaken"] = 0,
-            ["HPSIn"] = 0,
-            ["duelEnd"] = 2482458,
-            ["DPSIn"] = 0,
-            ["duration"] = 21.2800000000,
-            ["DPSOut"] = 0,
-            ["wasLocalPlayersResult"] = true,
-            ["duelStart"] = 2461135,
-            ["result"] = 0,
-            ["opponent"] = 
-            {
-                ["gender"] = 1,
-                ["raceId"] = 10,
-                ["displayName"] = "@garwa00",
-                ["alliance"] = 1,
-                ["characterName"] = "Lady Redamancy^Fx",
-                ["classId"] = 4,
-            },
-            ["damageShilded"] = 0,
             ["player"] = 
             {
-                ["gender"] = 2,
-                ["characterId"] = "8796093079602369",
-                ["raceId"] = 10,
-                ["displayName"] = "@noobkiss",
                 ["classId"] = 1,
-                ["characterName"] = "Zou Kimcheng^Mx",
                 ["alliance"] = 1,
+                ["gender"] = 2,
+                ["characterName"] = "Zou Kimcheng^Mx",
+                ["characterId"] = "8796093079602369",
+                ["displayName"] = "@noobkiss",
+                ["raceId"] = 10,
             },
+            ["result"] = 0,
+            ["duelStart"] = 2461135,
+            ["wasLocalPlayersResult"] = true,
+            ["DPSIn"] = 0,
             ["healingTaken"] = 0,
-            ["damageDone"] = 0,
+            ["DPSOut"] = 0,
+            ["HPSIn"] = 0,
+            ["opponent"] = 
+            {
+                ["alliance"] = 1,
+                ["gender"] = 1,
+                ["characterName"] = "Lady Redamancy^Fx",
+                ["classId"] = 4,
+                ["displayName"] = "@garwa00",
+                ["raceId"] = 10,
+            },
+            ["damageTaken"] = 0,
+            ["damageShilded"] = 0,
+            ["duelEnd"] = 2482458,
             ["timestamp"] = 1781227771,
+            ["damageDone"] = 0,
+            ["duration"] = 21.2800000000,
         },
         [66] = 
         {
-            ["damageTaken"] = 22026,
-            ["HPSIn"] = 8586,
-            ["duelEnd"] = 2689216,
-            ["DPSIn"] = 22026,
-            ["duration"] = 84.1200000000,
-            ["DPSOut"] = 0,
-            ["wasLocalPlayersResult"] = true,
-            ["duelStart"] = 2604198,
-            ["result"] = 0,
-            ["opponent"] = 
-            {
-                ["gender"] = 1,
-                ["raceId"] = 10,
-                ["displayName"] = "@garwa00",
-                ["alliance"] = 1,
-                ["characterName"] = "Lady Redamancy^Fx",
-                ["classId"] = 4,
-            },
-            ["damageShilded"] = 0,
             ["player"] = 
             {
-                ["gender"] = 2,
-                ["characterId"] = "8796093079602369",
-                ["raceId"] = 10,
-                ["displayName"] = "@noobkiss",
                 ["classId"] = 1,
-                ["characterName"] = "Zou Kimcheng^Mx",
                 ["alliance"] = 1,
+                ["gender"] = 2,
+                ["characterName"] = "Zou Kimcheng^Mx",
+                ["characterId"] = "8796093079602369",
+                ["displayName"] = "@noobkiss",
+                ["raceId"] = 10,
             },
+            ["result"] = 0,
+            ["duelStart"] = 2604198,
+            ["wasLocalPlayersResult"] = true,
+            ["DPSIn"] = 22026,
             ["healingTaken"] = 8586,
-            ["damageDone"] = 0,
+            ["DPSOut"] = 0,
+            ["HPSIn"] = 8586,
+            ["opponent"] = 
+            {
+                ["alliance"] = 1,
+                ["gender"] = 1,
+                ["characterName"] = "Lady Redamancy^Fx",
+                ["classId"] = 4,
+                ["displayName"] = "@garwa00",
+                ["raceId"] = 10,
+            },
+            ["damageTaken"] = 22026,
+            ["damageShilded"] = 0,
+            ["duelEnd"] = 2689216,
             ["timestamp"] = 1781227914,
+            ["damageDone"] = 0,
+            ["duration"] = 84.1200000000,
         },
-    },
-    ["EU"] = 
-    {
+        [67] = 
+        {
+            ["player"] = 
+            {
+                ["classId"] = 1,
+                ["alliance"] = 1,
+                ["gender"] = 2,
+                ["characterName"] = "Zou Kimcheng^Mx",
+                ["characterId"] = "8796093079602369",
+                ["displayName"] = "@noobkiss",
+                ["raceId"] = 10,
+            },
+            ["result"] = 0,
+            ["duelStart"] = 32675097,
+            ["wasLocalPlayersResult"] = true,
+            ["DPSIn"] = 0,
+            ["healingTaken"] = 0,
+            ["DPSOut"] = 0,
+            ["HPSIn"] = 0,
+            ["opponent"] = 
+            {
+                ["alliance"] = 1,
+                ["gender"] = 2,
+                ["characterName"] = "chee-official^Mx",
+                ["classId"] = 1,
+                ["displayName"] = "@Chee_Official",
+                ["raceId"] = 5,
+            },
+            ["damageTaken"] = 0,
+            ["damageShilded"] = 0,
+            ["duelEnd"] = 32691041,
+            ["timestamp"] = 1782219721,
+            ["damageDone"] = 0,
+            ["duration"] = 15.1500000000,
+        },
+        [68] = 
+        {
+            ["player"] = 
+            {
+                ["classId"] = 1,
+                ["alliance"] = 1,
+                ["gender"] = 2,
+                ["characterName"] = "Zou Kimcheng^Mx",
+                ["characterId"] = "8796093079602369",
+                ["displayName"] = "@noobkiss",
+                ["raceId"] = 10,
+            },
+            ["result"] = 0,
+            ["duelStart"] = 32710177,
+            ["wasLocalPlayersResult"] = false,
+            ["DPSIn"] = 2915,
+            ["healingTaken"] = 1887,
+            ["DPSOut"] = 0,
+            ["HPSIn"] = 1887,
+            ["opponent"] = 
+            {
+                ["alliance"] = 1,
+                ["gender"] = 2,
+                ["characterName"] = "chee-official^Mx",
+                ["classId"] = 1,
+                ["displayName"] = "@Chee_Official",
+                ["raceId"] = 5,
+            },
+            ["damageTaken"] = 2915,
+            ["damageShilded"] = 0,
+            ["duelEnd"] = 32721658,
+            ["timestamp"] = 1782219756,
+            ["damageDone"] = 0,
+            ["duration"] = 10.6500000000,
+        },
+        [69] = 
+        {
+            ["player"] = 
+            {
+                ["classId"] = 1,
+                ["alliance"] = 1,
+                ["gender"] = 2,
+                ["characterName"] = "Zou Kimcheng^Mx",
+                ["characterId"] = "8796093079602369",
+                ["displayName"] = "@noobkiss",
+                ["raceId"] = 10,
+            },
+            ["result"] = 0,
+            ["duelStart"] = 32981356,
+            ["wasLocalPlayersResult"] = true,
+            ["DPSIn"] = 8203,
+            ["healingTaken"] = 6700,
+            ["DPSOut"] = 0,
+            ["HPSIn"] = 1956,
+            ["opponent"] = 
+            {
+                ["alliance"] = 1,
+                ["gender"] = 2,
+                ["characterName"] = "Chee Official^Mx",
+                ["classId"] = 3,
+                ["displayName"] = "@Chee_Official",
+                ["raceId"] = 9,
+            },
+            ["damageTaken"] = 8203,
+            ["damageShilded"] = 0,
+            ["duelEnd"] = 32997765,
+            ["timestamp"] = 1782220027,
+            ["damageDone"] = 0,
+            ["duration"] = 15.8200000000,
+        },
+        [70] = 
+        {
+            ["player"] = 
+            {
+                ["classId"] = 1,
+                ["alliance"] = 1,
+                ["gender"] = 2,
+                ["characterName"] = "Zou Kimcheng^Mx",
+                ["characterId"] = "8796093079602369",
+                ["displayName"] = "@noobkiss",
+                ["raceId"] = 10,
+            },
+            ["result"] = 0,
+            ["duelStart"] = 33122779,
+            ["wasLocalPlayersResult"] = false,
+            ["DPSIn"] = 0,
+            ["healingTaken"] = 0,
+            ["DPSOut"] = 0,
+            ["HPSIn"] = 0,
+            ["opponent"] = 
+            {
+                ["alliance"] = 1,
+                ["gender"] = 1,
+                ["characterName"] = "'Chee Official^Fx",
+                ["classId"] = 2,
+                ["displayName"] = "@Chee_Official",
+                ["raceId"] = 7,
+            },
+            ["damageTaken"] = 0,
+            ["damageShilded"] = 0,
+            ["duelEnd"] = 33136240,
+            ["timestamp"] = 1782220168,
+            ["damageDone"] = 0,
+            ["duration"] = 12.6000000000,
+        },
+        [71] = 
+        {
+            ["player"] = 
+            {
+                ["classId"] = 1,
+                ["alliance"] = 1,
+                ["gender"] = 2,
+                ["characterName"] = "Zou Kimcheng^Mx",
+                ["characterId"] = "8796093079602369",
+                ["displayName"] = "@noobkiss",
+                ["raceId"] = 10,
+            },
+            ["result"] = 0,
+            ["duelStart"] = 3949813,
+            ["wasLocalPlayersResult"] = false,
+            ["DPSIn"] = 0,
+            ["healingTaken"] = 0,
+            ["DPSOut"] = 0,
+            ["HPSIn"] = 0,
+            ["opponent"] = 
+            {
+                ["alliance"] = 1,
+                ["gender"] = 2,
+                ["characterName"] = "chee-official^Mx",
+                ["classId"] = 1,
+                ["displayName"] = "@Chee_Official",
+                ["raceId"] = 5,
+            },
+            ["damageTaken"] = 10002,
+            ["damageShilded"] = 0,
+            ["duelEnd"] = 4045248,
+            ["timestamp"] = 1782303143,
+            ["damageDone"] = 0,
+            ["duration"] = 94.7800000000,
+        },
+        [72] = 
+        {
+            ["player"] = 
+            {
+                ["classId"] = 1,
+                ["alliance"] = 1,
+                ["gender"] = 2,
+                ["characterName"] = "Zou Kimcheng^Mx",
+                ["characterId"] = "8796093079602369",
+                ["displayName"] = "@noobkiss",
+                ["raceId"] = 10,
+            },
+            ["result"] = 0,
+            ["duelStart"] = 4217430,
+            ["wasLocalPlayersResult"] = true,
+            ["DPSIn"] = 0,
+            ["healingTaken"] = 0,
+            ["DPSOut"] = 0,
+            ["HPSIn"] = 0,
+            ["opponent"] = 
+            {
+                ["alliance"] = 1,
+                ["gender"] = 1,
+                ["characterName"] = "'Chee Official^Fx",
+                ["classId"] = 2,
+                ["displayName"] = "@Chee_Official",
+                ["raceId"] = 7,
+            },
+            ["damageTaken"] = 0,
+            ["damageShilded"] = 0,
+            ["duelEnd"] = 4237893,
+            ["timestamp"] = 1782303411,
+            ["damageDone"] = 0,
+            ["duration"] = 19.0700000000,
+        },
+        [73] = 
+        {
+            ["player"] = 
+            {
+                ["classId"] = 1,
+                ["alliance"] = 1,
+                ["gender"] = 2,
+                ["characterName"] = "Zou Kimcheng^Mx",
+                ["characterId"] = "8796093079602369",
+                ["displayName"] = "@noobkiss",
+                ["raceId"] = 10,
+            },
+            ["result"] = 0,
+            ["duelStart"] = 4279209,
+            ["wasLocalPlayersResult"] = false,
+            ["DPSIn"] = 0,
+            ["healingTaken"] = 0,
+            ["DPSOut"] = 0,
+            ["HPSIn"] = 0,
+            ["opponent"] = 
+            {
+                ["alliance"] = 1,
+                ["gender"] = 1,
+                ["characterName"] = "'Chee Official^Fx",
+                ["classId"] = 2,
+                ["displayName"] = "@Chee_Official",
+                ["raceId"] = 7,
+            },
+            ["damageTaken"] = 12590,
+            ["damageShilded"] = 0,
+            ["duelEnd"] = 4294115,
+            ["timestamp"] = 1782303473,
+            ["damageDone"] = 0,
+            ["duration"] = 14.0400000000,
+        },
+        [74] = 
+        {
+            ["player"] = 
+            {
+                ["classId"] = 1,
+                ["alliance"] = 1,
+                ["gender"] = 2,
+                ["characterName"] = "Zou Kimcheng^Mx",
+                ["characterId"] = "8796093079602369",
+                ["displayName"] = "@noobkiss",
+                ["raceId"] = 10,
+            },
+            ["result"] = 1,
+            ["duelStart"] = 3550584,
+            ["wasLocalPlayersResult"] = false,
+            ["DPSIn"] = 2503,
+            ["healingTaken"] = 542195,
+            ["DPSOut"] = 2305,
+            ["HPSIn"] = 2244,
+            ["opponent"] = 
+            {
+                ["alliance"] = 1,
+                ["gender"] = 1,
+                ["characterName"] = "Lilith of Uranus^Fx",
+                ["classId"] = 2,
+                ["displayName"] = "@Laniakea_XoXo",
+                ["raceId"] = 1,
+            },
+            ["damageTaken"] = 610915,
+            ["damageShilded"] = 0,
+            ["duelEnd"] = 3807647,
+            ["timestamp"] = 1782763183,
+            ["damageDone"] = 562555,
+            ["duration"] = 257.4300000000,
+        },
+        [75] = 
+        {
+            ["player"] = 
+            {
+                ["classId"] = 1,
+                ["alliance"] = 1,
+                ["gender"] = 2,
+                ["characterName"] = "Zou Kimcheng^Mx",
+                ["characterId"] = "8796093079602369",
+                ["displayName"] = "@noobkiss",
+                ["raceId"] = 10,
+            },
+            ["result"] = 1,
+            ["duelStart"] = 4154313,
+            ["wasLocalPlayersResult"] = false,
+            ["DPSIn"] = 3020,
+            ["healingTaken"] = 558196,
+            ["DPSOut"] = 2689,
+            ["HPSIn"] = 2819,
+            ["opponent"] = 
+            {
+                ["alliance"] = 1,
+                ["gender"] = 1,
+                ["characterName"] = "Lilith of Uranus^Fx",
+                ["classId"] = 2,
+                ["displayName"] = "@Laniakea_XoXo",
+                ["raceId"] = 1,
+            },
+            ["damageTaken"] = 620147,
+            ["damageShilded"] = 1,
+            ["duelEnd"] = 4368589,
+            ["timestamp"] = 1782763787,
+            ["damageDone"] = 552014,
+            ["duration"] = 213.2600000000,
+        },
+        [76] = 
+        {
+            ["player"] = 
+            {
+                ["classId"] = 1,
+                ["alliance"] = 1,
+                ["gender"] = 2,
+                ["characterName"] = "Zou Kimcheng^Mx",
+                ["characterId"] = "8796093079602369",
+                ["displayName"] = "@noobkiss",
+                ["raceId"] = 10,
+            },
+            ["result"] = 1,
+            ["duelStart"] = 4693902,
+            ["wasLocalPlayersResult"] = false,
+            ["DPSIn"] = 3310,
+            ["healingTaken"] = 581426,
+            ["DPSOut"] = 3475,
+            ["HPSIn"] = 3040,
+            ["opponent"] = 
+            {
+                ["alliance"] = 1,
+                ["gender"] = 1,
+                ["characterName"] = "Lilith of Uranus^Fx",
+                ["classId"] = 2,
+                ["displayName"] = "@Laniakea_XoXo",
+                ["raceId"] = 1,
+            },
+            ["damageTaken"] = 638317,
+            ["damageShilded"] = 0,
+            ["duelEnd"] = 4889149,
+            ["timestamp"] = 1782764326,
+            ["damageDone"] = 670110,
+            ["duration"] = 195.1200000000,
+        },
+        [77] = 
+        {
+            ["player"] = 
+            {
+                ["classId"] = 1,
+                ["alliance"] = 1,
+                ["gender"] = 2,
+                ["characterName"] = "Zou Kimcheng^Mx",
+                ["characterId"] = "8796093079602369",
+                ["displayName"] = "@noobkiss",
+                ["raceId"] = 10,
+            },
+            ["result"] = 0,
+            ["duelStart"] = 5593837,
+            ["wasLocalPlayersResult"] = true,
+            ["DPSIn"] = 2566,
+            ["healingTaken"] = 581488,
+            ["DPSOut"] = 4095,
+            ["HPSIn"] = 2352,
+            ["opponent"] = 
+            {
+                ["alliance"] = 1,
+                ["gender"] = 1,
+                ["characterName"] = "Lilith of Uranus^Fx",
+                ["classId"] = 2,
+                ["displayName"] = "@Laniakea_XoXo",
+                ["raceId"] = 1,
+            },
+            ["damageTaken"] = 641356,
+            ["damageShilded"] = 0,
+            ["duelEnd"] = 5854520,
+            ["timestamp"] = 1782765226,
+            ["damageDone"] = 1023435,
+            ["duration"] = 260.7400000000,
+        },
     },
 }
 ImpressiveStatsTributeData =
 {
-    ["NA"] = 
+    ["EU"] = 
     {
     },
-    ["EU"] = 
+    ["NA"] = 
     {
     },
 }
@@ -3483,120 +4053,223 @@ ImpressiveStatsTributeNotes =
 }
 ImpressiveStatsPlayersCache =
 {
-    ["lastCached"] = 61,
     ["players"] = 
     {
-        ["@Techn0logical"] = 
+        ["@BanksDewDream"] = 
         {
             [1] = 
             {
-                [1] = 50,
+                [2] = 50,
+                [1] = 49,
             },
-            [2] = 0,
-            [3] = 0,
-            [4] = 3,
-            [5] = 109200,
-            [6] = 97300,
+            [2] = 18,
+            [3] = 3,
+            [4] = 14,
+            [5] = 965500,
+            [6] = 22500,
         },
-        ["@wokensole"] = 
-        {
-            [1] = 
-            {
-                [1] = 61,
-            },
-            [2] = 5,
-            [3] = 5,
-            [4] = 11,
-            [5] = 254800,
-            [6] = 0,
-        },
-        ["@Scarylatinword"] = 
+        ["@ArchaicVagabond"] = 
         {
             [1] = 
             {
                 [1] = 8,
             },
-            [2] = 0,
-            [3] = 2,
-            [4] = 0,
-            [5] = 14800,
-            [6] = 636000,
-        },
-        ["@Halfbaked0Bg0"] = 
-        {
-            [1] = 
-            {
-                [1] = 40,
-            },
-            [2] = 0,
-            [3] = 6,
-            [4] = 2,
-            [5] = 76300,
-            [6] = 3800,
-        },
-        ["@NotDuhTemplar"] = 
-        {
-            [1] = 
-            {
-                [2] = 46,
-                [1] = 44,
-            },
-            [2] = 7,
-            [3] = 19,
-            [4] = 8,
-            [5] = 1686700,
-            [6] = 129500,
-        },
-        ["@Emanth3Chosen"] = 
-        {
-            [1] = 
-            {
-                [1] = 52,
-                [2] = 57,
-                [3] = 58,
-            },
-            [2] = 41,
+            [2] = 20,
             [3] = 1,
-            [4] = 15,
-            [5] = 3630100,
-            [6] = 55000,
+            [4] = 3,
+            [5] = 934600,
+            [6] = 27000,
         },
-        ["@Hiluxx"] = 
+        ["@BenjaminDavid"] = 
         {
             [1] = 
             {
                 [1] = 7,
             },
-            [2] = 0,
-            [3] = 13,
-            [4] = 1,
-            [5] = 97200,
-            [6] = 2600,
-        },
-        ["@Wildren101"] = 
-        {
-            [1] = 
-            {
-                [2] = 10,
-                [1] = 10,
-            },
-            [2] = 1,
-            [3] = 6,
-            [4] = 2,
-            [5] = 113700,
+            [2] = 14,
+            [3] = 2,
+            [4] = 17,
+            [5] = 783200,
             [6] = 0,
         },
-        ["@gwin_b"] = 
+        ["@team_phamm"] = 
         {
             [1] = 
             {
-                [1] = 34,
+                [1] = 46,
+            },
+            [2] = 5,
+            [3] = 4,
+            [4] = 3,
+            [5] = 508500,
+            [6] = 2800,
+        },
+        ["@ChargeYourWeapons"] = 
+        {
+            [1] = 
+            {
+                [1] = 31,
+                [2] = 31,
+                [3] = 32,
+            },
+            [2] = 7,
+            [3] = 11,
+            [4] = 16,
+            [5] = 1070300,
+            [6] = 36800,
+        },
+        ["@Olivajadus"] = 
+        {
+            [1] = 
+            {
+                [1] = 29,
+            },
+            [2] = 0,
+            [3] = 6,
+            [4] = 1,
+            [5] = 147600,
+            [6] = 300,
+        },
+        ["@chaosgood"] = 
+        {
+            [1] = 
+            {
+                [1] = 46,
+                [2] = 52,
+                [3] = 53,
+            },
+            [2] = 6,
+            [3] = 5,
+            [4] = 12,
+            [5] = 1117500,
+            [6] = 493600,
+        },
+        ["@Alvinicus"] = 
+        {
+            [1] = 
+            {
+                [4] = 60,
+                [1] = 22,
+                [2] = 22,
+                [3] = 45,
+            },
+            [2] = 10,
+            [3] = 13,
+            [4] = 11,
+            [5] = 503600,
+            [6] = 19200,
+        },
+        ["@fieldsofAzaka"] = 
+        {
+            [1] = 
+            {
+                [1] = 54,
+            },
+            [2] = 5,
+            [3] = 7,
+            [4] = 5,
+            [5] = 1163100,
+            [6] = 10300,
+        },
+        ["@Cruxa"] = 
+        {
+            [1] = 
+            {
+                [1] = 44,
             },
             [2] = 0,
             [3] = 5,
+            [4] = 0,
+            [5] = 27000,
+            [6] = 4600,
+        },
+        ["@CnavnakKredras"] = 
+        {
+            [1] = 
+            {
+                [1] = 11,
+            },
+            [2] = 0,
+            [3] = 1,
+            [4] = 10,
+            [5] = 329600,
+            [6] = 18800,
+        },
+        ["@Anarchy2020"] = 
+        {
+            [1] = 
+            {
+                [1] = 45,
+            },
+            [2] = 3,
+            [3] = 7,
+            [4] = 7,
+            [5] = 211400,
+            [6] = 47200,
+        },
+        ["@Scylion"] = 
+        {
+            [1] = 
+            {
+                [1] = 6,
+            },
+            [2] = 4,
+            [3] = 7,
             [4] = 2,
-            [5] = 110200,
-            [6] = 50200,
+            [5] = 251000,
+            [6] = 0,
+        },
+        ["@AP_Gameboy"] = 
+        {
+            [1] = 
+            {
+                [1] = 26,
+            },
+            [2] = 18,
+            [3] = 6,
+            [4] = 15,
+            [5] = 1281100,
+            [6] = 21300,
+        },
+        ["@ESOlgs321gg"] = 
+        {
+            [1] = 
+            {
+                [2] = 24,
+                [1] = 24,
+            },
+            [2] = 6,
+            [3] = 1,
+            [4] = 8,
+            [5] = 399200,
+            [6] = 54400,
+        },
+        ["@Alekezam"] = 
+        {
+            [1] = 
+            {
+                [4] = 20,
+                [1] = 18,
+                [2] = 18,
+                [3] = 20,
+            },
+            [2] = 0,
+            [3] = 10,
+            [4] = 6,
+            [5] = 229000,
+            [6] = 20300,
+        },
+        ["@nana1234"] = 
+        {
+            [1] = 
+            {
+                [1] = 23,
+            },
+            [2] = 8,
+            [3] = 5,
+            [4] = 15,
+            [5] = 519200,
+            [6] = 95000,
         },
         ["@SgtLobato"] = 
         {
@@ -3610,193 +4283,17 @@ ImpressiveStatsPlayersCache =
             [5] = 1531300,
             [6] = 0,
         },
-        ["@zdm20081"] = 
+        ["@DanyellaSilverfire"] = 
         {
             [1] = 
             {
-                [1] = 5,
-            },
-            [2] = 4,
-            [3] = 1,
-            [4] = 5,
-            [5] = 157100,
-            [6] = 17000,
-        },
-        ["@xXxGOOPxXx"] = 
-        {
-            [1] = 
-            {
-                [4] = 38,
-                [1] = 14,
-                [2] = 26,
-                [3] = 37,
-            },
-            [2] = 49,
-            [3] = 27,
-            [4] = 37,
-            [5] = 2706900,
-            [6] = 304000,
-        },
-        ["@Shadowlegion011"] = 
-        {
-            [1] = 
-            {
-                [1] = 26,
-            },
-            [2] = 2,
-            [3] = 11,
-            [4] = 11,
-            [5] = 427800,
-            [6] = 45700,
-        },
-        ["@BottleCapBob"] = 
-        {
-            [1] = 
-            {
-                [1] = 49,
-            },
-            [2] = 1,
-            [3] = 15,
-            [4] = 0,
-            [5] = 373200,
-            [6] = 0,
-        },
-        ["@Virenic"] = 
-        {
-            [1] = 
-            {
-                [1] = 59,
-            },
-            [2] = 1,
-            [3] = 8,
-            [4] = 4,
-            [5] = 284500,
-            [6] = 11400,
-        },
-        ["@Saiki0831"] = 
-        {
-            [1] = 
-            {
-                [1] = 2,
-                [2] = 32,
-                [3] = 43,
-            },
-            [2] = 8,
-            [3] = 18,
-            [4] = 25,
-            [5] = 1907100,
-            [6] = 370600,
-        },
-        ["@Surdon"] = 
-        {
-            [1] = 
-            {
-                [1] = 26,
-            },
-            [2] = 8,
-            [3] = 10,
-            [4] = 6,
-            [5] = 671800,
-            [6] = 65300,
-        },
-        ["@vfv000"] = 
-        {
-            [1] = 
-            {
-                [2] = 4,
-                [1] = 4,
-            },
-            [2] = 3,
-            [3] = 1,
-            [4] = 10,
-            [5] = 220300,
-            [6] = 0,
-        },
-        ["@GugaLipa"] = 
-        {
-            [1] = 
-            {
-                [1] = 27,
-            },
-            [2] = 0,
-            [3] = 7,
-            [4] = 0,
-            [5] = 36500,
-            [6] = 325000,
-        },
-        ["@Big13oss"] = 
-        {
-            [1] = 
-            {
-                [1] = 30,
-            },
-            [2] = 0,
-            [3] = 6,
-            [4] = 0,
-            [5] = 24900,
-            [6] = 315300,
-        },
-        ["@Mythrium"] = 
-        {
-            [1] = 
-            {
-                [1] = 8,
                 [2] = 9,
-                [3] = 9,
+                [1] = 9,
             },
             [2] = 0,
-            [3] = 11,
-            [4] = 1,
-            [5] = 310500,
-            [6] = 31100,
-        },
-        ["@panstone"] = 
-        {
-            [1] = 
-            {
-                [1] = 12,
-            },
-            [2] = 0,
-            [3] = 0,
-            [4] = 0,
-            [5] = 47000,
-            [6] = 10800,
-        },
-        ["@yohri18"] = 
-        {
-            [1] = 
-            {
-                [2] = 22,
-                [1] = 22,
-            },
-            [2] = 9,
             [3] = 6,
-            [4] = 4,
-            [5] = 712900,
-            [6] = 35700,
-        },
-        ["@pietrolax"] = 
-        {
-            [1] = 
-            {
-                [1] = 8,
-            },
-            [2] = 20,
-            [3] = 0,
-            [4] = 1,
-            [5] = 898100,
-            [6] = 35400,
-        },
-        ["@nikotm"] = 
-        {
-            [1] = 
-            {
-                [1] = 42,
-            },
-            [2] = 7,
-            [3] = 0,
-            [4] = 14,
-            [5] = 248800,
+            [4] = 0,
+            [5] = 16100,
             [6] = 0,
         },
         ["@Fakez91"] = 
@@ -3811,29 +4308,1179 @@ ImpressiveStatsPlayersCache =
             [5] = 193400,
             [6] = 15200,
         },
-        ["@Mirul"] = 
+        ["@samara.Q"] = 
         {
             [1] = 
             {
-                [1] = 13,
+                [1] = 46,
             },
-            [2] = 1,
-            [3] = 1,
-            [4] = 2,
-            [5] = 125700,
+            [2] = 7,
+            [3] = 3,
+            [4] = 11,
+            [5] = 1165800,
+            [6] = 600,
+        },
+        ["@aexilnm"] = 
+        {
+            [1] = 
+            {
+                [1] = 34,
+                [2] = 47,
+                [3] = 48,
+            },
+            [2] = 11,
+            [3] = 9,
+            [4] = 8,
+            [5] = 886800,
+            [6] = 198400,
+        },
+        ["@joessan"] = 
+        {
+            [1] = 
+            {
+                [1] = 52,
+            },
+            [2] = 0,
+            [3] = 12,
+            [4] = 8,
+            [5] = 807900,
             [6] = 0,
         },
-        ["@ItzYaBoyy_Z"] = 
+        ["@Avran_Sylt"] = 
+        {
+            [1] = 
+            {
+                [1] = 45,
+            },
+            [2] = 9,
+            [3] = 9,
+            [4] = 2,
+            [5] = 716800,
+            [6] = 69500,
+        },
+        ["@vfv000"] = 
+        {
+            [1] = 
+            {
+                [2] = 4,
+                [1] = 4,
+            },
+            [2] = 3,
+            [3] = 1,
+            [4] = 10,
+            [5] = 220300,
+            [6] = 0,
+        },
+        ["@Hellcat7"] = 
+        {
+            [1] = 
+            {
+                [2] = 40,
+                [1] = 8,
+            },
+            [2] = 4,
+            [3] = 8,
+            [4] = 1,
+            [5] = 398100,
+            [6] = 89800,
+        },
+        ["@CurrentBias"] = 
+        {
+            [1] = 
+            {
+                [1] = 54,
+            },
+            [2] = 2,
+            [3] = 6,
+            [4] = 4,
+            [5] = 249500,
+            [6] = 0,
+        },
+        ["@stonr"] = 
+        {
+            [1] = 
+            {
+                [1] = 7,
+            },
+            [2] = 7,
+            [3] = 7,
+            [4] = 6,
+            [5] = 218900,
+            [6] = 54300,
+        },
+        ["@NobleDistrictBoss"] = 
+        {
+            [1] = 
+            {
+                [1] = 20,
+            },
+            [2] = 0,
+            [3] = 3,
+            [4] = 1,
+            [5] = 77600,
+            [6] = 0,
+        },
+        ["@GunnarBadger"] = 
+        {
+            [1] = 
+            {
+                [2] = 59,
+                [1] = 55,
+            },
+            [2] = 21,
+            [3] = 3,
+            [4] = 20,
+            [5] = 1441300,
+            [6] = 81200,
+        },
+        ["@SamTarly"] = 
+        {
+            [1] = 
+            {
+                [1] = 38,
+            },
+            [2] = 2,
+            [3] = 8,
+            [4] = 0,
+            [5] = 651200,
+            [6] = 0,
+        },
+        ["@agsurfer002"] = 
+        {
+            [1] = 
+            {
+                [1] = 27,
+            },
+            [2] = 4,
+            [3] = 1,
+            [4] = 10,
+            [5] = 565200,
+            [6] = 0,
+        },
+        ["@NotDuhTemplar"] = 
+        {
+            [1] = 
+            {
+                [2] = 46,
+                [1] = 44,
+            },
+            [2] = 7,
+            [3] = 19,
+            [4] = 8,
+            [5] = 1686700,
+            [6] = 129500,
+        },
+        ["@Sevengods91"] = 
+        {
+            [1] = 
+            {
+                [1] = 7,
+            },
+            [2] = 6,
+            [3] = 13,
+            [4] = 4,
+            [5] = 274600,
+            [6] = 0,
+        },
+        ["@ruskiii"] = 
+        {
+            [1] = 
+            {
+                [2] = 60,
+                [1] = 59,
+            },
+            [2] = 24,
+            [3] = 11,
+            [4] = 13,
+            [5] = 1722000,
+            [6] = 21900,
+        },
+        ["@ActionManLink"] = 
+        {
+            [1] = 
+            {
+                [1] = 50,
+            },
+            [2] = 1,
+            [3] = 4,
+            [4] = 4,
+            [5] = 163700,
+            [6] = 34500,
+        },
+        ["@clk330700"] = 
+        {
+            [1] = 
+            {
+                [1] = 53,
+                [2] = 54,
+                [3] = 55,
+            },
+            [2] = 9,
+            [3] = 11,
+            [4] = 27,
+            [5] = 1704900,
+            [6] = 545400,
+        },
+        ["@Wildren101"] = 
+        {
+            [1] = 
+            {
+                [2] = 10,
+                [1] = 10,
+            },
+            [2] = 1,
+            [3] = 6,
+            [4] = 2,
+            [5] = 113700,
+            [6] = 0,
+        },
+        ["@mranth917"] = 
+        {
+            [1] = 
+            {
+                [1] = 47,
+            },
+            [2] = 1,
+            [3] = 2,
+            [4] = 4,
+            [5] = 202900,
+            [6] = 0,
+        },
+        ["@panstone"] = 
+        {
+            [1] = 
+            {
+                [1] = 12,
+            },
+            [2] = 0,
+            [3] = 0,
+            [4] = 0,
+            [5] = 47000,
+            [6] = 10800,
+        },
+        ["@YininNYangin"] = 
+        {
+            [1] = 
+            {
+                [1] = 40,
+            },
+            [2] = 9,
+            [3] = 0,
+            [4] = 9,
+            [5] = 300300,
+            [6] = 28600,
+        },
+        ["@yohri18"] = 
         {
             [1] = 
             {
                 [2] = 22,
                 [1] = 22,
             },
+            [2] = 9,
+            [3] = 6,
+            [4] = 4,
+            [5] = 712900,
+            [6] = 35700,
+        },
+        ["@Shoez28"] = 
+        {
+            [1] = 
+            {
+                [1] = 40,
+            },
+            [2] = 0,
+            [3] = 2,
+            [4] = 0,
+            [5] = 10100,
+            [6] = 127100,
+        },
+        ["@egercina"] = 
+        {
+            [1] = 
+            {
+                [1] = 27,
+            },
+            [2] = 10,
+            [3] = 1,
+            [4] = 8,
+            [5] = 859000,
+            [6] = 0,
+        },
+        ["@Windowsxp20213"] = 
+        {
+            [1] = 
+            {
+                [2] = 5,
+                [1] = 5,
+            },
             [2] = 0,
             [3] = 6,
+            [4] = 4,
+            [5] = 330600,
+            [6] = 40000,
+        },
+        ["@gazetech"] = 
+        {
+            [1] = 
+            {
+                [2] = 4,
+                [1] = 4,
+            },
+            [2] = 0,
+            [3] = 6,
+            [4] = 0,
+            [5] = 39000,
+            [6] = 0,
+        },
+        ["@BobShneider01"] = 
+        {
+            [1] = 
+            {
+                [2] = 22,
+                [1] = 22,
+            },
+            [2] = 5,
+            [3] = 4,
+            [4] = 9,
+            [5] = 346100,
+            [6] = 19000,
+        },
+        ["@KKLOL"] = 
+        {
+            [1] = 
+            {
+                [1] = 41,
+            },
+            [2] = 0,
+            [3] = 0,
+            [4] = 3,
+            [5] = 282100,
+            [6] = 7600,
+        },
+        ["@wok159lkhgn"] = 
+        {
+            [1] = 
+            {
+                [2] = 21,
+                [1] = 21,
+            },
+            [2] = 4,
+            [3] = 1,
+            [4] = 4,
+            [5] = 274000,
+            [6] = 0,
+        },
+        ["@GManThugnificent"] = 
+        {
+            [1] = 
+            {
+                [2] = 22,
+                [1] = 22,
+            },
+            [2] = 5,
+            [3] = 2,
+            [4] = 9,
+            [5] = 315700,
+            [6] = 20000,
+        },
+        ["@jonathmaldo"] = 
+        {
+            [1] = 
+            {
+                [1] = 19,
+            },
+            [2] = 6,
+            [3] = 1,
+            [4] = 3,
+            [5] = 291800,
+            [6] = 0,
+        },
+        ["@Guda.x"] = 
+        {
+            [1] = 
+            {
+                [1] = 12,
+                [2] = 31,
+                [3] = 31,
+            },
+            [2] = 16,
+            [3] = 0,
+            [4] = 16,
+            [5] = 729200,
+            [6] = 30300,
+        },
+        ["@peopleA"] = 
+        {
+            [1] = 
+            {
+                [1] = 30,
+            },
+            [2] = 5,
+            [3] = 6,
             [4] = 2,
-            [5] = 141000,
+            [5] = 229200,
+            [6] = 24200,
+        },
+        ["@TheAnarie"] = 
+        {
+            [1] = 
+            {
+                [1] = 42,
+            },
+            [2] = 0,
+            [3] = 6,
+            [4] = 0,
+            [5] = 44600,
+            [6] = 2600,
+        },
+        ["@Telluschar"] = 
+        {
+            [1] = 
+            {
+                [1] = 39,
+            },
+            [2] = 1,
+            [3] = 19,
+            [4] = 5,
+            [5] = 428200,
+            [6] = 0,
+        },
+        ["@Natural-Pain"] = 
+        {
+            [1] = 
+            {
+                [1] = 47,
+            },
+            [2] = 1,
+            [3] = 4,
+            [4] = 3,
+            [5] = 251700,
+            [6] = 0,
+        },
+        ["@Zmanofgood"] = 
+        {
+            [1] = 
+            {
+                [1] = 39,
+            },
+            [2] = 20,
+            [3] = 4,
+            [4] = 16,
+            [5] = 855300,
+            [6] = 0,
+        },
+        ["@ViggyBoi"] = 
+        {
+            [1] = 
+            {
+                [1] = 18,
+                [2] = 18,
+                [3] = 44,
+            },
+            [2] = 12,
+            [3] = 13,
+            [4] = 9,
+            [5] = 948100,
+            [6] = 48200,
+        },
+        ["@Mini-Manimal"] = 
+        {
+            [1] = 
+            {
+                [1] = 45,
+            },
+            [2] = 2,
+            [3] = 3,
+            [4] = 5,
+            [5] = 394900,
+            [6] = 107400,
+        },
+        ["@tg43"] = 
+        {
+            [1] = 
+            {
+                [2] = 51,
+                [1] = 49,
+            },
+            [2] = 7,
+            [3] = 1,
+            [4] = 20,
+            [5] = 545000,
+            [6] = 0,
+        },
+        ["@Qman914"] = 
+        {
+            [1] = 
+            {
+                [2] = 5,
+                [1] = 5,
+            },
+            [2] = 4,
+            [3] = 2,
+            [4] = 11,
+            [5] = 405400,
+            [6] = 266900,
+        },
+        ["@Xedrick_II"] = 
+        {
+            [1] = 
+            {
+                [1] = 43,
+            },
+            [2] = 0,
+            [3] = 11,
+            [4] = 1,
+            [5] = 248400,
+            [6] = 0,
+        },
+        ["@shivalingax"] = 
+        {
+            [1] = 
+            {
+                [2] = 25,
+                [1] = 25,
+            },
+            [2] = 4,
+            [3] = 0,
+            [4] = 13,
+            [5] = 789400,
+            [6] = 70600,
+        },
+        ["@TeddyScriptures"] = 
+        {
+            [1] = 
+            {
+                [2] = 59,
+                [1] = 52,
+            },
+            [2] = 25,
+            [3] = 5,
+            [4] = 27,
+            [5] = 2647500,
+            [6] = 108500,
+        },
+        ["@Logandis"] = 
+        {
+            [1] = 
+            {
+                [1] = 20,
+                [2] = 20,
+                [3] = 34,
+            },
+            [2] = 11,
+            [3] = 3,
+            [4] = 9,
+            [5] = 745200,
+            [6] = 19100,
+        },
+        ["@SpinTheBlock"] = 
+        {
+            [1] = 
+            {
+                [2] = 16,
+                [1] = 16,
+            },
+            [2] = 3,
+            [3] = 6,
+            [4] = 2,
+            [5] = 277700,
+            [6] = 0,
+        },
+        ["@FatedBeginning"] = 
+        {
+            [1] = 
+            {
+                [1] = 58,
+            },
+            [2] = 5,
+            [3] = 7,
+            [4] = 1,
+            [5] = 1101100,
+            [6] = 3600,
+        },
+        ["@raindoubler"] = 
+        {
+            [1] = 
+            {
+                [1] = 6,
+            },
+            [2] = 5,
+            [3] = 4,
+            [4] = 3,
+            [5] = 409100,
+            [6] = 0,
+        },
+        ["@Arkaicos"] = 
+        {
+            [1] = 
+            {
+                [1] = 49,
+            },
+            [2] = 0,
+            [3] = 12,
+            [4] = 0,
+            [5] = 417700,
+            [6] = 0,
+        },
+        ["@dmdyj"] = 
+        {
+            [1] = 
+            {
+                [1] = 30,
+            },
+            [2] = 5,
+            [3] = 4,
+            [4] = 6,
+            [5] = 242600,
+            [6] = 23500,
+        },
+        ["@MADSVRL97"] = 
+        {
+            [1] = 
+            {
+                [1] = 17,
+            },
+            [2] = 9,
+            [3] = 6,
+            [4] = 9,
+            [5] = 343800,
+            [6] = 60100,
+        },
+        ["@narczero"] = 
+        {
+            [1] = 
+            {
+                [1] = 3,
+            },
+            [2] = 0,
+            [3] = 4,
+            [4] = 0,
+            [5] = 75900,
+            [6] = 0,
+        },
+        ["@ponzu_PK"] = 
+        {
+            [1] = 
+            {
+                [2] = 50,
+                [1] = 48,
+            },
+            [2] = 9,
+            [3] = 9,
+            [4] = 12,
+            [5] = 2484600,
+            [6] = 251700,
+        },
+        ["@ceegith"] = 
+        {
+            [1] = 
+            {
+                [1] = 39,
+            },
+            [2] = 5,
+            [3] = 9,
+            [4] = 9,
+            [5] = 927300,
+            [6] = 80200,
+        },
+        ["@Zhakkarn1"] = 
+        {
+            [1] = 
+            {
+                [1] = 8,
+            },
+            [2] = 0,
+            [3] = 6,
+            [4] = 0,
+            [5] = 89200,
+            [6] = 6700,
+        },
+        ["@hfywell085"] = 
+        {
+            [1] = 
+            {
+                [1] = 59,
+            },
+            [2] = 15,
+            [3] = 1,
+            [4] = 22,
+            [5] = 1021600,
+            [6] = 23000,
+        },
+        ["@Jas06"] = 
+        {
+            [1] = 
+            {
+                [2] = 37,
+                [1] = 33,
+            },
+            [2] = 10,
+            [3] = 5,
+            [4] = 17,
+            [5] = 690400,
+            [6] = 41100,
+        },
+        ["@wingmantarou-jp"] = 
+        {
+            [1] = 
+            {
+                [1] = 45,
+            },
+            [2] = 2,
+            [3] = 2,
+            [4] = 4,
+            [5] = 248400,
+            [6] = 24900,
+        },
+        ["@vicgutier"] = 
+        {
+            [1] = 
+            {
+                [2] = 22,
+                [1] = 22,
+            },
+            [2] = 4,
+            [3] = 5,
+            [4] = 9,
+            [5] = 176100,
+            [6] = 25600,
+        },
+        ["@Dadbod420"] = 
+        {
+            [1] = 
+            {
+                [1] = 44,
+            },
+            [2] = 14,
+            [3] = 5,
+            [4] = 6,
+            [5] = 1940200,
+            [6] = 27000,
+        },
+        ["@Cheka"] = 
+        {
+            [1] = 
+            {
+                [1] = 59,
+            },
+            [2] = 0,
+            [3] = 3,
+            [4] = 0,
+            [5] = 29300,
+            [6] = 45400,
+        },
+        ["@iNeedaGB"] = 
+        {
+            [1] = 
+            {
+                [1] = 19,
+            },
+            [2] = 5,
+            [3] = 2,
+            [4] = 4,
+            [5] = 279100,
+            [6] = 0,
+        },
+        ["@Will_OSagaz"] = 
+        {
+            [1] = 
+            {
+                [2] = 18,
+                [1] = 18,
+            },
+            [2] = 4,
+            [3] = 6,
+            [4] = 0,
+            [5] = 342700,
+            [6] = 36700,
+        },
+        ["@SitrucYerb"] = 
+        {
+            [1] = 
+            {
+                [1] = 28,
+            },
+            [2] = 8,
+            [3] = 0,
+            [4] = 9,
+            [5] = 420900,
+            [6] = 66900,
+        },
+        ["@Chee_Official"] = 
+        {
+            [1] = 
+            {
+                [1] = 46,
+            },
+            [2] = 0,
+            [3] = 1,
+            [4] = 0,
+            [5] = 265200,
+            [6] = 438400,
+        },
+        ["@Frosthound96"] = 
+        {
+            [1] = 
+            {
+                [2] = 31,
+                [1] = 31,
+            },
+            [2] = 0,
+            [3] = 6,
+            [4] = 0,
+            [5] = 53800,
+            [6] = 0,
+        },
+        ["@AshenBedwarmer"] = 
+        {
+            [1] = 
+            {
+                [2] = 55,
+                [1] = 53,
+            },
+            [2] = 37,
+            [3] = 4,
+            [4] = 3,
+            [5] = 2532500,
+            [6] = 0,
+        },
+        ["@JogginTheNoggin"] = 
+        {
+            [1] = 
+            {
+                [1] = 2,
+            },
+            [2] = 0,
+            [3] = 14,
+            [4] = 0,
+            [5] = 49000,
+            [6] = 21800,
+        },
+        ["@Surdon"] = 
+        {
+            [1] = 
+            {
+                [1] = 26,
+            },
+            [2] = 8,
+            [3] = 10,
+            [4] = 6,
+            [5] = 671800,
+            [6] = 65300,
+        },
+        ["@Purrs'aholic"] = 
+        {
+            [1] = 
+            {
+                [2] = 57,
+                [1] = 54,
+            },
+            [2] = 4,
+            [3] = 5,
+            [4] = 4,
+            [5] = 787100,
+            [6] = 0,
+        },
+        ["@XuQingYu"] = 
+        {
+            [1] = 
+            {
+                [2] = 29,
+                [1] = 1,
+            },
+            [2] = 3,
+            [3] = 3,
+            [4] = 19,
+            [5] = 497600,
+            [6] = 0,
+        },
+        ["@Victor_Savage"] = 
+        {
+            [1] = 
+            {
+                [2] = 20,
+                [1] = 20,
+            },
+            [2] = 0,
+            [3] = 6,
+            [4] = 1,
+            [5] = 107100,
+            [6] = 0,
+        },
+        ["@Drewlaar"] = 
+        {
+            [1] = 
+            {
+                [1] = 56,
+            },
+            [2] = 8,
+            [3] = 14,
+            [4] = 8,
+            [5] = 1123500,
+            [6] = 0,
+        },
+        ["@cheekyonetaps"] = 
+        {
+            [1] = 
+            {
+                [1] = 49,
+            },
+            [2] = 4,
+            [3] = 1,
+            [4] = 15,
+            [5] = 338600,
+            [6] = 0,
+        },
+        ["@MadMagni"] = 
+        {
+            [1] = 
+            {
+                [1] = 35,
+            },
+            [2] = 10,
+            [3] = 5,
+            [4] = 10,
+            [5] = 1354700,
+            [6] = 18500,
+        },
+        ["@kaz-neco0316"] = 
+        {
+            [1] = 
+            {
+                [1] = 3,
+                [2] = 4,
+                [3] = 4,
+            },
+            [2] = 1,
+            [3] = 12,
+            [4] = 1,
+            [5] = 237300,
+            [6] = 59600,
+        },
+        ["@Sungods1n"] = 
+        {
+            [1] = 
+            {
+                [2] = 21,
+                [1] = 21,
+            },
+            [2] = 1,
+            [3] = 6,
+            [4] = 1,
+            [5] = 146600,
+            [6] = 0,
+        },
+        ["@garwa00"] = 
+        {
+            [1] = 
+            {
+                [2] = 53,
+                [1] = 52,
+            },
+            [2] = 0,
+            [3] = 4,
+            [4] = 2,
+            [5] = 169000,
+            [6] = 790100,
+        },
+        ["@Silvio39"] = 
+        {
+            [1] = 
+            {
+                [1] = 14,
+            },
+            [2] = 3,
+            [3] = 12,
+            [4] = 5,
+            [5] = 210300,
+            [6] = 8600,
+        },
+        ["@Balcencor"] = 
+        {
+            [1] = 
+            {
+                [1] = 16,
+                [2] = 16,
+                [3] = 39,
+            },
+            [2] = 8,
+            [3] = 27,
+            [4] = 9,
+            [5] = 631800,
+            [6] = 0,
+        },
+        ["@SugarberryCookies"] = 
+        {
+            [1] = 
+            {
+                [4] = 58,
+                [1] = 55,
+                [2] = 56,
+                [3] = 57,
+            },
+            [2] = 5,
+            [3] = 8,
+            [4] = 6,
+            [5] = 841600,
+            [6] = 978200,
+        },
+        ["@SupremeEternity"] = 
+        {
+            [1] = 
+            {
+                [2] = 19,
+                [1] = 13,
+            },
+            [2] = 0,
+            [3] = 0,
+            [4] = 1,
+            [5] = 43000,
+            [6] = 10300,
+        },
+        ["@Dragonkyru"] = 
+        {
+            [1] = 
+            {
+                [1] = 8,
+            },
+            [2] = 1,
+            [3] = 6,
+            [4] = 0,
+            [5] = 119600,
+            [6] = 0,
+        },
+        ["@xenagreen53"] = 
+        {
+            [1] = 
+            {
+                [1] = 2,
+            },
+            [2] = 3,
+            [3] = 3,
+            [4] = 5,
+            [5] = 226500,
+            [6] = 56000,
+        },
+        ["@teajohns"] = 
+        {
+            [1] = 
+            {
+                [1] = 36,
+            },
+            [2] = 12,
+            [3] = 8,
+            [4] = 13,
+            [5] = 1200700,
+            [6] = 67400,
+        },
+        ["@diegopereira_4"] = 
+        {
+            [1] = 
+            {
+                [1] = 50,
+            },
+            [2] = 0,
+            [3] = 1,
+            [4] = 0,
+            [5] = 7700,
+            [6] = 129200,
+        },
+        ["@Rafaheal"] = 
+        {
+            [1] = 
+            {
+                [1] = 42,
+            },
+            [2] = 0,
+            [3] = 3,
+            [4] = 0,
+            [5] = 0,
+            [6] = 4000,
+        },
+        ["@Mgwa"] = 
+        {
+            [1] = 
+            {
+                [1] = 29,
+            },
+            [2] = 2,
+            [3] = 10,
+            [4] = 2,
+            [5] = 490500,
+            [6] = 0,
+        },
+        ["@Fantazmic"] = 
+        {
+            [1] = 
+            {
+                [1] = 45,
+            },
+            [2] = 9,
+            [3] = 1,
+            [4] = 10,
+            [5] = 681700,
+            [6] = 41600,
+        },
+        ["@janet2003"] = 
+        {
+            [1] = 
+            {
+                [1] = 60,
+            },
+            [2] = 0,
+            [3] = 4,
+            [4] = 0,
+            [5] = 0,
+            [6] = 3500,
+        },
+        ["@pietrolax"] = 
+        {
+            [1] = 
+            {
+                [1] = 8,
+            },
+            [2] = 20,
+            [3] = 0,
+            [4] = 1,
+            [5] = 898100,
+            [6] = 35400,
+        },
+        ["@aerickson57"] = 
+        {
+            [1] = 
+            {
+                [1] = 42,
+            },
+            [2] = 5,
+            [3] = 0,
+            [4] = 6,
+            [5] = 117800,
+            [6] = 6600,
+        },
+        ["@Philthyorc"] = 
+        {
+            [1] = 
+            {
+                [2] = 25,
+                [1] = 25,
+            },
+            [2] = 0,
+            [3] = 6,
+            [4] = 0,
+            [5] = 313600,
+            [6] = 9000,
+        },
+        ["@wokensole"] = 
+        {
+            [1] = 
+            {
+                [1] = 61,
+            },
+            [2] = 5,
+            [3] = 5,
+            [4] = 11,
+            [5] = 254800,
             [6] = 0,
         },
         ["@xEVxEnigma"] = 
@@ -3855,132 +5502,43 @@ ImpressiveStatsPlayersCache =
             [5] = 2597100,
             [6] = 24800,
         },
-        ["@bigbeef800"] = 
+        ["@Techn0logical"] = 
         {
             [1] = 
             {
-                [2] = 13,
-                [1] = 12,
-            },
-            [2] = 7,
-            [3] = 0,
-            [4] = 25,
-            [5] = 660300,
-            [6] = 181800,
-        },
-        ["@Demzy_NR"] = 
-        {
-            [1] = 
-            {
-                [1] = 2,
-            },
-            [2] = 8,
-            [3] = 4,
-            [4] = 15,
-            [5] = 637500,
-            [6] = 53800,
-        },
-        ["@joessan"] = 
-        {
-            [1] = 
-            {
-                [1] = 52,
+                [1] = 50,
             },
             [2] = 0,
-            [3] = 12,
-            [4] = 8,
-            [5] = 807900,
-            [6] = 0,
+            [3] = 0,
+            [4] = 3,
+            [5] = 109200,
+            [6] = 97300,
         },
-        ["@Hybba"] = 
+        ["@mathsanto"] = 
         {
             [1] = 
             {
-                [1] = 11,
+                [1] = 14,
+                [2] = 16,
+                [3] = 16,
             },
-            [2] = 2,
-            [3] = 4,
-            [4] = 1,
-            [5] = 395500,
-            [6] = 47000,
+            [2] = 8,
+            [3] = 24,
+            [4] = 15,
+            [5] = 643500,
+            [6] = 50900,
         },
-        ["@dmdyj"] = 
+        ["@Kaoonashi"] = 
         {
             [1] = 
             {
-                [1] = 30,
-            },
-            [2] = 5,
-            [3] = 4,
-            [4] = 6,
-            [5] = 242600,
-            [6] = 23500,
-        },
-        ["@clk330700"] = 
-        {
-            [1] = 
-            {
-                [1] = 53,
-                [2] = 54,
-                [3] = 55,
-            },
-            [2] = 9,
-            [3] = 11,
-            [4] = 27,
-            [5] = 1704900,
-            [6] = 545400,
-        },
-        ["@ponzu_PK"] = 
-        {
-            [1] = 
-            {
-                [2] = 50,
-                [1] = 48,
-            },
-            [2] = 9,
-            [3] = 9,
-            [4] = 12,
-            [5] = 2484600,
-            [6] = 251700,
-        },
-        ["@SirDamonLeStoner"] = 
-        {
-            [1] = 
-            {
-                [1] = 4,
-                [2] = 4,
-                [3] = 6,
-            },
-            [2] = 2,
-            [3] = 14,
-            [4] = 4,
-            [5] = 339100,
-            [6] = 0,
-        },
-        ["@Purrs'aholic"] = 
-        {
-            [1] = 
-            {
-                [2] = 57,
-                [1] = 54,
+                [1] = 17,
             },
             [2] = 4,
-            [3] = 5,
-            [4] = 4,
-            [5] = 787100,
-            [6] = 0,
-        },
-        ["@CTDIsAFeature"] = 
-        {
-            [1] = 
-            {
-                [1] = 44,
-            },
-            [2] = 3,
             [3] = 9,
-            [4] = 2,
-            [5] = 413300,
-            [6] = 0,
+            [4] = 6,
+            [5] = 436600,
+            [6] = 33000,
         },
         ["@Eeewww247"] = 
         {
@@ -3996,850 +5554,6 @@ ImpressiveStatsPlayersCache =
             [5] = 4200,
             [6] = 2386900,
         },
-        ["@VLADERE"] = 
-        {
-            [1] = 
-            {
-                [1] = 52,
-            },
-            [2] = 0,
-            [3] = 3,
-            [4] = 1,
-            [5] = 57800,
-            [6] = 202900,
-        },
-        ["@JamesL11"] = 
-        {
-            [1] = 
-            {
-                [1] = 44,
-            },
-            [2] = 1,
-            [3] = 4,
-            [4] = 4,
-            [5] = 485200,
-            [6] = 0,
-        },
-        ["@Sevengods91"] = 
-        {
-            [1] = 
-            {
-                [1] = 7,
-            },
-            [2] = 6,
-            [3] = 13,
-            [4] = 4,
-            [5] = 274600,
-            [6] = 0,
-        },
-        ["@mranth917"] = 
-        {
-            [1] = 
-            {
-                [1] = 47,
-            },
-            [2] = 1,
-            [3] = 2,
-            [4] = 4,
-            [5] = 202900,
-            [6] = 0,
-        },
-        ["@chickenmaster32"] = 
-        {
-            [1] = 
-            {
-                [2] = 4,
-                [1] = 4,
-            },
-            [2] = 0,
-            [3] = 6,
-            [4] = 0,
-            [5] = 37800,
-            [6] = 10500,
-        },
-        ["@Garreeri347"] = 
-        {
-            [1] = 
-            {
-                [1] = 28,
-            },
-            [2] = 1,
-            [3] = 5,
-            [4] = 0,
-            [5] = 161600,
-            [6] = 0,
-        },
-        ["@ViggyBoi"] = 
-        {
-            [1] = 
-            {
-                [1] = 18,
-                [2] = 18,
-                [3] = 44,
-            },
-            [2] = 12,
-            [3] = 13,
-            [4] = 9,
-            [5] = 948100,
-            [6] = 48200,
-        },
-        ["@Jeremy_Dale"] = 
-        {
-            [1] = 
-            {
-                [2] = 25,
-                [1] = 25,
-            },
-            [2] = 0,
-            [3] = 6,
-            [4] = 0,
-            [5] = 112200,
-            [6] = 0,
-        },
-        ["@DNolan"] = 
-        {
-            [1] = 
-            {
-                [1] = 17,
-            },
-            [2] = 3,
-            [3] = 6,
-            [4] = 14,
-            [5] = 283900,
-            [6] = 0,
-        },
-        ["@gazetech"] = 
-        {
-            [1] = 
-            {
-                [2] = 4,
-                [1] = 4,
-            },
-            [2] = 0,
-            [3] = 6,
-            [4] = 0,
-            [5] = 39000,
-            [6] = 0,
-        },
-        ["@Karduki"] = 
-        {
-            [1] = 
-            {
-                [1] = 42,
-            },
-            [2] = 0,
-            [3] = 3,
-            [4] = 0,
-            [5] = 11900,
-            [6] = 0,
-        },
-        ["@nana1234"] = 
-        {
-            [1] = 
-            {
-                [1] = 23,
-            },
-            [2] = 8,
-            [3] = 5,
-            [4] = 15,
-            [5] = 519200,
-            [6] = 95000,
-        },
-        ["@Herrald05"] = 
-        {
-            [1] = 
-            {
-                [2] = 31,
-                [1] = 31,
-            },
-            [2] = 7,
-            [3] = 0,
-            [4] = 12,
-            [5] = 372200,
-            [6] = 0,
-        },
-        ["@Victor_Savage"] = 
-        {
-            [1] = 
-            {
-                [2] = 20,
-                [1] = 20,
-            },
-            [2] = 0,
-            [3] = 6,
-            [4] = 1,
-            [5] = 107100,
-            [6] = 0,
-        },
-        ["@IDhunt"] = 
-        {
-            [1] = 
-            {
-                [1] = 56,
-            },
-            [2] = 5,
-            [3] = 15,
-            [4] = 3,
-            [5] = 718300,
-            [6] = 0,
-        },
-        ["@Yuyi_Reborn"] = 
-        {
-            [1] = 
-            {
-                [1] = 4,
-                [2] = 4,
-                [3] = 60,
-            },
-            [2] = 8,
-            [3] = 6,
-            [4] = 11,
-            [5] = 293900,
-            [6] = 133900,
-        },
-        ["@CraZLeader"] = 
-        {
-            [1] = 
-            {
-                [1] = 55,
-            },
-            [2] = 0,
-            [3] = 9,
-            [4] = 1,
-            [5] = 129900,
-            [6] = 0,
-        },
-        ["@Anarchy2020"] = 
-        {
-            [1] = 
-            {
-                [1] = 45,
-            },
-            [2] = 3,
-            [3] = 7,
-            [4] = 7,
-            [5] = 211400,
-            [6] = 47200,
-        },
-        ["@Trasse"] = 
-        {
-            [1] = 
-            {
-                [1] = 26,
-            },
-            [2] = 16,
-            [3] = 8,
-            [4] = 15,
-            [5] = 1081700,
-            [6] = 11900,
-        },
-        ["@ObxAlchemist"] = 
-        {
-            [1] = 
-            {
-                [1] = 8,
-            },
-            [2] = 3,
-            [3] = 2,
-            [4] = 0,
-            [5] = 119800,
-            [6] = 89500,
-        },
-        ["@Agsurfer001"] = 
-        {
-            [1] = 
-            {
-                [2] = 19,
-                [1] = 14,
-            },
-            [2] = 8,
-            [3] = 16,
-            [4] = 38,
-            [5] = 969700,
-            [6] = 50500,
-        },
-        ["@Zhakkarn1"] = 
-        {
-            [1] = 
-            {
-                [1] = 8,
-            },
-            [2] = 0,
-            [3] = 6,
-            [4] = 0,
-            [5] = 89200,
-            [6] = 6700,
-        },
-        ["@Nandoxy"] = 
-        {
-            [1] = 
-            {
-                [4] = 16,
-                [1] = 10,
-                [2] = 10,
-                [3] = 16,
-            },
-            [2] = 9,
-            [3] = 2,
-            [4] = 16,
-            [5] = 528100,
-            [6] = 0,
-        },
-        ["@Cheka"] = 
-        {
-            [1] = 
-            {
-                [1] = 59,
-            },
-            [2] = 0,
-            [3] = 3,
-            [4] = 0,
-            [5] = 29300,
-            [6] = 45400,
-        },
-        ["@Ragcheese"] = 
-        {
-            [1] = 
-            {
-                [1] = 13,
-                [2] = 15,
-                [3] = 33,
-            },
-            [2] = 6,
-            [3] = 17,
-            [4] = 26,
-            [5] = 725200,
-            [6] = 116500,
-        },
-        ["@aexilnm"] = 
-        {
-            [1] = 
-            {
-                [1] = 34,
-                [2] = 47,
-                [3] = 48,
-            },
-            [2] = 11,
-            [3] = 9,
-            [4] = 8,
-            [5] = 886800,
-            [6] = 198400,
-        },
-        ["@XBringXTheXRainX"] = 
-        {
-            [1] = 
-            {
-                [1] = 39,
-            },
-            [2] = 11,
-            [3] = 6,
-            [4] = 19,
-            [5] = 697300,
-            [6] = 17500,
-        },
-        ["@supermen2696"] = 
-        {
-            [1] = 
-            {
-                [1] = 10,
-                [2] = 10,
-                [3] = 11,
-                [4] = 21,
-                [5] = 21,
-                [6] = 23,
-            },
-            [2] = 25,
-            [3] = 16,
-            [4] = 27,
-            [5] = 1883100,
-            [6] = 150000,
-        },
-        ["@Lindemann225"] = 
-        {
-            [1] = 
-            {
-                [2] = 34,
-                [1] = 28,
-            },
-            [2] = 1,
-            [3] = 3,
-            [4] = 9,
-            [5] = 283300,
-            [6] = 498200,
-        },
-        ["@Madcoweth"] = 
-        {
-            [1] = 
-            {
-                [1] = 45,
-            },
-            [2] = 1,
-            [3] = 8,
-            [4] = 3,
-            [5] = 186400,
-            [6] = 8400,
-        },
-        ["@Maraj"] = 
-        {
-            [1] = 
-            {
-                [1] = 41,
-            },
-            [2] = 2,
-            [3] = 3,
-            [4] = 0,
-            [5] = 516700,
-            [6] = 28700,
-        },
-        ["@DeSyreni"] = 
-        {
-            [1] = 
-            {
-                [2] = 35,
-                [1] = 34,
-            },
-            [2] = 1,
-            [3] = 4,
-            [4] = 0,
-            [5] = 231700,
-            [6] = 1039000,
-        },
-        ["@Silvio39"] = 
-        {
-            [1] = 
-            {
-                [1] = 14,
-            },
-            [2] = 3,
-            [3] = 12,
-            [4] = 5,
-            [5] = 210300,
-            [6] = 8600,
-        },
-        ["@Alvinicus"] = 
-        {
-            [1] = 
-            {
-                [4] = 60,
-                [1] = 22,
-                [2] = 22,
-                [3] = 45,
-            },
-            [2] = 10,
-            [3] = 13,
-            [4] = 11,
-            [5] = 503600,
-            [6] = 19200,
-        },
-        ["@hfywell085"] = 
-        {
-            [1] = 
-            {
-                [1] = 59,
-            },
-            [2] = 15,
-            [3] = 1,
-            [4] = 22,
-            [5] = 1021600,
-            [6] = 23000,
-        },
-        ["@agsurfer002"] = 
-        {
-            [1] = 
-            {
-                [1] = 27,
-            },
-            [2] = 4,
-            [3] = 1,
-            [4] = 10,
-            [5] = 565200,
-            [6] = 0,
-        },
-        ["@Gochaaa"] = 
-        {
-            [1] = 
-            {
-                [1] = 36,
-            },
-            [2] = 10,
-            [3] = 14,
-            [4] = 15,
-            [5] = 945000,
-            [6] = 133000,
-        },
-        ["@Istoranin"] = 
-        {
-            [1] = 
-            {
-                [1] = 37,
-            },
-            [2] = 11,
-            [3] = 5,
-            [4] = 3,
-            [5] = 2258300,
-            [6] = 44700,
-        },
-        ["@Rordogg"] = 
-        {
-            [1] = 
-            {
-                [2] = 48,
-                [1] = 32,
-            },
-            [2] = 17,
-            [3] = 5,
-            [4] = 28,
-            [5] = 1508000,
-            [6] = 157800,
-        },
-        ["@Sanguiise"] = 
-        {
-            [1] = 
-            {
-                [1] = 43,
-            },
-            [2] = 3,
-            [3] = 1,
-            [4] = 1,
-            [5] = 398300,
-            [6] = 14200,
-        },
-        ["@Mistly"] = 
-        {
-            [1] = 
-            {
-                [1] = 61,
-            },
-            [2] = 0,
-            [3] = 6,
-            [4] = 1,
-            [5] = 122400,
-            [6] = 5600,
-        },
-        ["@MrMcClelland"] = 
-        {
-            [1] = 
-            {
-                [1] = 33,
-            },
-            [2] = 1,
-            [3] = 11,
-            [4] = 3,
-            [5] = 270100,
-            [6] = 0,
-        },
-        ["@CommanderBly"] = 
-        {
-            [1] = 
-            {
-                [1] = 52,
-                [2] = 53,
-                [3] = 54,
-            },
-            [2] = 6,
-            [3] = 28,
-            [4] = 1,
-            [5] = 359600,
-            [6] = 0,
-        },
-        ["@Marskalkur"] = 
-        {
-            [1] = 
-            {
-                [1] = 54,
-            },
-            [2] = 5,
-            [3] = 1,
-            [4] = 8,
-            [5] = 672100,
-            [6] = 46100,
-        },
-        ["@Stumpps"] = 
-        {
-            [1] = 
-            {
-                [1] = 15,
-            },
-            [2] = 6,
-            [3] = 1,
-            [4] = 2,
-            [5] = 220100,
-            [6] = 55400,
-        },
-        ["@Olivajadus"] = 
-        {
-            [1] = 
-            {
-                [1] = 29,
-            },
-            [2] = 0,
-            [3] = 6,
-            [4] = 1,
-            [5] = 147600,
-            [6] = 300,
-        },
-        ["@ZFigs"] = 
-        {
-            [1] = 
-            {
-                [1] = 42,
-            },
-            [2] = 0,
-            [3] = 3,
-            [4] = 0,
-            [5] = 0,
-            [6] = 0,
-        },
-        ["@Conjugality"] = 
-        {
-            [1] = 
-            {
-                [1] = 6,
-            },
-            [2] = 7,
-            [3] = 5,
-            [4] = 10,
-            [5] = 456800,
-            [6] = 0,
-        },
-        ["@VAPEKING1985"] = 
-        {
-            [1] = 
-            {
-                [1] = 52,
-                [2] = 55,
-                [3] = 59,
-            },
-            [2] = 9,
-            [3] = 28,
-            [4] = 8,
-            [5] = 2459200,
-            [6] = 168300,
-        },
-        ["@Rororozoroni"] = 
-        {
-            [1] = 
-            {
-                [2] = 46,
-                [1] = 44,
-            },
-            [2] = 2,
-            [3] = 14,
-            [4] = 3,
-            [5] = 952200,
-            [6] = 282200,
-        },
-        ["@Solariken"] = 
-        {
-            [1] = 
-            {
-                [1] = 61,
-            },
-            [2] = 8,
-            [3] = 0,
-            [4] = 9,
-            [5] = 469900,
-            [6] = 38400,
-        },
-        ["@SupremeEternity"] = 
-        {
-            [1] = 
-            {
-                [2] = 19,
-                [1] = 13,
-            },
-            [2] = 0,
-            [3] = 0,
-            [4] = 1,
-            [5] = 43000,
-            [6] = 10300,
-        },
-        ["@Dragonoak"] = 
-        {
-            [1] = 
-            {
-                [1] = 12,
-            },
-            [2] = 0,
-            [3] = 5,
-            [4] = 0,
-            [5] = 148000,
-            [6] = 3300,
-        },
-        ["@Mortal-Kombat"] = 
-        {
-            [1] = 
-            {
-                [1] = 27,
-            },
-            [2] = 3,
-            [3] = 3,
-            [4] = 1,
-            [5] = 316700,
-            [6] = 7400,
-        },
-        ["@ArchaicVagabond"] = 
-        {
-            [1] = 
-            {
-                [1] = 8,
-            },
-            [2] = 20,
-            [3] = 1,
-            [4] = 3,
-            [5] = 934600,
-            [6] = 27000,
-        },
-        ["@Driller3933"] = 
-        {
-            [1] = 
-            {
-                [1] = 3,
-            },
-            [2] = 0,
-            [3] = 6,
-            [4] = 0,
-            [5] = 114300,
-            [6] = 0,
-        },
-        ["@NisheshJ"] = 
-        {
-            [1] = 
-            {
-                [2] = 5,
-                [1] = 5,
-            },
-            [2] = 0,
-            [3] = 6,
-            [4] = 0,
-            [5] = 25500,
-            [6] = 635300,
-        },
-        ["@mogu-mogu"] = 
-        {
-            [1] = 
-            {
-                [2] = 25,
-                [1] = 25,
-            },
-            [2] = 7,
-            [3] = 0,
-            [4] = 11,
-            [5] = 1058500,
-            [6] = 2900,
-        },
-        ["@misfortun3"] = 
-        {
-            [1] = 
-            {
-                [1] = 1,
-                [2] = 2,
-                [3] = 3,
-            },
-            [2] = 60,
-            [3] = 2,
-            [4] = 29,
-            [5] = 3102900,
-            [6] = 298700,
-        },
-        ["@jane7zero"] = 
-        {
-            [1] = 
-            {
-                [1] = 51,
-            },
-            [2] = 0,
-            [3] = 5,
-            [4] = 0,
-            [5] = 38500,
-            [6] = 3600,
-        },
-        ["@Dtarzo"] = 
-        {
-            [1] = 
-            {
-                [1] = 38,
-            },
-            [2] = 0,
-            [3] = 16,
-            [4] = 0,
-            [5] = 274700,
-            [6] = 3700,
-        },
-        ["@MadMagni"] = 
-        {
-            [1] = 
-            {
-                [1] = 35,
-            },
-            [2] = 10,
-            [3] = 5,
-            [4] = 10,
-            [5] = 1354700,
-            [6] = 18500,
-        },
-        ["@Terra-93"] = 
-        {
-            [1] = 
-            {
-                [1] = 54,
-                [2] = 55,
-                [3] = 56,
-            },
-            [2] = 16,
-            [3] = 4,
-            [4] = 5,
-            [5] = 1019600,
-            [6] = 6100,
-        },
-        ["@Kanteroth"] = 
-        {
-            [1] = 
-            {
-                [1] = 44,
-            },
-            [2] = 5,
-            [3] = 6,
-            [4] = 9,
-            [5] = 820500,
-            [6] = 0,
-        },
-        ["@LycanIII"] = 
-        {
-            [1] = 
-            {
-                [1] = 37,
-            },
-            [2] = 5,
-            [3] = 5,
-            [4] = 10,
-            [5] = 896000,
-            [6] = 0,
-        },
-        ["@Natural-Pain"] = 
-        {
-            [1] = 
-            {
-                [1] = 47,
-            },
-            [2] = 1,
-            [3] = 4,
-            [4] = 3,
-            [5] = 251700,
-            [6] = 0,
-        },
-        ["@Kisha"] = 
-        {
-            [1] = 
-            {
-                [1] = 61,
-            },
-            [2] = 0,
-            [3] = 6,
-            [4] = 1,
-            [5] = 94800,
-            [6] = 30100,
-        },
         ["@Chief_Grief"] = 
         {
             [1] = 
@@ -4852,41 +5566,29 @@ ImpressiveStatsPlayersCache =
             [5] = 157000,
             [6] = 5600,
         },
-        ["@Mal3v0Villa"] = 
+        ["@MatiasGabriel"] = 
         {
             [1] = 
             {
-                [2] = 24,
-                [1] = 24,
+                [2] = 31,
+                [1] = 31,
+            },
+            [2] = 0,
+            [3] = 6,
+            [4] = 0,
+            [5] = 9900,
+            [6] = 8400,
+        },
+        ["@Karduki"] = 
+        {
+            [1] = 
+            {
+                [1] = 42,
             },
             [2] = 0,
             [3] = 3,
             [4] = 0,
-            [5] = 25700,
-            [6] = 0,
-        },
-        ["@dogaege"] = 
-        {
-            [1] = 
-            {
-                [1] = 32,
-            },
-            [2] = 0,
-            [3] = 7,
-            [4] = 1,
-            [5] = 323600,
-            [6] = 60600,
-        },
-        ["@lllVIVlll"] = 
-        {
-            [1] = 
-            {
-                [1] = 30,
-            },
-            [2] = 0,
-            [3] = 8,
-            [4] = 2,
-            [5] = 120400,
+            [5] = 11900,
             [6] = 0,
         },
         ["@liatess"] = 
@@ -4908,263 +5610,107 @@ ImpressiveStatsPlayersCache =
             [5] = 2553900,
             [6] = 814200,
         },
-        ["@Rotwave"] = 
+        ["@IDhunt"] = 
         {
             [1] = 
             {
-                [1] = 17,
-                [2] = 57,
-                [3] = 58,
+                [1] = 56,
             },
-            [2] = 10,
-            [3] = 10,
-            [4] = 9,
-            [5] = 877600,
-            [6] = 83500,
-        },
-        ["@SpinTheBlock"] = 
-        {
-            [1] = 
-            {
-                [2] = 16,
-                [1] = 16,
-            },
-            [2] = 3,
-            [3] = 6,
-            [4] = 2,
-            [5] = 277700,
+            [2] = 5,
+            [3] = 15,
+            [4] = 3,
+            [5] = 718300,
             [6] = 0,
         },
-        ["@Vyridisea"] = 
+        ["@Naym3n"] = 
         {
             [1] = 
             {
-                [2] = 21,
-                [1] = 21,
+                [2] = 9,
+                [1] = 9,
             },
-            [2] = 2,
+            [2] = 5,
+            [3] = 0,
+            [4] = 11,
+            [5] = 240200,
+            [6] = 0,
+        },
+        ["@ZFigs"] = 
+        {
+            [1] = 
+            {
+                [1] = 42,
+            },
+            [2] = 0,
+            [3] = 3,
+            [4] = 0,
+            [5] = 0,
+            [6] = 0,
+        },
+        ["@Onyro"] = 
+        {
+            [1] = 
+            {
+                [1] = 48,
+            },
+            [2] = 19,
+            [3] = 3,
+            [4] = 14,
+            [5] = 1020700,
+            [6] = 95300,
+        },
+        ["@Sanguiise"] = 
+        {
+            [1] = 
+            {
+                [1] = 43,
+            },
+            [2] = 3,
+            [3] = 1,
+            [4] = 1,
+            [5] = 398300,
+            [6] = 14200,
+        },
+        ["@QR1234666"] = 
+        {
+            [1] = 
+            {
+                [1] = 55,
+                [2] = 56,
+                [3] = 59,
+            },
+            [2] = 28,
+            [3] = 11,
+            [4] = 26,
+            [5] = 2213000,
+            [6] = 118800,
+        },
+        ["@Yuyi_Reborn"] = 
+        {
+            [1] = 
+            {
+                [1] = 4,
+                [2] = 4,
+                [3] = 60,
+            },
+            [2] = 8,
             [3] = 6,
-            [4] = 6,
-            [5] = 246400,
-            [6] = 700,
+            [4] = 11,
+            [5] = 293900,
+            [6] = 133900,
         },
-        ["@Strifex_78"] = 
-        {
-            [1] = 
-            {
-                [2] = 2,
-                [1] = 1,
-            },
-            [2] = 11,
-            [3] = 17,
-            [4] = 19,
-            [5] = 882200,
-            [6] = 111400,
-        },
-        ["@ChezDaGoon"] = 
+        ["@Mal3v0Villa"] = 
         {
             [1] = 
             {
                 [2] = 24,
                 [1] = 24,
             },
-            [2] = 3,
-            [3] = 0,
-            [4] = 6,
-            [5] = 104600,
-            [6] = 26500,
-        },
-        ["@mathsanto"] = 
-        {
-            [1] = 
-            {
-                [1] = 14,
-                [2] = 16,
-                [3] = 16,
-            },
-            [2] = 8,
-            [3] = 24,
-            [4] = 15,
-            [5] = 643500,
-            [6] = 50900,
-        },
-        ["@ExplicitQue"] = 
-        {
-            [1] = 
-            {
-                [2] = 35,
-                [1] = 34,
-            },
-            [2] = 8,
-            [3] = 9,
-            [4] = 5,
-            [5] = 1372000,
-            [6] = 31900,
-        },
-        ["@MyInnerNinja"] = 
-        {
-            [1] = 
-            {
-                [2] = 10,
-                [1] = 10,
-            },
             [2] = 0,
-            [3] = 6,
-            [4] = 2,
-            [5] = 143300,
-            [6] = 0,
-        },
-        ["@Friddle"] = 
-        {
-            [1] = 
-            {
-                [1] = 10,
-                [2] = 10,
-                [3] = 27,
-            },
-            [2] = 8,
-            [3] = 4,
-            [4] = 9,
-            [5] = 350400,
-            [6] = 311200,
-        },
-        ["@shivalingax"] = 
-        {
-            [1] = 
-            {
-                [2] = 25,
-                [1] = 25,
-            },
-            [2] = 4,
-            [3] = 0,
-            [4] = 13,
-            [5] = 789400,
-            [6] = 70600,
-        },
-        ["@Jas06"] = 
-        {
-            [1] = 
-            {
-                [2] = 37,
-                [1] = 33,
-            },
-            [2] = 10,
-            [3] = 5,
-            [4] = 17,
-            [5] = 690400,
-            [6] = 41100,
-        },
-        ["@YSMIRRAKA"] = 
-        {
-            [1] = 
-            {
-                [2] = 2,
-                [1] = 1,
-            },
-            [2] = 6,
-            [3] = 14,
-            [4] = 15,
-            [5] = 727300,
-            [6] = 10000,
-        },
-        ["@vane000"] = 
-        {
-            [1] = 
-            {
-                [2] = 51,
-                [1] = 26,
-            },
-            [2] = 16,
-            [3] = 9,
-            [4] = 17,
-            [5] = 1143700,
-            [6] = 87800,
-        },
-        ["@Mini-Manimal"] = 
-        {
-            [1] = 
-            {
-                [1] = 45,
-            },
-            [2] = 2,
             [3] = 3,
-            [4] = 5,
-            [5] = 394900,
-            [6] = 107400,
-        },
-        ["@ginzero"] = 
-        {
-            [1] = 
-            {
-                [1] = 23,
-                [2] = 28,
-                [3] = 35,
-            },
-            [2] = 19,
-            [3] = 28,
-            [4] = 27,
-            [5] = 5127000,
-            [6] = 0,
-        },
-        ["@psic0pata"] = 
-        {
-            [1] = 
-            {
-                [1] = 48,
-            },
-            [2] = 4,
-            [3] = 20,
-            [4] = 8,
-            [5] = 1020500,
-            [6] = 0,
-        },
-        ["@Guiks7"] = 
-        {
-            [1] = 
-            {
-                [1] = 12,
-            },
-            [2] = 0,
-            [3] = 2,
             [4] = 0,
-            [5] = 73200,
+            [5] = 25700,
             [6] = 0,
-        },
-        ["@Dzuris"] = 
-        {
-            [1] = 
-            {
-                [1] = 23,
-            },
-            [2] = 6,
-            [3] = 9,
-            [4] = 12,
-            [5] = 595500,
-            [6] = 0,
-        },
-        ["@Dragonkyru"] = 
-        {
-            [1] = 
-            {
-                [1] = 8,
-            },
-            [2] = 1,
-            [3] = 6,
-            [4] = 0,
-            [5] = 119600,
-            [6] = 0,
-        },
-        ["@team_phamm"] = 
-        {
-            [1] = 
-            {
-                [1] = 46,
-            },
-            [2] = 5,
-            [3] = 4,
-            [4] = 3,
-            [5] = 508500,
-            [6] = 2800,
         },
         ["@Imapexjr"] = 
         {
@@ -5181,456 +5727,119 @@ ImpressiveStatsPlayersCache =
             [5] = 1636400,
             [6] = 16800,
         },
-        ["@CaptainBump"] = 
+        ["@Mortal-Kombat"] = 
         {
             [1] = 
             {
-                [1] = 43,
+                [1] = 27,
             },
-            [2] = 0,
-            [3] = 2,
-            [4] = 0,
-            [5] = 141500,
-            [6] = 0,
+            [2] = 3,
+            [3] = 3,
+            [4] = 1,
+            [5] = 316700,
+            [6] = 7400,
         },
-        ["@wingmantarou-jp"] = 
+        ["@yokudanwarrior91"] = 
         {
             [1] = 
             {
-                [1] = 45,
+                [2] = 24,
+                [1] = 24,
+            },
+            [2] = 10,
+            [3] = 0,
+            [4] = 7,
+            [5] = 263400,
+            [6] = 4000,
+        },
+        ["@Saiki0831"] = 
+        {
+            [1] = 
+            {
+                [1] = 2,
+                [2] = 32,
+                [3] = 43,
+            },
+            [2] = 8,
+            [3] = 18,
+            [4] = 25,
+            [5] = 1907100,
+            [6] = 370600,
+        },
+        ["@Suken"] = 
+        {
+            [1] = 
+            {
+                [1] = 11,
             },
             [2] = 2,
-            [3] = 2,
-            [4] = 4,
-            [5] = 248400,
-            [6] = 24900,
+            [3] = 0,
+            [4] = 0,
+            [5] = 99500,
+            [6] = 5100,
         },
-        ["@TBDLXBACON"] = 
+        ["@MrMcClelland"] = 
         {
             [1] = 
             {
-                [1] = 45,
+                [1] = 33,
             },
             [2] = 1,
-            [3] = 10,
-            [4] = 4,
-            [5] = 161400,
-            [6] = 6000,
+            [3] = 11,
+            [4] = 3,
+            [5] = 270100,
+            [6] = 0,
         },
-        ["@Roommck"] = 
-        {
-            [1] = 
-            {
-                [2] = 21,
-                [1] = 21,
-            },
-            [2] = 0,
-            [3] = 6,
-            [4] = 0,
-            [5] = 60100,
-            [6] = 268400,
-        },
-        ["@YininNYangin"] = 
-        {
-            [1] = 
-            {
-                [1] = 40,
-            },
-            [2] = 9,
-            [3] = 0,
-            [4] = 9,
-            [5] = 300300,
-            [6] = 28600,
-        },
-        ["@Bell-Nimino"] = 
+        ["@DKKID3000"] = 
         {
             [1] = 
             {
                 [1] = 41,
             },
-            [2] = 1,
-            [3] = 8,
+            [2] = 0,
+            [3] = 13,
             [4] = 1,
-            [5] = 175900,
-            [6] = 1000,
+            [5] = 79300,
+            [6] = 39700,
         },
-        ["@XxPaypaKuttaxX"] = 
+        ["@ChezDaGoon"] = 
         {
             [1] = 
             {
-                [2] = 5,
-                [1] = 5,
+                [2] = 24,
+                [1] = 24,
             },
-            [2] = 0,
-            [3] = 6,
-            [4] = 3,
-            [5] = 164700,
-            [6] = 41200,
-        },
-        ["@teajohns"] = 
-        {
-            [1] = 
-            {
-                [1] = 36,
-            },
-            [2] = 12,
-            [3] = 8,
-            [4] = 13,
-            [5] = 1200700,
-            [6] = 67400,
-        },
-        ["@ransom2211"] = 
-        {
-            [1] = 
-            {
-                [1] = 19,
-                [2] = 20,
-                [3] = 20,
-            },
-            [2] = 1,
-            [3] = 9,
-            [4] = 3,
-            [5] = 99300,
-            [6] = 0,
-        },
-        ["@G0MAROZDUBAR"] = 
-        {
-            [1] = 
-            {
-                [1] = 3,
-            },
-            [2] = 0,
-            [3] = 6,
-            [4] = 0,
-            [5] = 18000,
-            [6] = 2100,
-        },
-        ["@BABYJOKER107"] = 
-        {
-            [1] = 
-            {
-                [1] = 40,
-            },
-            [2] = 0,
-            [3] = 6,
-            [4] = 0,
-            [5] = 191300,
-            [6] = 0,
-        },
-        ["@Guda.x"] = 
-        {
-            [1] = 
-            {
-                [1] = 12,
-                [2] = 31,
-                [3] = 31,
-            },
-            [2] = 16,
+            [2] = 3,
             [3] = 0,
-            [4] = 16,
-            [5] = 729200,
-            [6] = 30300,
+            [4] = 6,
+            [5] = 104600,
+            [6] = 26500,
         },
-        ["@Alucard5551"] = 
+        ["@znosh"] = 
         {
             [1] = 
             {
-                [1] = 50,
-            },
-            [2] = 0,
-            [3] = 4,
-            [4] = 0,
-            [5] = 45900,
-            [6] = 0,
-        },
-        ["@leohl97"] = 
-        {
-            [1] = 
-            {
-                [1] = 14,
-            },
-            [2] = 11,
-            [3] = 7,
-            [4] = 12,
-            [5] = 388100,
-            [6] = 0,
-        },
-        ["@Drako-Ei"] = 
-        {
-            [1] = 
-            {
-                [2] = 9,
-                [1] = 9,
-            },
-            [2] = 12,
-            [3] = 0,
-            [4] = 7,
-            [5] = 372800,
-            [6] = 37300,
-        },
-        ["@mococa38"] = 
-        {
-            [1] = 
-            {
-                [2] = 35,
-                [1] = 28,
-            },
-            [2] = 9,
-            [3] = 7,
-            [4] = 13,
-            [5] = 1731600,
-            [6] = 0,
-        },
-        ["@TeddyScriptures"] = 
-        {
-            [1] = 
-            {
-                [2] = 59,
-                [1] = 52,
-            },
-            [2] = 25,
-            [3] = 5,
-            [4] = 27,
-            [5] = 2647500,
-            [6] = 108500,
-        },
-        ["@AmberAlerts"] = 
-        {
-            [1] = 
-            {
-                [1] = 7,
-            },
-            [2] = 6,
-            [3] = 5,
-            [4] = 11,
-            [5] = 246300,
-            [6] = 36600,
-        },
-        ["@KANKUDAY"] = 
-        {
-            [1] = 
-            {
-                [4] = 60,
                 [1] = 1,
-                [2] = 6,
-                [3] = 30,
             },
-            [2] = 13,
-            [3] = 23,
-            [4] = 17,
-            [5] = 958100,
-            [6] = 6500,
+            [2] = 0,
+            [3] = 18,
+            [4] = 0,
+            [5] = 42300,
+            [6] = 344700,
         },
-        ["@MrGateKeeper"] = 
+        ["@Alienor1236"] = 
         {
             [1] = 
             {
-                [1] = 43,
-            },
-            [2] = 12,
-            [3] = 0,
-            [4] = 4,
-            [5] = 542800,
-            [6] = 135000,
-        },
-        ["@NobleDistrictBoss"] = 
-        {
-            [1] = 
-            {
-                [1] = 20,
+                [1] = 15,
             },
             [2] = 0,
             [3] = 3,
-            [4] = 1,
-            [5] = 77600,
-            [6] = 0,
-        },
-        ["@blackrafer"] = 
-        {
-            [1] = 
-            {
-                [2] = 9,
-                [1] = 9,
-            },
-            [2] = 1,
-            [3] = 0,
-            [4] = 1,
-            [5] = 41700,
-            [6] = 200400,
-        },
-        ["@Glidebot"] = 
-        {
-            [1] = 
-            {
-                [1] = 37,
-            },
-            [2] = 1,
-            [3] = 3,
-            [4] = 4,
-            [5] = 572500,
-            [6] = 64400,
-        },
-        ["@Chee_Official"] = 
-        {
-            [1] = 
-            {
-                [1] = 46,
-            },
-            [2] = 0,
-            [3] = 1,
             [4] = 0,
-            [5] = 265200,
-            [6] = 438400,
+            [5] = 66300,
+            [6] = 15900,
         },
-        ["@garwa00"] = 
-        {
-            [1] = 
-            {
-                [2] = 53,
-                [1] = 52,
-            },
-            [2] = 0,
-            [3] = 4,
-            [4] = 2,
-            [5] = 169000,
-            [6] = 790100,
-        },
-        ["@SitrucYerb"] = 
-        {
-            [1] = 
-            {
-                [1] = 28,
-            },
-            [2] = 8,
-            [3] = 0,
-            [4] = 9,
-            [5] = 420900,
-            [6] = 66900,
-        },
-        ["@TheAnarie"] = 
-        {
-            [1] = 
-            {
-                [1] = 42,
-            },
-            [2] = 0,
-            [3] = 6,
-            [4] = 0,
-            [5] = 44600,
-            [6] = 2600,
-        },
-        ["@HerbSkywalka"] = 
-        {
-            [1] = 
-            {
-                [1] = 29,
-            },
-            [2] = 5,
-            [3] = 3,
-            [4] = 5,
-            [5] = 153600,
-            [6] = 5700,
-        },
-        ["@FishFingerLord"] = 
-        {
-            [1] = 
-            {
-                [1] = 32,
-            },
-            [2] = 2,
-            [3] = 8,
-            [4] = 0,
-            [5] = 293600,
-            [6] = 0,
-        },
-        ["@UnknRenegade"] = 
-        {
-            [1] = 
-            {
-                [2] = 21,
-                [1] = 21,
-            },
-            [2] = 3,
-            [3] = 6,
-            [4] = 2,
-            [5] = 319700,
-            [6] = 0,
-        },
-        ["@SeaborneSlayer"] = 
-        {
-            [1] = 
-            {
-                [2] = 59,
-                [1] = 53,
-            },
-            [2] = 5,
-            [3] = 6,
-            [4] = 8,
-            [5] = 704600,
-            [6] = 31000,
-        },
-        ["@Amir50"] = 
-        {
-            [1] = 
-            {
-                [1] = 49,
-            },
-            [2] = 21,
-            [3] = 0,
-            [4] = 11,
-            [5] = 900800,
-            [6] = 111900,
-        },
-        ["@LeMirage1957"] = 
-        {
-            [1] = 
-            {
-                [1] = 36,
-            },
-            [2] = 0,
-            [3] = 10,
-            [4] = 0,
-            [5] = 73500,
-            [6] = 0,
-        },
-        ["@Daiolian"] = 
-        {
-            [1] = 
-            {
-                [1] = 7,
-            },
-            [2] = 5,
-            [3] = 11,
-            [4] = 7,
-            [5] = 425300,
-            [6] = 3300,
-        },
-        ["@Pedro_Hilfiger"] = 
-        {
-            [1] = 
-            {
-                [1] = 32,
-            },
-            [2] = 0,
-            [3] = 0,
-            [4] = 1,
-            [5] = 21900,
-            [6] = 446200,
-        },
-        ["@Ichikiru"] = 
-        {
-            [1] = 
-            {
-                [2] = 36,
-                [1] = 27,
-            },
-            [2] = 3,
-            [3] = 10,
-            [4] = 13,
-            [5] = 1055700,
-            [6] = 16500,
-        },
-        ["@BeerF4rts"] = 
+        ["@AffroZack"] = 
         {
             [1] = 
             {
@@ -5639,121 +5848,80 @@ ImpressiveStatsPlayersCache =
             [2] = 0,
             [3] = 3,
             [4] = 0,
-            [5] = 120300,
-            [6] = 0,
+            [5] = 36800,
+            [6] = 4100,
         },
-        ["@Frosthound96"] = 
+        ["@Stykxz"] = 
         {
             [1] = 
             {
-                [2] = 31,
+                [1] = 35,
+            },
+            [2] = 12,
+            [3] = 6,
+            [4] = 11,
+            [5] = 2314700,
+            [6] = 31400,
+        },
+        ["@calamarsin"] = 
+        {
+            [1] = 
+            {
+                [1] = 47,
+            },
+            [2] = 2,
+            [3] = 4,
+            [4] = 5,
+            [5] = 206100,
+            [6] = 36900,
+        },
+        ["@zdm20081"] = 
+        {
+            [1] = 
+            {
+                [1] = 5,
+            },
+            [2] = 4,
+            [3] = 1,
+            [4] = 5,
+            [5] = 157100,
+            [6] = 17000,
+        },
+        ["@JuanVasquez2000"] = 
+        {
+            [1] = 
+            {
+                [1] = 24,
+            },
+            [2] = 0,
+            [3] = 3,
+            [4] = 0,
+            [5] = 82600,
+            [6] = 10300,
+        },
+        ["@finalyang"] = 
+        {
+            [1] = 
+            {
                 [1] = 31,
             },
             [2] = 0,
-            [3] = 6,
+            [3] = 3,
             [4] = 0,
-            [5] = 53800,
+            [5] = 7900,
             [6] = 0,
         },
-        ["@Logandis"] = 
+        ["@Madcoweth"] = 
         {
             [1] = 
             {
-                [1] = 20,
-                [2] = 20,
-                [3] = 34,
-            },
-            [2] = 11,
-            [3] = 3,
-            [4] = 9,
-            [5] = 745200,
-            [6] = 19100,
-        },
-        ["@GITZB"] = 
-        {
-            [1] = 
-            {
-                [1] = 36,
-            },
-            [2] = 5,
-            [3] = 19,
-            [4] = 14,
-            [5] = 931500,
-            [6] = 48700,
-        },
-        ["@SamTarly"] = 
-        {
-            [1] = 
-            {
-                [1] = 38,
-            },
-            [2] = 2,
-            [3] = 8,
-            [4] = 0,
-            [5] = 651200,
-            [6] = 0,
-        },
-        ["@Wulfgaran"] = 
-        {
-            [1] = 
-            {
-                [1] = 30,
-            },
-            [2] = 5,
-            [3] = 6,
-            [4] = 2,
-            [5] = 272500,
-            [6] = 0,
-        },
-        ["@xenagreen53"] = 
-        {
-            [1] = 
-            {
-                [1] = 2,
-            },
-            [2] = 3,
-            [3] = 3,
-            [4] = 5,
-            [5] = 226500,
-            [6] = 56000,
-        },
-        ["@BanksDewDream"] = 
-        {
-            [1] = 
-            {
-                [2] = 50,
-                [1] = 49,
-            },
-            [2] = 18,
-            [3] = 3,
-            [4] = 14,
-            [5] = 965500,
-            [6] = 22500,
-        },
-        ["@Telluschar"] = 
-        {
-            [1] = 
-            {
-                [1] = 39,
+                [1] = 45,
             },
             [2] = 1,
-            [3] = 19,
-            [4] = 5,
-            [5] = 428200,
-            [6] = 0,
-        },
-        ["@XuQingYu"] = 
-        {
-            [1] = 
-            {
-                [2] = 29,
-                [1] = 1,
-            },
-            [2] = 3,
-            [3] = 3,
-            [4] = 19,
-            [5] = 497600,
-            [6] = 0,
+            [3] = 8,
+            [4] = 3,
+            [5] = 186400,
+            [6] = 8400,
         },
         ["@Rodrooch"] = 
         {
@@ -5767,18 +5935,245 @@ ImpressiveStatsPlayersCache =
             [5] = 2506200,
             [6] = 171600,
         },
-        ["@Sungods1n"] = 
+        ["@Vyridisea"] = 
         {
             [1] = 
             {
                 [2] = 21,
                 [1] = 21,
             },
-            [2] = 1,
+            [2] = 2,
             [3] = 6,
-            [4] = 1,
-            [5] = 146600,
+            [4] = 6,
+            [5] = 246400,
+            [6] = 700,
+        },
+        ["@JiggyJamez"] = 
+        {
+            [1] = 
+            {
+                [1] = 39,
+            },
+            [2] = 1,
+            [3] = 5,
+            [4] = 8,
+            [5] = 206800,
+            [6] = 100000,
+        },
+        ["@HerbSkywalka"] = 
+        {
+            [1] = 
+            {
+                [1] = 29,
+            },
+            [2] = 5,
+            [3] = 3,
+            [4] = 5,
+            [5] = 153600,
+            [6] = 5700,
+        },
+        ["@YSMIRRAKA"] = 
+        {
+            [1] = 
+            {
+                [2] = 2,
+                [1] = 1,
+            },
+            [2] = 6,
+            [3] = 14,
+            [4] = 15,
+            [5] = 727300,
+            [6] = 10000,
+        },
+        ["@graczwgre"] = 
+        {
+            [1] = 
+            {
+                [1] = 12,
+                [2] = 31,
+                [3] = 31,
+            },
+            [2] = 1,
+            [3] = 0,
+            [4] = 2,
+            [5] = 34600,
+            [6] = 298700,
+        },
+        ["@dextroke75"] = 
+        {
+            [1] = 
+            {
+                [1] = 60,
+            },
+            [2] = 1,
+            [3] = 0,
+            [4] = 8,
+            [5] = 166300,
             [6] = 0,
+        },
+        ["@DNolan"] = 
+        {
+            [1] = 
+            {
+                [1] = 17,
+            },
+            [2] = 3,
+            [3] = 6,
+            [4] = 14,
+            [5] = 283900,
+            [6] = 0,
+        },
+        ["@Schneider_Js"] = 
+        {
+            [1] = 
+            {
+                [2] = 61,
+                [1] = 51,
+            },
+            [2] = 4,
+            [3] = 4,
+            [4] = 9,
+            [5] = 312200,
+            [6] = 17600,
+        },
+        ["@Hybba"] = 
+        {
+            [1] = 
+            {
+                [1] = 11,
+            },
+            [2] = 2,
+            [3] = 4,
+            [4] = 1,
+            [5] = 395500,
+            [6] = 47000,
+        },
+        ["@Friddle"] = 
+        {
+            [1] = 
+            {
+                [1] = 10,
+                [2] = 10,
+                [3] = 27,
+            },
+            [2] = 8,
+            [3] = 4,
+            [4] = 9,
+            [5] = 350400,
+            [6] = 311200,
+        },
+        ["@LycanIII"] = 
+        {
+            [1] = 
+            {
+                [1] = 37,
+            },
+            [2] = 5,
+            [3] = 5,
+            [4] = 10,
+            [5] = 896000,
+            [6] = 0,
+        },
+        ["@DeSyreni"] = 
+        {
+            [1] = 
+            {
+                [2] = 35,
+                [1] = 34,
+            },
+            [2] = 1,
+            [3] = 4,
+            [4] = 0,
+            [5] = 231700,
+            [6] = 1039000,
+        },
+        ["@Gutsyh"] = 
+        {
+            [1] = 
+            {
+                [1] = 6,
+            },
+            [2] = 0,
+            [3] = 5,
+            [4] = 0,
+            [5] = 3000,
+            [6] = 154800,
+        },
+        ["@CaptainBump"] = 
+        {
+            [1] = 
+            {
+                [1] = 43,
+            },
+            [2] = 0,
+            [3] = 2,
+            [4] = 0,
+            [5] = 141500,
+            [6] = 0,
+        },
+        ["@Ioakim"] = 
+        {
+            [1] = 
+            {
+                [1] = 13,
+            },
+            [2] = 2,
+            [3] = 0,
+            [4] = 1,
+            [5] = 61300,
+            [6] = 36300,
+        },
+        ["@CJmoment"] = 
+        {
+            [1] = 
+            {
+                [1] = 12,
+            },
+            [2] = 6,
+            [3] = 0,
+            [4] = 8,
+            [5] = 267500,
+            [6] = 26500,
+        },
+        ["@nofearr"] = 
+        {
+            [1] = 
+            {
+                [1] = 51,
+            },
+            [2] = 1,
+            [3] = 0,
+            [4] = 5,
+            [5] = 108300,
+            [6] = 21200,
+        },
+        ["@SirDamonLeStoner"] = 
+        {
+            [1] = 
+            {
+                [1] = 4,
+                [2] = 4,
+                [3] = 6,
+            },
+            [2] = 2,
+            [3] = 14,
+            [4] = 4,
+            [5] = 339100,
+            [6] = 0,
+        },
+        ["@Emanth3Chosen"] = 
+        {
+            [1] = 
+            {
+                [1] = 52,
+                [2] = 57,
+                [3] = 58,
+            },
+            [2] = 41,
+            [3] = 1,
+            [4] = 15,
+            [5] = 3630100,
+            [6] = 55000,
         },
         ["@sanada_yukimura"] = 
         {
@@ -5795,6 +6190,30 @@ ImpressiveStatsPlayersCache =
             [5] = 39700,
             [6] = 833600,
         },
+        ["@TorbjornTheEngineer"] = 
+        {
+            [1] = 
+            {
+                [1] = 51,
+            },
+            [2] = 0,
+            [3] = 4,
+            [4] = 0,
+            [5] = 47100,
+            [6] = 36200,
+        },
+        ["@osuraepiphysis"] = 
+        {
+            [1] = 
+            {
+                [1] = 38,
+            },
+            [2] = 11,
+            [3] = 1,
+            [4] = 13,
+            [5] = 707600,
+            [6] = 77200,
+        },
         ["@Quintinw"] = 
         {
             [1] = 
@@ -5809,236 +6228,66 @@ ImpressiveStatsPlayersCache =
             [5] = 293600,
             [6] = 2474700,
         },
-        ["@skizzy_TV"] = 
+        ["@Kanteroth"] = 
         {
             [1] = 
             {
-                [2] = 16,
-                [1] = 16,
+                [1] = 44,
             },
-            [2] = 2,
+            [2] = 5,
             [3] = 6,
-            [4] = 2,
-            [5] = 255000,
+            [4] = 9,
+            [5] = 820500,
             [6] = 0,
         },
-        ["@DanyellaSilverfire"] = 
+        ["@nikotm"] = 
+        {
+            [1] = 
+            {
+                [1] = 42,
+            },
+            [2] = 7,
+            [3] = 0,
+            [4] = 14,
+            [5] = 248800,
+            [6] = 0,
+        },
+        ["@GugaLipa"] = 
+        {
+            [1] = 
+            {
+                [1] = 27,
+            },
+            [2] = 0,
+            [3] = 7,
+            [4] = 0,
+            [5] = 36500,
+            [6] = 325000,
+        },
+        ["@StockierGuide33"] = 
         {
             [1] = 
             {
                 [2] = 9,
                 [1] = 9,
             },
-            [2] = 0,
-            [3] = 6,
-            [4] = 0,
-            [5] = 16100,
-            [6] = 0,
-        },
-        ["@nfbent"] = 
-        {
-            [1] = 
-            {
-                [2] = 10,
-                [1] = 10,
-            },
-            [2] = 1,
-            [3] = 6,
-            [4] = 3,
-            [5] = 215500,
-            [6] = 0,
-        },
-        ["@yokudanwarrior91"] = 
-        {
-            [1] = 
-            {
-                [2] = 24,
-                [1] = 24,
-            },
-            [2] = 10,
+            [2] = 3,
             [3] = 0,
-            [4] = 7,
-            [5] = 263400,
-            [6] = 4000,
+            [4] = 5,
+            [5] = 161700,
+            [6] = 33600,
         },
-        ["@JeanValJean"] = 
+        ["@dogaege"] = 
         {
             [1] = 
             {
-                [1] = 38,
-            },
-            [2] = 2,
-            [3] = 0,
-            [4] = 9,
-            [5] = 257700,
-            [6] = 36100,
-        },
-        ["@nosz"] = 
-        {
-            [1] = 
-            {
-                [1] = 40,
-            },
-            [2] = 2,
-            [3] = 6,
-            [4] = 0,
-            [5] = 307700,
-            [6] = 0,
-        },
-        ["@Shoez28"] = 
-        {
-            [1] = 
-            {
-                [1] = 40,
-            },
-            [2] = 0,
-            [3] = 2,
-            [4] = 0,
-            [5] = 10100,
-            [6] = 127100,
-        },
-        ["@Carson24s"] = 
-        {
-            [1] = 
-            {
-                [4] = 48,
-                [1] = 28,
-                [2] = 33,
-                [3] = 47,
-            },
-            [2] = 14,
-            [3] = 21,
-            [4] = 26,
-            [5] = 1836800,
-            [6] = 57600,
-        },
-        ["@Windowsxp20213"] = 
-        {
-            [1] = 
-            {
-                [2] = 5,
-                [1] = 5,
-            },
-            [2] = 0,
-            [3] = 6,
-            [4] = 4,
-            [5] = 330600,
-            [6] = 40000,
-        },
-        ["@Scylion"] = 
-        {
-            [1] = 
-            {
-                [1] = 6,
-            },
-            [2] = 4,
-            [3] = 7,
-            [4] = 2,
-            [5] = 251000,
-            [6] = 0,
-        },
-        ["@twosocks82"] = 
-        {
-            [1] = 
-            {
-                [1] = 11,
+                [1] = 32,
             },
             [2] = 0,
             [3] = 7,
             [4] = 1,
-            [5] = 87700,
-            [6] = 9700,
-        },
-        ["@osuraepiphysis"] = 
-        {
-            [1] = 
-            {
-                [1] = 38,
-            },
-            [2] = 11,
-            [3] = 1,
-            [4] = 13,
-            [5] = 707600,
-            [6] = 77200,
-        },
-        ["@Raffent"] = 
-        {
-            [1] = 
-            {
-                [1] = 56,
-                [2] = 57,
-                [3] = 58,
-            },
-            [2] = 8,
-            [3] = 22,
-            [4] = 6,
-            [5] = 794300,
-            [6] = 8700,
-        },
-        ["@ruyyerguy"] = 
-        {
-            [1] = 
-            {
-                [1] = 10,
-                [2] = 10,
-                [3] = 13,
-            },
-            [2] = 6,
-            [3] = 9,
-            [4] = 8,
-            [5] = 356500,
-            [6] = 11400,
-        },
-        ["@Ethereal_Dewd"] = 
-        {
-            [1] = 
-            {
-                [1] = 8,
-            },
-            [2] = 0,
-            [3] = 1,
-            [4] = 0,
-            [5] = 47400,
-            [6] = 16700,
-        },
-        ["@SugarberryCookies"] = 
-        {
-            [1] = 
-            {
-                [4] = 58,
-                [1] = 55,
-                [2] = 56,
-                [3] = 57,
-            },
-            [2] = 5,
-            [3] = 8,
-            [4] = 6,
-            [5] = 841600,
-            [6] = 978200,
-        },
-        ["@Gutsyh"] = 
-        {
-            [1] = 
-            {
-                [1] = 6,
-            },
-            [2] = 0,
-            [3] = 5,
-            [4] = 0,
-            [5] = 3000,
-            [6] = 154800,
-        },
-        ["@znosh"] = 
-        {
-            [1] = 
-            {
-                [1] = 1,
-            },
-            [2] = 0,
-            [3] = 18,
-            [4] = 0,
-            [5] = 42300,
-            [6] = 344700,
+            [5] = 323600,
+            [6] = 60600,
         },
         ["@zfox"] = 
         {
@@ -6052,235 +6301,17 @@ ImpressiveStatsPlayersCache =
             [5] = 396300,
             [6] = 148400,
         },
-        ["@wok159lkhgn"] = 
+        ["@skizzy_TV"] = 
         {
             [1] = 
             {
-                [2] = 21,
-                [1] = 21,
-            },
-            [2] = 4,
-            [3] = 1,
-            [4] = 4,
-            [5] = 274000,
-            [6] = 0,
-        },
-        ["@candy00"] = 
-        {
-            [1] = 
-            {
-                [1] = 8,
-            },
-            [2] = 0,
-            [3] = 5,
-            [4] = 2,
-            [5] = 260700,
-            [6] = 0,
-        },
-        ["@iNeedaGB"] = 
-        {
-            [1] = 
-            {
-                [1] = 19,
-            },
-            [2] = 5,
-            [3] = 2,
-            [4] = 4,
-            [5] = 279100,
-            [6] = 0,
-        },
-        ["@Darkaic"] = 
-        {
-            [1] = 
-            {
-                [1] = 8,
-            },
-            [2] = 0,
-            [3] = 1,
-            [4] = 0,
-            [5] = 29600,
-            [6] = 106500,
-        },
-        ["@KKLOL"] = 
-        {
-            [1] = 
-            {
-                [1] = 41,
-            },
-            [2] = 0,
-            [3] = 0,
-            [4] = 3,
-            [5] = 282100,
-            [6] = 7600,
-        },
-        ["@BobShneider01"] = 
-        {
-            [1] = 
-            {
-                [2] = 22,
-                [1] = 22,
-            },
-            [2] = 5,
-            [3] = 4,
-            [4] = 9,
-            [5] = 346100,
-            [6] = 19000,
-        },
-        ["@zhead11"] = 
-        {
-            [1] = 
-            {
-                [1] = 8,
-            },
-            [2] = 2,
-            [3] = 9,
-            [4] = 2,
-            [5] = 198400,
-            [6] = 4900,
-        },
-        ["@ShatterBonez"] = 
-        {
-            [1] = 
-            {
-                [1] = 3,
-            },
-            [2] = 1,
-            [3] = 1,
-            [4] = 3,
-            [5] = 25900,
-            [6] = 4000,
-        },
-        ["@finalyang"] = 
-        {
-            [1] = 
-            {
-                [1] = 31,
-            },
-            [2] = 0,
-            [3] = 3,
-            [4] = 0,
-            [5] = 7900,
-            [6] = 0,
-        },
-        ["@Maddogg32"] = 
-        {
-            [1] = 
-            {
-                [1] = 59,
-            },
-            [2] = 1,
-            [3] = 8,
-            [4] = 3,
-            [5] = 170700,
-            [6] = 31500,
-        },
-        ["@AffroZack"] = 
-        {
-            [1] = 
-            {
-                [1] = 24,
-            },
-            [2] = 0,
-            [3] = 3,
-            [4] = 0,
-            [5] = 36800,
-            [6] = 4100,
-        },
-        ["@ManDelorean"] = 
-        {
-            [1] = 
-            {
-                [1] = 36,
-            },
-            [2] = 3,
-            [3] = 10,
-            [4] = 13,
-            [5] = 498600,
-            [6] = 70700,
-        },
-        ["@AP_Gameboy"] = 
-        {
-            [1] = 
-            {
-                [1] = 26,
-            },
-            [2] = 18,
-            [3] = 6,
-            [4] = 15,
-            [5] = 1281100,
-            [6] = 21300,
-        },
-        ["@Don_logan"] = 
-        {
-            [1] = 
-            {
-                [1] = 8,
-            },
-            [2] = 0,
-            [3] = 5,
-            [4] = 0,
-            [5] = 19800,
-            [6] = 265600,
-        },
-        ["@Qman914"] = 
-        {
-            [1] = 
-            {
-                [2] = 5,
-                [1] = 5,
-            },
-            [2] = 4,
-            [3] = 2,
-            [4] = 11,
-            [5] = 405400,
-            [6] = 266900,
-        },
-        ["@Rizzan1"] = 
-        {
-            [1] = 
-            {
-                [1] = 54,
-            },
-            [2] = 0,
-            [3] = 0,
-            [4] = 0,
-            [5] = 232900,
-            [6] = 57100,
-        },
-        ["@CurrentBias"] = 
-        {
-            [1] = 
-            {
-                [1] = 54,
+                [2] = 16,
+                [1] = 16,
             },
             [2] = 2,
             [3] = 6,
-            [4] = 4,
-            [5] = 249500,
-            [6] = 0,
-        },
-        ["@Elopsia"] = 
-        {
-            [1] = 
-            {
-                [1] = 53,
-            },
-            [2] = 3,
-            [3] = 5,
-            [4] = 3,
-            [5] = 432400,
-            [6] = 35300,
-        },
-        ["@Xedrick_II"] = 
-        {
-            [1] = 
-            {
-                [1] = 43,
-            },
-            [2] = 0,
-            [3] = 11,
-            [4] = 1,
-            [5] = 248400,
+            [4] = 2,
+            [5] = 255000,
             [6] = 0,
         },
         ["@sparkwzz"] = 
@@ -6296,6 +6327,156 @@ ImpressiveStatsPlayersCache =
             [5] = 493300,
             [6] = 113400,
         },
+        ["@leohl97"] = 
+        {
+            [1] = 
+            {
+                [1] = 14,
+            },
+            [2] = 11,
+            [3] = 7,
+            [4] = 12,
+            [5] = 388100,
+            [6] = 0,
+        },
+        ["@ReisTv"] = 
+        {
+            [1] = 
+            {
+                [2] = 23,
+                [1] = 17,
+            },
+            [2] = 22,
+            [3] = 26,
+            [4] = 16,
+            [5] = 1691400,
+            [6] = 6000,
+        },
+        ["@Big13oss"] = 
+        {
+            [1] = 
+            {
+                [1] = 30,
+            },
+            [2] = 0,
+            [3] = 6,
+            [4] = 0,
+            [5] = 24900,
+            [6] = 315300,
+        },
+        ["@EDGERUNN3R77"] = 
+        {
+            [1] = 
+            {
+                [2] = 22,
+                [1] = 22,
+            },
+            [2] = 2,
+            [3] = 6,
+            [4] = 6,
+            [5] = 180300,
+            [6] = 35800,
+        },
+        ["@Maddogg32"] = 
+        {
+            [1] = 
+            {
+                [1] = 59,
+            },
+            [2] = 1,
+            [3] = 8,
+            [4] = 3,
+            [5] = 170700,
+            [6] = 31500,
+        },
+        ["@Rizzan1"] = 
+        {
+            [1] = 
+            {
+                [1] = 54,
+            },
+            [2] = 0,
+            [3] = 0,
+            [4] = 0,
+            [5] = 232900,
+            [6] = 57100,
+        },
+        ["@Driller3933"] = 
+        {
+            [1] = 
+            {
+                [1] = 3,
+            },
+            [2] = 0,
+            [3] = 6,
+            [4] = 0,
+            [5] = 114300,
+            [6] = 0,
+        },
+        ["@TBDLXBACON"] = 
+        {
+            [1] = 
+            {
+                [1] = 45,
+            },
+            [2] = 1,
+            [3] = 10,
+            [4] = 4,
+            [5] = 161400,
+            [6] = 6000,
+        },
+        ["@GITZB"] = 
+        {
+            [1] = 
+            {
+                [1] = 36,
+            },
+            [2] = 5,
+            [3] = 19,
+            [4] = 14,
+            [5] = 931500,
+            [6] = 48700,
+        },
+        ["@ruyyerguy"] = 
+        {
+            [1] = 
+            {
+                [1] = 10,
+                [2] = 10,
+                [3] = 13,
+            },
+            [2] = 6,
+            [3] = 9,
+            [4] = 8,
+            [5] = 356500,
+            [6] = 11400,
+        },
+        ["@mogu-mogu"] = 
+        {
+            [1] = 
+            {
+                [2] = 25,
+                [1] = 25,
+            },
+            [2] = 7,
+            [3] = 0,
+            [4] = 11,
+            [5] = 1058500,
+            [6] = 2900,
+        },
+        ["@ItzYaBoyy_Z"] = 
+        {
+            [1] = 
+            {
+                [2] = 22,
+                [1] = 22,
+            },
+            [2] = 0,
+            [3] = 6,
+            [4] = 2,
+            [5] = 141000,
+            [6] = 0,
+        },
         ["@igotsteez"] = 
         {
             [1] = 
@@ -6309,195 +6490,281 @@ ImpressiveStatsPlayersCache =
             [5] = 1003700,
             [6] = 38600,
         },
-        ["@Cruxa"] = 
+        ["@Conjugality"] = 
+        {
+            [1] = 
+            {
+                [1] = 6,
+            },
+            [2] = 7,
+            [3] = 5,
+            [4] = 10,
+            [5] = 456800,
+            [6] = 0,
+        },
+        ["@KANKUDAY"] = 
+        {
+            [1] = 
+            {
+                [4] = 60,
+                [1] = 1,
+                [2] = 6,
+                [3] = 30,
+            },
+            [2] = 13,
+            [3] = 23,
+            [4] = 17,
+            [5] = 958100,
+            [6] = 6500,
+        },
+        ["@DhammaDude"] = 
+        {
+            [1] = 
+            {
+                [1] = 42,
+            },
+            [2] = 6,
+            [3] = 0,
+            [4] = 12,
+            [5] = 221600,
+            [6] = 400,
+        },
+        ["@Venomslime"] = 
+        {
+            [1] = 
+            {
+                [2] = 18,
+                [1] = 18,
+            },
+            [2] = 4,
+            [3] = 3,
+            [4] = 11,
+            [5] = 318900,
+            [6] = 0,
+        },
+        ["@Dzuris"] = 
+        {
+            [1] = 
+            {
+                [1] = 23,
+            },
+            [2] = 6,
+            [3] = 9,
+            [4] = 12,
+            [5] = 595500,
+            [6] = 0,
+        },
+        ["@Neatness"] = 
+        {
+            [1] = 
+            {
+                [1] = 61,
+            },
+            [2] = 6,
+            [3] = 6,
+            [4] = 0,
+            [5] = 627700,
+            [6] = 13700,
+        },
+        ["@Heartborn92"] = 
+        {
+            [1] = 
+            {
+                [1] = 46,
+            },
+            [2] = 1,
+            [3] = 3,
+            [4] = 0,
+            [5] = 91300,
+            [6] = 0,
+        },
+        ["@twosocks82"] = 
+        {
+            [1] = 
+            {
+                [1] = 11,
+            },
+            [2] = 0,
+            [3] = 7,
+            [4] = 1,
+            [5] = 87700,
+            [6] = 9700,
+        },
+        ["@Ragcheese"] = 
+        {
+            [1] = 
+            {
+                [1] = 13,
+                [2] = 15,
+                [3] = 33,
+            },
+            [2] = 6,
+            [3] = 17,
+            [4] = 26,
+            [5] = 725200,
+            [6] = 116500,
+        },
+        ["@CTDIsAFeature"] = 
         {
             [1] = 
             {
                 [1] = 44,
             },
-            [2] = 0,
-            [3] = 5,
-            [4] = 0,
-            [5] = 27000,
-            [6] = 4600,
+            [2] = 3,
+            [3] = 9,
+            [4] = 2,
+            [5] = 413300,
+            [6] = 0,
         },
-        ["@VicEstrella"] = 
+        ["@mococa38"] = 
         {
             [1] = 
             {
+                [2] = 35,
                 [1] = 28,
+            },
+            [2] = 9,
+            [3] = 7,
+            [4] = 13,
+            [5] = 1731600,
+            [6] = 0,
+        },
+        ["@Dragonoak"] = 
+        {
+            [1] = 
+            {
+                [1] = 12,
+            },
+            [2] = 0,
+            [3] = 5,
+            [4] = 0,
+            [5] = 148000,
+            [6] = 3300,
+        },
+        ["@ValkyrieNorthmen"] = 
+        {
+            [1] = 
+            {
+                [1] = 34,
             },
             [2] = 0,
             [3] = 4,
-            [4] = 0,
-            [5] = 0,
-            [6] = 65600,
+            [4] = 1,
+            [5] = 210400,
+            [6] = 63600,
         },
-        ["@ESOlgs321gg"] = 
+        ["@Terra-93"] = 
         {
             [1] = 
             {
-                [2] = 24,
-                [1] = 24,
+                [1] = 54,
+                [2] = 55,
+                [3] = 56,
             },
-            [2] = 6,
-            [3] = 1,
-            [4] = 8,
-            [5] = 399200,
-            [6] = 54400,
-        },
-        ["@Shrimpoh"] = 
-        {
-            [1] = 
-            {
-                [1] = 46,
-            },
-            [2] = 20,
-            [3] = 0,
-            [4] = 9,
-            [5] = 4057900,
-            [6] = 24700,
-        },
-        ["@tg43"] = 
-        {
-            [1] = 
-            {
-                [2] = 51,
-                [1] = 49,
-            },
-            [2] = 7,
-            [3] = 1,
-            [4] = 20,
-            [5] = 545000,
-            [6] = 0,
-        },
-        ["@ChargeYourWeapons"] = 
-        {
-            [1] = 
-            {
-                [1] = 31,
-                [2] = 31,
-                [3] = 32,
-            },
-            [2] = 7,
-            [3] = 11,
-            [4] = 16,
-            [5] = 1070300,
-            [6] = 36800,
-        },
-        ["@CaveManPluto"] = 
-        {
-            [1] = 
-            {
-                [1] = 17,
-            },
-            [2] = 0,
-            [3] = 7,
+            [2] = 16,
+            [3] = 4,
             [4] = 5,
-            [5] = 120200,
-            [6] = 0,
+            [5] = 1019600,
+            [6] = 6100,
         },
-        ["@ReddHoTT"] = 
+        ["@Glidebot"] = 
         {
             [1] = 
             {
-                [2] = 58,
-                [1] = 57,
-            },
-            [2] = 0,
-            [3] = 9,
-            [4] = 3,
-            [5] = 368000,
-            [6] = 6900,
-        },
-        ["@kelvinalmeidas"] = 
-        {
-            [1] = 
-            {
-                [1] = 45,
-            },
-            [2] = 2,
-            [3] = 9,
-            [4] = 5,
-            [5] = 485900,
-            [6] = 0,
-        },
-        ["@jonathmaldo"] = 
-        {
-            [1] = 
-            {
-                [1] = 19,
-            },
-            [2] = 6,
-            [3] = 1,
-            [4] = 3,
-            [5] = 291800,
-            [6] = 0,
-        },
-        ["@Han_Solo2"] = 
-        {
-            [1] = 
-            {
-                [2] = 38,
                 [1] = 37,
             },
-            [2] = 0,
-            [3] = 14,
-            [4] = 1,
-            [5] = 275800,
-            [6] = 0,
-        },
-        ["@Drewlaar"] = 
-        {
-            [1] = 
-            {
-                [1] = 56,
-            },
-            [2] = 8,
-            [3] = 14,
-            [4] = 8,
-            [5] = 1123500,
-            [6] = 0,
-        },
-        ["@samara.Q"] = 
-        {
-            [1] = 
-            {
-                [1] = 46,
-            },
-            [2] = 7,
+            [2] = 1,
             [3] = 3,
-            [4] = 11,
-            [5] = 1165800,
-            [6] = 600,
+            [4] = 4,
+            [5] = 572500,
+            [6] = 64400,
         },
-        ["@Tayl0rr"] = 
+        ["@nosz"] = 
         {
             [1] = 
             {
-                [1] = 1,
+                [1] = 40,
+            },
+            [2] = 2,
+            [3] = 6,
+            [4] = 0,
+            [5] = 307700,
+            [6] = 0,
+        },
+        ["@Guiks7"] = 
+        {
+            [1] = 
+            {
+                [1] = 12,
+            },
+            [2] = 0,
+            [3] = 2,
+            [4] = 0,
+            [5] = 73200,
+            [6] = 0,
+        },
+        ["@Mythrium"] = 
+        {
+            [1] = 
+            {
+                [1] = 8,
+                [2] = 9,
+                [3] = 9,
+            },
+            [2] = 0,
+            [3] = 11,
+            [4] = 1,
+            [5] = 310500,
+            [6] = 31100,
+        },
+        ["@Solariken"] = 
+        {
+            [1] = 
+            {
+                [1] = 61,
             },
             [2] = 8,
-            [3] = 5,
+            [3] = 0,
             [4] = 9,
-            [5] = 743600,
-            [6] = 23600,
+            [5] = 469900,
+            [6] = 38400,
         },
-        ["@ichfoustdich"] = 
+        ["@Ethereal_Dewd"] = 
         {
             [1] = 
             {
-                [1] = 9,
-                [2] = 14,
-                [3] = 15,
-                [4] = 23,
-                [5] = 50,
+                [1] = 8,
             },
-            [2] = 12,
-            [3] = 38,
-            [4] = 31,
-            [5] = 1808200,
-            [6] = 77800,
+            [2] = 0,
+            [3] = 1,
+            [4] = 0,
+            [5] = 47400,
+            [6] = 16700,
+        },
+        ["@kelf22"] = 
+        {
+            [1] = 
+            {
+                [1] = 54,
+            },
+            [2] = 9,
+            [3] = 7,
+            [4] = 9,
+            [5] = 1304400,
+            [6] = 0,
+        },
+        ["@Rordogg"] = 
+        {
+            [1] = 
+            {
+                [2] = 48,
+                [1] = 32,
+            },
+            [2] = 17,
+            [3] = 5,
+            [4] = 28,
+            [5] = 1508000,
+            [6] = 157800,
         },
         ["@mr.ys"] = 
         {
@@ -6517,17 +6784,596 @@ ImpressiveStatsPlayersCache =
             [5] = 1365700,
             [6] = 214100,
         },
-        ["@Onyro"] = 
+        ["@FishFingerLord"] = 
         {
             [1] = 
             {
-                [1] = 48,
+                [1] = 32,
+            },
+            [2] = 2,
+            [3] = 8,
+            [4] = 0,
+            [5] = 293600,
+            [6] = 0,
+        },
+        ["@bigbeef800"] = 
+        {
+            [1] = 
+            {
+                [2] = 13,
+                [1] = 12,
+            },
+            [2] = 7,
+            [3] = 0,
+            [4] = 25,
+            [5] = 660300,
+            [6] = 181800,
+        },
+        ["@Stumpps"] = 
+        {
+            [1] = 
+            {
+                [1] = 15,
+            },
+            [2] = 6,
+            [3] = 1,
+            [4] = 2,
+            [5] = 220100,
+            [6] = 55400,
+        },
+        ["@ginzero"] = 
+        {
+            [1] = 
+            {
+                [1] = 23,
+                [2] = 28,
+                [3] = 35,
             },
             [2] = 19,
+            [3] = 28,
+            [4] = 27,
+            [5] = 5127000,
+            [6] = 0,
+        },
+        ["@Necrozer0"] = 
+        {
+            [1] = 
+            {
+                [1] = 17,
+            },
+            [2] = 0,
+            [3] = 9,
+            [4] = 0,
+            [5] = 48900,
+            [6] = 91700,
+        },
+        ["@nukynukerton"] = 
+        {
+            [1] = 
+            {
+                [2] = 25,
+                [1] = 25,
+            },
+            [2] = 3,
+            [3] = 0,
+            [4] = 5,
+            [5] = 446600,
+            [6] = 188300,
+        },
+        ["@Panwick"] = 
+        {
+            [1] = 
+            {
+                [1] = 33,
+            },
+            [2] = 4,
+            [3] = 14,
+            [4] = 2,
+            [5] = 595400,
+            [6] = 300,
+        },
+        ["@HarveyDent413"] = 
+        {
+            [1] = 
+            {
+                [1] = 44,
+            },
+            [2] = 11,
+            [3] = 10,
+            [4] = 6,
+            [5] = 692200,
+            [6] = 39000,
+        },
+        ["@Shrimpoh"] = 
+        {
+            [1] = 
+            {
+                [1] = 46,
+            },
+            [2] = 20,
+            [3] = 0,
+            [4] = 9,
+            [5] = 4057900,
+            [6] = 24700,
+        },
+        ["@G0MAROZDUBAR"] = 
+        {
+            [1] = 
+            {
+                [1] = 3,
+            },
+            [2] = 0,
+            [3] = 6,
+            [4] = 0,
+            [5] = 18000,
+            [6] = 2100,
+        },
+        ["@Rotwave"] = 
+        {
+            [1] = 
+            {
+                [1] = 17,
+                [2] = 57,
+                [3] = 58,
+            },
+            [2] = 10,
+            [3] = 10,
+            [4] = 9,
+            [5] = 877600,
+            [6] = 83500,
+        },
+        ["@Agsurfer001"] = 
+        {
+            [1] = 
+            {
+                [2] = 19,
+                [1] = 14,
+            },
+            [2] = 8,
+            [3] = 16,
+            [4] = 38,
+            [5] = 969700,
+            [6] = 50500,
+        },
+        ["@Darkaic"] = 
+        {
+            [1] = 
+            {
+                [1] = 8,
+            },
+            [2] = 0,
+            [3] = 1,
+            [4] = 0,
+            [5] = 29600,
+            [6] = 106500,
+        },
+        ["@misfortun3"] = 
+        {
+            [1] = 
+            {
+                [1] = 1,
+                [2] = 2,
+                [3] = 3,
+            },
+            [2] = 60,
+            [3] = 2,
+            [4] = 29,
+            [5] = 3102900,
+            [6] = 298700,
+        },
+        ["@Disgraced-Vigilante"] = 
+        {
+            [1] = 
+            {
+                [2] = 60,
+                [1] = 29,
+            },
+            [2] = 5,
+            [3] = 9,
+            [4] = 0,
+            [5] = 628900,
+            [6] = 41600,
+        },
+        ["@CurseofLuck"] = 
+        {
+            [1] = 
+            {
+                [1] = 26,
+            },
+            [2] = 4,
+            [3] = 6,
+            [4] = 10,
+            [5] = 509200,
+            [6] = 142300,
+        },
+        ["@Nandoxy"] = 
+        {
+            [1] = 
+            {
+                [4] = 16,
+                [1] = 10,
+                [2] = 10,
+                [3] = 16,
+            },
+            [2] = 9,
+            [3] = 2,
+            [4] = 16,
+            [5] = 528100,
+            [6] = 0,
+        },
+        ["@chickenmaster32"] = 
+        {
+            [1] = 
+            {
+                [2] = 4,
+                [1] = 4,
+            },
+            [2] = 0,
+            [3] = 6,
+            [4] = 0,
+            [5] = 37800,
+            [6] = 10500,
+        },
+        ["@VAPEKING1985"] = 
+        {
+            [1] = 
+            {
+                [1] = 52,
+                [2] = 55,
+                [3] = 59,
+            },
+            [2] = 9,
+            [3] = 28,
+            [4] = 8,
+            [5] = 2459200,
+            [6] = 168300,
+        },
+        ["@VLADERE"] = 
+        {
+            [1] = 
+            {
+                [1] = 52,
+            },
+            [2] = 0,
             [3] = 3,
-            [4] = 14,
-            [5] = 1020700,
-            [6] = 95300,
+            [4] = 1,
+            [5] = 57800,
+            [6] = 202900,
+        },
+        ["@kkiirrkkyy"] = 
+        {
+            [1] = 
+            {
+                [1] = 55,
+                [2] = 56,
+                [3] = 58,
+            },
+            [2] = 17,
+            [3] = 16,
+            [4] = 17,
+            [5] = 3123500,
+            [6] = 13300,
+        },
+        ["@Xufashen"] = 
+        {
+            [1] = 
+            {
+                [1] = 27,
+            },
+            [2] = 0,
+            [3] = 5,
+            [4] = 4,
+            [5] = 303700,
+            [6] = 8800,
+        },
+        ["@JamesL11"] = 
+        {
+            [1] = 
+            {
+                [1] = 44,
+            },
+            [2] = 1,
+            [3] = 4,
+            [4] = 4,
+            [5] = 485200,
+            [6] = 0,
+        },
+        ["@ShatterBonez"] = 
+        {
+            [1] = 
+            {
+                [1] = 3,
+            },
+            [2] = 1,
+            [3] = 1,
+            [4] = 3,
+            [5] = 25900,
+            [6] = 4000,
+        },
+        ["@Ferisa_Vix"] = 
+        {
+            [1] = 
+            {
+                [1] = 19,
+            },
+            [2] = 3,
+            [3] = 5,
+            [4] = 2,
+            [5] = 422500,
+            [6] = 0,
+        },
+        ["@LN_BlankZ"] = 
+        {
+            [1] = 
+            {
+                [1] = 57,
+            },
+            [2] = 0,
+            [3] = 5,
+            [4] = 0,
+            [5] = 5500,
+            [6] = 109500,
+        },
+        ["@Creepa_Cuhz"] = 
+        {
+            [1] = 
+            {
+                [1] = 33,
+            },
+            [2] = 11,
+            [3] = 0,
+            [4] = 15,
+            [5] = 388200,
+            [6] = 0,
+        },
+        ["@kelvinalmeidas"] = 
+        {
+            [1] = 
+            {
+                [1] = 45,
+            },
+            [2] = 2,
+            [3] = 9,
+            [4] = 5,
+            [5] = 485900,
+            [6] = 0,
+        },
+        ["@XxPaypaKuttaxX"] = 
+        {
+            [1] = 
+            {
+                [2] = 5,
+                [1] = 5,
+            },
+            [2] = 0,
+            [3] = 6,
+            [4] = 3,
+            [5] = 164700,
+            [6] = 41200,
+        },
+        ["@Kript3k"] = 
+        {
+            [1] = 
+            {
+                [1] = 11,
+            },
+            [2] = 5,
+            [3] = 1,
+            [4] = 7,
+            [5] = 446400,
+            [6] = 20200,
+        },
+        ["@Imerill"] = 
+        {
+            [1] = 
+            {
+                [1] = 45,
+            },
+            [2] = 8,
+            [3] = 3,
+            [4] = 7,
+            [5] = 508200,
+            [6] = 53500,
+        },
+        ["@Gochaaa"] = 
+        {
+            [1] = 
+            {
+                [1] = 36,
+            },
+            [2] = 10,
+            [3] = 14,
+            [4] = 15,
+            [5] = 945000,
+            [6] = 133000,
+        },
+        ["@JuMoraf"] = 
+        {
+            [1] = 
+            {
+                [2] = 16,
+                [1] = 16,
+            },
+            [2] = 0,
+            [3] = 6,
+            [4] = 4,
+            [5] = 185900,
+            [6] = 14800,
+        },
+        ["@SeaborneSlayer"] = 
+        {
+            [1] = 
+            {
+                [2] = 59,
+                [1] = 53,
+            },
+            [2] = 5,
+            [3] = 6,
+            [4] = 8,
+            [5] = 704600,
+            [6] = 31000,
+        },
+        ["@nfbent"] = 
+        {
+            [1] = 
+            {
+                [2] = 10,
+                [1] = 10,
+            },
+            [2] = 1,
+            [3] = 6,
+            [4] = 3,
+            [5] = 215500,
+            [6] = 0,
+        },
+        ["@AmberAlerts"] = 
+        {
+            [1] = 
+            {
+                [1] = 7,
+            },
+            [2] = 6,
+            [3] = 5,
+            [4] = 11,
+            [5] = 246300,
+            [6] = 36600,
+        },
+        ["@Han_Solo2"] = 
+        {
+            [1] = 
+            {
+                [2] = 38,
+                [1] = 37,
+            },
+            [2] = 0,
+            [3] = 14,
+            [4] = 1,
+            [5] = 275800,
+            [6] = 0,
+        },
+        ["@Mirul"] = 
+        {
+            [1] = 
+            {
+                [1] = 13,
+            },
+            [2] = 1,
+            [3] = 1,
+            [4] = 2,
+            [5] = 125700,
+            [6] = 0,
+        },
+        ["@candy00"] = 
+        {
+            [1] = 
+            {
+                [1] = 8,
+            },
+            [2] = 0,
+            [3] = 5,
+            [4] = 2,
+            [5] = 260700,
+            [6] = 0,
+        },
+        ["@jane7zero"] = 
+        {
+            [1] = 
+            {
+                [1] = 51,
+            },
+            [2] = 0,
+            [3] = 5,
+            [4] = 0,
+            [5] = 38500,
+            [6] = 3600,
+        },
+        ["@Strifex_78"] = 
+        {
+            [1] = 
+            {
+                [2] = 2,
+                [1] = 1,
+            },
+            [2] = 11,
+            [3] = 17,
+            [4] = 19,
+            [5] = 882200,
+            [6] = 111400,
+        },
+        ["@Rattastic"] = 
+        {
+            [1] = 
+            {
+                [1] = 56,
+            },
+            [2] = 0,
+            [3] = 7,
+            [4] = 2,
+            [5] = 110800,
+            [6] = 5000,
+        },
+        ["@BABYJOKER107"] = 
+        {
+            [1] = 
+            {
+                [1] = 40,
+            },
+            [2] = 0,
+            [3] = 6,
+            [4] = 0,
+            [5] = 191300,
+            [6] = 0,
+        },
+        ["@DOOM-ON"] = 
+        {
+            [1] = 
+            {
+                [1] = 18,
+                [2] = 18,
+                [3] = 44,
+            },
+            [2] = 7,
+            [3] = 11,
+            [4] = 8,
+            [5] = 871400,
+            [6] = 70100,
+        },
+        ["@zhead11"] = 
+        {
+            [1] = 
+            {
+                [1] = 8,
+            },
+            [2] = 2,
+            [3] = 9,
+            [4] = 2,
+            [5] = 198400,
+            [6] = 4900,
+        },
+        ["@UnknRenegade"] = 
+        {
+            [1] = 
+            {
+                [2] = 21,
+                [1] = 21,
+            },
+            [2] = 3,
+            [3] = 6,
+            [4] = 2,
+            [5] = 319700,
+            [6] = 0,
+        },
+        ["@macdavid211"] = 
+        {
+            [1] = 
+            {
+                [1] = 29,
+            },
+            [2] = 0,
+            [3] = 13,
+            [4] = 0,
+            [5] = 23000,
+            [6] = 0,
         },
         ["@MonkeyStylezFTW"] = 
         {
@@ -6542,115 +7388,92 @@ ImpressiveStatsPlayersCache =
             [5] = 870900,
             [6] = 65500,
         },
-        ["@GManThugnificent"] = 
-        {
-            [1] = 
-            {
-                [2] = 22,
-                [1] = 22,
-            },
-            [2] = 5,
-            [3] = 2,
-            [4] = 9,
-            [5] = 315700,
-            [6] = 20000,
-        },
-        ["@ruskiii"] = 
-        {
-            [1] = 
-            {
-                [2] = 60,
-                [1] = 59,
-            },
-            [2] = 24,
-            [3] = 11,
-            [4] = 13,
-            [5] = 1722000,
-            [6] = 21900,
-        },
-        ["@BenjaminDavid"] = 
-        {
-            [1] = 
-            {
-                [1] = 7,
-            },
-            [2] = 14,
-            [3] = 2,
-            [4] = 17,
-            [5] = 783200,
-            [6] = 0,
-        },
-        ["@calamarsin"] = 
-        {
-            [1] = 
-            {
-                [1] = 47,
-            },
-            [2] = 2,
-            [3] = 4,
-            [4] = 5,
-            [5] = 206100,
-            [6] = 36900,
-        },
-        ["@Neatness"] = 
+        ["@Kisha"] = 
         {
             [1] = 
             {
                 [1] = 61,
             },
-            [2] = 6,
+            [2] = 0,
             [3] = 6,
-            [4] = 0,
-            [5] = 627700,
-            [6] = 13700,
+            [4] = 1,
+            [5] = 94800,
+            [6] = 30100,
         },
-        ["@cheekyonetaps"] = 
+        ["@Tayl0rr"] = 
         {
             [1] = 
             {
-                [1] = 49,
+                [1] = 1,
             },
-            [2] = 4,
-            [3] = 1,
-            [4] = 15,
-            [5] = 338600,
+            [2] = 8,
+            [3] = 5,
+            [4] = 9,
+            [5] = 743600,
+            [6] = 23600,
+        },
+        ["@CommanderBly"] = 
+        {
+            [1] = 
+            {
+                [1] = 52,
+                [2] = 53,
+                [3] = 54,
+            },
+            [2] = 6,
+            [3] = 28,
+            [4] = 1,
+            [5] = 359600,
             [6] = 0,
         },
-        ["@raindoubler"] = 
+        ["@Istoranin"] = 
         {
             [1] = 
             {
-                [1] = 6,
-            },
-            [2] = 5,
-            [3] = 4,
-            [4] = 3,
-            [5] = 409100,
-            [6] = 0,
-        },
-        ["@Creepa_Cuhz"] = 
-        {
-            [1] = 
-            {
-                [1] = 33,
+                [1] = 37,
             },
             [2] = 11,
-            [3] = 0,
-            [4] = 15,
-            [5] = 388200,
-            [6] = 0,
+            [3] = 5,
+            [4] = 3,
+            [5] = 2258300,
+            [6] = 44700,
         },
-        ["@nofearr"] = 
+        ["@SomosHustlin"] = 
         {
             [1] = 
             {
-                [1] = 51,
+                [1] = 30,
+            },
+            [2] = 6,
+            [3] = 1,
+            [4] = 8,
+            [5] = 451800,
+            [6] = 3400,
+        },
+        ["@Shadowlegion011"] = 
+        {
+            [1] = 
+            {
+                [1] = 26,
+            },
+            [2] = 2,
+            [3] = 11,
+            [4] = 11,
+            [5] = 427800,
+            [6] = 45700,
+        },
+        ["@Witikiti"] = 
+        {
+            [1] = 
+            {
+                [2] = 58,
+                [1] = 57,
             },
             [2] = 1,
-            [3] = 0,
-            [4] = 5,
-            [5] = 108300,
-            [6] = 21200,
+            [3] = 6,
+            [4] = 3,
+            [5] = 203800,
+            [6] = 16700,
         },
         ["@Laniakea_XoXo"] = 
         {
@@ -6672,89 +7495,314 @@ ImpressiveStatsPlayersCache =
             [5] = 3241900,
             [6] = 2484200,
         },
-        ["@Philthyorc"] = 
+        ["@psic0pata"] = 
         {
             [1] = 
             {
-                [2] = 25,
-                [1] = 25,
+                [1] = 48,
             },
-            [2] = 0,
-            [3] = 6,
+            [2] = 4,
+            [3] = 20,
+            [4] = 8,
+            [5] = 1020500,
+            [6] = 0,
+        },
+        ["@Garreeri347"] = 
+        {
+            [1] = 
+            {
+                [1] = 28,
+            },
+            [2] = 1,
+            [3] = 5,
             [4] = 0,
-            [5] = 313600,
-            [6] = 9000,
+            [5] = 161600,
+            [6] = 0,
         },
-        ["@peopleA"] = 
+        ["@MrGateKeeper"] = 
         {
             [1] = 
             {
-                [1] = 30,
+                [1] = 43,
             },
-            [2] = 5,
-            [3] = 6,
-            [4] = 2,
-            [5] = 229200,
-            [6] = 24200,
+            [2] = 12,
+            [3] = 0,
+            [4] = 4,
+            [5] = 542800,
+            [6] = 135000,
         },
-        ["@Rattastic"] = 
-        {
-            [1] = 
-            {
-                [1] = 56,
-            },
-            [2] = 0,
-            [3] = 7,
-            [4] = 2,
-            [5] = 110800,
-            [6] = 5000,
-        },
-        ["@stonr"] = 
+        ["@ginoongbaboy"] = 
         {
             [1] = 
             {
                 [1] = 7,
             },
-            [2] = 7,
-            [3] = 7,
-            [4] = 6,
-            [5] = 218900,
-            [6] = 54300,
+            [2] = 4,
+            [3] = 5,
+            [4] = 4,
+            [5] = 242700,
+            [6] = 0,
         },
-        ["@DKKID3000"] = 
+        ["@Trasse"] = 
         {
             [1] = 
             {
-                [1] = 41,
+                [1] = 26,
+            },
+            [2] = 16,
+            [3] = 8,
+            [4] = 15,
+            [5] = 1081700,
+            [6] = 11900,
+        },
+        ["@BottleCapBob"] = 
+        {
+            [1] = 
+            {
+                [1] = 49,
+            },
+            [2] = 1,
+            [3] = 15,
+            [4] = 0,
+            [5] = 373200,
+            [6] = 0,
+        },
+        ["@blackrafer"] = 
+        {
+            [1] = 
+            {
+                [2] = 9,
+                [1] = 9,
+            },
+            [2] = 1,
+            [3] = 0,
+            [4] = 1,
+            [5] = 41700,
+            [6] = 200400,
+        },
+        ["@XBringXTheXRainX"] = 
+        {
+            [1] = 
+            {
+                [1] = 39,
+            },
+            [2] = 11,
+            [3] = 6,
+            [4] = 19,
+            [5] = 697300,
+            [6] = 17500,
+        },
+        ["@Hiluxx"] = 
+        {
+            [1] = 
+            {
+                [1] = 7,
             },
             [2] = 0,
             [3] = 13,
             [4] = 1,
-            [5] = 79300,
-            [6] = 39700,
+            [5] = 97200,
+            [6] = 2600,
         },
-        ["@dextroke75"] = 
+        ["@Onetap_Oni"] = 
         {
             [1] = 
             {
-                [1] = 60,
+                [1] = 19,
             },
-            [2] = 1,
-            [3] = 0,
-            [4] = 8,
-            [5] = 166300,
+            [2] = 3,
+            [3] = 1,
+            [4] = 5,
+            [5] = 316500,
             [6] = 0,
         },
-        ["@narczero"] = 
+        ["@ReddHoTT"] = 
         {
             [1] = 
             {
-                [1] = 3,
+                [2] = 58,
+                [1] = 57,
+            },
+            [2] = 0,
+            [3] = 9,
+            [4] = 3,
+            [5] = 368000,
+            [6] = 6900,
+        },
+        ["@ransom2211"] = 
+        {
+            [1] = 
+            {
+                [1] = 19,
+                [2] = 20,
+                [3] = 20,
+            },
+            [2] = 1,
+            [3] = 9,
+            [4] = 3,
+            [5] = 99300,
+            [6] = 0,
+        },
+        ["@Maxweell"] = 
+        {
+            [1] = 
+            {
+                [1] = 49,
+            },
+            [2] = 0,
+            [3] = 11,
+            [4] = 0,
+            [5] = 124300,
+            [6] = 33300,
+        },
+        ["@Okura-43"] = 
+        {
+            [1] = 
+            {
+                [1] = 8,
+            },
+            [2] = 0,
+            [3] = 5,
+            [4] = 0,
+            [5] = 90900,
+            [6] = 5800,
+        },
+        ["@ObxAlchemist"] = 
+        {
+            [1] = 
+            {
+                [1] = 8,
+            },
+            [2] = 3,
+            [3] = 2,
+            [4] = 0,
+            [5] = 119800,
+            [6] = 89500,
+        },
+        ["@gwin_b"] = 
+        {
+            [1] = 
+            {
+                [1] = 34,
+            },
+            [2] = 0,
+            [3] = 5,
+            [4] = 2,
+            [5] = 110200,
+            [6] = 50200,
+        },
+        ["@Don_logan"] = 
+        {
+            [1] = 
+            {
+                [1] = 8,
+            },
+            [2] = 0,
+            [3] = 5,
+            [4] = 0,
+            [5] = 19800,
+            [6] = 265600,
+        },
+        ["@Lindemann225"] = 
+        {
+            [1] = 
+            {
+                [2] = 34,
+                [1] = 28,
+            },
+            [2] = 1,
+            [3] = 3,
+            [4] = 9,
+            [5] = 283300,
+            [6] = 498200,
+        },
+        ["@Herrald05"] = 
+        {
+            [1] = 
+            {
+                [2] = 31,
+                [1] = 31,
+            },
+            [2] = 7,
+            [3] = 0,
+            [4] = 12,
+            [5] = 372200,
+            [6] = 0,
+        },
+        ["@Maleus4526"] = 
+        {
+            [1] = 
+            {
+                [1] = 8,
+            },
+            [2] = 5,
+            [3] = 6,
+            [4] = 1,
+            [5] = 296600,
+            [6] = 48000,
+        },
+        ["@VicEstrella"] = 
+        {
+            [1] = 
+            {
+                [1] = 28,
             },
             [2] = 0,
             [3] = 4,
             [4] = 0,
-            [5] = 75900,
+            [5] = 0,
+            [6] = 65600,
+        },
+        ["@ichfoustdich"] = 
+        {
+            [1] = 
+            {
+                [1] = 9,
+                [2] = 14,
+                [3] = 15,
+                [4] = 23,
+                [5] = 50,
+            },
+            [2] = 12,
+            [3] = 38,
+            [4] = 31,
+            [5] = 1808200,
+            [6] = 77800,
+        },
+        ["@Marskalkur"] = 
+        {
+            [1] = 
+            {
+                [1] = 54,
+            },
+            [2] = 5,
+            [3] = 1,
+            [4] = 8,
+            [5] = 672100,
+            [6] = 46100,
+        },
+        ["@Dtarzo"] = 
+        {
+            [1] = 
+            {
+                [1] = 38,
+            },
+            [2] = 0,
+            [3] = 16,
+            [4] = 0,
+            [5] = 274700,
+            [6] = 3700,
+        },
+        ["@CaveManPluto"] = 
+        {
+            [1] = 
+            {
+                [1] = 17,
+            },
+            [2] = 0,
+            [3] = 7,
+            [4] = 5,
+            [5] = 120200,
             [6] = 0,
         },
         ["@scutofwump"] = 
@@ -6769,413 +7817,81 @@ ImpressiveStatsPlayersCache =
             [5] = 534400,
             [6] = 113200,
         },
-        ["@kaz-neco0316"] = 
+        ["@NisheshJ"] = 
         {
             [1] = 
             {
-                [1] = 3,
-                [2] = 4,
-                [3] = 4,
-            },
-            [2] = 1,
-            [3] = 12,
-            [4] = 1,
-            [5] = 237300,
-            [6] = 59600,
-        },
-        ["@JuMoraf"] = 
-        {
-            [1] = 
-            {
-                [2] = 16,
-                [1] = 16,
+                [2] = 5,
+                [1] = 5,
             },
             [2] = 0,
             [3] = 6,
-            [4] = 4,
-            [5] = 185900,
-            [6] = 14800,
-        },
-        ["@graczwgre"] = 
-        {
-            [1] = 
-            {
-                [1] = 12,
-                [2] = 31,
-                [3] = 31,
-            },
-            [2] = 1,
-            [3] = 0,
-            [4] = 2,
-            [5] = 34600,
-            [6] = 298700,
-        },
-        ["@Stykxz"] = 
-        {
-            [1] = 
-            {
-                [1] = 35,
-            },
-            [2] = 12,
-            [3] = 6,
-            [4] = 11,
-            [5] = 2314700,
-            [6] = 31400,
-        },
-        ["@Sugashane1990"] = 
-        {
-            [1] = 
-            {
-                [1] = 58,
-            },
-            [2] = 6,
-            [3] = 3,
-            [4] = 4,
-            [5] = 576800,
-            [6] = 13300,
-        },
-        ["@CnavnakKredras"] = 
-        {
-            [1] = 
-            {
-                [1] = 11,
-            },
-            [2] = 0,
-            [3] = 1,
-            [4] = 10,
-            [5] = 329600,
-            [6] = 18800,
-        },
-        ["@GunnarBadger"] = 
-        {
-            [1] = 
-            {
-                [2] = 59,
-                [1] = 55,
-            },
-            [2] = 21,
-            [3] = 3,
-            [4] = 20,
-            [5] = 1441300,
-            [6] = 81200,
-        },
-        ["@EDGERUNN3R77"] = 
-        {
-            [1] = 
-            {
-                [2] = 22,
-                [1] = 22,
-            },
-            [2] = 2,
-            [3] = 6,
-            [4] = 6,
-            [5] = 180300,
-            [6] = 35800,
-        },
-        ["@Suken"] = 
-        {
-            [1] = 
-            {
-                [1] = 11,
-            },
-            [2] = 2,
-            [3] = 0,
             [4] = 0,
-            [5] = 99500,
-            [6] = 5100,
+            [5] = 25500,
+            [6] = 635300,
         },
-        ["@Heartborn92"] = 
+        ["@JeanValJean"] = 
         {
             [1] = 
             {
-                [1] = 46,
-            },
-            [2] = 1,
-            [3] = 3,
-            [4] = 0,
-            [5] = 91300,
-            [6] = 0,
-        },
-        ["@Ioakim"] = 
-        {
-            [1] = 
-            {
-                [1] = 13,
+                [1] = 38,
             },
             [2] = 2,
             [3] = 0,
-            [4] = 1,
-            [5] = 61300,
-            [6] = 36300,
-        },
-        ["@SomosHustlin"] = 
-        {
-            [1] = 
-            {
-                [1] = 30,
-            },
-            [2] = 6,
-            [3] = 1,
-            [4] = 8,
-            [5] = 451800,
-            [6] = 3400,
-        },
-        ["@Balcencor"] = 
-        {
-            [1] = 
-            {
-                [1] = 16,
-                [2] = 16,
-                [3] = 39,
-            },
-            [2] = 8,
-            [3] = 27,
             [4] = 9,
-            [5] = 631800,
-            [6] = 0,
+            [5] = 257700,
+            [6] = 36100,
         },
-        ["@MADSVRL97"] = 
+        ["@Elopsia"] = 
         {
             [1] = 
             {
-                [1] = 17,
-            },
-            [2] = 9,
-            [3] = 6,
-            [4] = 9,
-            [5] = 343800,
-            [6] = 60100,
-        },
-        ["@Avran_Sylt"] = 
-        {
-            [1] = 
-            {
-                [1] = 45,
-            },
-            [2] = 9,
-            [3] = 9,
-            [4] = 2,
-            [5] = 716800,
-            [6] = 69500,
-        },
-        ["@ReisTv"] = 
-        {
-            [1] = 
-            {
-                [2] = 23,
-                [1] = 17,
-            },
-            [2] = 22,
-            [3] = 26,
-            [4] = 16,
-            [5] = 1691400,
-            [6] = 6000,
-        },
-        ["@vicgutier"] = 
-        {
-            [1] = 
-            {
-                [2] = 22,
-                [1] = 22,
-            },
-            [2] = 4,
-            [3] = 5,
-            [4] = 9,
-            [5] = 176100,
-            [6] = 25600,
-        },
-        ["@Okura-43"] = 
-        {
-            [1] = 
-            {
-                [1] = 8,
-            },
-            [2] = 0,
-            [3] = 5,
-            [4] = 0,
-            [5] = 90900,
-            [6] = 5800,
-        },
-        ["@JuanVasquez2000"] = 
-        {
-            [1] = 
-            {
-                [1] = 24,
-            },
-            [2] = 0,
-            [3] = 3,
-            [4] = 0,
-            [5] = 82600,
-            [6] = 10300,
-        },
-        ["@LN_BlankZ"] = 
-        {
-            [1] = 
-            {
-                [1] = 57,
-            },
-            [2] = 0,
-            [3] = 5,
-            [4] = 0,
-            [5] = 5500,
-            [6] = 109500,
-        },
-        ["@DhammaDude"] = 
-        {
-            [1] = 
-            {
-                [1] = 42,
-            },
-            [2] = 6,
-            [3] = 0,
-            [4] = 12,
-            [5] = 221600,
-            [6] = 400,
-        },
-        ["@Chief_sosa510"] = 
-        {
-            [1] = 
-            {
-                [1] = 40,
-            },
-            [2] = 2,
-            [3] = 0,
-            [4] = 10,
-            [5] = 205800,
-            [6] = 24500,
-        },
-        ["@Ferisa_Vix"] = 
-        {
-            [1] = 
-            {
-                [1] = 19,
+                [1] = 53,
             },
             [2] = 3,
             [3] = 5,
-            [4] = 2,
-            [5] = 422500,
-            [6] = 0,
+            [4] = 3,
+            [5] = 432400,
+            [6] = 35300,
         },
-        ["@CJmoment"] = 
-        {
-            [1] = 
-            {
-                [1] = 12,
-            },
-            [2] = 6,
-            [3] = 0,
-            [4] = 8,
-            [5] = 267500,
-            [6] = 26500,
-        },
-        ["@ginoongbaboy"] = 
-        {
-            [1] = 
-            {
-                [1] = 7,
-            },
-            [2] = 4,
-            [3] = 5,
-            [4] = 4,
-            [5] = 242700,
-            [6] = 0,
-        },
-        ["@fieldsofAzaka"] = 
-        {
-            [1] = 
-            {
-                [1] = 54,
-            },
-            [2] = 5,
-            [3] = 7,
-            [4] = 5,
-            [5] = 1163100,
-            [6] = 10300,
-        },
-        ["@TorbjornTheEngineer"] = 
-        {
-            [1] = 
-            {
-                [1] = 51,
-            },
-            [2] = 0,
-            [3] = 4,
-            [4] = 0,
-            [5] = 47100,
-            [6] = 36200,
-        },
-        ["@Maleus4526"] = 
-        {
-            [1] = 
-            {
-                [1] = 8,
-            },
-            [2] = 5,
-            [3] = 6,
-            [4] = 1,
-            [5] = 296600,
-            [6] = 48000,
-        },
-        ["@Imerill"] = 
-        {
-            [1] = 
-            {
-                [1] = 45,
-            },
-            [2] = 8,
-            [3] = 3,
-            [4] = 7,
-            [5] = 508200,
-            [6] = 53500,
-        },
-        ["@StockierGuide33"] = 
-        {
-            [1] = 
-            {
-                [2] = 9,
-                [1] = 9,
-            },
-            [2] = 3,
-            [3] = 0,
-            [4] = 5,
-            [5] = 161700,
-            [6] = 33600,
-        },
-        ["@PeGaX"] = 
+        ["@Maraj"] = 
         {
             [1] = 
             {
                 [1] = 41,
             },
-            [2] = 3,
-            [3] = 1,
-            [4] = 9,
-            [5] = 627000,
-            [6] = 0,
+            [2] = 2,
+            [3] = 3,
+            [4] = 0,
+            [5] = 516700,
+            [6] = 28700,
         },
-        ["@CurseofLuck"] = 
+        ["@Virenic"] = 
         {
             [1] = 
             {
-                [1] = 26,
+                [1] = 59,
             },
-            [2] = 4,
-            [3] = 6,
-            [4] = 10,
-            [5] = 509200,
-            [6] = 142300,
+            [2] = 1,
+            [3] = 8,
+            [4] = 4,
+            [5] = 284500,
+            [6] = 11400,
         },
-        ["@Kript3k"] = 
+        ["@xXxGOOPxXx"] = 
         {
             [1] = 
             {
-                [1] = 11,
+                [4] = 38,
+                [1] = 14,
+                [2] = 26,
+                [3] = 37,
             },
-            [2] = 5,
-            [3] = 1,
-            [4] = 7,
-            [5] = 446400,
-            [6] = 20200,
+            [2] = 49,
+            [3] = 27,
+            [4] = 37,
+            [5] = 2706900,
+            [6] = 304000,
         },
         ["@pirate135246"] = 
         {
@@ -7190,131 +7906,68 @@ ImpressiveStatsPlayersCache =
             [5] = 1557500,
             [6] = 224900,
         },
-        ["@Kaoonashi"] = 
+        ["@CraZLeader"] = 
         {
             [1] = 
             {
-                [1] = 17,
+                [1] = 55,
             },
-            [2] = 4,
+            [2] = 0,
             [3] = 9,
-            [4] = 6,
-            [5] = 436600,
-            [6] = 33000,
-        },
-        ["@Alekezam"] = 
-        {
-            [1] = 
-            {
-                [4] = 20,
-                [1] = 18,
-                [2] = 18,
-                [3] = 20,
-            },
-            [2] = 0,
-            [3] = 10,
-            [4] = 6,
-            [5] = 229000,
-            [6] = 20300,
-        },
-        ["@FatedBeginning"] = 
-        {
-            [1] = 
-            {
-                [1] = 58,
-            },
-            [2] = 5,
-            [3] = 7,
             [4] = 1,
-            [5] = 1101100,
-            [6] = 3600,
+            [5] = 129900,
+            [6] = 0,
         },
-        ["@Alienor1236"] = 
+        ["@Drako-Ei"] = 
         {
             [1] = 
             {
-                [1] = 15,
+                [2] = 9,
+                [1] = 9,
             },
-            [2] = 0,
-            [3] = 3,
-            [4] = 0,
-            [5] = 66300,
-            [6] = 15900,
-        },
-        ["@Will_OSagaz"] = 
-        {
-            [1] = 
-            {
-                [2] = 18,
-                [1] = 18,
-            },
-            [2] = 4,
-            [3] = 6,
-            [4] = 0,
-            [5] = 342700,
-            [6] = 36700,
-        },
-        ["@PocketBeII"] = 
-        {
-            [1] = 
-            {
-                [2] = 18,
-                [1] = 18,
-            },
-            [2] = 0,
+            [2] = 12,
             [3] = 0,
-            [4] = 0,
-            [5] = 23500,
-            [6] = 305000,
+            [4] = 7,
+            [5] = 372800,
+            [6] = 37300,
         },
-        ["@JogginTheNoggin"] = 
+        ["@firebloomedfromfrost"] = 
         {
             [1] = 
             {
-                [1] = 2,
+                [1] = 45,
+            },
+            [2] = 11,
+            [3] = 1,
+            [4] = 13,
+            [5] = 1110900,
+            [6] = 48700,
+        },
+        ["@MyInnerNinja"] = 
+        {
+            [1] = 
+            {
+                [2] = 10,
+                [1] = 10,
             },
             [2] = 0,
-            [3] = 14,
-            [4] = 0,
-            [5] = 49000,
-            [6] = 21800,
-        },
-        ["@Xufashen"] = 
-        {
-            [1] = 
-            {
-                [1] = 27,
-            },
-            [2] = 0,
-            [3] = 5,
-            [4] = 4,
-            [5] = 303700,
-            [6] = 8800,
-        },
-        ["@JiggyJamez"] = 
-        {
-            [1] = 
-            {
-                [1] = 39,
-            },
-            [2] = 1,
-            [3] = 5,
-            [4] = 8,
-            [5] = 206800,
-            [6] = 100000,
-        },
-        ["@Witikiti"] = 
-        {
-            [1] = 
-            {
-                [2] = 58,
-                [1] = 57,
-            },
-            [2] = 1,
             [3] = 6,
+            [4] = 2,
+            [5] = 143300,
+            [6] = 0,
+        },
+        ["@Rororozoroni"] = 
+        {
+            [1] = 
+            {
+                [2] = 46,
+                [1] = 44,
+            },
+            [2] = 2,
+            [3] = 14,
             [4] = 3,
-            [5] = 203800,
-            [6] = 16700,
+            [5] = 952200,
+            [6] = 282200,
         },
         ["@glitorian"] = 
         {
@@ -7329,69 +7982,94 @@ ImpressiveStatsPlayersCache =
             [5] = 404600,
             [6] = 13400,
         },
-        ["@QR1234666"] = 
+        ["@Bell-Nimino"] = 
         {
             [1] = 
             {
-                [1] = 55,
-                [2] = 56,
-                [3] = 59,
+                [1] = 41,
             },
-            [2] = 28,
-            [3] = 11,
-            [4] = 26,
-            [5] = 2213000,
-            [6] = 118800,
+            [2] = 1,
+            [3] = 8,
+            [4] = 1,
+            [5] = 175900,
+            [6] = 1000,
         },
-        ["@Panwick"] = 
+        ["@PeGaX"] = 
         {
             [1] = 
             {
-                [1] = 33,
+                [1] = 41,
             },
-            [2] = 4,
-            [3] = 14,
-            [4] = 2,
-            [5] = 595400,
-            [6] = 300,
-        },
-        ["@firebloomedfromfrost"] = 
-        {
-            [1] = 
-            {
-                [1] = 45,
-            },
-            [2] = 11,
+            [2] = 3,
             [3] = 1,
-            [4] = 13,
-            [5] = 1110900,
-            [6] = 48700,
-        },
-        ["@macdavid211"] = 
-        {
-            [1] = 
-            {
-                [1] = 29,
-            },
-            [2] = 0,
-            [3] = 13,
-            [4] = 0,
-            [5] = 23000,
+            [4] = 9,
+            [5] = 627000,
             [6] = 0,
         },
-        ["@DOOM-ON"] = 
+        ["@Scarylatinword"] = 
         {
             [1] = 
             {
-                [1] = 18,
-                [2] = 18,
-                [3] = 44,
+                [1] = 8,
             },
-            [2] = 7,
+            [2] = 0,
+            [3] = 2,
+            [4] = 0,
+            [5] = 14800,
+            [6] = 636000,
+        },
+        ["@supermen2696"] = 
+        {
+            [1] = 
+            {
+                [1] = 10,
+                [2] = 10,
+                [3] = 11,
+                [4] = 21,
+                [5] = 21,
+                [6] = 23,
+            },
+            [2] = 25,
+            [3] = 16,
+            [4] = 27,
+            [5] = 1883100,
+            [6] = 150000,
+        },
+        ["@Daiolian"] = 
+        {
+            [1] = 
+            {
+                [1] = 7,
+            },
+            [2] = 5,
             [3] = 11,
-            [4] = 8,
-            [5] = 871400,
-            [6] = 70100,
+            [4] = 7,
+            [5] = 425300,
+            [6] = 3300,
+        },
+        ["@Chief_sosa510"] = 
+        {
+            [1] = 
+            {
+                [1] = 40,
+            },
+            [2] = 2,
+            [3] = 0,
+            [4] = 10,
+            [5] = 205800,
+            [6] = 24500,
+        },
+        ["@Demzy_NR"] = 
+        {
+            [1] = 
+            {
+                [1] = 2,
+            },
+            [2] = 8,
+            [3] = 4,
+            [4] = 15,
+            [5] = 637500,
+            [6] = 53800,
         },
         ["@OneJuk"] = 
         {
@@ -7409,355 +8087,247 @@ ImpressiveStatsPlayersCache =
             [5] = 2016400,
             [6] = 25400,
         },
-        ["@Schneider_Js"] = 
-        {
-            [1] = 
-            {
-                [2] = 61,
-                [1] = 51,
-            },
-            [2] = 4,
-            [3] = 4,
-            [4] = 9,
-            [5] = 312200,
-            [6] = 17600,
-        },
-        ["@Necrozer0"] = 
-        {
-            [1] = 
-            {
-                [1] = 17,
-            },
-            [2] = 0,
-            [3] = 9,
-            [4] = 0,
-            [5] = 48900,
-            [6] = 91700,
-        },
-        ["@Hellcat7"] = 
-        {
-            [1] = 
-            {
-                [2] = 40,
-                [1] = 8,
-            },
-            [2] = 4,
-            [3] = 8,
-            [4] = 1,
-            [5] = 398100,
-            [6] = 89800,
-        },
-        ["@ceegith"] = 
-        {
-            [1] = 
-            {
-                [1] = 39,
-            },
-            [2] = 5,
-            [3] = 9,
-            [4] = 9,
-            [5] = 927300,
-            [6] = 80200,
-        },
-        ["@Rafaheal"] = 
-        {
-            [1] = 
-            {
-                [1] = 42,
-            },
-            [2] = 0,
-            [3] = 3,
-            [4] = 0,
-            [5] = 0,
-            [6] = 4000,
-        },
-        ["@egercina"] = 
-        {
-            [1] = 
-            {
-                [1] = 27,
-            },
-            [2] = 10,
-            [3] = 1,
-            [4] = 8,
-            [5] = 859000,
-            [6] = 0,
-        },
-        ["@Arkaicos"] = 
-        {
-            [1] = 
-            {
-                [1] = 49,
-            },
-            [2] = 0,
-            [3] = 12,
-            [4] = 0,
-            [5] = 417700,
-            [6] = 0,
-        },
-        ["@janet2003"] = 
-        {
-            [1] = 
-            {
-                [1] = 60,
-            },
-            [2] = 0,
-            [3] = 4,
-            [4] = 0,
-            [5] = 0,
-            [6] = 3500,
-        },
-        ["@Mgwa"] = 
-        {
-            [1] = 
-            {
-                [1] = 29,
-            },
-            [2] = 2,
-            [3] = 10,
-            [4] = 2,
-            [5] = 490500,
-            [6] = 0,
-        },
-        ["@Dadbod420"] = 
-        {
-            [1] = 
-            {
-                [1] = 44,
-            },
-            [2] = 14,
-            [3] = 5,
-            [4] = 6,
-            [5] = 1940200,
-            [6] = 27000,
-        },
-        ["@chaosgood"] = 
-        {
-            [1] = 
-            {
-                [1] = 46,
-                [2] = 52,
-                [3] = 53,
-            },
-            [2] = 6,
-            [3] = 5,
-            [4] = 12,
-            [5] = 1117500,
-            [6] = 493600,
-        },
-        ["@HarveyDent413"] = 
-        {
-            [1] = 
-            {
-                [1] = 44,
-            },
-            [2] = 11,
-            [3] = 10,
-            [4] = 6,
-            [5] = 692200,
-            [6] = 39000,
-        },
-        ["@nukynukerton"] = 
+        ["@Jeremy_Dale"] = 
         {
             [1] = 
             {
                 [2] = 25,
                 [1] = 25,
             },
-            [2] = 3,
-            [3] = 0,
-            [4] = 5,
-            [5] = 446600,
-            [6] = 188300,
-        },
-        ["@Zmanofgood"] = 
-        {
-            [1] = 
-            {
-                [1] = 39,
-            },
-            [2] = 20,
-            [3] = 4,
-            [4] = 16,
-            [5] = 855300,
-            [6] = 0,
-        },
-        ["@Naym3n"] = 
-        {
-            [1] = 
-            {
-                [2] = 9,
-                [1] = 9,
-            },
-            [2] = 5,
-            [3] = 0,
-            [4] = 11,
-            [5] = 240200,
-            [6] = 0,
-        },
-        ["@Onetap_Oni"] = 
-        {
-            [1] = 
-            {
-                [1] = 19,
-            },
-            [2] = 3,
-            [3] = 1,
-            [4] = 5,
-            [5] = 316500,
-            [6] = 0,
-        },
-        ["@MatiasGabriel"] = 
-        {
-            [1] = 
-            {
-                [2] = 31,
-                [1] = 31,
-            },
             [2] = 0,
             [3] = 6,
             [4] = 0,
-            [5] = 9900,
-            [6] = 8400,
+            [5] = 112200,
+            [6] = 0,
         },
-        ["@diegopereira_4"] = 
+        ["@ManDelorean"] = 
         {
             [1] = 
             {
-                [1] = 50,
+                [1] = 36,
             },
-            [2] = 0,
-            [3] = 1,
-            [4] = 0,
-            [5] = 7700,
-            [6] = 129200,
+            [2] = 3,
+            [3] = 10,
+            [4] = 13,
+            [5] = 498600,
+            [6] = 70700,
         },
-        ["@ValkyrieNorthmen"] = 
+        ["@Pedro_Hilfiger"] = 
         {
             [1] = 
             {
-                [1] = 34,
+                [1] = 32,
             },
             [2] = 0,
-            [3] = 4,
+            [3] = 0,
             [4] = 1,
-            [5] = 210400,
-            [6] = 63600,
+            [5] = 21900,
+            [6] = 446200,
         },
-        ["@Maxweell"] = 
-        {
-            [1] = 
-            {
-                [1] = 49,
-            },
-            [2] = 0,
-            [3] = 11,
-            [4] = 0,
-            [5] = 124300,
-            [6] = 33300,
-        },
-        ["@Venomslime"] = 
+        ["@PocketBeII"] = 
         {
             [1] = 
             {
                 [2] = 18,
                 [1] = 18,
             },
-            [2] = 4,
-            [3] = 3,
-            [4] = 11,
-            [5] = 318900,
-            [6] = 0,
-        },
-        ["@aerickson57"] = 
-        {
-            [1] = 
-            {
-                [1] = 42,
-            },
-            [2] = 5,
+            [2] = 0,
             [3] = 0,
-            [4] = 6,
-            [5] = 117800,
-            [6] = 6600,
+            [4] = 0,
+            [5] = 23500,
+            [6] = 305000,
         },
-        ["@kelf22"] = 
+        ["@Amir50"] = 
         {
             [1] = 
             {
-                [1] = 54,
+                [1] = 49,
             },
-            [2] = 9,
-            [3] = 7,
-            [4] = 9,
-            [5] = 1304400,
+            [2] = 21,
+            [3] = 0,
+            [4] = 11,
+            [5] = 900800,
+            [6] = 111900,
+        },
+        ["@Halfbaked0Bg0"] = 
+        {
+            [1] = 
+            {
+                [1] = 40,
+            },
+            [2] = 0,
+            [3] = 6,
+            [4] = 2,
+            [5] = 76300,
+            [6] = 3800,
+        },
+        ["@Roommck"] = 
+        {
+            [1] = 
+            {
+                [2] = 21,
+                [1] = 21,
+            },
+            [2] = 0,
+            [3] = 6,
+            [4] = 0,
+            [5] = 60100,
+            [6] = 268400,
+        },
+        ["@LeMirage1957"] = 
+        {
+            [1] = 
+            {
+                [1] = 36,
+            },
+            [2] = 0,
+            [3] = 10,
+            [4] = 0,
+            [5] = 73500,
             [6] = 0,
         },
-        ["@kkiirrkkyy"] = 
+        ["@ExplicitQue"] = 
         {
             [1] = 
             {
-                [1] = 55,
-                [2] = 56,
+                [2] = 35,
+                [1] = 34,
+            },
+            [2] = 8,
+            [3] = 9,
+            [4] = 5,
+            [5] = 1372000,
+            [6] = 31900,
+        },
+        ["@Raffent"] = 
+        {
+            [1] = 
+            {
+                [1] = 56,
+                [2] = 57,
                 [3] = 58,
             },
-            [2] = 17,
-            [3] = 16,
-            [4] = 17,
-            [5] = 3123500,
-            [6] = 13300,
+            [2] = 8,
+            [3] = 22,
+            [4] = 6,
+            [5] = 794300,
+            [6] = 8700,
         },
-        ["@AshenBedwarmer"] = 
-        {
-            [1] = 
-            {
-                [2] = 55,
-                [1] = 53,
-            },
-            [2] = 37,
-            [3] = 4,
-            [4] = 3,
-            [5] = 2532500,
-            [6] = 0,
-        },
-        ["@Fantazmic"] = 
-        {
-            [1] = 
-            {
-                [1] = 45,
-            },
-            [2] = 9,
-            [3] = 1,
-            [4] = 10,
-            [5] = 681700,
-            [6] = 41600,
-        },
-        ["@Disgraced-Vigilante"] = 
-        {
-            [1] = 
-            {
-                [2] = 60,
-                [1] = 29,
-            },
-            [2] = 5,
-            [3] = 9,
-            [4] = 0,
-            [5] = 628900,
-            [6] = 41600,
-        },
-        ["@ActionManLink"] = 
+        ["@Alucard5551"] = 
         {
             [1] = 
             {
                 [1] = 50,
             },
-            [2] = 1,
+            [2] = 0,
             [3] = 4,
+            [4] = 0,
+            [5] = 45900,
+            [6] = 0,
+        },
+        ["@BeerF4rts"] = 
+        {
+            [1] = 
+            {
+                [1] = 24,
+            },
+            [2] = 0,
+            [3] = 3,
+            [4] = 0,
+            [5] = 120300,
+            [6] = 0,
+        },
+        ["@lllVIVlll"] = 
+        {
+            [1] = 
+            {
+                [1] = 30,
+            },
+            [2] = 0,
+            [3] = 8,
+            [4] = 2,
+            [5] = 120400,
+            [6] = 0,
+        },
+        ["@Carson24s"] = 
+        {
+            [1] = 
+            {
+                [4] = 48,
+                [1] = 28,
+                [2] = 33,
+                [3] = 47,
+            },
+            [2] = 14,
+            [3] = 21,
+            [4] = 26,
+            [5] = 1836800,
+            [6] = 57600,
+        },
+        ["@Mistly"] = 
+        {
+            [1] = 
+            {
+                [1] = 61,
+            },
+            [2] = 0,
+            [3] = 6,
+            [4] = 1,
+            [5] = 122400,
+            [6] = 5600,
+        },
+        ["@Wulfgaran"] = 
+        {
+            [1] = 
+            {
+                [1] = 30,
+            },
+            [2] = 5,
+            [3] = 6,
+            [4] = 2,
+            [5] = 272500,
+            [6] = 0,
+        },
+        ["@Sugashane1990"] = 
+        {
+            [1] = 
+            {
+                [1] = 58,
+            },
+            [2] = 6,
+            [3] = 3,
             [4] = 4,
-            [5] = 163700,
-            [6] = 34500,
+            [5] = 576800,
+            [6] = 13300,
+        },
+        ["@Ichikiru"] = 
+        {
+            [1] = 
+            {
+                [2] = 36,
+                [1] = 27,
+            },
+            [2] = 3,
+            [3] = 10,
+            [4] = 13,
+            [5] = 1055700,
+            [6] = 16500,
+        },
+        ["@vane000"] = 
+        {
+            [1] = 
+            {
+                [2] = 51,
+                [1] = 26,
+            },
+            [2] = 16,
+            [3] = 9,
+            [4] = 17,
+            [5] = 1143700,
+            [6] = 87800,
         },
     },
+    ["lastCached"] = 61,
 }
 ImpressiveStatsPlayersSV =
 {
@@ -7802,5 +8372,14 @@ ImpressiveStatsErrors =
 {
     ["errors"] = 
     {
+        ["MatchManager"] = 
+        {
+            ["firstUnread"] = 2,
+            [1] = 
+            {
+                [1] = "2026-06-28 09:15:48Z BG #91 was not packed",
+                [3] = 1782638148,
+            },
+        },
     },
 }

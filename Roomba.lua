@@ -6,10 +6,10 @@ Roomba_Account =
         {
             ["$AccountWide"] = 
             {
+                ["version"] = 1,
+                ["RoombaAtGBank"] = true,
                 ["RoombaPosition"] = 1,
                 ["liteMode"] = false,
-                ["RoombaAtGBank"] = true,
-                ["version"] = 1,
             },
         },
     },

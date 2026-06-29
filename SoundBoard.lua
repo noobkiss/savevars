@@ -8,10 +8,10 @@ SoundBoardSV =
             {
                 ["NA Megaserver"] = 
                 {
-                    ["height"] = 600,
-                    ["version"] = 1,
                     ["posX"] = 978,
                     ["posY"] = 363,
+                    ["height"] = 600,
+                    ["version"] = 1,
                     ["width"] = 520,
                 },
             },

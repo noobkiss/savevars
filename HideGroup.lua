@@ -6,45 +6,45 @@ HideGroupSavedVars =
         {
             ["noobhugs"] = 
             {
-                ["GroupMemberHealthBars"] = "2",
-                ["version"] = 1,
-                ["GroupMemberNameplates"] = "2",
                 ["HideState"] = false,
-            },
-            ["Zou Kimcheng"] = 
-            {
-                ["GroupMemberHealthBars"] = "2",
-                ["version"] = 1,
                 ["GroupMemberNameplates"] = "2",
-                ["HideState"] = false,
-            },
-            ["noobsmell"] = 
-            {
-                ["GroupMemberHealthBars"] = "2",
                 ["version"] = 1,
-                ["GroupMemberNameplates"] = "2",
-                ["HideState"] = false,
-            },
-            ["noobwink"] = 
-            {
                 ["GroupMemberHealthBars"] = "2",
-                ["version"] = 1,
-                ["GroupMemberNameplates"] = "2",
-                ["HideState"] = false,
             },
             ["noobkiss"] = 
             {
-                ["GroupMemberHealthBars"] = "2",
-                ["version"] = 1,
-                ["GroupMemberNameplates"] = "2",
                 ["HideState"] = false,
+                ["GroupMemberNameplates"] = "2",
+                ["version"] = 1,
+                ["GroupMemberHealthBars"] = "2",
+            },
+            ["noobsmell"] = 
+            {
+                ["HideState"] = false,
+                ["GroupMemberNameplates"] = "2",
+                ["version"] = 1,
+                ["GroupMemberHealthBars"] = "2",
+            },
+            ["Zou Kimcheng"] = 
+            {
+                ["HideState"] = false,
+                ["GroupMemberNameplates"] = "2",
+                ["version"] = 1,
+                ["GroupMemberHealthBars"] = "2",
             },
             ["Joyous Socks"] = 
             {
-                ["GroupMemberHealthBars"] = "2",
-                ["version"] = 1,
-                ["GroupMemberNameplates"] = "2",
                 ["HideState"] = false,
+                ["GroupMemberNameplates"] = "2",
+                ["version"] = 1,
+                ["GroupMemberHealthBars"] = "2",
+            },
+            ["noobwink"] = 
+            {
+                ["HideState"] = false,
+                ["GroupMemberNameplates"] = "2",
+                ["version"] = 1,
+                ["GroupMemberHealthBars"] = "2",
             },
         },
     },

@@ -1,5 +1,7 @@
 LibRunebox_SV_Data =
 {
+    ["version"] = 2,
+    ["lastScannedItemId"] = 166706,
     ["dataList"] = 
     {
         [1] = 
@@ -3610,251 +3612,249 @@ LibRunebox_SV_Data =
         },
         [602] = 
         {
-            ["containerName"] = "符文箱：森鸦流浪者时装",
             ["collectibleId"] = 8043,
             ["containerItemId"] = 167305,
+            ["containerName"] = "符文箱：森鸦流浪者时装",
             ["containerType"] = 1,
         },
         [603] = 
         {
-            ["containerName"] = "符文箱：南瓜幽灵面具",
             ["collectibleId"] = 439,
             ["containerItemId"] = 167937,
+            ["containerName"] = "符文箱：南瓜幽灵面具",
             ["containerType"] = 1,
         },
         [604] = 
         {
-            ["containerName"] = "符文箱：稻草人幽灵面具",
             ["collectibleId"] = 440,
             ["containerItemId"] = 167938,
+            ["containerName"] = "符文箱：稻草人幽灵面具",
             ["containerType"] = 1,
         },
         [605] = 
         {
-            ["containerName"] = "符文箱：万圣杰克幽灵面具",
             ["collectibleId"] = 1338,
             ["containerItemId"] = 167939,
+            ["containerName"] = "符文箱：万圣杰克幽灵面具",
             ["containerType"] = 1,
         },
         [606] = 
         {
-            ["containerName"] = "符文箱：灌木人幽灵面具",
             ["collectibleId"] = 1339,
             ["containerItemId"] = 167940,
+            ["containerName"] = "符文箱：灌木人幽灵面具",
             ["containerType"] = 1,
         },
         [607] = 
         {
-            ["containerName"] = "符文箱：雪球伙伴",
             ["collectibleId"] = 8221,
             ["containerItemId"] = 171330,
+            ["containerName"] = "符文箱：雪球伙伴",
             ["containerType"] = 1,
         },
         [608] = 
         {
-            ["containerName"] = "符文箱：先祖神州布莱顿梗犬宠物",
             ["collectibleId"] = 8197,
             ["containerItemId"] = 171471,
+            ["containerName"] = "符文箱：先祖神州布莱顿梗犬宠物",
             ["containerType"] = 1,
         },
         [609] = 
         {
-            ["containerName"] = "符文箱：匕落布莱顿梗犬宠物",
             ["collectibleId"] = 8198,
             ["containerItemId"] = 171472,
+            ["containerName"] = "符文箱：匕落布莱顿梗犬宠物",
             ["containerType"] = 1,
         },
         [610] = 
         {
-            ["containerName"] = "符文箱：黑檀心布莱顿梗犬宠物",
             ["collectibleId"] = 8196,
             ["containerItemId"] = 171473,
+            ["containerName"] = "符文箱：黑檀心布莱顿梗犬宠物",
             ["containerType"] = 1,
         },
         [611] = 
         {
-            ["containerName"] = "符文箱：熔渣镇潜水者",
             ["collectibleId"] = 8125,
             ["containerItemId"] = 171477,
+            ["containerName"] = "符文箱：熔渣镇潜水者",
             ["containerType"] = 1,
         },
         [612] = 
         {
-            ["containerName"] = "符文箱：瑟提斯·拉玛利的诱饵包",
             ["collectibleId"] = 8658,
             ["containerItemId"] = 171478,
+            ["containerName"] = "符文箱：瑟提斯·拉玛利的诱饵包",
             ["containerType"] = 1,
         },
         [613] = 
         {
-            ["containerName"] = "符文箱：瑞驰之怒表情",
             ["collectibleId"] = 8655,
             ["containerItemId"] = 171533,
+            ["containerName"] = "符文箱：瑞驰之怒表情",
             ["containerType"] = 1,
         },
         [614] = 
         {
-            ["containerName"] = "符文箱：烤棉花糖表情",
             ["collectibleId"] = 8654,
             ["containerItemId"] = 178695,
+            ["containerName"] = "符文箱：烤棉花糖表情",
             ["containerType"] = 1,
         },
         [615] = 
         {
-            ["containerName"] = "符文箱：女巫的篝火纪念品",
             ["collectibleId"] = 9530,
             ["containerItemId"] = 178696,
+            ["containerName"] = "符文箱：女巫的篝火纪念品",
             ["containerType"] = 1,
         },
         [616] = 
         {
-            ["containerName"] = "符文箱：粉面白家兔",
             ["collectibleId"] = 8541,
             ["containerItemId"] = 182487,
+            ["containerName"] = "符文箱：粉面白家兔",
             ["containerType"] = 1,
         },
         [617] = 
         {
-            ["containerName"] = "Runebox: Black Drake's Face Warpaint",
             ["collectibleId"] = 9402,
             ["containerItemId"] = 182517,
+            ["containerName"] = "Runebox: Black Drake's Face Warpaint",
             ["containerType"] = 1,
         },
         [618] = 
         {
-            ["containerName"] = "Runebox: Black Drake's Body Warpaint",
             ["collectibleId"] = 9403,
             ["containerItemId"] = 182518,
+            ["containerName"] = "Runebox: Black Drake's Body Warpaint",
             ["containerType"] = 1,
         },
         [619] = 
         {
-            ["containerName"] = "符文箱：黄昏狮鹫幼崽",
             ["collectibleId"] = 9401,
             ["containerItemId"] = 182591,
+            ["containerName"] = "符文箱：黄昏狮鹫幼崽",
             ["containerType"] = 1,
         },
         [620] = 
         {
-            ["containerName"] = "符文箱：攻城践踏者表情",
             ["collectibleId"] = 9718,
             ["containerItemId"] = 183195,
+            ["containerName"] = "符文箱：攻城践踏者表情",
             ["containerType"] = 1,
         },
         [621] = 
         {
-            ["containerName"] = "Runebox: Battle-Scarred Visage",
             ["collectibleId"] = 9877,
             ["containerItemId"] = 187679,
+            ["containerName"] = "Runebox: Battle-Scarred Visage",
             ["containerType"] = 1,
         },
         [622] = 
         {
-            ["containerName"] = "Runebox: Battle-Scarred Body",
             ["collectibleId"] = 9878,
             ["containerItemId"] = 187680,
+            ["containerName"] = "Runebox: Battle-Scarred Body",
             ["containerType"] = 1,
         },
         [623] = 
         {
-            ["containerName"] = "符文箱：恐怖显现纪念品",
             ["collectibleId"] = 10850,
             ["containerItemId"] = 190035,
+            ["containerName"] = "符文箱：恐怖显现纪念品",
             ["containerType"] = 1,
         },
         [624] = 
         {
-            ["containerName"] = "符文箱：噬面古籍纪念品",
             ["collectibleId"] = 11499,
             ["containerItemId"] = 198322,
+            ["containerName"] = "符文箱：噬面古籍纪念品",
             ["containerType"] = 1,
         },
         [625] = 
         {
-            ["containerName"] = "符文箱：劫掠疏漏纪念品",
             ["collectibleId"] = 12724,
             ["containerItemId"] = 211127,
+            ["containerName"] = "符文箱：劫掠疏漏纪念品",
             ["containerType"] = 1,
         },
         [626] = 
         {
-            ["containerName"] = "符文箱：橡树之誓面部纹饰",
             ["collectibleId"] = 10412,
             ["containerItemId"] = 212177,
+            ["containerName"] = "符文箱：橡树之誓面部纹饰",
             ["containerType"] = 1,
         },
         [627] = 
         {
-            ["containerName"] = "符文箱：橡树之誓躯干纹饰",
             ["collectibleId"] = 10413,
             ["containerItemId"] = 212178,
+            ["containerName"] = "符文箱：橡树之誓躯干纹饰",
             ["containerType"] = 1,
         },
         [628] = 
         {
-            ["containerName"] = "符文箱：自立更生",
             ["collectibleId"] = 10416,
             ["containerItemId"] = 212179,
+            ["containerName"] = "符文箱：自立更生",
             ["containerType"] = 1,
         },
         [629] = 
         {
-            ["containerName"] = "符文箱：惊喜雪景球",
             ["collectibleId"] = 13105,
             ["containerItemId"] = 212199,
+            ["containerName"] = "符文箱：惊喜雪景球",
             ["containerType"] = 1,
         },
         [630] = 
         {
-            ["containerName"] = "符文类古籍：战斗威力面具饰品",
             ["collectibleId"] = 12769,
             ["containerItemId"] = 212359,
+            ["containerName"] = "符文类古籍：战斗威力面具饰品",
             ["containerType"] = 1,
         },
         [631] = 
         {
-            ["containerName"] = "符文箱：悬顶之刃饰品",
             ["collectibleId"] = 12793,
             ["containerItemId"] = 214258,
+            ["containerName"] = "符文箱：悬顶之刃饰品",
             ["containerType"] = 1,
         },
         [632] = 
         {
-            ["containerName"] = "符文类古籍：火龙与深坑守护者的对决面部彩绘",
             ["collectibleId"] = 13111,
             ["containerItemId"] = 214312,
+            ["containerName"] = "符文类古籍：火龙与深坑守护者的对决面部彩绘",
             ["containerType"] = 1,
         },
         [633] = 
         {
-            ["containerName"] = "符文类古籍：火龙与深坑守护者的对决身体彩绘",
             ["collectibleId"] = 13112,
             ["containerItemId"] = 214313,
+            ["containerName"] = "符文类古籍：火龙与深坑守护者的对决身体彩绘",
             ["containerType"] = 1,
         },
         [634] = 
         {
-            ["containerName"] = "Runebox: Hagmatron's Face Marking",
             ["collectibleId"] = 13607,
             ["containerItemId"] = 219747,
+            ["containerName"] = "Runebox: Hagmatron's Face Marking",
             ["containerType"] = 1,
         },
         [635] = 
         {
-            ["containerName"] = "Runebox: Hagmatron's Body Marking",
             ["collectibleId"] = 13608,
             ["containerItemId"] = 219748,
+            ["containerName"] = "Runebox: Hagmatron's Body Marking",
             ["containerType"] = 1,
         },
         [636] = 
         {
-            ["containerName"] = "Runebound Tome: Worm King's Crown",
             ["collectibleId"] = 13613,
             ["containerItemId"] = 219846,
+            ["containerName"] = "Runebound Tome: Worm King's Crown",
             ["containerType"] = 1,
         },
     },
     ["lastAPIVersion"] = 101050,
-    ["lastScannedItemId"] = 166706,
-    ["version"] = 2,
 }

@@ -2,22 +2,6 @@ LibScrollableMenu_SavedVars =
 {
     ["Default"] = 
     {
-        ["@Jonzouio"] = 
-        {
-            ["$AccountWide"] = 
-            {
-                ["LSM"] = 
-                {
-                    ["collapsedHeaderState"] = 
-                    {
-                    },
-                    ["version"] = 1,
-                    ["textSearchHistory"] = 
-                    {
-                    },
-                },
-            },
-        },
         ["@Kankerkop"] = 
         {
             ["$AccountWide"] = 
@@ -27,29 +11,10 @@ LibScrollableMenu_SavedVars =
                     ["collapsedHeaderState"] = 
                     {
                     },
-                    ["version"] = 1,
                     ["textSearchHistory"] = 
                     {
                     },
-                },
-            },
-        },
-        ["@noobkiss"] = 
-        {
-            ["$AccountWide"] = 
-            {
-                ["LSM"] = 
-                {
-                    ["collapsedHeaderState"] = 
-                    {
-                        ["ZO_MailInbox_FCOChangeStuff_FCOCS_MailRecivedMassChangeContextMenu"] = false,
-                        ["ZO_MailSendToLabel_FCOChangeStuff_FCOCS_MailRecipientsContextMenu"] = false,
-                        ["AddonSelectorddl"] = true,
-                    },
                     ["version"] = 1,
-                    ["textSearchHistory"] = 
-                    {
-                    },
                 },
             },
         },
@@ -62,10 +27,45 @@ LibScrollableMenu_SavedVars =
                     ["collapsedHeaderState"] = 
                     {
                     },
-                    ["version"] = 1,
                     ["textSearchHistory"] = 
                     {
                     },
+                    ["version"] = 1,
+                },
+            },
+        },
+        ["@Jonzouio"] = 
+        {
+            ["$AccountWide"] = 
+            {
+                ["LSM"] = 
+                {
+                    ["collapsedHeaderState"] = 
+                    {
+                    },
+                    ["textSearchHistory"] = 
+                    {
+                    },
+                    ["version"] = 1,
+                },
+            },
+        },
+        ["@noobkiss"] = 
+        {
+            ["$AccountWide"] = 
+            {
+                ["LSM"] = 
+                {
+                    ["collapsedHeaderState"] = 
+                    {
+                        ["ZO_MailSendToLabel_FCOChangeStuff_FCOCS_MailRecipientsContextMenu"] = false,
+                        ["ZO_MailInbox_FCOChangeStuff_FCOCS_MailRecivedMassChangeContextMenu"] = false,
+                        ["AddonSelectorddl"] = true,
+                    },
+                    ["textSearchHistory"] = 
+                    {
+                    },
+                    ["version"] = 1,
                 },
             },
         },

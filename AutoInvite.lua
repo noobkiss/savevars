@@ -2,20 +2,37 @@ AutoInviteSettings =
 {
     ["Default"] = 
     {
+        ["@YYDS1214"] = 
+        {
+            ["$AccountWide"] = 
+            {
+                ["config"] = 
+                {
+                    ["version"] = 1,
+                    ["restart"] = false,
+                    ["watchStr"] = "",
+                    ["maxSize"] = 12,
+                    ["cyrCheck"] = false,
+                    ["showPanel"] = true,
+                    ["autoKick"] = false,
+                    ["kickDelay"] = 300,
+                },
+            },
+        },
         ["@Kankerkop"] = 
         {
             ["$AccountWide"] = 
             {
                 ["config"] = 
                 {
-                    ["cyrCheck"] = false,
-                    ["maxSize"] = 12,
-                    ["showPanel"] = true,
                     ["version"] = 1,
-                    ["kickDelay"] = 300,
-                    ["watchStr"] = "",
                     ["restart"] = false,
+                    ["watchStr"] = "",
+                    ["maxSize"] = 12,
+                    ["cyrCheck"] = false,
+                    ["showPanel"] = true,
                     ["autoKick"] = false,
+                    ["kickDelay"] = 300,
                 },
             },
         },
@@ -25,16 +42,16 @@ AutoInviteSettings =
             {
                 ["config"] = 
                 {
-                    ["ddsNeeded"] = 0,
-                    ["kickDelay"] = 300,
-                    ["tanksNeeded"] = 0,
+                    ["version"] = 1,
+                    ["cyrCheck"] = false,
                     ["healersNeeded"] = 0,
-                    ["autoKick"] = false,
+                    ["kickDelay"] = 300,
                     ["enrollStr"] = "",
-                    ["maxSize"] = 12,
-                    ["showPanel"] = true,
+                    ["ddsNeeded"] = 0,
                     ["restart"] = false,
                     ["watchStr"] = "x",
+                    ["maxSize"] = 12,
+                    ["tanksNeeded"] = 0,
                     ["channelsToListenTo"] = 
                     {
                         [0] = true,
@@ -55,29 +72,12 @@ AutoInviteSettings =
                         [20] = true,
                         [21] = true,
                         [33] = true,
-                        [32] = true,
                         [34] = true,
+                        [32] = true,
                         [31] = true,
                     },
-                    ["version"] = 1,
-                    ["cyrCheck"] = false,
-                },
-            },
-        },
-        ["@YYDS1214"] = 
-        {
-            ["$AccountWide"] = 
-            {
-                ["config"] = 
-                {
-                    ["cyrCheck"] = false,
-                    ["maxSize"] = 12,
-                    ["showPanel"] = true,
-                    ["version"] = 1,
-                    ["kickDelay"] = 300,
-                    ["watchStr"] = "",
-                    ["restart"] = false,
                     ["autoKick"] = false,
+                    ["showPanel"] = true,
                 },
             },
         },

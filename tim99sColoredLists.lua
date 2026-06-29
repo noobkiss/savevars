@@ -1,86 +1,86 @@
 Tim99sColoredLists =
 {
+    ["NA Megaserver"] = 
+    {
+        ["@YYDS1214"] = 
+        {
+            ["$AccountWide"] = 
+            {
+                ["colorOpen"] = "ff6666",
+                ["doLorebooks"] = true,
+                ["doAntiquities"] = true,
+                ["showSetsSums"] = false,
+                ["showAchieveSums"] = false,
+                ["doSetCollection"] = true,
+                ["doBlueprints"] = true,
+                ["doDungeonQueue"] = true,
+                ["showAntiqueSums"] = false,
+                ["doAchievements"] = true,
+                ["colorQueue"] = "9b30ff",
+                ["version"] = 1,
+                ["colorDone"] = "66ff66",
+            },
+        },
+        ["@Kankerkop"] = 
+        {
+            ["$AccountWide"] = 
+            {
+                ["colorOpen"] = "ff6666",
+                ["doLorebooks"] = true,
+                ["doAntiquities"] = true,
+                ["showSetsSums"] = false,
+                ["showAchieveSums"] = false,
+                ["doSetCollection"] = true,
+                ["doBlueprints"] = true,
+                ["doDungeonQueue"] = true,
+                ["showAntiqueSums"] = false,
+                ["doAchievements"] = true,
+                ["colorQueue"] = "9b30ff",
+                ["version"] = 1,
+                ["colorDone"] = "66ff66",
+            },
+        },
+        ["@noobkiss"] = 
+        {
+            ["$AccountWide"] = 
+            {
+                ["colorOpen"] = "ff6666",
+                ["doLorebooks"] = true,
+                ["doAchievHeader"] = true,
+                ["doAchievements"] = true,
+                ["doBlueprints"] = true,
+                ["showSetsSums"] = false,
+                ["showAchieveSums"] = false,
+                ["showAntiqueSums"] = false,
+                ["doSetCollection"] = true,
+                ["doDungeonQueue"] = true,
+                ["doSetCollectHeader"] = true,
+                ["doAntiquities"] = true,
+                ["colorQueue"] = "9b30ff",
+                ["version"] = 1,
+                ["colorDone"] = "66ff66",
+            },
+        },
+    },
     ["EU Megaserver"] = 
     {
         ["@noobkiss"] = 
         {
             ["$AccountWide"] = 
             {
-                ["showSetsSums"] = false,
                 ["colorOpen"] = "ff6666",
-                ["showAchieveSums"] = false,
-                ["doDungeonQueue"] = true,
-                ["doSetCollection"] = true,
-                ["colorDone"] = "66ff66",
-                ["doAchievements"] = true,
-                ["showAntiqueSums"] = false,
-                ["version"] = 1,
-                ["doAntiquities"] = true,
-                ["colorQueue"] = "9b30ff",
                 ["doLorebooks"] = true,
-                ["doBlueprints"] = true,
-            },
-        },
-    },
-    ["NA Megaserver"] = 
-    {
-        ["@Kankerkop"] = 
-        {
-            ["$AccountWide"] = 
-            {
-                ["showSetsSums"] = false,
-                ["colorOpen"] = "ff6666",
-                ["showAchieveSums"] = false,
-                ["doDungeonQueue"] = true,
-                ["doSetCollection"] = true,
-                ["colorDone"] = "66ff66",
-                ["doAchievements"] = true,
-                ["showAntiqueSums"] = false,
-                ["version"] = 1,
                 ["doAntiquities"] = true,
-                ["colorQueue"] = "9b30ff",
-                ["doLorebooks"] = true,
-                ["doBlueprints"] = true,
-            },
-        },
-        ["@noobkiss"] = 
-        {
-            ["$AccountWide"] = 
-            {
                 ["showSetsSums"] = false,
-                ["colorOpen"] = "ff6666",
                 ["showAchieveSums"] = false,
                 ["doSetCollection"] = true,
-                ["doSetCollectHeader"] = true,
-                ["doDungeonQueue"] = true,
-                ["colorQueue"] = "9b30ff",
-                ["colorDone"] = "66ff66",
-                ["doAchievements"] = true,
-                ["showAntiqueSums"] = false,
-                ["version"] = 1,
-                ["doAntiquities"] = true,
-                ["doAchievHeader"] = true,
-                ["doLorebooks"] = true,
                 ["doBlueprints"] = true,
-            },
-        },
-        ["@YYDS1214"] = 
-        {
-            ["$AccountWide"] = 
-            {
-                ["showSetsSums"] = false,
-                ["colorOpen"] = "ff6666",
-                ["showAchieveSums"] = false,
                 ["doDungeonQueue"] = true,
-                ["doSetCollection"] = true,
-                ["colorDone"] = "66ff66",
-                ["doAchievements"] = true,
                 ["showAntiqueSums"] = false,
-                ["version"] = 1,
-                ["doAntiquities"] = true,
+                ["doAchievements"] = true,
                 ["colorQueue"] = "9b30ff",
-                ["doLorebooks"] = true,
-                ["doBlueprints"] = true,
+                ["version"] = 1,
+                ["colorDone"] = "66ff66",
             },
         },
     },

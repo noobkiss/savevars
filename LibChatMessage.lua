@@ -1,84 +1,84 @@
 LibChatMessageSettings =
 {
-    ["NA Megaserver@Kankerkop"] = 
+    ["NA Megaserver@noobkiss"] = 
     {
+        ["timePrefixOnRegularChat"] = true,
         ["historyEnabled"] = false,
+        ["timePrefixEnabled"] = false,
         ["historyMaxAge"] = 3600,
-        ["version"] = 1,
         ["tagPrefixMode"] = 2,
         ["timePrefixFormat"] = "[%X]",
-        ["timePrefixOnRegularChat"] = true,
-        ["timePrefixEnabled"] = false,
+        ["version"] = 1,
     },
     ["NA Megaserver@Jonzouio"] = 
     {
+        ["timePrefixOnRegularChat"] = true,
         ["historyEnabled"] = false,
+        ["timePrefixEnabled"] = false,
         ["historyMaxAge"] = 3600,
-        ["version"] = 1,
         ["tagPrefixMode"] = 2,
         ["timePrefixFormat"] = "[%X]",
-        ["timePrefixOnRegularChat"] = true,
-        ["timePrefixEnabled"] = false,
+        ["version"] = 1,
     },
-    ["NA Megaserver@noobkiss"] = 
+    ["NA Megaserver@Kankerkop"] = 
     {
+        ["timePrefixOnRegularChat"] = true,
         ["historyEnabled"] = false,
+        ["timePrefixEnabled"] = false,
         ["historyMaxAge"] = 3600,
-        ["version"] = 1,
         ["tagPrefixMode"] = 2,
         ["timePrefixFormat"] = "[%X]",
-        ["timePrefixOnRegularChat"] = true,
-        ["timePrefixEnabled"] = false,
+        ["version"] = 1,
     },
     ["NA Megaserver@Black1711"] = 
     {
+        ["timePrefixOnRegularChat"] = true,
         ["historyEnabled"] = false,
+        ["timePrefixEnabled"] = false,
         ["historyMaxAge"] = 3600,
-        ["version"] = 1,
         ["tagPrefixMode"] = 2,
         ["timePrefixFormat"] = "[%X]",
-        ["timePrefixOnRegularChat"] = true,
-        ["timePrefixEnabled"] = false,
-    },
-    ["NA Megaserver@YYDS1214"] = 
-    {
-        ["historyEnabled"] = false,
-        ["historyMaxAge"] = 3600,
         ["version"] = 1,
-        ["tagPrefixMode"] = 2,
-        ["timePrefixFormat"] = "[%X]",
-        ["timePrefixOnRegularChat"] = true,
-        ["timePrefixEnabled"] = false,
     },
     ["EU Megaserver@noobkiss"] = 
     {
+        ["timePrefixOnRegularChat"] = true,
         ["historyEnabled"] = false,
+        ["timePrefixEnabled"] = false,
         ["historyMaxAge"] = 3600,
-        ["version"] = 1,
         ["tagPrefixMode"] = 2,
         ["timePrefixFormat"] = "[%X]",
+        ["version"] = 1,
+    },
+    ["NA Megaserver@YYDS1214"] = 
+    {
         ["timePrefixOnRegularChat"] = true,
+        ["historyEnabled"] = false,
         ["timePrefixEnabled"] = false,
+        ["historyMaxAge"] = 3600,
+        ["tagPrefixMode"] = 2,
+        ["timePrefixFormat"] = "[%X]",
+        ["version"] = 1,
     },
 }
 LibChatMessageHistory =
 {
-    ["NA Megaserver@Kankerkop"] = 
+    ["NA Megaserver@noobkiss"] = 
     {
     },
     ["NA Megaserver@Jonzouio"] = 
     {
     },
-    ["NA Megaserver@noobkiss"] = 
+    ["NA Megaserver@Kankerkop"] = 
     {
     },
     ["NA Megaserver@Black1711"] = 
     {
     },
-    ["NA Megaserver@YYDS1214"] = 
+    ["EU Megaserver@noobkiss"] = 
     {
     },
-    ["EU Megaserver@noobkiss"] = 
+    ["NA Megaserver@YYDS1214"] = 
     {
     },
 }

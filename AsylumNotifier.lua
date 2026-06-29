@@ -7,15 +7,15 @@ AsylumNotifierSavedVariables =
             ["$AccountWide"] = 
             {
                 ["left"] = 400,
-                ["version"] = 1,
                 ["dimmed_opacity"] = 0.7000000000,
+                ["version"] = 1,
                 ["top"] = 300,
                 ["notify"] = 
                 {
-                    ["teleport_strike"] = true,
-                    ["oppressive_bolts"] = true,
-                    ["exhaustive_charges"] = true,
                     ["add_spawn"] = false,
+                    ["teleport_strike"] = true,
+                    ["exhaustive_charges"] = true,
+                    ["oppressive_bolts"] = true,
                 },
             },
         },

@@ -2,16 +2,68 @@ GroupManager_Data =
 {
     ["Default"] = 
     {
+        ["@YYDS1214"] = 
+        {
+            ["$AccountWide"] = 
+            {
+                ["inviteGroup"] = "New Group",
+                ["panelSelection"] = "LGMMenuBarButton1",
+                ["trackDeaths"] = true,
+                ["livePopupLength"] = 0,
+                ["autoAltKick"] = false,
+                ["kickTime"] = 0,
+                ["livePopupAnchorPoint"] = 
+                {
+                    [2] = 500,
+                    [1] = 25,
+                },
+                ["displayAbilityIds"] = false,
+                ["inviteString"] = 
+                {
+                    ["Zone"] = "",
+                    ["guild"] = 
+                    {
+                        [0] = "",
+                        [915417] = "",
+                        [927463] = "",
+                    },
+                    ["Whisper"] = "",
+                },
+                ["markTrialStart"] = true,
+                ["Enabled"] = false,
+                ["autoSelectLGM"] = false,
+                ["muteInvites"] = true,
+                ["Groups"] = 
+                {
+                    ["New Group"] = 
+                    {
+                    },
+                },
+                ["version"] = 1,
+                ["maxSize"] = 24,
+                ["allowSuggestions"] = false,
+                ["recapLength"] = 10,
+            },
+        },
         ["@Jonzouio"] = 
         {
             ["$AccountWide"] = 
             {
-                ["displayAbilityIds"] = false,
-                ["allowSuggestions"] = false,
+                ["inviteGroup"] = "New Group",
+                ["panelSelection"] = "LGMMenuBarButton1",
                 ["trackDeaths"] = true,
+                ["livePopupLength"] = 0,
+                ["autoAltKick"] = false,
+                ["kickTime"] = 0,
+                ["livePopupAnchorPoint"] = 
+                {
+                    [2] = 500,
+                    [1] = 25,
+                },
+                ["displayAbilityIds"] = false,
                 ["inviteString"] = 
                 {
-                    ["Whisper"] = "",
+                    ["Zone"] = "",
                     ["guild"] = 
                     {
                         [1] = "",
@@ -20,42 +72,42 @@ GroupManager_Data =
                         [4] = "",
                         [5] = "",
                     },
-                    ["Zone"] = "",
+                    ["Whisper"] = "",
                 },
-                ["recapLength"] = 10,
-                ["autoSelectLGM"] = false,
-                ["livePopupAnchorPoint"] = 
-                {
-                    [2] = 500,
-                    [1] = 25,
-                },
+                ["markTrialStart"] = true,
+                ["Enabled"] = false,
+                ["allowSuggestions"] = false,
                 ["Groups"] = 
                 {
                     ["New Group"] = 
                     {
                     },
                 },
-                ["inviteGroup"] = "New Group",
-                ["livePopupLength"] = 0,
-                ["kickTime"] = 0,
-                ["autoAltKick"] = false,
+                ["autoSelectLGM"] = false,
                 ["version"] = 1,
                 ["maxSize"] = 24,
-                ["Enabled"] = false,
-                ["panelSelection"] = "LGMMenuBarButton1",
-                ["markTrialStart"] = true,
+                ["recapLength"] = 10,
             },
         },
         ["@Kankerkop"] = 
         {
             ["$AccountWide"] = 
             {
-                ["displayAbilityIds"] = false,
-                ["allowSuggestions"] = false,
+                ["inviteGroup"] = "New Group",
+                ["panelSelection"] = "LGMMenuBarButton1",
                 ["trackDeaths"] = true,
+                ["livePopupLength"] = 0,
+                ["autoAltKick"] = false,
+                ["kickTime"] = 0,
+                ["livePopupAnchorPoint"] = 
+                {
+                    [2] = 500,
+                    [1] = 25,
+                },
+                ["displayAbilityIds"] = false,
                 ["inviteString"] = 
                 {
-                    ["Whisper"] = "",
+                    ["Zone"] = "",
                     ["guild"] = 
                     {
                         [0] = "",
@@ -66,43 +118,43 @@ GroupManager_Data =
                         [5] = "",
                         [1000215] = "",
                     },
-                    ["Zone"] = "",
+                    ["Whisper"] = "",
                 },
-                ["recapLength"] = 10,
+                ["markTrialStart"] = true,
+                ["Enabled"] = false,
                 ["autoSelectLGM"] = false,
-                ["livePopupAnchorPoint"] = 
-                {
-                    [2] = 500,
-                    [1] = 25,
-                },
+                ["muteInvites"] = true,
                 ["Groups"] = 
                 {
                     ["New Group"] = 
                     {
                     },
                 },
-                ["inviteGroup"] = "New Group",
-                ["livePopupLength"] = 0,
-                ["muteInvites"] = true,
-                ["kickTime"] = 0,
-                ["autoAltKick"] = false,
                 ["version"] = 1,
                 ["maxSize"] = 24,
-                ["Enabled"] = false,
-                ["panelSelection"] = "LGMMenuBarButton1",
-                ["markTrialStart"] = true,
+                ["allowSuggestions"] = false,
+                ["recapLength"] = 10,
             },
         },
         ["@noobkiss"] = 
         {
             ["$AccountWide"] = 
             {
-                ["displayAbilityIds"] = false,
-                ["allowSuggestions"] = false,
+                ["inviteGroup"] = "New Group",
+                ["panelSelection"] = "LGMMenuBarButton3",
                 ["trackDeaths"] = true,
+                ["livePopupLength"] = 0,
+                ["autoAltKick"] = false,
+                ["kickTime"] = 0,
+                ["livePopupAnchorPoint"] = 
+                {
+                    [2] = 500,
+                    [1] = 25,
+                },
+                ["displayAbilityIds"] = false,
                 ["inviteString"] = 
                 {
-                    ["Whisper"] = "",
+                    ["Zone"] = "",
                     ["guild"] = 
                     {
                         [0] = "",
@@ -114,84 +166,33 @@ GroupManager_Data =
                         [913581] = "",
                         [865105] = "",
                         [1000213] = "",
-                        [955223] = "",
-                        [212001] = "",
-                        [941863] = "",
-                        [978939] = "",
-                        [1002075] = "",
-                        [660663] = "",
-                        [150205] = "",
-                        [956635] = "",
                         [1000215] = "",
+                        [955223] = "",
+                        [941863] = "",
+                        [660663] = "",
+                        [956635] = "",
+                        [1002075] = "",
+                        [978939] = "",
+                        [150205] = "",
+                        [212001] = "",
+                        [1012491] = "",
                     },
-                    ["Zone"] = "",
-                },
-                ["recapLength"] = 10,
-                ["autoSelectLGM"] = false,
-                ["livePopupAnchorPoint"] = 
-                {
-                    [2] = 500,
-                    [1] = 25,
-                },
-                ["Groups"] = 
-                {
-                    ["New Group"] = 
-                    {
-                    },
-                },
-                ["inviteGroup"] = "New Group",
-                ["livePopupLength"] = 0,
-                ["muteInvites"] = true,
-                ["kickTime"] = 0,
-                ["autoAltKick"] = false,
-                ["version"] = 1,
-                ["maxSize"] = 24,
-                ["Enabled"] = false,
-                ["panelSelection"] = "LGMMenuBarButton3",
-                ["markTrialStart"] = true,
-            },
-        },
-        ["@YYDS1214"] = 
-        {
-            ["$AccountWide"] = 
-            {
-                ["displayAbilityIds"] = false,
-                ["allowSuggestions"] = false,
-                ["trackDeaths"] = true,
-                ["inviteString"] = 
-                {
                     ["Whisper"] = "",
-                    ["guild"] = 
-                    {
-                        [0] = "",
-                        [915417] = "",
-                        [927463] = "",
-                    },
-                    ["Zone"] = "",
                 },
-                ["recapLength"] = 10,
+                ["markTrialStart"] = true,
+                ["Enabled"] = false,
                 ["autoSelectLGM"] = false,
-                ["livePopupAnchorPoint"] = 
-                {
-                    [2] = 500,
-                    [1] = 25,
-                },
+                ["muteInvites"] = true,
                 ["Groups"] = 
                 {
                     ["New Group"] = 
                     {
                     },
                 },
-                ["inviteGroup"] = "New Group",
-                ["livePopupLength"] = 0,
-                ["muteInvites"] = true,
-                ["kickTime"] = 0,
-                ["autoAltKick"] = false,
                 ["version"] = 1,
                 ["maxSize"] = 24,
-                ["Enabled"] = false,
-                ["panelSelection"] = "LGMMenuBarButton1",
-                ["markTrialStart"] = true,
+                ["allowSuggestions"] = false,
+                ["recapLength"] = 10,
             },
         },
     },

@@ -2,29 +2,30 @@ EzStalking_SavedVars =
 {
     ["Default"] = 
     {
-        ["@Kankerkop"] = 
+        ["@YYDS1214"] = 
         {
-            ["8796093078606003"] = 
+            ["8796093077181623"] = 
             {
-                ["account_wide"] = false,
+                ["$LastCharacterName"] = "Aqi Yaa",
                 ["log"] = 
                 {
-                    ["trials"] = false,
-                    ["use_dialog"] = false,
-                    ["dungeons"] = false,
                     ["combat_only"] = false,
-                    ["battlegrounds"] = false,
-                    ["remember_zone"] = false,
-                    ["cyrodiil"] = false,
-                    ["endless"] = false,
-                    ["housing"] = false,
-                    ["enabled"] = false,
-                    ["imperial_city"] = false,
-                    ["arenas"] = false,
                     ["normal_difficulty"] = false,
+                    ["dungeons"] = false,
+                    ["endless"] = false,
+                    ["imperial_city"] = false,
+                    ["remember_zone"] = false,
+                    ["battlegrounds"] = false,
+                    ["trials"] = false,
+                    ["cyrodiil"] = false,
+                    ["housing"] = false,
+                    ["arenas"] = false,
+                    ["enabled"] = false,
+                    ["use_dialog"] = false,
                 },
-                ["version"] = 2,
                 ["upload_reminder"] = false,
+                ["version"] = 2,
+                ["account_wide"] = false,
                 ["zone_id"] = 
                 {
                     [4] = 
@@ -40,18 +41,14 @@ EzStalking_SavedVars =
                     {
                     },
                 },
-                ["$LastCharacterName"] = "Kankerkop",
                 ["indicator"] = 
                 {
-                    ["color"] = 
-                    {
-                        [4] = 0.7000000000,
-                        [1] = 1,
-                        [2] = 0,
-                        [3] = 0,
-                    },
                     ["enabled"] = false,
-                    ["locked"] = true,
+                    ["position"] = 
+                    {
+                        ["y"] = 500,
+                        ["x"] = 500,
+                    },
                     ["unlocked_color"] = 
                     {
                         [4] = 0.7000000000,
@@ -59,18 +56,223 @@ EzStalking_SavedVars =
                         [2] = 1,
                         [3] = 1,
                     },
+                    ["color"] = 
+                    {
+                        [4] = 0.7000000000,
+                        [1] = 1,
+                        [2] = 0,
+                        [3] = 0,
+                    },
+                    ["locked"] = true,
+                },
+            },
+            ["8796093077181565"] = 
+            {
+                ["$LastCharacterName"] = "Aqiya",
+                ["log"] = 
+                {
+                    ["combat_only"] = false,
+                    ["normal_difficulty"] = false,
+                    ["dungeons"] = false,
+                    ["endless"] = false,
+                    ["imperial_city"] = false,
+                    ["remember_zone"] = false,
+                    ["battlegrounds"] = false,
+                    ["trials"] = false,
+                    ["cyrodiil"] = false,
+                    ["housing"] = false,
+                    ["arenas"] = false,
+                    ["enabled"] = false,
+                    ["use_dialog"] = false,
+                },
+                ["upload_reminder"] = false,
+                ["version"] = 2,
+                ["account_wide"] = false,
+                ["zone_id"] = 
+                {
+                    [4] = 
+                    {
+                    },
+                    [1] = 
+                    {
+                    },
+                    [2] = 
+                    {
+                    },
+                    [3] = 
+                    {
+                    },
+                },
+                ["indicator"] = 
+                {
+                    ["enabled"] = false,
                     ["position"] = 
                     {
-                        ["x"] = 500,
                         ["y"] = 500,
+                        ["x"] = 500,
                     },
+                    ["unlocked_color"] = 
+                    {
+                        [4] = 0.7000000000,
+                        [1] = 0,
+                        [2] = 1,
+                        [3] = 1,
+                    },
+                    ["color"] = 
+                    {
+                        [4] = 0.7000000000,
+                        [1] = 1,
+                        [2] = 0,
+                        [3] = 0,
+                    },
+                    ["locked"] = true,
+                },
+            },
+            ["8796093077153837"] = 
+            {
+                ["$LastCharacterName"] = "Yang Yyds",
+                ["log"] = 
+                {
+                    ["combat_only"] = false,
+                    ["normal_difficulty"] = false,
+                    ["dungeons"] = false,
+                    ["endless"] = false,
+                    ["imperial_city"] = false,
+                    ["remember_zone"] = false,
+                    ["battlegrounds"] = false,
+                    ["trials"] = false,
+                    ["cyrodiil"] = false,
+                    ["housing"] = false,
+                    ["arenas"] = false,
+                    ["enabled"] = false,
+                    ["use_dialog"] = false,
+                },
+                ["upload_reminder"] = false,
+                ["version"] = 2,
+                ["account_wide"] = false,
+                ["zone_id"] = 
+                {
+                    [4] = 
+                    {
+                    },
+                    [1] = 
+                    {
+                    },
+                    [2] = 
+                    {
+                    },
+                    [3] = 
+                    {
+                    },
+                },
+                ["indicator"] = 
+                {
+                    ["enabled"] = false,
+                    ["position"] = 
+                    {
+                        ["y"] = 500,
+                        ["x"] = 500,
+                    },
+                    ["unlocked_color"] = 
+                    {
+                        [4] = 0.7000000000,
+                        [1] = 0,
+                        [2] = 1,
+                        [3] = 1,
+                    },
+                    ["color"] = 
+                    {
+                        [4] = 0.7000000000,
+                        [1] = 1,
+                        [2] = 0,
+                        [3] = 0,
+                    },
+                    ["locked"] = true,
+                },
+            },
+            ["8796093077616617"] = 
+            {
+                ["$LastCharacterName"] = "shiaqi",
+                ["log"] = 
+                {
+                    ["combat_only"] = false,
+                    ["normal_difficulty"] = false,
+                    ["dungeons"] = false,
+                    ["endless"] = false,
+                    ["imperial_city"] = false,
+                    ["remember_zone"] = false,
+                    ["battlegrounds"] = false,
+                    ["trials"] = false,
+                    ["cyrodiil"] = false,
+                    ["housing"] = false,
+                    ["arenas"] = false,
+                    ["enabled"] = false,
+                    ["use_dialog"] = false,
+                },
+                ["upload_reminder"] = false,
+                ["version"] = 2,
+                ["account_wide"] = false,
+                ["zone_id"] = 
+                {
+                    [4] = 
+                    {
+                    },
+                    [1] = 
+                    {
+                    },
+                    [2] = 
+                    {
+                    },
+                    [3] = 
+                    {
+                    },
+                },
+                ["indicator"] = 
+                {
+                    ["enabled"] = false,
+                    ["position"] = 
+                    {
+                        ["y"] = 500,
+                        ["x"] = 500,
+                    },
+                    ["unlocked_color"] = 
+                    {
+                        [4] = 0.7000000000,
+                        [1] = 0,
+                        [2] = 1,
+                        [3] = 1,
+                    },
+                    ["color"] = 
+                    {
+                        [4] = 0.7000000000,
+                        [1] = 1,
+                        [2] = 0,
+                        [3] = 0,
+                    },
+                    ["locked"] = true,
                 },
             },
             ["$AccountWide"] = 
             {
-                ["account_wide"] = false,
                 ["version"] = 2,
+                ["log"] = 
+                {
+                    ["combat_only"] = false,
+                    ["normal_difficulty"] = false,
+                    ["dungeons"] = false,
+                    ["endless"] = false,
+                    ["imperial_city"] = false,
+                    ["remember_zone"] = false,
+                    ["battlegrounds"] = false,
+                    ["trials"] = false,
+                    ["cyrodiil"] = false,
+                    ["housing"] = false,
+                    ["arenas"] = false,
+                    ["enabled"] = false,
+                    ["use_dialog"] = false,
+                },
                 ["upload_reminder"] = false,
+                ["account_wide"] = false,
                 ["zone_id"] = 
                 {
                     [4] = 
@@ -86,33 +288,14 @@ EzStalking_SavedVars =
                     {
                     },
                 },
-                ["log"] = 
-                {
-                    ["trials"] = false,
-                    ["use_dialog"] = false,
-                    ["dungeons"] = false,
-                    ["combat_only"] = false,
-                    ["battlegrounds"] = false,
-                    ["remember_zone"] = false,
-                    ["cyrodiil"] = false,
-                    ["endless"] = false,
-                    ["housing"] = false,
-                    ["enabled"] = false,
-                    ["imperial_city"] = false,
-                    ["arenas"] = false,
-                    ["normal_difficulty"] = false,
-                },
                 ["indicator"] = 
                 {
-                    ["color"] = 
-                    {
-                        [4] = 0.7000000000,
-                        [1] = 1,
-                        [2] = 0,
-                        [3] = 0,
-                    },
                     ["enabled"] = false,
-                    ["locked"] = true,
+                    ["position"] = 
+                    {
+                        ["y"] = 500,
+                        ["x"] = 500,
+                    },
                     ["unlocked_color"] = 
                     {
                         [4] = 0.7000000000,
@@ -120,34 +303,38 @@ EzStalking_SavedVars =
                         [2] = 1,
                         [3] = 1,
                     },
-                    ["position"] = 
+                    ["color"] = 
                     {
-                        ["x"] = 500,
-                        ["y"] = 500,
+                        [4] = 0.7000000000,
+                        [1] = 1,
+                        [2] = 0,
+                        [3] = 0,
                     },
+                    ["locked"] = true,
                 },
             },
-            ["8796093079748457"] = 
+            ["8796093077595053"] = 
             {
-                ["account_wide"] = false,
+                ["$LastCharacterName"] = "aqi ya",
                 ["log"] = 
                 {
-                    ["trials"] = false,
-                    ["use_dialog"] = false,
-                    ["dungeons"] = false,
                     ["combat_only"] = false,
-                    ["battlegrounds"] = false,
-                    ["remember_zone"] = false,
-                    ["cyrodiil"] = false,
-                    ["endless"] = false,
-                    ["housing"] = false,
-                    ["enabled"] = false,
-                    ["imperial_city"] = false,
-                    ["arenas"] = false,
                     ["normal_difficulty"] = false,
+                    ["dungeons"] = false,
+                    ["endless"] = false,
+                    ["imperial_city"] = false,
+                    ["remember_zone"] = false,
+                    ["battlegrounds"] = false,
+                    ["trials"] = false,
+                    ["cyrodiil"] = false,
+                    ["housing"] = false,
+                    ["arenas"] = false,
+                    ["enabled"] = false,
+                    ["use_dialog"] = false,
                 },
-                ["version"] = 2,
                 ["upload_reminder"] = false,
+                ["version"] = 2,
+                ["account_wide"] = false,
                 ["zone_id"] = 
                 {
                     [4] = 
@@ -163,18 +350,14 @@ EzStalking_SavedVars =
                     {
                     },
                 },
-                ["$LastCharacterName"] = "Kaaskop",
                 ["indicator"] = 
                 {
-                    ["color"] = 
-                    {
-                        [4] = 0.7000000000,
-                        [1] = 1,
-                        [2] = 0,
-                        [3] = 0,
-                    },
                     ["enabled"] = false,
-                    ["locked"] = true,
+                    ["position"] = 
+                    {
+                        ["y"] = 500,
+                        ["x"] = 500,
+                    },
                     ["unlocked_color"] = 
                     {
                         [4] = 0.7000000000,
@@ -182,161 +365,415 @@ EzStalking_SavedVars =
                         [2] = 1,
                         [3] = 1,
                     },
+                    ["color"] = 
+                    {
+                        [4] = 0.7000000000,
+                        [1] = 1,
+                        [2] = 0,
+                        [3] = 0,
+                    },
+                    ["locked"] = true,
+                },
+            },
+            ["8796093077181587"] = 
+            {
+                ["$LastCharacterName"] = "a qi ya",
+                ["log"] = 
+                {
+                    ["combat_only"] = false,
+                    ["normal_difficulty"] = false,
+                    ["dungeons"] = false,
+                    ["endless"] = false,
+                    ["imperial_city"] = false,
+                    ["remember_zone"] = false,
+                    ["battlegrounds"] = false,
+                    ["trials"] = false,
+                    ["cyrodiil"] = false,
+                    ["housing"] = false,
+                    ["arenas"] = false,
+                    ["enabled"] = false,
+                    ["use_dialog"] = false,
+                },
+                ["upload_reminder"] = false,
+                ["version"] = 2,
+                ["account_wide"] = false,
+                ["zone_id"] = 
+                {
+                    [4] = 
+                    {
+                    },
+                    [1] = 
+                    {
+                    },
+                    [2] = 
+                    {
+                    },
+                    [3] = 
+                    {
+                    },
+                },
+                ["indicator"] = 
+                {
+                    ["enabled"] = false,
                     ["position"] = 
                     {
-                        ["x"] = 500,
                         ["y"] = 500,
+                        ["x"] = 500,
                     },
+                    ["unlocked_color"] = 
+                    {
+                        [4] = 0.7000000000,
+                        [1] = 0,
+                        [2] = 1,
+                        [3] = 1,
+                    },
+                    ["color"] = 
+                    {
+                        [4] = 0.7000000000,
+                        [1] = 1,
+                        [2] = 0,
+                        [3] = 0,
+                    },
+                    ["locked"] = true,
+                },
+            },
+            ["8796093077181579"] = 
+            {
+                ["$LastCharacterName"] = "A qiya",
+                ["log"] = 
+                {
+                    ["combat_only"] = false,
+                    ["normal_difficulty"] = false,
+                    ["dungeons"] = false,
+                    ["endless"] = false,
+                    ["imperial_city"] = false,
+                    ["remember_zone"] = false,
+                    ["battlegrounds"] = false,
+                    ["trials"] = false,
+                    ["cyrodiil"] = false,
+                    ["housing"] = false,
+                    ["arenas"] = false,
+                    ["enabled"] = false,
+                    ["use_dialog"] = false,
+                },
+                ["upload_reminder"] = false,
+                ["version"] = 2,
+                ["account_wide"] = false,
+                ["zone_id"] = 
+                {
+                    [4] = 
+                    {
+                    },
+                    [1] = 
+                    {
+                    },
+                    [2] = 
+                    {
+                    },
+                    [3] = 
+                    {
+                    },
+                },
+                ["indicator"] = 
+                {
+                    ["enabled"] = false,
+                    ["position"] = 
+                    {
+                        ["y"] = 500,
+                        ["x"] = 500,
+                    },
+                    ["unlocked_color"] = 
+                    {
+                        [4] = 0.7000000000,
+                        [1] = 0,
+                        [2] = 1,
+                        [3] = 1,
+                    },
+                    ["color"] = 
+                    {
+                        [4] = 0.7000000000,
+                        [1] = 1,
+                        [2] = 0,
+                        [3] = 0,
+                    },
+                    ["locked"] = true,
+                },
+            },
+            ["8796093077165965"] = 
+            {
+                ["$LastCharacterName"] = "Junjunya",
+                ["log"] = 
+                {
+                    ["combat_only"] = false,
+                    ["normal_difficulty"] = false,
+                    ["dungeons"] = false,
+                    ["endless"] = false,
+                    ["imperial_city"] = false,
+                    ["remember_zone"] = false,
+                    ["battlegrounds"] = false,
+                    ["trials"] = false,
+                    ["cyrodiil"] = false,
+                    ["housing"] = false,
+                    ["arenas"] = false,
+                    ["enabled"] = false,
+                    ["use_dialog"] = false,
+                },
+                ["upload_reminder"] = false,
+                ["version"] = 2,
+                ["account_wide"] = false,
+                ["zone_id"] = 
+                {
+                    [4] = 
+                    {
+                    },
+                    [1] = 
+                    {
+                    },
+                    [2] = 
+                    {
+                    },
+                    [3] = 
+                    {
+                    },
+                },
+                ["indicator"] = 
+                {
+                    ["enabled"] = false,
+                    ["position"] = 
+                    {
+                        ["y"] = 500,
+                        ["x"] = 500,
+                    },
+                    ["unlocked_color"] = 
+                    {
+                        [4] = 0.7000000000,
+                        [1] = 0,
+                        [2] = 1,
+                        [3] = 1,
+                    },
+                    ["color"] = 
+                    {
+                        [4] = 0.7000000000,
+                        [1] = 1,
+                        [2] = 0,
+                        [3] = 0,
+                    },
+                    ["locked"] = true,
+                },
+            },
+        },
+        ["@Kankerkop"] = 
+        {
+            ["8796093079748457"] = 
+            {
+                ["$LastCharacterName"] = "Kaaskop",
+                ["log"] = 
+                {
+                    ["combat_only"] = false,
+                    ["normal_difficulty"] = false,
+                    ["dungeons"] = false,
+                    ["endless"] = false,
+                    ["imperial_city"] = false,
+                    ["remember_zone"] = false,
+                    ["battlegrounds"] = false,
+                    ["trials"] = false,
+                    ["cyrodiil"] = false,
+                    ["housing"] = false,
+                    ["arenas"] = false,
+                    ["enabled"] = false,
+                    ["use_dialog"] = false,
+                },
+                ["upload_reminder"] = false,
+                ["version"] = 2,
+                ["account_wide"] = false,
+                ["zone_id"] = 
+                {
+                    [4] = 
+                    {
+                    },
+                    [1] = 
+                    {
+                    },
+                    [2] = 
+                    {
+                    },
+                    [3] = 
+                    {
+                    },
+                },
+                ["indicator"] = 
+                {
+                    ["enabled"] = false,
+                    ["position"] = 
+                    {
+                        ["y"] = 500,
+                        ["x"] = 500,
+                    },
+                    ["unlocked_color"] = 
+                    {
+                        [4] = 0.7000000000,
+                        [1] = 0,
+                        [2] = 1,
+                        [3] = 1,
+                    },
+                    ["color"] = 
+                    {
+                        [4] = 0.7000000000,
+                        [1] = 1,
+                        [2] = 0,
+                        [3] = 0,
+                    },
+                    ["locked"] = true,
+                },
+            },
+            ["$AccountWide"] = 
+            {
+                ["version"] = 2,
+                ["log"] = 
+                {
+                    ["combat_only"] = false,
+                    ["normal_difficulty"] = false,
+                    ["dungeons"] = false,
+                    ["endless"] = false,
+                    ["imperial_city"] = false,
+                    ["remember_zone"] = false,
+                    ["battlegrounds"] = false,
+                    ["trials"] = false,
+                    ["cyrodiil"] = false,
+                    ["housing"] = false,
+                    ["arenas"] = false,
+                    ["enabled"] = false,
+                    ["use_dialog"] = false,
+                },
+                ["upload_reminder"] = false,
+                ["account_wide"] = false,
+                ["zone_id"] = 
+                {
+                    [4] = 
+                    {
+                    },
+                    [1] = 
+                    {
+                    },
+                    [2] = 
+                    {
+                    },
+                    [3] = 
+                    {
+                    },
+                },
+                ["indicator"] = 
+                {
+                    ["enabled"] = false,
+                    ["position"] = 
+                    {
+                        ["y"] = 500,
+                        ["x"] = 500,
+                    },
+                    ["unlocked_color"] = 
+                    {
+                        [4] = 0.7000000000,
+                        [1] = 0,
+                        [2] = 1,
+                        [3] = 1,
+                    },
+                    ["color"] = 
+                    {
+                        [4] = 0.7000000000,
+                        [1] = 1,
+                        [2] = 0,
+                        [3] = 0,
+                    },
+                    ["locked"] = true,
+                },
+            },
+            ["8796093078606003"] = 
+            {
+                ["$LastCharacterName"] = "Kankerkop",
+                ["log"] = 
+                {
+                    ["combat_only"] = false,
+                    ["normal_difficulty"] = false,
+                    ["dungeons"] = false,
+                    ["endless"] = false,
+                    ["imperial_city"] = false,
+                    ["remember_zone"] = false,
+                    ["battlegrounds"] = false,
+                    ["trials"] = false,
+                    ["cyrodiil"] = false,
+                    ["housing"] = false,
+                    ["arenas"] = false,
+                    ["enabled"] = false,
+                    ["use_dialog"] = false,
+                },
+                ["upload_reminder"] = false,
+                ["version"] = 2,
+                ["account_wide"] = false,
+                ["zone_id"] = 
+                {
+                    [4] = 
+                    {
+                    },
+                    [1] = 
+                    {
+                    },
+                    [2] = 
+                    {
+                    },
+                    [3] = 
+                    {
+                    },
+                },
+                ["indicator"] = 
+                {
+                    ["enabled"] = false,
+                    ["position"] = 
+                    {
+                        ["y"] = 500,
+                        ["x"] = 500,
+                    },
+                    ["unlocked_color"] = 
+                    {
+                        [4] = 0.7000000000,
+                        [1] = 0,
+                        [2] = 1,
+                        [3] = 1,
+                    },
+                    ["color"] = 
+                    {
+                        [4] = 0.7000000000,
+                        [1] = 1,
+                        [2] = 0,
+                        [3] = 0,
+                    },
+                    ["locked"] = true,
                 },
             },
         },
         ["@noobkiss"] = 
         {
-            ["8796093077622069"] = 
-            {
-                ["account_wide"] = false,
-                ["log"] = 
-                {
-                    ["trials"] = false,
-                    ["use_dialog"] = false,
-                    ["dungeons"] = false,
-                    ["combat_only"] = false,
-                    ["battlegrounds"] = false,
-                    ["remember_zone"] = false,
-                    ["cyrodiil"] = false,
-                    ["endless"] = false,
-                    ["housing"] = false,
-                    ["enabled"] = false,
-                    ["imperial_city"] = false,
-                    ["arenas"] = false,
-                    ["normal_difficulty"] = false,
-                },
-                ["version"] = 2,
-                ["upload_reminder"] = false,
-                ["zone_id"] = 
-                {
-                    [4] = 
-                    {
-                    },
-                    [1] = 
-                    {
-                    },
-                    [2] = 
-                    {
-                    },
-                    [3] = 
-                    {
-                    },
-                },
-                ["$LastCharacterName"] = "noobwick",
-                ["indicator"] = 
-                {
-                    ["color"] = 
-                    {
-                        [4] = 0.7000000000,
-                        [1] = 1,
-                        [2] = 0,
-                        [3] = 0,
-                    },
-                    ["enabled"] = false,
-                    ["locked"] = true,
-                    ["unlocked_color"] = 
-                    {
-                        [4] = 0.7000000000,
-                        [1] = 0,
-                        [2] = 1,
-                        [3] = 1,
-                    },
-                    ["position"] = 
-                    {
-                        ["x"] = 500,
-                        ["y"] = 500,
-                    },
-                },
-            },
             ["8796093076445407"] = 
             {
-                ["account_wide"] = false,
-                ["log"] = 
-                {
-                    ["trials"] = false,
-                    ["use_dialog"] = false,
-                    ["dungeons"] = false,
-                    ["combat_only"] = false,
-                    ["battlegrounds"] = false,
-                    ["remember_zone"] = false,
-                    ["cyrodiil"] = false,
-                    ["endless"] = false,
-                    ["housing"] = false,
-                    ["enabled"] = false,
-                    ["imperial_city"] = false,
-                    ["arenas"] = false,
-                    ["normal_difficulty"] = false,
-                },
-                ["version"] = 2,
-                ["upload_reminder"] = false,
-                ["zone_id"] = 
-                {
-                    [4] = 
-                    {
-                    },
-                    [1] = 
-                    {
-                    },
-                    [2] = 
-                    {
-                    },
-                    [3] = 
-                    {
-                    },
-                },
                 ["$LastCharacterName"] = "noobkiss",
-                ["indicator"] = 
-                {
-                    ["color"] = 
-                    {
-                        [4] = 0.7000000000,
-                        [1] = 1,
-                        [2] = 0,
-                        [3] = 0,
-                    },
-                    ["enabled"] = false,
-                    ["locked"] = true,
-                    ["unlocked_color"] = 
-                    {
-                        [4] = 0.7000000000,
-                        [1] = 0,
-                        [2] = 1,
-                        [3] = 1,
-                    },
-                    ["position"] = 
-                    {
-                        ["x"] = 500,
-                        ["y"] = 500,
-                    },
-                },
-            },
-            ["8796093077354797"] = 
-            {
-                ["account_wide"] = false,
                 ["log"] = 
                 {
-                    ["trials"] = false,
-                    ["use_dialog"] = false,
-                    ["dungeons"] = false,
                     ["combat_only"] = false,
-                    ["battlegrounds"] = false,
-                    ["remember_zone"] = false,
-                    ["cyrodiil"] = false,
-                    ["endless"] = false,
-                    ["housing"] = false,
-                    ["enabled"] = false,
-                    ["imperial_city"] = false,
-                    ["arenas"] = false,
                     ["normal_difficulty"] = false,
+                    ["dungeons"] = false,
+                    ["endless"] = false,
+                    ["imperial_city"] = false,
+                    ["remember_zone"] = false,
+                    ["battlegrounds"] = false,
+                    ["trials"] = false,
+                    ["cyrodiil"] = false,
+                    ["housing"] = false,
+                    ["arenas"] = false,
+                    ["enabled"] = false,
+                    ["use_dialog"] = false,
                 },
-                ["version"] = 2,
                 ["upload_reminder"] = false,
+                ["version"] = 2,
+                ["account_wide"] = false,
                 ["zone_id"] = 
                 {
                     [4] = 
@@ -352,18 +789,14 @@ EzStalking_SavedVars =
                     {
                     },
                 },
-                ["$LastCharacterName"] = "noobsmell",
                 ["indicator"] = 
                 {
-                    ["color"] = 
-                    {
-                        [4] = 0.7000000000,
-                        [1] = 1,
-                        [2] = 0,
-                        [3] = 0,
-                    },
                     ["enabled"] = false,
-                    ["locked"] = true,
+                    ["position"] = 
+                    {
+                        ["y"] = 500,
+                        ["x"] = 500,
+                    },
                     ["unlocked_color"] = 
                     {
                         [4] = 0.7000000000,
@@ -371,34 +804,38 @@ EzStalking_SavedVars =
                         [2] = 1,
                         [3] = 1,
                     },
-                    ["position"] = 
+                    ["color"] = 
                     {
-                        ["x"] = 500,
-                        ["y"] = 500,
+                        [4] = 0.7000000000,
+                        [1] = 1,
+                        [2] = 0,
+                        [3] = 0,
                     },
+                    ["locked"] = true,
                 },
             },
-            ["8796093077280431"] = 
+            ["8796093078739949"] = 
             {
-                ["account_wide"] = false,
+                ["$LastCharacterName"] = "noobbomb",
                 ["log"] = 
                 {
-                    ["trials"] = false,
-                    ["use_dialog"] = false,
-                    ["dungeons"] = false,
                     ["combat_only"] = false,
-                    ["battlegrounds"] = false,
-                    ["remember_zone"] = false,
-                    ["cyrodiil"] = false,
-                    ["endless"] = false,
-                    ["housing"] = false,
-                    ["enabled"] = true,
-                    ["imperial_city"] = false,
-                    ["arenas"] = false,
                     ["normal_difficulty"] = false,
+                    ["dungeons"] = false,
+                    ["endless"] = false,
+                    ["imperial_city"] = false,
+                    ["remember_zone"] = false,
+                    ["battlegrounds"] = false,
+                    ["trials"] = false,
+                    ["cyrodiil"] = false,
+                    ["housing"] = false,
+                    ["arenas"] = false,
+                    ["enabled"] = false,
+                    ["use_dialog"] = false,
                 },
-                ["version"] = 2,
                 ["upload_reminder"] = false,
+                ["version"] = 2,
+                ["account_wide"] = false,
                 ["zone_id"] = 
                 {
                     [4] = 
@@ -414,18 +851,14 @@ EzStalking_SavedVars =
                     {
                     },
                 },
-                ["$LastCharacterName"] = "noobwink",
                 ["indicator"] = 
                 {
-                    ["color"] = 
-                    {
-                        [4] = 0.7000000000,
-                        [1] = 1,
-                        [2] = 0,
-                        [3] = 0,
-                    },
                     ["enabled"] = false,
-                    ["locked"] = true,
+                    ["position"] = 
+                    {
+                        ["y"] = 500,
+                        ["x"] = 500,
+                    },
                     ["unlocked_color"] = 
                     {
                         [4] = 0.7000000000,
@@ -433,34 +866,38 @@ EzStalking_SavedVars =
                         [2] = 1,
                         [3] = 1,
                     },
-                    ["position"] = 
+                    ["color"] = 
                     {
-                        ["x"] = 500,
-                        ["y"] = 500,
+                        [4] = 0.7000000000,
+                        [1] = 1,
+                        [2] = 0,
+                        [3] = 0,
                     },
+                    ["locked"] = true,
                 },
             },
-            ["8796093077280469"] = 
+            ["8796093077286887"] = 
             {
-                ["account_wide"] = false,
+                ["$LastCharacterName"] = "noobhappy",
                 ["log"] = 
                 {
-                    ["trials"] = false,
-                    ["use_dialog"] = false,
-                    ["dungeons"] = false,
                     ["combat_only"] = false,
-                    ["battlegrounds"] = false,
-                    ["remember_zone"] = false,
-                    ["cyrodiil"] = false,
-                    ["endless"] = false,
-                    ["housing"] = false,
-                    ["enabled"] = false,
-                    ["imperial_city"] = false,
-                    ["arenas"] = false,
                     ["normal_difficulty"] = false,
+                    ["dungeons"] = false,
+                    ["endless"] = false,
+                    ["imperial_city"] = false,
+                    ["remember_zone"] = false,
+                    ["battlegrounds"] = false,
+                    ["trials"] = false,
+                    ["cyrodiil"] = false,
+                    ["housing"] = false,
+                    ["arenas"] = false,
+                    ["enabled"] = false,
+                    ["use_dialog"] = false,
                 },
-                ["version"] = 2,
                 ["upload_reminder"] = false,
+                ["version"] = 2,
+                ["account_wide"] = false,
                 ["zone_id"] = 
                 {
                     [4] = 
@@ -476,18 +913,14 @@ EzStalking_SavedVars =
                     {
                     },
                 },
-                ["$LastCharacterName"] = "noobxoxo",
                 ["indicator"] = 
                 {
-                    ["color"] = 
-                    {
-                        [4] = 0.7000000000,
-                        [1] = 1,
-                        [2] = 0,
-                        [3] = 0,
-                    },
                     ["enabled"] = false,
-                    ["locked"] = true,
+                    ["position"] = 
+                    {
+                        ["y"] = 500,
+                        ["x"] = 500,
+                    },
                     ["unlocked_color"] = 
                     {
                         [4] = 0.7000000000,
@@ -495,18 +928,161 @@ EzStalking_SavedVars =
                         [2] = 1,
                         [3] = 1,
                     },
+                    ["color"] = 
+                    {
+                        [4] = 0.7000000000,
+                        [1] = 1,
+                        [2] = 0,
+                        [3] = 0,
+                    },
+                    ["locked"] = true,
+                },
+            },
+            ["8796093077280363"] = 
+            {
+                ["$LastCharacterName"] = "noobsmile",
+                ["log"] = 
+                {
+                    ["combat_only"] = false,
+                    ["normal_difficulty"] = false,
+                    ["dungeons"] = false,
+                    ["endless"] = false,
+                    ["imperial_city"] = false,
+                    ["remember_zone"] = false,
+                    ["battlegrounds"] = false,
+                    ["trials"] = false,
+                    ["cyrodiil"] = false,
+                    ["housing"] = false,
+                    ["arenas"] = false,
+                    ["enabled"] = false,
+                    ["use_dialog"] = false,
+                },
+                ["upload_reminder"] = false,
+                ["version"] = 2,
+                ["account_wide"] = false,
+                ["zone_id"] = 
+                {
+                    [4] = 
+                    {
+                    },
+                    [1] = 
+                    {
+                    },
+                    [2] = 
+                    {
+                    },
+                    [3] = 
+                    {
+                    },
+                },
+                ["indicator"] = 
+                {
+                    ["enabled"] = false,
                     ["position"] = 
                     {
-                        ["x"] = 500,
                         ["y"] = 500,
+                        ["x"] = 500,
                     },
+                    ["unlocked_color"] = 
+                    {
+                        [4] = 0.7000000000,
+                        [1] = 0,
+                        [2] = 1,
+                        [3] = 1,
+                    },
+                    ["color"] = 
+                    {
+                        [4] = 0.7000000000,
+                        [1] = 1,
+                        [2] = 0,
+                        [3] = 0,
+                    },
+                    ["locked"] = true,
+                },
+            },
+            ["8796093077286759"] = 
+            {
+                ["$LastCharacterName"] = "noobblush",
+                ["log"] = 
+                {
+                    ["combat_only"] = false,
+                    ["normal_difficulty"] = false,
+                    ["dungeons"] = false,
+                    ["endless"] = false,
+                    ["imperial_city"] = false,
+                    ["remember_zone"] = false,
+                    ["battlegrounds"] = false,
+                    ["trials"] = false,
+                    ["cyrodiil"] = false,
+                    ["housing"] = false,
+                    ["arenas"] = false,
+                    ["enabled"] = false,
+                    ["use_dialog"] = false,
+                },
+                ["upload_reminder"] = false,
+                ["version"] = 2,
+                ["account_wide"] = false,
+                ["zone_id"] = 
+                {
+                    [4] = 
+                    {
+                    },
+                    [1] = 
+                    {
+                    },
+                    [2] = 
+                    {
+                    },
+                    [3] = 
+                    {
+                    },
+                },
+                ["indicator"] = 
+                {
+                    ["enabled"] = false,
+                    ["position"] = 
+                    {
+                        ["y"] = 500,
+                        ["x"] = 500,
+                    },
+                    ["unlocked_color"] = 
+                    {
+                        [4] = 0.7000000000,
+                        [1] = 0,
+                        [2] = 1,
+                        [3] = 1,
+                    },
+                    ["color"] = 
+                    {
+                        [4] = 0.7000000000,
+                        [1] = 1,
+                        [2] = 0,
+                        [3] = 0,
+                    },
+                    ["locked"] = true,
                 },
             },
             ["$AccountWide"] = 
             {
-                ["account_wide"] = true,
                 ["version"] = 2,
+                ["log"] = 
+                {
+                    ["combat_only"] = false,
+                    ["normal_difficulty"] = false,
+                    ["dungeons"] = false,
+                    ["endless"] = false,
+                    ["imperial_city"] = false,
+                    ["remember_zone"] = false,
+                    ["battlegrounds"] = false,
+                    ["trials"] = false,
+                    ["cyrodiil"] = false,
+                    ["housing"] = false,
+                    ["arenas"] = false,
+                    ["enabled"] = false,
+                    ["use_dialog"] = false,
+                },
                 ["upload_reminder"] = false,
+                ["account_wide"] = true,
                 ["zone_id"] = 
                 {
                     [4] = 
@@ -526,33 +1102,14 @@ EzStalking_SavedVars =
                         [1201] = true,
                     },
                 },
-                ["log"] = 
-                {
-                    ["trials"] = false,
-                    ["use_dialog"] = false,
-                    ["dungeons"] = false,
-                    ["combat_only"] = false,
-                    ["battlegrounds"] = false,
-                    ["remember_zone"] = false,
-                    ["cyrodiil"] = false,
-                    ["endless"] = false,
-                    ["housing"] = false,
-                    ["enabled"] = false,
-                    ["imperial_city"] = false,
-                    ["arenas"] = false,
-                    ["normal_difficulty"] = false,
-                },
                 ["indicator"] = 
                 {
-                    ["color"] = 
-                    {
-                        [4] = 0.7000000000,
-                        [1] = 1,
-                        [2] = 0,
-                        [3] = 0,
-                    },
                     ["enabled"] = false,
-                    ["locked"] = false,
+                    ["position"] = 
+                    {
+                        ["y"] = 500,
+                        ["x"] = 500,
+                    },
                     ["unlocked_color"] = 
                     {
                         [4] = 0.7000000000,
@@ -560,34 +1117,38 @@ EzStalking_SavedVars =
                         [2] = 1,
                         [3] = 1,
                     },
-                    ["position"] = 
+                    ["color"] = 
                     {
-                        ["x"] = 500,
-                        ["y"] = 500,
+                        [4] = 0.7000000000,
+                        [1] = 1,
+                        [2] = 0,
+                        [3] = 0,
                     },
+                    ["locked"] = false,
                 },
             },
-            ["8796093077286759"] = 
+            ["8796093077280469"] = 
             {
-                ["account_wide"] = false,
+                ["$LastCharacterName"] = "noobxoxo",
                 ["log"] = 
                 {
-                    ["trials"] = false,
-                    ["use_dialog"] = false,
-                    ["dungeons"] = false,
                     ["combat_only"] = false,
-                    ["battlegrounds"] = false,
-                    ["remember_zone"] = false,
-                    ["cyrodiil"] = false,
-                    ["endless"] = false,
-                    ["housing"] = false,
-                    ["enabled"] = false,
-                    ["imperial_city"] = false,
-                    ["arenas"] = false,
                     ["normal_difficulty"] = false,
+                    ["dungeons"] = false,
+                    ["endless"] = false,
+                    ["imperial_city"] = false,
+                    ["remember_zone"] = false,
+                    ["battlegrounds"] = false,
+                    ["trials"] = false,
+                    ["cyrodiil"] = false,
+                    ["housing"] = false,
+                    ["arenas"] = false,
+                    ["enabled"] = false,
+                    ["use_dialog"] = false,
                 },
-                ["version"] = 2,
                 ["upload_reminder"] = false,
+                ["version"] = 2,
+                ["account_wide"] = false,
                 ["zone_id"] = 
                 {
                     [4] = 
@@ -603,18 +1164,14 @@ EzStalking_SavedVars =
                     {
                     },
                 },
-                ["$LastCharacterName"] = "noobblush",
                 ["indicator"] = 
                 {
-                    ["color"] = 
-                    {
-                        [4] = 0.7000000000,
-                        [1] = 1,
-                        [2] = 0,
-                        [3] = 0,
-                    },
                     ["enabled"] = false,
-                    ["locked"] = true,
+                    ["position"] = 
+                    {
+                        ["y"] = 500,
+                        ["x"] = 500,
+                    },
                     ["unlocked_color"] = 
                     {
                         [4] = 0.7000000000,
@@ -622,34 +1179,38 @@ EzStalking_SavedVars =
                         [2] = 1,
                         [3] = 1,
                     },
-                    ["position"] = 
+                    ["color"] = 
                     {
-                        ["x"] = 500,
-                        ["y"] = 500,
+                        [4] = 0.7000000000,
+                        [1] = 1,
+                        [2] = 0,
+                        [3] = 0,
                     },
+                    ["locked"] = true,
                 },
             },
             ["8796093078411849"] = 
             {
-                ["account_wide"] = false,
+                ["$LastCharacterName"] = "noobpoobs",
                 ["log"] = 
                 {
-                    ["trials"] = false,
-                    ["use_dialog"] = false,
-                    ["dungeons"] = false,
                     ["combat_only"] = false,
-                    ["battlegrounds"] = false,
-                    ["remember_zone"] = false,
-                    ["cyrodiil"] = false,
-                    ["endless"] = false,
-                    ["housing"] = false,
-                    ["enabled"] = false,
-                    ["imperial_city"] = false,
-                    ["arenas"] = false,
                     ["normal_difficulty"] = false,
+                    ["dungeons"] = false,
+                    ["endless"] = false,
+                    ["imperial_city"] = false,
+                    ["remember_zone"] = false,
+                    ["battlegrounds"] = false,
+                    ["trials"] = false,
+                    ["cyrodiil"] = false,
+                    ["housing"] = false,
+                    ["arenas"] = false,
+                    ["enabled"] = false,
+                    ["use_dialog"] = false,
                 },
-                ["version"] = 2,
                 ["upload_reminder"] = false,
+                ["version"] = 2,
+                ["account_wide"] = false,
                 ["zone_id"] = 
                 {
                     [4] = 
@@ -665,18 +1226,14 @@ EzStalking_SavedVars =
                     {
                     },
                 },
-                ["$LastCharacterName"] = "noobpoobs",
                 ["indicator"] = 
                 {
-                    ["color"] = 
-                    {
-                        [4] = 0.7000000000,
-                        [1] = 1,
-                        [2] = 0,
-                        [3] = 0,
-                    },
                     ["enabled"] = false,
-                    ["locked"] = true,
+                    ["position"] = 
+                    {
+                        ["y"] = 500,
+                        ["x"] = 500,
+                    },
                     ["unlocked_color"] = 
                     {
                         [4] = 0.7000000000,
@@ -684,34 +1241,38 @@ EzStalking_SavedVars =
                         [2] = 1,
                         [3] = 1,
                     },
-                    ["position"] = 
+                    ["color"] = 
                     {
-                        ["x"] = 500,
-                        ["y"] = 500,
+                        [4] = 0.7000000000,
+                        [1] = 1,
+                        [2] = 0,
+                        [3] = 0,
                     },
+                    ["locked"] = true,
                 },
             },
-            ["8796093077130605"] = 
+            ["8796093077280431"] = 
             {
-                ["account_wide"] = false,
+                ["$LastCharacterName"] = "noobwink",
                 ["log"] = 
                 {
-                    ["trials"] = false,
-                    ["use_dialog"] = false,
-                    ["dungeons"] = false,
                     ["combat_only"] = false,
-                    ["battlegrounds"] = false,
-                    ["remember_zone"] = false,
-                    ["cyrodiil"] = false,
-                    ["endless"] = false,
-                    ["housing"] = false,
-                    ["enabled"] = false,
-                    ["imperial_city"] = false,
-                    ["arenas"] = false,
                     ["normal_difficulty"] = false,
+                    ["dungeons"] = false,
+                    ["endless"] = false,
+                    ["imperial_city"] = false,
+                    ["remember_zone"] = false,
+                    ["battlegrounds"] = false,
+                    ["trials"] = false,
+                    ["cyrodiil"] = false,
+                    ["housing"] = false,
+                    ["arenas"] = false,
+                    ["enabled"] = true,
+                    ["use_dialog"] = false,
                 },
-                ["version"] = 2,
                 ["upload_reminder"] = false,
+                ["version"] = 2,
+                ["account_wide"] = false,
                 ["zone_id"] = 
                 {
                     [4] = 
@@ -727,18 +1288,14 @@ EzStalking_SavedVars =
                     {
                     },
                 },
-                ["$LastCharacterName"] = "noobhugs",
                 ["indicator"] = 
                 {
-                    ["color"] = 
-                    {
-                        [4] = 0.7000000000,
-                        [1] = 1,
-                        [2] = 0,
-                        [3] = 0,
-                    },
                     ["enabled"] = false,
-                    ["locked"] = true,
+                    ["position"] = 
+                    {
+                        ["y"] = 500,
+                        ["x"] = 500,
+                    },
                     ["unlocked_color"] = 
                     {
                         [4] = 0.7000000000,
@@ -746,96 +1303,100 @@ EzStalking_SavedVars =
                         [2] = 1,
                         [3] = 1,
                     },
+                    ["color"] = 
+                    {
+                        [4] = 0.7000000000,
+                        [1] = 1,
+                        [2] = 0,
+                        [3] = 0,
+                    },
+                    ["locked"] = true,
+                },
+            },
+            ["8796093077354797"] = 
+            {
+                ["$LastCharacterName"] = "noobsmell",
+                ["log"] = 
+                {
+                    ["combat_only"] = false,
+                    ["normal_difficulty"] = false,
+                    ["dungeons"] = false,
+                    ["endless"] = false,
+                    ["imperial_city"] = false,
+                    ["remember_zone"] = false,
+                    ["battlegrounds"] = false,
+                    ["trials"] = false,
+                    ["cyrodiil"] = false,
+                    ["housing"] = false,
+                    ["arenas"] = false,
+                    ["enabled"] = false,
+                    ["use_dialog"] = false,
+                },
+                ["upload_reminder"] = false,
+                ["version"] = 2,
+                ["account_wide"] = false,
+                ["zone_id"] = 
+                {
+                    [4] = 
+                    {
+                    },
+                    [1] = 
+                    {
+                    },
+                    [2] = 
+                    {
+                    },
+                    [3] = 
+                    {
+                    },
+                },
+                ["indicator"] = 
+                {
+                    ["enabled"] = false,
                     ["position"] = 
                     {
-                        ["x"] = 500,
                         ["y"] = 500,
+                        ["x"] = 500,
                     },
+                    ["unlocked_color"] = 
+                    {
+                        [4] = 0.7000000000,
+                        [1] = 0,
+                        [2] = 1,
+                        [3] = 1,
+                    },
+                    ["color"] = 
+                    {
+                        [4] = 0.7000000000,
+                        [1] = 1,
+                        [2] = 0,
+                        [3] = 0,
+                    },
+                    ["locked"] = true,
                 },
             },
             ["8796093077338611"] = 
             {
-                ["account_wide"] = false,
-                ["log"] = 
-                {
-                    ["trials"] = false,
-                    ["use_dialog"] = false,
-                    ["dungeons"] = false,
-                    ["combat_only"] = false,
-                    ["battlegrounds"] = false,
-                    ["remember_zone"] = false,
-                    ["cyrodiil"] = false,
-                    ["endless"] = false,
-                    ["housing"] = false,
-                    ["enabled"] = false,
-                    ["imperial_city"] = false,
-                    ["arenas"] = false,
-                    ["normal_difficulty"] = false,
-                },
-                ["version"] = 2,
-                ["upload_reminder"] = false,
-                ["zone_id"] = 
-                {
-                    [4] = 
-                    {
-                    },
-                    [1] = 
-                    {
-                    },
-                    [2] = 
-                    {
-                    },
-                    [3] = 
-                    {
-                    },
-                },
                 ["$LastCharacterName"] = "noobsimper",
-                ["indicator"] = 
-                {
-                    ["color"] = 
-                    {
-                        [4] = 0.7000000000,
-                        [1] = 1,
-                        [2] = 0,
-                        [3] = 0,
-                    },
-                    ["enabled"] = false,
-                    ["locked"] = true,
-                    ["unlocked_color"] = 
-                    {
-                        [4] = 0.7000000000,
-                        [1] = 0,
-                        [2] = 1,
-                        [3] = 1,
-                    },
-                    ["position"] = 
-                    {
-                        ["x"] = 500,
-                        ["y"] = 500,
-                    },
-                },
-            },
-            ["8796093077280363"] = 
-            {
-                ["account_wide"] = false,
                 ["log"] = 
                 {
-                    ["trials"] = false,
-                    ["use_dialog"] = false,
-                    ["dungeons"] = false,
                     ["combat_only"] = false,
-                    ["battlegrounds"] = false,
-                    ["remember_zone"] = false,
-                    ["cyrodiil"] = false,
-                    ["endless"] = false,
-                    ["housing"] = false,
-                    ["enabled"] = false,
-                    ["imperial_city"] = false,
-                    ["arenas"] = false,
                     ["normal_difficulty"] = false,
+                    ["dungeons"] = false,
+                    ["endless"] = false,
+                    ["imperial_city"] = false,
+                    ["remember_zone"] = false,
+                    ["battlegrounds"] = false,
+                    ["trials"] = false,
+                    ["cyrodiil"] = false,
+                    ["housing"] = false,
+                    ["arenas"] = false,
+                    ["enabled"] = false,
+                    ["use_dialog"] = false,
                 },
-                ["version"] = 2,
                 ["upload_reminder"] = false,
+                ["version"] = 2,
+                ["account_wide"] = false,
                 ["zone_id"] = 
                 {
                     [4] = 
@@ -851,18 +1412,14 @@ EzStalking_SavedVars =
                     {
                     },
                 },
-                ["$LastCharacterName"] = "noobsmile",
                 ["indicator"] = 
                 {
-                    ["color"] = 
-                    {
-                        [4] = 0.7000000000,
-                        [1] = 1,
-                        [2] = 0,
-                        [3] = 0,
-                    },
                     ["enabled"] = false,
-                    ["locked"] = true,
+                    ["position"] = 
+                    {
+                        ["y"] = 500,
+                        ["x"] = 500,
+                    },
                     ["unlocked_color"] = 
                     {
                         [4] = 0.7000000000,
@@ -870,34 +1427,38 @@ EzStalking_SavedVars =
                         [2] = 1,
                         [3] = 1,
                     },
-                    ["position"] = 
+                    ["color"] = 
                     {
-                        ["x"] = 500,
-                        ["y"] = 500,
+                        [4] = 0.7000000000,
+                        [1] = 1,
+                        [2] = 0,
+                        [3] = 0,
                     },
+                    ["locked"] = true,
                 },
             },
-            ["8796093078739949"] = 
+            ["8796093077130605"] = 
             {
-                ["account_wide"] = false,
+                ["$LastCharacterName"] = "noobhugs",
                 ["log"] = 
                 {
-                    ["trials"] = false,
-                    ["use_dialog"] = false,
-                    ["dungeons"] = false,
                     ["combat_only"] = false,
-                    ["battlegrounds"] = false,
-                    ["remember_zone"] = false,
-                    ["cyrodiil"] = false,
-                    ["endless"] = false,
-                    ["housing"] = false,
-                    ["enabled"] = false,
-                    ["imperial_city"] = false,
-                    ["arenas"] = false,
                     ["normal_difficulty"] = false,
+                    ["dungeons"] = false,
+                    ["endless"] = false,
+                    ["imperial_city"] = false,
+                    ["remember_zone"] = false,
+                    ["battlegrounds"] = false,
+                    ["trials"] = false,
+                    ["cyrodiil"] = false,
+                    ["housing"] = false,
+                    ["arenas"] = false,
+                    ["enabled"] = false,
+                    ["use_dialog"] = false,
                 },
-                ["version"] = 2,
                 ["upload_reminder"] = false,
+                ["version"] = 2,
+                ["account_wide"] = false,
                 ["zone_id"] = 
                 {
                     [4] = 
@@ -913,18 +1474,14 @@ EzStalking_SavedVars =
                     {
                     },
                 },
-                ["$LastCharacterName"] = "noobbomb",
                 ["indicator"] = 
                 {
-                    ["color"] = 
-                    {
-                        [4] = 0.7000000000,
-                        [1] = 1,
-                        [2] = 0,
-                        [3] = 0,
-                    },
                     ["enabled"] = false,
-                    ["locked"] = true,
+                    ["position"] = 
+                    {
+                        ["y"] = 500,
+                        ["x"] = 500,
+                    },
                     ["unlocked_color"] = 
                     {
                         [4] = 0.7000000000,
@@ -932,34 +1489,38 @@ EzStalking_SavedVars =
                         [2] = 1,
                         [3] = 1,
                     },
-                    ["position"] = 
+                    ["color"] = 
                     {
-                        ["x"] = 500,
-                        ["y"] = 500,
+                        [4] = 0.7000000000,
+                        [1] = 1,
+                        [2] = 0,
+                        [3] = 0,
                     },
+                    ["locked"] = true,
                 },
             },
-            ["8796093077286887"] = 
+            ["8796093077622069"] = 
             {
-                ["account_wide"] = false,
+                ["$LastCharacterName"] = "noobwick",
                 ["log"] = 
                 {
-                    ["trials"] = false,
-                    ["use_dialog"] = false,
-                    ["dungeons"] = false,
                     ["combat_only"] = false,
-                    ["battlegrounds"] = false,
-                    ["remember_zone"] = false,
-                    ["cyrodiil"] = false,
-                    ["endless"] = false,
-                    ["housing"] = false,
-                    ["enabled"] = false,
-                    ["imperial_city"] = false,
-                    ["arenas"] = false,
                     ["normal_difficulty"] = false,
+                    ["dungeons"] = false,
+                    ["endless"] = false,
+                    ["imperial_city"] = false,
+                    ["remember_zone"] = false,
+                    ["battlegrounds"] = false,
+                    ["trials"] = false,
+                    ["cyrodiil"] = false,
+                    ["housing"] = false,
+                    ["arenas"] = false,
+                    ["enabled"] = false,
+                    ["use_dialog"] = false,
                 },
-                ["version"] = 2,
                 ["upload_reminder"] = false,
+                ["version"] = 2,
+                ["account_wide"] = false,
                 ["zone_id"] = 
                 {
                     [4] = 
@@ -975,18 +1536,14 @@ EzStalking_SavedVars =
                     {
                     },
                 },
-                ["$LastCharacterName"] = "noobhappy",
                 ["indicator"] = 
                 {
-                    ["color"] = 
-                    {
-                        [4] = 0.7000000000,
-                        [1] = 1,
-                        [2] = 0,
-                        [3] = 0,
-                    },
                     ["enabled"] = false,
-                    ["locked"] = true,
+                    ["position"] = 
+                    {
+                        ["y"] = 500,
+                        ["x"] = 500,
+                    },
                     ["unlocked_color"] = 
                     {
                         [4] = 0.7000000000,
@@ -994,99 +1551,38 @@ EzStalking_SavedVars =
                         [2] = 1,
                         [3] = 1,
                     },
-                    ["position"] = 
+                    ["color"] = 
                     {
-                        ["x"] = 500,
-                        ["y"] = 500,
+                        [4] = 0.7000000000,
+                        [1] = 1,
+                        [2] = 0,
+                        [3] = 0,
                     },
+                    ["locked"] = true,
                 },
             },
             ["8796093077976825"] = 
             {
-                ["account_wide"] = false,
-                ["log"] = 
-                {
-                    ["trials"] = false,
-                    ["use_dialog"] = false,
-                    ["dungeons"] = false,
-                    ["combat_only"] = false,
-                    ["battlegrounds"] = false,
-                    ["remember_zone"] = false,
-                    ["cyrodiil"] = false,
-                    ["endless"] = false,
-                    ["housing"] = false,
-                    ["enabled"] = false,
-                    ["imperial_city"] = false,
-                    ["arenas"] = false,
-                    ["normal_difficulty"] = false,
-                },
-                ["version"] = 2,
-                ["upload_reminder"] = false,
-                ["zone_id"] = 
-                {
-                    [4] = 
-                    {
-                    },
-                    [1] = 
-                    {
-                    },
-                    [2] = 
-                    {
-                    },
-                    [3] = 
-                    {
-                    },
-                },
                 ["$LastCharacterName"] = "noobwood",
-                ["indicator"] = 
-                {
-                    ["color"] = 
-                    {
-                        [4] = 0.7000000000,
-                        [1] = 1,
-                        [2] = 0,
-                        [3] = 0,
-                    },
-                    ["enabled"] = false,
-                    ["locked"] = true,
-                    ["unlocked_color"] = 
-                    {
-                        [4] = 0.7000000000,
-                        [1] = 0,
-                        [2] = 1,
-                        [3] = 1,
-                    },
-                    ["position"] = 
-                    {
-                        ["x"] = 500,
-                        ["y"] = 500,
-                    },
-                },
-            },
-        },
-        ["@YYDS1214"] = 
-        {
-            ["8796093077165965"] = 
-            {
-                ["account_wide"] = false,
                 ["log"] = 
                 {
-                    ["trials"] = false,
-                    ["use_dialog"] = false,
-                    ["dungeons"] = false,
                     ["combat_only"] = false,
-                    ["battlegrounds"] = false,
-                    ["remember_zone"] = false,
-                    ["cyrodiil"] = false,
-                    ["endless"] = false,
-                    ["housing"] = false,
-                    ["enabled"] = false,
-                    ["imperial_city"] = false,
-                    ["arenas"] = false,
                     ["normal_difficulty"] = false,
+                    ["dungeons"] = false,
+                    ["endless"] = false,
+                    ["imperial_city"] = false,
+                    ["remember_zone"] = false,
+                    ["battlegrounds"] = false,
+                    ["trials"] = false,
+                    ["cyrodiil"] = false,
+                    ["housing"] = false,
+                    ["arenas"] = false,
+                    ["enabled"] = false,
+                    ["use_dialog"] = false,
                 },
-                ["version"] = 2,
                 ["upload_reminder"] = false,
+                ["version"] = 2,
+                ["account_wide"] = false,
                 ["zone_id"] = 
                 {
                     [4] = 
@@ -1102,18 +1598,14 @@ EzStalking_SavedVars =
                     {
                     },
                 },
-                ["$LastCharacterName"] = "Junjunya",
                 ["indicator"] = 
                 {
-                    ["color"] = 
-                    {
-                        [4] = 0.7000000000,
-                        [1] = 1,
-                        [2] = 0,
-                        [3] = 0,
-                    },
                     ["enabled"] = false,
-                    ["locked"] = true,
+                    ["position"] = 
+                    {
+                        ["y"] = 500,
+                        ["x"] = 500,
+                    },
                     ["unlocked_color"] = 
                     {
                         [4] = 0.7000000000,
@@ -1121,52 +1613,6 @@ EzStalking_SavedVars =
                         [2] = 1,
                         [3] = 1,
                     },
-                    ["position"] = 
-                    {
-                        ["x"] = 500,
-                        ["y"] = 500,
-                    },
-                },
-            },
-            ["8796093077181579"] = 
-            {
-                ["account_wide"] = false,
-                ["log"] = 
-                {
-                    ["trials"] = false,
-                    ["use_dialog"] = false,
-                    ["dungeons"] = false,
-                    ["combat_only"] = false,
-                    ["battlegrounds"] = false,
-                    ["remember_zone"] = false,
-                    ["cyrodiil"] = false,
-                    ["endless"] = false,
-                    ["housing"] = false,
-                    ["enabled"] = false,
-                    ["imperial_city"] = false,
-                    ["arenas"] = false,
-                    ["normal_difficulty"] = false,
-                },
-                ["version"] = 2,
-                ["upload_reminder"] = false,
-                ["zone_id"] = 
-                {
-                    [4] = 
-                    {
-                    },
-                    [1] = 
-                    {
-                    },
-                    [2] = 
-                    {
-                    },
-                    [3] = 
-                    {
-                    },
-                },
-                ["$LastCharacterName"] = "A qiya",
-                ["indicator"] = 
-                {
                     ["color"] = 
                     {
                         [4] = 0.7000000000,
@@ -1174,453 +1620,7 @@ EzStalking_SavedVars =
                         [2] = 0,
                         [3] = 0,
                     },
-                    ["enabled"] = false,
                     ["locked"] = true,
-                    ["unlocked_color"] = 
-                    {
-                        [4] = 0.7000000000,
-                        [1] = 0,
-                        [2] = 1,
-                        [3] = 1,
-                    },
-                    ["position"] = 
-                    {
-                        ["x"] = 500,
-                        ["y"] = 500,
-                    },
-                },
-            },
-            ["8796093077616617"] = 
-            {
-                ["account_wide"] = false,
-                ["log"] = 
-                {
-                    ["trials"] = false,
-                    ["use_dialog"] = false,
-                    ["dungeons"] = false,
-                    ["combat_only"] = false,
-                    ["battlegrounds"] = false,
-                    ["remember_zone"] = false,
-                    ["cyrodiil"] = false,
-                    ["endless"] = false,
-                    ["housing"] = false,
-                    ["enabled"] = false,
-                    ["imperial_city"] = false,
-                    ["arenas"] = false,
-                    ["normal_difficulty"] = false,
-                },
-                ["version"] = 2,
-                ["upload_reminder"] = false,
-                ["zone_id"] = 
-                {
-                    [4] = 
-                    {
-                    },
-                    [1] = 
-                    {
-                    },
-                    [2] = 
-                    {
-                    },
-                    [3] = 
-                    {
-                    },
-                },
-                ["$LastCharacterName"] = "shiaqi",
-                ["indicator"] = 
-                {
-                    ["color"] = 
-                    {
-                        [4] = 0.7000000000,
-                        [1] = 1,
-                        [2] = 0,
-                        [3] = 0,
-                    },
-                    ["enabled"] = false,
-                    ["locked"] = true,
-                    ["unlocked_color"] = 
-                    {
-                        [4] = 0.7000000000,
-                        [1] = 0,
-                        [2] = 1,
-                        [3] = 1,
-                    },
-                    ["position"] = 
-                    {
-                        ["x"] = 500,
-                        ["y"] = 500,
-                    },
-                },
-            },
-            ["8796093077153837"] = 
-            {
-                ["account_wide"] = false,
-                ["log"] = 
-                {
-                    ["trials"] = false,
-                    ["use_dialog"] = false,
-                    ["dungeons"] = false,
-                    ["combat_only"] = false,
-                    ["battlegrounds"] = false,
-                    ["remember_zone"] = false,
-                    ["cyrodiil"] = false,
-                    ["endless"] = false,
-                    ["housing"] = false,
-                    ["enabled"] = false,
-                    ["imperial_city"] = false,
-                    ["arenas"] = false,
-                    ["normal_difficulty"] = false,
-                },
-                ["version"] = 2,
-                ["upload_reminder"] = false,
-                ["zone_id"] = 
-                {
-                    [4] = 
-                    {
-                    },
-                    [1] = 
-                    {
-                    },
-                    [2] = 
-                    {
-                    },
-                    [3] = 
-                    {
-                    },
-                },
-                ["$LastCharacterName"] = "Yang Yyds",
-                ["indicator"] = 
-                {
-                    ["color"] = 
-                    {
-                        [4] = 0.7000000000,
-                        [1] = 1,
-                        [2] = 0,
-                        [3] = 0,
-                    },
-                    ["enabled"] = false,
-                    ["locked"] = true,
-                    ["unlocked_color"] = 
-                    {
-                        [4] = 0.7000000000,
-                        [1] = 0,
-                        [2] = 1,
-                        [3] = 1,
-                    },
-                    ["position"] = 
-                    {
-                        ["x"] = 500,
-                        ["y"] = 500,
-                    },
-                },
-            },
-            ["8796093077181565"] = 
-            {
-                ["account_wide"] = false,
-                ["log"] = 
-                {
-                    ["trials"] = false,
-                    ["use_dialog"] = false,
-                    ["dungeons"] = false,
-                    ["combat_only"] = false,
-                    ["battlegrounds"] = false,
-                    ["remember_zone"] = false,
-                    ["cyrodiil"] = false,
-                    ["endless"] = false,
-                    ["housing"] = false,
-                    ["enabled"] = false,
-                    ["imperial_city"] = false,
-                    ["arenas"] = false,
-                    ["normal_difficulty"] = false,
-                },
-                ["version"] = 2,
-                ["upload_reminder"] = false,
-                ["zone_id"] = 
-                {
-                    [4] = 
-                    {
-                    },
-                    [1] = 
-                    {
-                    },
-                    [2] = 
-                    {
-                    },
-                    [3] = 
-                    {
-                    },
-                },
-                ["$LastCharacterName"] = "Aqiya",
-                ["indicator"] = 
-                {
-                    ["color"] = 
-                    {
-                        [4] = 0.7000000000,
-                        [1] = 1,
-                        [2] = 0,
-                        [3] = 0,
-                    },
-                    ["enabled"] = false,
-                    ["locked"] = true,
-                    ["unlocked_color"] = 
-                    {
-                        [4] = 0.7000000000,
-                        [1] = 0,
-                        [2] = 1,
-                        [3] = 1,
-                    },
-                    ["position"] = 
-                    {
-                        ["x"] = 500,
-                        ["y"] = 500,
-                    },
-                },
-            },
-            ["8796093077181587"] = 
-            {
-                ["account_wide"] = false,
-                ["log"] = 
-                {
-                    ["trials"] = false,
-                    ["use_dialog"] = false,
-                    ["dungeons"] = false,
-                    ["combat_only"] = false,
-                    ["battlegrounds"] = false,
-                    ["remember_zone"] = false,
-                    ["cyrodiil"] = false,
-                    ["endless"] = false,
-                    ["housing"] = false,
-                    ["enabled"] = false,
-                    ["imperial_city"] = false,
-                    ["arenas"] = false,
-                    ["normal_difficulty"] = false,
-                },
-                ["version"] = 2,
-                ["upload_reminder"] = false,
-                ["zone_id"] = 
-                {
-                    [4] = 
-                    {
-                    },
-                    [1] = 
-                    {
-                    },
-                    [2] = 
-                    {
-                    },
-                    [3] = 
-                    {
-                    },
-                },
-                ["$LastCharacterName"] = "a qi ya",
-                ["indicator"] = 
-                {
-                    ["color"] = 
-                    {
-                        [4] = 0.7000000000,
-                        [1] = 1,
-                        [2] = 0,
-                        [3] = 0,
-                    },
-                    ["enabled"] = false,
-                    ["locked"] = true,
-                    ["unlocked_color"] = 
-                    {
-                        [4] = 0.7000000000,
-                        [1] = 0,
-                        [2] = 1,
-                        [3] = 1,
-                    },
-                    ["position"] = 
-                    {
-                        ["x"] = 500,
-                        ["y"] = 500,
-                    },
-                },
-            },
-            ["8796093077595053"] = 
-            {
-                ["account_wide"] = false,
-                ["log"] = 
-                {
-                    ["trials"] = false,
-                    ["use_dialog"] = false,
-                    ["dungeons"] = false,
-                    ["combat_only"] = false,
-                    ["battlegrounds"] = false,
-                    ["remember_zone"] = false,
-                    ["cyrodiil"] = false,
-                    ["endless"] = false,
-                    ["housing"] = false,
-                    ["enabled"] = false,
-                    ["imperial_city"] = false,
-                    ["arenas"] = false,
-                    ["normal_difficulty"] = false,
-                },
-                ["version"] = 2,
-                ["upload_reminder"] = false,
-                ["zone_id"] = 
-                {
-                    [4] = 
-                    {
-                    },
-                    [1] = 
-                    {
-                    },
-                    [2] = 
-                    {
-                    },
-                    [3] = 
-                    {
-                    },
-                },
-                ["$LastCharacterName"] = "aqi ya",
-                ["indicator"] = 
-                {
-                    ["color"] = 
-                    {
-                        [4] = 0.7000000000,
-                        [1] = 1,
-                        [2] = 0,
-                        [3] = 0,
-                    },
-                    ["enabled"] = false,
-                    ["locked"] = true,
-                    ["unlocked_color"] = 
-                    {
-                        [4] = 0.7000000000,
-                        [1] = 0,
-                        [2] = 1,
-                        [3] = 1,
-                    },
-                    ["position"] = 
-                    {
-                        ["x"] = 500,
-                        ["y"] = 500,
-                    },
-                },
-            },
-            ["$AccountWide"] = 
-            {
-                ["account_wide"] = false,
-                ["version"] = 2,
-                ["upload_reminder"] = false,
-                ["zone_id"] = 
-                {
-                    [4] = 
-                    {
-                    },
-                    [1] = 
-                    {
-                    },
-                    [2] = 
-                    {
-                    },
-                    [3] = 
-                    {
-                    },
-                },
-                ["log"] = 
-                {
-                    ["trials"] = false,
-                    ["use_dialog"] = false,
-                    ["dungeons"] = false,
-                    ["combat_only"] = false,
-                    ["battlegrounds"] = false,
-                    ["remember_zone"] = false,
-                    ["cyrodiil"] = false,
-                    ["endless"] = false,
-                    ["housing"] = false,
-                    ["enabled"] = false,
-                    ["imperial_city"] = false,
-                    ["arenas"] = false,
-                    ["normal_difficulty"] = false,
-                },
-                ["indicator"] = 
-                {
-                    ["color"] = 
-                    {
-                        [4] = 0.7000000000,
-                        [1] = 1,
-                        [2] = 0,
-                        [3] = 0,
-                    },
-                    ["enabled"] = false,
-                    ["locked"] = true,
-                    ["unlocked_color"] = 
-                    {
-                        [4] = 0.7000000000,
-                        [1] = 0,
-                        [2] = 1,
-                        [3] = 1,
-                    },
-                    ["position"] = 
-                    {
-                        ["x"] = 500,
-                        ["y"] = 500,
-                    },
-                },
-            },
-            ["8796093077181623"] = 
-            {
-                ["account_wide"] = false,
-                ["log"] = 
-                {
-                    ["trials"] = false,
-                    ["use_dialog"] = false,
-                    ["dungeons"] = false,
-                    ["combat_only"] = false,
-                    ["battlegrounds"] = false,
-                    ["remember_zone"] = false,
-                    ["cyrodiil"] = false,
-                    ["endless"] = false,
-                    ["housing"] = false,
-                    ["enabled"] = false,
-                    ["imperial_city"] = false,
-                    ["arenas"] = false,
-                    ["normal_difficulty"] = false,
-                },
-                ["version"] = 2,
-                ["upload_reminder"] = false,
-                ["zone_id"] = 
-                {
-                    [4] = 
-                    {
-                    },
-                    [1] = 
-                    {
-                    },
-                    [2] = 
-                    {
-                    },
-                    [3] = 
-                    {
-                    },
-                },
-                ["$LastCharacterName"] = "Aqi Yaa",
-                ["indicator"] = 
-                {
-                    ["color"] = 
-                    {
-                        [4] = 0.7000000000,
-                        [1] = 1,
-                        [2] = 0,
-                        [3] = 0,
-                    },
-                    ["enabled"] = false,
-                    ["locked"] = true,
-                    ["unlocked_color"] = 
-                    {
-                        [4] = 0.7000000000,
-                        [1] = 0,
-                        [2] = 1,
-                        [3] = 1,
-                    },
-                    ["position"] = 
-                    {
-                        ["x"] = 500,
-                        ["y"] = 500,
-                    },
                 },
             },
         },

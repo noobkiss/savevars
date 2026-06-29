@@ -6,12 +6,12 @@ TextureItSaveVars =
         {
             ["$AccountWide"] = 
             {
-                ["ShowToolTips"] = true,
-                ["StartHidden"] = true,
-                ["UseTextureFileDimensions"] = true,
-                ["version"] = 20200106,
-                ["InfoMessages"] = false,
                 ["MaxSearchResults"] = 250,
+                ["InfoMessages"] = false,
+                ["StartHidden"] = true,
+                ["version"] = 20200106,
+                ["ShowToolTips"] = true,
+                ["UseTextureFileDimensions"] = true,
             },
         },
     },

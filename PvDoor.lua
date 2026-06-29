@@ -2,32 +2,15 @@ PvDoor_SavedVariables =
 {
     ["Default"] = 
     {
-        ["@Kankerkop"] = 
-        {
-            ["$AccountWide"] = 
-            {
-                ["pin"] = 
-                {
-                    ["level"] = 40,
-                    ["size"] = 20,
-                    ["hex"] = "ffffff",
-                    ["type"] = 4,
-                },
-                ["imperial"] = 
-                {
-                    ["enabled"] = true,
-                },
-                ["version"] = 4,
-            },
-        },
         ["@noobkiss"] = 
         {
             ["$AccountWide"] = 
             {
+                ["version"] = 4,
                 ["pin"] = 
                 {
-                    ["level"] = 40,
                     ["size"] = 20,
+                    ["level"] = 40,
                     ["hex"] = "ffffff",
                     ["type"] = 7,
                 },
@@ -35,17 +18,17 @@ PvDoor_SavedVariables =
                 {
                     ["enabled"] = true,
                 },
-                ["version"] = 4,
             },
         },
         ["@YYDS1214"] = 
         {
             ["$AccountWide"] = 
             {
+                ["version"] = 4,
                 ["pin"] = 
                 {
-                    ["level"] = 40,
                     ["size"] = 30,
+                    ["level"] = 40,
                     ["hex"] = "ffffff",
                     ["type"] = 1,
                 },
@@ -53,7 +36,24 @@ PvDoor_SavedVariables =
                 {
                     ["enabled"] = true,
                 },
+            },
+        },
+        ["@Kankerkop"] = 
+        {
+            ["$AccountWide"] = 
+            {
                 ["version"] = 4,
+                ["pin"] = 
+                {
+                    ["size"] = 20,
+                    ["level"] = 40,
+                    ["hex"] = "ffffff",
+                    ["type"] = 4,
+                },
+                ["imperial"] = 
+                {
+                    ["enabled"] = true,
+                },
             },
         },
     },

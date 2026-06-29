@@ -1,204 +1,77 @@
 LostTreasure_Account =
 {
-    ["EU Megaserver"] = 
-    {
-        ["@noobkiss"] = 
-        {
-            ["$AccountWide"] = 
-            {
-                ["misc"] = 
-                {
-                    ["hasNewIconPath"] = true,
-                },
-                ["version"] = 20,
-                ["pinTypes"] = 
-                {
-                    ["treasure"] = 
-                    {
-                        ["showOnMap"] = true,
-                        ["markOption"] = "inventory",
-                        ["texture"] = "LibTreasure/Icons/x_red.dds",
-                        ["size"] = 32,
-                        ["pinLevel"] = 47,
-                        ["showOnCompass"] = true,
-                        ["deletionDelay"] = 10,
-                    },
-                    ["clue"] = 
-                    {
-                        ["showOnMap"] = true,
-                        ["markOption"] = "inventory",
-                        ["texture"] = "LibTreasure/Icons/hammerstrike.dds",
-                        ["size"] = 32,
-                        ["pinLevel"] = 47,
-                        ["showOnCompass"] = true,
-                        ["deletionDelay"] = 10,
-                    },
-                    ["survey"] = 
-                    {
-                        ["showOnMap"] = true,
-                        ["markOption"] = "inventory",
-                        ["texture"] = "LibTreasure/Icons/hammerstrike.dds",
-                        ["size"] = 32,
-                        ["pinLevel"] = 47,
-                        ["showOnCompass"] = true,
-                        ["deletionDelay"] = 10,
-                    },
-                },
-                ["mining"] = 
-                {
-                    ["APITimeStamp"] = 1779680537,
-                    ["APIVersion"] = 101049,
-                    ["data"] = 
-                    {
-                    },
-                },
-                ["notifications"] = 
-                {
-                },
-                ["miniMap"] = 
-                {
-                    ["deletionDelay"] = 4,
-                    ["size"] = 400,
-                    ["anchor"] = 
-                    {
-                        ["data"] = 
-                        {
-                            [1] = 3,
-                            [3] = 3,
-                            [4] = 100,
-                            [5] = 100,
-                            [6] = 0,
-                        },
-                    },
-                    ["enabled"] = true,
-                },
-            },
-        },
-    },
     ["NA Megaserver"] = 
     {
-        ["@Jonzouio"] = 
-        {
-            ["$AccountWide"] = 
-            {
-                ["misc"] = 
-                {
-                    ["hasNewIconPath"] = true,
-                },
-                ["version"] = 20,
-                ["pinTypes"] = 
-                {
-                    ["treasure"] = 
-                    {
-                        ["showOnMap"] = true,
-                        ["markOption"] = "inventory",
-                        ["texture"] = "LibTreasure/Icons/x_red.dds",
-                        ["size"] = 32,
-                        ["pinLevel"] = 47,
-                        ["showOnCompass"] = true,
-                        ["deletionDelay"] = 10,
-                    },
-                    ["clue"] = 
-                    {
-                        ["showOnMap"] = true,
-                        ["markOption"] = "inventory",
-                        ["texture"] = "LibTreasure/Icons/hammerstrike.dds",
-                        ["size"] = 32,
-                        ["pinLevel"] = 47,
-                        ["showOnCompass"] = true,
-                        ["deletionDelay"] = 10,
-                    },
-                    ["survey"] = 
-                    {
-                        ["showOnMap"] = true,
-                        ["markOption"] = "inventory",
-                        ["texture"] = "LibTreasure/Icons/hammerstrike.dds",
-                        ["size"] = 32,
-                        ["pinLevel"] = 47,
-                        ["showOnCompass"] = true,
-                        ["deletionDelay"] = 10,
-                    },
-                },
-                ["mining"] = 
-                {
-                    ["APITimeStamp"] = 1731926815,
-                    ["APIVersion"] = 101044,
-                    ["data"] = 
-                    {
-                    },
-                },
-                ["notifications"] = 
-                {
-                },
-                ["miniMap"] = 
-                {
-                    ["deletionDelay"] = 4,
-                    ["size"] = 400,
-                    ["anchor"] = 
-                    {
-                        ["data"] = 
-                        {
-                            [1] = 3,
-                            [3] = 3,
-                            [4] = 100,
-                            [5] = 100,
-                            [6] = 0,
-                        },
-                    },
-                    ["enabled"] = true,
-                },
-            },
-        },
         ["@Kankerkop"] = 
         {
             ["8796093078606003"] = 
             {
-                ["$LastCharacterName"] = "Kankerkop",
                 ["LibSavedVars"] = 
                 {
                     ["accountSavedVarsActive"] = true,
                 },
                 ["version"] = 20,
+                ["$LastCharacterName"] = "Kankerkop",
             },
             ["$AccountWide"] = 
             {
-                ["misc"] = 
+                ["miniMap"] = 
                 {
-                    ["hasNewIconPath"] = true,
+                    ["enabled"] = true,
+                    ["anchor"] = 
+                    {
+                        ["data"] = 
+                        {
+                            [1] = 3,
+                            [3] = 3,
+                            [4] = 100,
+                            [5] = 100,
+                            [6] = 0,
+                        },
+                    },
+                    ["size"] = 400,
+                    ["deletionDelay"] = 4,
                 },
-                ["version"] = 20,
                 ["pinTypes"] = 
                 {
                     ["treasure"] = 
                     {
-                        ["showOnMap"] = true,
                         ["markOption"] = "inventory",
+                        ["showOnCompass"] = true,
+                        ["deletionDelay"] = 10,
+                        ["size"] = 32,
+                        ["showOnMap"] = true,
+                        ["pinLevel"] = 47,
                         ["texture"] = "LibTreasure/Icons/x_red.dds",
-                        ["size"] = 32,
-                        ["pinLevel"] = 47,
-                        ["showOnCompass"] = true,
-                        ["deletionDelay"] = 10,
-                    },
-                    ["clue"] = 
-                    {
-                        ["showOnMap"] = true,
-                        ["markOption"] = "inventory",
-                        ["texture"] = "LibTreasure/Icons/hammerstrike.dds",
-                        ["size"] = 32,
-                        ["pinLevel"] = 47,
-                        ["showOnCompass"] = true,
-                        ["deletionDelay"] = 10,
                     },
                     ["survey"] = 
                     {
-                        ["showOnMap"] = true,
                         ["markOption"] = "inventory",
-                        ["texture"] = "LibTreasure/Icons/hammerstrike.dds",
-                        ["size"] = 32,
-                        ["pinLevel"] = 47,
                         ["showOnCompass"] = true,
                         ["deletionDelay"] = 10,
+                        ["size"] = 32,
+                        ["showOnMap"] = true,
+                        ["pinLevel"] = 47,
+                        ["texture"] = "LibTreasure/Icons/hammerstrike.dds",
                     },
+                    ["clue"] = 
+                    {
+                        ["markOption"] = "inventory",
+                        ["showOnCompass"] = true,
+                        ["deletionDelay"] = 10,
+                        ["size"] = 32,
+                        ["showOnMap"] = true,
+                        ["pinLevel"] = 47,
+                        ["texture"] = "LibTreasure/Icons/hammerstrike.dds",
+                    },
+                },
+                ["version"] = 20,
+                ["notifications"] = 
+                {
+                },
+                ["misc"] = 
+                {
+                    ["hasNewIconPath"] = true,
                 },
                 ["mining"] = 
                 {
@@ -208,13 +81,24 @@ LostTreasure_Account =
                     {
                     },
                 },
-                ["notifications"] = 
+            },
+            ["8796093079748457"] = 
+            {
+                ["LibSavedVars"] = 
                 {
+                    ["accountSavedVarsActive"] = true,
                 },
+                ["version"] = 20,
+                ["$LastCharacterName"] = "Kaaskop",
+            },
+        },
+        ["@YYDS1214"] = 
+        {
+            ["$AccountWide"] = 
+            {
                 ["miniMap"] = 
                 {
-                    ["deletionDelay"] = 4,
-                    ["size"] = 400,
+                    ["enabled"] = true,
                     ["anchor"] = 
                     {
                         ["data"] = 
@@ -226,121 +110,229 @@ LostTreasure_Account =
                             [6] = 0,
                         },
                     },
-                    ["enabled"] = true,
+                    ["size"] = 400,
+                    ["deletionDelay"] = 4,
                 },
-            },
-            ["8796093079748457"] = 
-            {
-                ["$LastCharacterName"] = "Kaaskop",
-                ["LibSavedVars"] = 
-                {
-                    ["accountSavedVarsActive"] = true,
-                },
-                ["version"] = 20,
-            },
-        },
-        ["@noobkiss"] = 
-        {
-            ["8796093077575729"] = 
-            {
-                ["$LastCharacterName"] = "noobwick",
-                ["LibSavedVars"] = 
-                {
-                    ["accountSavedVarsActive"] = true,
-                },
-                ["version"] = 20,
-            },
-            ["8796093077546265"] = 
-            {
-                ["$LastCharacterName"] = "noobsmirk",
-                ["LibSavedVars"] = 
-                {
-                    ["accountSavedVarsActive"] = true,
-                },
-                ["version"] = 20,
-            },
-            ["8796093077976825"] = 
-            {
-                ["$LastCharacterName"] = "noobwood",
-                ["LibSavedVars"] = 
-                {
-                    ["accountSavedVarsActive"] = true,
-                },
-                ["version"] = 20,
-            },
-            ["8796093078078769"] = 
-            {
-                ["$LastCharacterName"] = "noobmiss",
-                ["LibSavedVars"] = 
-                {
-                    ["accountSavedVarsActive"] = true,
-                },
-                ["version"] = 20,
-            },
-            ["8796093077575525"] = 
-            {
-                ["$LastCharacterName"] = "noobgiggle",
-                ["LibSavedVars"] = 
-                {
-                    ["accountSavedVarsActive"] = true,
-                },
-                ["version"] = 20,
-            },
-            ["$AccountWide"] = 
-            {
-                ["misc"] = 
-                {
-                    ["hasNewIconPath"] = true,
-                },
-                ["version"] = 20,
                 ["pinTypes"] = 
                 {
                     ["treasure"] = 
                     {
-                        ["showOnMap"] = true,
                         ["markOption"] = "inventory",
+                        ["showOnCompass"] = true,
+                        ["deletionDelay"] = 10,
+                        ["size"] = 32,
+                        ["showOnMap"] = true,
+                        ["pinLevel"] = 47,
                         ["texture"] = "LibTreasure/Icons/x_red.dds",
-                        ["size"] = 32,
-                        ["pinLevel"] = 47,
-                        ["showOnCompass"] = true,
-                        ["deletionDelay"] = 10,
-                    },
-                    ["clue"] = 
-                    {
-                        ["showOnMap"] = true,
-                        ["markOption"] = "inventory",
-                        ["texture"] = "LibTreasure/Icons/hammerstrike.dds",
-                        ["size"] = 32,
-                        ["pinLevel"] = 47,
-                        ["showOnCompass"] = true,
-                        ["deletionDelay"] = 10,
                     },
                     ["survey"] = 
                     {
-                        ["showOnMap"] = true,
                         ["markOption"] = "inventory",
-                        ["texture"] = "LibTreasure/Icons/hammerstrike.dds",
-                        ["size"] = 32,
-                        ["pinLevel"] = 47,
                         ["showOnCompass"] = true,
                         ["deletionDelay"] = 10,
+                        ["size"] = 32,
+                        ["showOnMap"] = true,
+                        ["pinLevel"] = 47,
+                        ["texture"] = "LibTreasure/Icons/hammerstrike.dds",
                     },
+                    ["clue"] = 
+                    {
+                        ["markOption"] = "inventory",
+                        ["showOnCompass"] = true,
+                        ["deletionDelay"] = 10,
+                        ["size"] = 32,
+                        ["showOnMap"] = true,
+                        ["pinLevel"] = 47,
+                        ["texture"] = "LibTreasure/Icons/hammerstrike.dds",
+                    },
+                },
+                ["version"] = 20,
+                ["notifications"] = 
+                {
+                },
+                ["misc"] = 
+                {
+                    ["hasNewIconPath"] = true,
                 },
                 ["mining"] = 
                 {
-                    ["APITimeStamp"] = 1780940449,
-                    ["APIVersion"] = 101050,
+                    ["APITimeStamp"] = 1776136999,
+                    ["APIVersion"] = 101049,
                     ["data"] = 
                     {
                     },
                 },
+            },
+        },
+        ["@Jonzouio"] = 
+        {
+            ["$AccountWide"] = 
+            {
+                ["miniMap"] = 
+                {
+                    ["enabled"] = true,
+                    ["anchor"] = 
+                    {
+                        ["data"] = 
+                        {
+                            [1] = 3,
+                            [3] = 3,
+                            [4] = 100,
+                            [5] = 100,
+                            [6] = 0,
+                        },
+                    },
+                    ["size"] = 400,
+                    ["deletionDelay"] = 4,
+                },
+                ["pinTypes"] = 
+                {
+                    ["treasure"] = 
+                    {
+                        ["markOption"] = "inventory",
+                        ["showOnCompass"] = true,
+                        ["deletionDelay"] = 10,
+                        ["size"] = 32,
+                        ["showOnMap"] = true,
+                        ["pinLevel"] = 47,
+                        ["texture"] = "LibTreasure/Icons/x_red.dds",
+                    },
+                    ["survey"] = 
+                    {
+                        ["markOption"] = "inventory",
+                        ["showOnCompass"] = true,
+                        ["deletionDelay"] = 10,
+                        ["size"] = 32,
+                        ["showOnMap"] = true,
+                        ["pinLevel"] = 47,
+                        ["texture"] = "LibTreasure/Icons/hammerstrike.dds",
+                    },
+                    ["clue"] = 
+                    {
+                        ["markOption"] = "inventory",
+                        ["showOnCompass"] = true,
+                        ["deletionDelay"] = 10,
+                        ["size"] = 32,
+                        ["showOnMap"] = true,
+                        ["pinLevel"] = 47,
+                        ["texture"] = "LibTreasure/Icons/hammerstrike.dds",
+                    },
+                },
+                ["version"] = 20,
                 ["notifications"] = 
                 {
                 },
+                ["misc"] = 
+                {
+                    ["hasNewIconPath"] = true,
+                },
+                ["mining"] = 
+                {
+                    ["APITimeStamp"] = 1731926815,
+                    ["APIVersion"] = 101044,
+                    ["data"] = 
+                    {
+                    },
+                },
+            },
+        },
+        ["@noobkiss"] = 
+        {
+            ["8796093077575525"] = 
+            {
+                ["LibSavedVars"] = 
+                {
+                    ["accountSavedVarsActive"] = true,
+                },
+                ["version"] = 20,
+                ["$LastCharacterName"] = "noobgiggle",
+            },
+            ["8796093077575729"] = 
+            {
+                ["LibSavedVars"] = 
+                {
+                    ["accountSavedVarsActive"] = true,
+                },
+                ["version"] = 20,
+                ["$LastCharacterName"] = "noobwick",
+            },
+            ["8796093078739949"] = 
+            {
+                ["LibSavedVars"] = 
+                {
+                    ["accountSavedVarsActive"] = true,
+                },
+                ["version"] = 20,
+                ["$LastCharacterName"] = "noobbomb",
+            },
+            ["8796093078078769"] = 
+            {
+                ["LibSavedVars"] = 
+                {
+                    ["accountSavedVarsActive"] = true,
+                },
+                ["version"] = 20,
+                ["$LastCharacterName"] = "noobmiss",
+            },
+            ["8796093077338611"] = 
+            {
+                ["LibSavedVars"] = 
+                {
+                    ["accountSavedVarsActive"] = true,
+                },
+                ["version"] = 20,
+                ["$LastCharacterName"] = "noobsimper",
+            },
+            ["8796093077977317"] = 
+            {
+                ["LibSavedVars"] = 
+                {
+                    ["accountSavedVarsActive"] = true,
+                },
+                ["version"] = 20,
+                ["$LastCharacterName"] = "noobcroc",
+            },
+            ["8796093077286887"] = 
+            {
+                ["LibSavedVars"] = 
+                {
+                    ["accountSavedVarsActive"] = true,
+                },
+                ["version"] = 20,
+                ["$LastCharacterName"] = "noobhappy",
+            },
+            ["8796093077976825"] = 
+            {
+                ["LibSavedVars"] = 
+                {
+                    ["accountSavedVarsActive"] = true,
+                },
+                ["version"] = 20,
+                ["$LastCharacterName"] = "noobwood",
+            },
+            ["8796093077142221"] = 
+            {
+                ["LibSavedVars"] = 
+                {
+                    ["accountSavedVarsActive"] = true,
+                },
+                ["version"] = 20,
+                ["$LastCharacterName"] = "noobxoxo",
+            },
+            ["8796093077977575"] = 
+            {
+                ["LibSavedVars"] = 
+                {
+                    ["accountSavedVarsActive"] = true,
+                },
+                ["version"] = 20,
+                ["$LastCharacterName"] = "noobmood",
+            },
+            ["$AccountWide"] = 
+            {
                 ["miniMap"] = 
                 {
-                    ["deletionDelay"] = 4,
-                    ["size"] = 400,
+                    ["enabled"] = true,
                     ["anchor"] = 
                     {
                         ["data"] = 
@@ -352,130 +344,88 @@ LostTreasure_Account =
                             [6] = 0,
                         },
                     },
-                    ["enabled"] = true,
+                    ["size"] = 400,
+                    ["deletionDelay"] = 4,
                 },
-            },
-            ["8796093077142221"] = 
-            {
-                ["$LastCharacterName"] = "noobxoxo",
-                ["LibSavedVars"] = 
-                {
-                    ["accountSavedVarsActive"] = true,
-                },
-                ["version"] = 20,
-            },
-            ["8796093077280363"] = 
-            {
-                ["$LastCharacterName"] = "noobsmile",
-                ["LibSavedVars"] = 
-                {
-                    ["accountSavedVarsActive"] = true,
-                },
-                ["version"] = 20,
-            },
-            ["8796093077338611"] = 
-            {
-                ["$LastCharacterName"] = "noobsimper",
-                ["LibSavedVars"] = 
-                {
-                    ["accountSavedVarsActive"] = true,
-                },
-                ["version"] = 20,
-            },
-            ["8796093077977575"] = 
-            {
-                ["$LastCharacterName"] = "noobmood",
-                ["LibSavedVars"] = 
-                {
-                    ["accountSavedVarsActive"] = true,
-                },
-                ["version"] = 20,
-            },
-            ["8796093078739949"] = 
-            {
-                ["$LastCharacterName"] = "noobbomb",
-                ["LibSavedVars"] = 
-                {
-                    ["accountSavedVarsActive"] = true,
-                },
-                ["version"] = 20,
-            },
-            ["8796093077286887"] = 
-            {
-                ["$LastCharacterName"] = "noobhappy",
-                ["LibSavedVars"] = 
-                {
-                    ["accountSavedVarsActive"] = true,
-                },
-                ["version"] = 20,
-            },
-            ["8796093077977317"] = 
-            {
-                ["$LastCharacterName"] = "noobcroc",
-                ["LibSavedVars"] = 
-                {
-                    ["accountSavedVarsActive"] = true,
-                },
-                ["version"] = 20,
-            },
-        },
-        ["@YYDS1214"] = 
-        {
-            ["$AccountWide"] = 
-            {
-                ["misc"] = 
-                {
-                    ["hasNewIconPath"] = true,
-                },
-                ["version"] = 20,
                 ["pinTypes"] = 
                 {
                     ["treasure"] = 
                     {
-                        ["showOnMap"] = true,
                         ["markOption"] = "inventory",
+                        ["showOnCompass"] = true,
+                        ["deletionDelay"] = 10,
+                        ["size"] = 32,
+                        ["showOnMap"] = true,
+                        ["pinLevel"] = 47,
                         ["texture"] = "LibTreasure/Icons/x_red.dds",
-                        ["size"] = 32,
-                        ["pinLevel"] = 47,
-                        ["showOnCompass"] = true,
-                        ["deletionDelay"] = 10,
-                    },
-                    ["clue"] = 
-                    {
-                        ["showOnMap"] = true,
-                        ["markOption"] = "inventory",
-                        ["texture"] = "LibTreasure/Icons/hammerstrike.dds",
-                        ["size"] = 32,
-                        ["pinLevel"] = 47,
-                        ["showOnCompass"] = true,
-                        ["deletionDelay"] = 10,
                     },
                     ["survey"] = 
                     {
-                        ["showOnMap"] = true,
                         ["markOption"] = "inventory",
-                        ["texture"] = "LibTreasure/Icons/hammerstrike.dds",
-                        ["size"] = 32,
-                        ["pinLevel"] = 47,
                         ["showOnCompass"] = true,
                         ["deletionDelay"] = 10,
+                        ["size"] = 32,
+                        ["showOnMap"] = true,
+                        ["pinLevel"] = 47,
+                        ["texture"] = "LibTreasure/Icons/hammerstrike.dds",
                     },
+                    ["clue"] = 
+                    {
+                        ["markOption"] = "inventory",
+                        ["showOnCompass"] = true,
+                        ["deletionDelay"] = 10,
+                        ["size"] = 32,
+                        ["showOnMap"] = true,
+                        ["pinLevel"] = 47,
+                        ["texture"] = "LibTreasure/Icons/hammerstrike.dds",
+                    },
+                },
+                ["version"] = 20,
+                ["notifications"] = 
+                {
+                },
+                ["misc"] = 
+                {
+                    ["hasNewIconPath"] = true,
                 },
                 ["mining"] = 
                 {
-                    ["APITimeStamp"] = 1776136999,
-                    ["APIVersion"] = 101049,
+                    ["APITimeStamp"] = 1780940449,
+                    ["APIVersion"] = 101050,
                     ["data"] = 
                     {
                     },
                 },
-                ["notifications"] = 
+            },
+            ["8796093077546265"] = 
+            {
+                ["LibSavedVars"] = 
                 {
+                    ["accountSavedVarsActive"] = true,
                 },
+                ["version"] = 20,
+                ["$LastCharacterName"] = "noobsmirk",
+            },
+            ["8796093077280363"] = 
+            {
+                ["LibSavedVars"] = 
+                {
+                    ["accountSavedVarsActive"] = true,
+                },
+                ["version"] = 20,
+                ["$LastCharacterName"] = "noobsmile",
+            },
+        },
+    },
+    ["EU Megaserver"] = 
+    {
+        ["@noobkiss"] = 
+        {
+            ["$AccountWide"] = 
+            {
                 ["miniMap"] = 
                 {
-                    ["deletionDelay"] = 4,
-                    ["size"] = 400,
+                    ["enabled"] = true,
                     ["anchor"] = 
                     {
                         ["data"] = 
@@ -487,7 +437,57 @@ LostTreasure_Account =
                             [6] = 0,
                         },
                     },
-                    ["enabled"] = true,
+                    ["size"] = 400,
+                    ["deletionDelay"] = 4,
+                },
+                ["pinTypes"] = 
+                {
+                    ["treasure"] = 
+                    {
+                        ["markOption"] = "inventory",
+                        ["showOnCompass"] = true,
+                        ["deletionDelay"] = 10,
+                        ["size"] = 32,
+                        ["showOnMap"] = true,
+                        ["pinLevel"] = 47,
+                        ["texture"] = "LibTreasure/Icons/x_red.dds",
+                    },
+                    ["survey"] = 
+                    {
+                        ["markOption"] = "inventory",
+                        ["showOnCompass"] = true,
+                        ["deletionDelay"] = 10,
+                        ["size"] = 32,
+                        ["showOnMap"] = true,
+                        ["pinLevel"] = 47,
+                        ["texture"] = "LibTreasure/Icons/hammerstrike.dds",
+                    },
+                    ["clue"] = 
+                    {
+                        ["markOption"] = "inventory",
+                        ["showOnCompass"] = true,
+                        ["deletionDelay"] = 10,
+                        ["size"] = 32,
+                        ["showOnMap"] = true,
+                        ["pinLevel"] = 47,
+                        ["texture"] = "LibTreasure/Icons/hammerstrike.dds",
+                    },
+                },
+                ["version"] = 20,
+                ["notifications"] = 
+                {
+                },
+                ["misc"] = 
+                {
+                    ["hasNewIconPath"] = true,
+                },
+                ["mining"] = 
+                {
+                    ["APITimeStamp"] = 1779680537,
+                    ["APIVersion"] = 101049,
+                    ["data"] = 
+                    {
+                    },
                 },
             },
         },
@@ -497,91 +497,91 @@ LostTreasure_Character =
 {
     ["NA Megaserver"] = 
     {
-        ["@noobkiss"] = 
-        {
-            ["8796093077622069"] = 
-            {
-                ["$LastCharacterName"] = "noobwick",
-                ["LibSavedVars"] = 
-                {
-                    ["accountSavedVarsActive"] = true,
-                },
-                ["version"] = 20,
-            },
-            ["8796093076445407"] = 
-            {
-                ["$LastCharacterName"] = "noobkiss",
-                ["LibSavedVars"] = 
-                {
-                    ["accountSavedVarsActive"] = true,
-                },
-                ["version"] = 20,
-            },
-            ["8796093077130605"] = 
-            {
-                ["$LastCharacterName"] = "noobhugs",
-                ["LibSavedVars"] = 
-                {
-                    ["accountSavedVarsActive"] = true,
-                },
-                ["version"] = 20,
-            },
-            ["8796093078411849"] = 
-            {
-                ["$LastCharacterName"] = "noobpoobs",
-                ["LibSavedVars"] = 
-                {
-                    ["accountSavedVarsActive"] = true,
-                },
-                ["version"] = 20,
-            },
-            ["8796093077354797"] = 
-            {
-                ["$LastCharacterName"] = "noobsmell",
-                ["LibSavedVars"] = 
-                {
-                    ["accountSavedVarsActive"] = true,
-                },
-                ["version"] = 20,
-            },
-            ["8796093079602369"] = 
-            {
-                ["$LastCharacterName"] = "Zou Kimcheng",
-                ["LibSavedVars"] = 
-                {
-                    ["accountSavedVarsActive"] = true,
-                },
-                ["version"] = 20,
-            },
-            ["8796093077286759"] = 
-            {
-                ["$LastCharacterName"] = "Lumina Hoaying",
-                ["LibSavedVars"] = 
-                {
-                    ["accountSavedVarsActive"] = true,
-                },
-                ["version"] = 20,
-            },
-            ["8796093077280431"] = 
-            {
-                ["$LastCharacterName"] = "noobwink",
-                ["LibSavedVars"] = 
-                {
-                    ["accountSavedVarsActive"] = true,
-                },
-                ["version"] = 20,
-            },
-        },
         ["@Jonzouio"] = 
         {
             ["8796093077413993"] = 
             {
-                ["$LastCharacterName"] = "Jonzouio",
                 ["LibSavedVars"] = 
                 {
                     ["accountSavedVarsActive"] = true,
                 },
                 ["version"] = 20,
+                ["$LastCharacterName"] = "Jonzouio",
+            },
+        },
+        ["@noobkiss"] = 
+        {
+            ["8796093076445407"] = 
+            {
+                ["LibSavedVars"] = 
+                {
+                    ["accountSavedVarsActive"] = true,
+                },
+                ["version"] = 20,
+                ["$LastCharacterName"] = "noobkiss",
+            },
+            ["8796093077280431"] = 
+            {
+                ["LibSavedVars"] = 
+                {
+                    ["accountSavedVarsActive"] = true,
+                },
+                ["version"] = 20,
+                ["$LastCharacterName"] = "noobwink",
+            },
+            ["8796093077622069"] = 
+            {
+                ["LibSavedVars"] = 
+                {
+                    ["accountSavedVarsActive"] = true,
+                },
+                ["version"] = 20,
+                ["$LastCharacterName"] = "noobwick",
+            },
+            ["8796093077286759"] = 
+            {
+                ["LibSavedVars"] = 
+                {
+                    ["accountSavedVarsActive"] = true,
+                },
+                ["version"] = 20,
+                ["$LastCharacterName"] = "Lumina Hoaying",
+            },
+            ["8796093077130605"] = 
+            {
+                ["LibSavedVars"] = 
+                {
+                    ["accountSavedVarsActive"] = true,
+                },
+                ["version"] = 20,
+                ["$LastCharacterName"] = "noobhugs",
+            },
+            ["8796093077354797"] = 
+            {
+                ["LibSavedVars"] = 
+                {
+                    ["accountSavedVarsActive"] = true,
+                },
+                ["version"] = 20,
+                ["$LastCharacterName"] = "noobsmell",
+            },
+            ["8796093079602369"] = 
+            {
+                ["LibSavedVars"] = 
+                {
+                    ["accountSavedVarsActive"] = true,
+                },
+                ["version"] = 20,
+                ["$LastCharacterName"] = "Zou Kimcheng",
+            },
+            ["8796093078411849"] = 
+            {
+                ["LibSavedVars"] = 
+                {
+                    ["accountSavedVarsActive"] = true,
+                },
+                ["version"] = 20,
+                ["$LastCharacterName"] = "noobpoobs",
             },
         },
     },

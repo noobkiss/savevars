@@ -2,41 +2,158 @@ AltGroupFramesBuffTrackerSV =
 {
     ["Default"] = 
     {
+        ["@YYDS1214"] = 
+        {
+            ["8796093077181579"] = 
+            {
+                ["ENABLED"] = true,
+                ["BORDER_COLOR"] = 
+                {
+                    [4] = 1,
+                    [1] = 0.2000000000,
+                    [2] = 0.7500000000,
+                    [3] = 0.1500000000,
+                },
+                ["BORDER_AB_ID"] = 0,
+                ["TRACK"] = 
+                {
+                },
+                ["version"] = 4,
+                ["BORDER_THICK"] = 4,
+                ["$LastCharacterName"] = "A qiya",
+            },
+            ["8796093077181565"] = 
+            {
+                ["ENABLED"] = true,
+                ["BORDER_COLOR"] = 
+                {
+                    [4] = 1,
+                    [1] = 0.2000000000,
+                    [2] = 0.7500000000,
+                    [3] = 0.1500000000,
+                },
+                ["BORDER_AB_ID"] = 0,
+                ["TRACK"] = 
+                {
+                },
+                ["version"] = 4,
+                ["BORDER_THICK"] = 4,
+                ["$LastCharacterName"] = "Aqiya",
+            },
+            ["8796093077153837"] = 
+            {
+                ["ENABLED"] = true,
+                ["BORDER_COLOR"] = 
+                {
+                    [4] = 1,
+                    [1] = 0.2000000000,
+                    [2] = 0.7500000000,
+                    [3] = 0.1500000000,
+                },
+                ["BORDER_AB_ID"] = 0,
+                ["TRACK"] = 
+                {
+                },
+                ["version"] = 4,
+                ["BORDER_THICK"] = 4,
+                ["$LastCharacterName"] = "Yang Yyds",
+            },
+            ["8796093077595053"] = 
+            {
+                ["ENABLED"] = true,
+                ["BORDER_COLOR"] = 
+                {
+                    [4] = 1,
+                    [1] = 0.2000000000,
+                    [2] = 0.7500000000,
+                    [3] = 0.1500000000,
+                },
+                ["BORDER_AB_ID"] = 0,
+                ["TRACK"] = 
+                {
+                },
+                ["version"] = 4,
+                ["BORDER_THICK"] = 4,
+                ["$LastCharacterName"] = "aqi ya",
+            },
+            ["8796093077181587"] = 
+            {
+                ["ENABLED"] = true,
+                ["BORDER_COLOR"] = 
+                {
+                    [4] = 1,
+                    [1] = 0.2000000000,
+                    [2] = 0.7500000000,
+                    [3] = 0.1500000000,
+                },
+                ["BORDER_AB_ID"] = 0,
+                ["TRACK"] = 
+                {
+                },
+                ["version"] = 4,
+                ["BORDER_THICK"] = 4,
+                ["$LastCharacterName"] = "a qi ya",
+            },
+            ["8796093077616617"] = 
+            {
+                ["ENABLED"] = true,
+                ["BORDER_COLOR"] = 
+                {
+                    [4] = 1,
+                    [1] = 0.2000000000,
+                    [2] = 0.7500000000,
+                    [3] = 0.1500000000,
+                },
+                ["BORDER_AB_ID"] = 0,
+                ["TRACK"] = 
+                {
+                },
+                ["version"] = 4,
+                ["BORDER_THICK"] = 4,
+                ["$LastCharacterName"] = "shiaqi",
+            },
+            ["8796093077181623"] = 
+            {
+                ["ENABLED"] = true,
+                ["BORDER_COLOR"] = 
+                {
+                    [4] = 1,
+                    [1] = 0.2000000000,
+                    [2] = 0.7500000000,
+                    [3] = 0.1500000000,
+                },
+                ["BORDER_AB_ID"] = 0,
+                ["TRACK"] = 
+                {
+                },
+                ["version"] = 4,
+                ["BORDER_THICK"] = 4,
+                ["$LastCharacterName"] = "Aqi Yaa",
+            },
+            ["8796093077165965"] = 
+            {
+                ["ENABLED"] = true,
+                ["BORDER_COLOR"] = 
+                {
+                    [4] = 1,
+                    [1] = 0.2000000000,
+                    [2] = 0.7500000000,
+                    [3] = 0.1500000000,
+                },
+                ["BORDER_AB_ID"] = 0,
+                ["TRACK"] = 
+                {
+                },
+                ["version"] = 4,
+                ["BORDER_THICK"] = 4,
+                ["$LastCharacterName"] = "Junjunya",
+            },
+        },
         ["@Kankerkop"] = 
         {
-            ["8796093079748457"] = 
-            {
-                ["BORDER_THICK"] = 8,
-                ["BORDER_COLOR"] = 
-                {
-                    [4] = 1,
-                    [1] = 0.2000000000,
-                    [2] = 0.7500000000,
-                    [3] = 0.1500000000,
-                },
-                ["version"] = 4,
-                ["$LastCharacterName"] = "Kaaskop",
-                ["BORDER_AB_ID"] = 0,
-                ["TRACK"] = 
-                {
-                    [40224] = true,
-                    [61745] = true,
-                    [61747] = true,
-                    [38564] = true,
-                    [93109] = true,
-                    [61736] = true,
-                    [88490] = true,
-                    [61771] = true,
-                    [61708] = false,
-                    [61693] = false,
-                    [61694] = false,
-                    [61709] = false,
-                },
-                ["ENABLED"] = true,
-            },
             ["8796093078606003"] = 
             {
-                ["BORDER_THICK"] = 8,
+                ["ENABLED"] = true,
                 ["BORDER_COLOR"] = 
                 {
                     [4] = 1,
@@ -44,8 +161,6 @@ AltGroupFramesBuffTrackerSV =
                     [2] = 0.7500000000,
                     [3] = 0.1500000000,
                 },
-                ["version"] = 4,
-                ["$LastCharacterName"] = "Kankerkop",
                 ["BORDER_AB_ID"] = 0,
                 ["TRACK"] = 
                 {
@@ -62,236 +177,46 @@ AltGroupFramesBuffTrackerSV =
                     [61694] = false,
                     [61709] = false,
                 },
+                ["version"] = 4,
+                ["BORDER_THICK"] = 8,
+                ["$LastCharacterName"] = "Kankerkop",
+            },
+            ["8796093079748457"] = 
+            {
                 ["ENABLED"] = true,
+                ["BORDER_COLOR"] = 
+                {
+                    [4] = 1,
+                    [1] = 0.2000000000,
+                    [2] = 0.7500000000,
+                    [3] = 0.1500000000,
+                },
+                ["BORDER_AB_ID"] = 0,
+                ["TRACK"] = 
+                {
+                    [40224] = true,
+                    [61745] = true,
+                    [61747] = true,
+                    [38564] = true,
+                    [93109] = true,
+                    [61736] = true,
+                    [88490] = true,
+                    [61771] = true,
+                    [61708] = false,
+                    [61693] = false,
+                    [61694] = false,
+                    [61709] = false,
+                },
+                ["version"] = 4,
+                ["BORDER_THICK"] = 8,
+                ["$LastCharacterName"] = "Kaaskop",
             },
         },
         ["@noobkiss"] = 
         {
-            ["8796093077622069"] = 
-            {
-                ["BORDER_THICK"] = 4,
-                ["BORDER_COLOR"] = 
-                {
-                    [4] = 1,
-                    [1] = 0.2000000000,
-                    [2] = 0.7500000000,
-                    [3] = 0.1500000000,
-                },
-                ["version"] = 4,
-                ["$LastCharacterName"] = "noobwick",
-                ["BORDER_AB_ID"] = 0,
-                ["TRACK"] = 
-                {
-                },
-                ["ENABLED"] = true,
-            },
-            ["8796093077546265"] = 
-            {
-                ["BORDER_THICK"] = 8,
-                ["BORDER_COLOR"] = 
-                {
-                    [4] = 1,
-                    [1] = 0.2000000000,
-                    [2] = 0.7500000000,
-                    [3] = 0.1500000000,
-                },
-                ["version"] = 4,
-                ["$LastCharacterName"] = "Galen Chef Mike",
-                ["BORDER_AB_ID"] = 0,
-                ["TRACK"] = 
-                {
-                    [40224] = true,
-                    [61745] = true,
-                    [61747] = true,
-                    [38564] = true,
-                    [93109] = true,
-                    [61736] = true,
-                    [88490] = true,
-                    [61771] = true,
-                    [61708] = false,
-                    [61693] = false,
-                    [61694] = false,
-                    [61709] = false,
-                },
-                ["ENABLED"] = true,
-            },
-            ["8796093080474427"] = 
-            {
-                ["BORDER_THICK"] = 4,
-                ["BORDER_COLOR"] = 
-                {
-                    [4] = 1,
-                    [1] = 0.2000000000,
-                    [2] = 0.7500000000,
-                    [3] = 0.1500000000,
-                },
-                ["version"] = 4,
-                ["$LastCharacterName"] = "Vex Vex Loop",
-                ["BORDER_AB_ID"] = 0,
-                ["TRACK"] = 
-                {
-                },
-                ["ENABLED"] = true,
-            },
-            ["8796093077286759"] = 
-            {
-                ["BORDER_THICK"] = 8,
-                ["BORDER_COLOR"] = 
-                {
-                    [4] = 1,
-                    [1] = 0.2000000000,
-                    [2] = 0.7500000000,
-                    [3] = 0.1500000000,
-                },
-                ["version"] = 4,
-                ["$LastCharacterName"] = "Lumina Hoaying",
-                ["BORDER_AB_ID"] = 0,
-                ["TRACK"] = 
-                {
-                    [40224] = true,
-                    [61745] = true,
-                    [61747] = true,
-                    [38564] = true,
-                    [93109] = true,
-                    [61736] = true,
-                    [88490] = true,
-                    [61771] = true,
-                    [61708] = false,
-                    [61693] = false,
-                    [61694] = false,
-                    [61709] = false,
-                },
-                ["ENABLED"] = true,
-            },
-            ["8796093078078769"] = 
-            {
-                ["BORDER_THICK"] = 8,
-                ["BORDER_COLOR"] = 
-                {
-                    [4] = 1,
-                    [1] = 0.2000000000,
-                    [2] = 0.7500000000,
-                    [3] = 0.1500000000,
-                },
-                ["version"] = 4,
-                ["$LastCharacterName"] = "noobmiss",
-                ["BORDER_AB_ID"] = 0,
-                ["TRACK"] = 
-                {
-                    [40224] = true,
-                    [61745] = true,
-                    [61747] = true,
-                    [38564] = true,
-                    [93109] = true,
-                    [61736] = true,
-                    [88490] = true,
-                    [61771] = true,
-                    [61708] = false,
-                    [61693] = false,
-                    [61694] = false,
-                    [61709] = false,
-                },
-                ["ENABLED"] = true,
-            },
-            ["8796093080564143"] = 
-            {
-                ["BORDER_THICK"] = 4,
-                ["BORDER_COLOR"] = 
-                {
-                    [4] = 1,
-                    [1] = 0.2000000000,
-                    [2] = 0.7500000000,
-                    [3] = 0.1500000000,
-                },
-                ["version"] = 4,
-                ["$LastCharacterName"] = "Wasted Wasted",
-                ["BORDER_AB_ID"] = 0,
-                ["TRACK"] = 
-                {
-                },
-                ["ENABLED"] = true,
-            },
-            ["8796093077280363"] = 
-            {
-                ["BORDER_THICK"] = 8,
-                ["BORDER_COLOR"] = 
-                {
-                    [4] = 1,
-                    [1] = 0.2000000000,
-                    [2] = 0.7500000000,
-                    [3] = 0.1500000000,
-                },
-                ["version"] = 4,
-                ["$LastCharacterName"] = "noobsmile",
-                ["BORDER_AB_ID"] = 0,
-                ["TRACK"] = 
-                {
-                    [40224] = true,
-                    [61745] = true,
-                    [61747] = true,
-                    [38564] = true,
-                    [93109] = true,
-                    [61736] = true,
-                    [88490] = true,
-                    [61771] = true,
-                    [61708] = false,
-                    [61693] = false,
-                    [61694] = false,
-                    [61709] = false,
-                },
-                ["ENABLED"] = true,
-            },
-            ["8796093077338611"] = 
-            {
-                ["BORDER_THICK"] = 8,
-                ["BORDER_COLOR"] = 
-                {
-                    [4] = 1,
-                    [1] = 0.2000000000,
-                    [2] = 0.7500000000,
-                    [3] = 0.1500000000,
-                },
-                ["version"] = 4,
-                ["$LastCharacterName"] = "noobsimper",
-                ["BORDER_AB_ID"] = 0,
-                ["TRACK"] = 
-                {
-                    [40224] = true,
-                    [61745] = true,
-                    [61747] = true,
-                    [38564] = true,
-                    [93109] = true,
-                    [61736] = true,
-                    [88490] = true,
-                    [61771] = true,
-                    [61708] = false,
-                    [61693] = false,
-                    [61694] = false,
-                    [61709] = false,
-                },
-                ["ENABLED"] = true,
-            },
-            ["8798292100191884"] = 
-            {
-                ["BORDER_THICK"] = 4,
-                ["BORDER_COLOR"] = 
-                {
-                    [4] = 1,
-                    [1] = 0.2000000000,
-                    [2] = 0.7500000000,
-                    [3] = 0.1500000000,
-                },
-                ["version"] = 4,
-                ["$LastCharacterName"] = "noobkiss",
-                ["BORDER_AB_ID"] = 0,
-                ["TRACK"] = 
-                {
-                },
-                ["ENABLED"] = true,
-            },
             ["8796093077575525"] = 
             {
-                ["BORDER_THICK"] = 8,
+                ["ENABLED"] = true,
                 ["BORDER_COLOR"] = 
                 {
                     [4] = 1,
@@ -299,77 +224,29 @@ AltGroupFramesBuffTrackerSV =
                     [2] = 0.7500000000,
                     [3] = 0.1500000000,
                 },
+                ["BORDER_AB_ID"] = 0,
+                ["TRACK"] = 
+                {
+                    [40224] = true,
+                    [61745] = true,
+                    [61747] = true,
+                    [38564] = true,
+                    [93109] = true,
+                    [61736] = true,
+                    [88490] = true,
+                    [61771] = true,
+                    [61708] = false,
+                    [61693] = false,
+                    [61694] = false,
+                    [61709] = false,
+                },
                 ["version"] = 4,
+                ["BORDER_THICK"] = 8,
                 ["$LastCharacterName"] = "Joyous Socks",
-                ["BORDER_AB_ID"] = 0,
-                ["TRACK"] = 
-                {
-                    [40224] = true,
-                    [61745] = true,
-                    [61747] = true,
-                    [38564] = true,
-                    [93109] = true,
-                    [61736] = true,
-                    [88490] = true,
-                    [61771] = true,
-                    [61708] = false,
-                    [61693] = false,
-                    [61694] = false,
-                    [61709] = false,
-                },
-                ["ENABLED"] = true,
-            },
-            ["8796093077280469"] = 
-            {
-                ["BORDER_THICK"] = 4,
-                ["BORDER_COLOR"] = 
-                {
-                    [4] = 1,
-                    [1] = 0.2000000000,
-                    [2] = 0.7500000000,
-                    [3] = 0.1500000000,
-                },
-                ["version"] = 4,
-                ["$LastCharacterName"] = "noobxoxo",
-                ["BORDER_AB_ID"] = 0,
-                ["TRACK"] = 
-                {
-                },
-                ["ENABLED"] = true,
-            },
-            ["8796093077976825"] = 
-            {
-                ["BORDER_THICK"] = 8,
-                ["BORDER_COLOR"] = 
-                {
-                    [4] = 1,
-                    [1] = 0.2000000000,
-                    [2] = 0.7500000000,
-                    [3] = 0.1500000000,
-                },
-                ["version"] = 4,
-                ["$LastCharacterName"] = "Sunken Feb",
-                ["BORDER_AB_ID"] = 0,
-                ["TRACK"] = 
-                {
-                    [40224] = true,
-                    [61745] = true,
-                    [61747] = true,
-                    [38564] = true,
-                    [93109] = true,
-                    [61736] = true,
-                    [88490] = true,
-                    [61771] = true,
-                    [61708] = false,
-                    [61693] = false,
-                    [61694] = false,
-                    [61709] = false,
-                },
-                ["ENABLED"] = true,
             },
             ["8796093077575729"] = 
             {
-                ["BORDER_THICK"] = 8,
+                ["ENABLED"] = true,
                 ["BORDER_COLOR"] = 
                 {
                     [4] = 1,
@@ -377,59 +254,29 @@ AltGroupFramesBuffTrackerSV =
                     [2] = 0.7500000000,
                     [3] = 0.1500000000,
                 },
+                ["BORDER_AB_ID"] = 0,
+                ["TRACK"] = 
+                {
+                    [40224] = true,
+                    [61745] = true,
+                    [61747] = true,
+                    [38564] = true,
+                    [93109] = true,
+                    [61736] = true,
+                    [88490] = true,
+                    [61771] = true,
+                    [61708] = false,
+                    [61693] = false,
+                    [61694] = false,
+                    [61709] = false,
+                },
                 ["version"] = 4,
+                ["BORDER_THICK"] = 8,
                 ["$LastCharacterName"] = "noobwick",
-                ["BORDER_AB_ID"] = 0,
-                ["TRACK"] = 
-                {
-                    [40224] = true,
-                    [61745] = true,
-                    [61747] = true,
-                    [38564] = true,
-                    [93109] = true,
-                    [61736] = true,
-                    [88490] = true,
-                    [61771] = true,
-                    [61708] = false,
-                    [61693] = false,
-                    [61694] = false,
-                    [61709] = false,
-                },
-                ["ENABLED"] = true,
-            },
-            ["8796093076445407"] = 
-            {
-                ["BORDER_THICK"] = 8,
-                ["BORDER_COLOR"] = 
-                {
-                    [4] = 1,
-                    [1] = 0.2000000000,
-                    [2] = 0.7500000000,
-                    [3] = 0.1500000000,
-                },
-                ["version"] = 4,
-                ["$LastCharacterName"] = "noobkiss",
-                ["BORDER_AB_ID"] = 0,
-                ["TRACK"] = 
-                {
-                    [40224] = true,
-                    [61745] = true,
-                    [61747] = true,
-                    [38564] = true,
-                    [93109] = true,
-                    [61736] = true,
-                    [88490] = true,
-                    [61771] = true,
-                    [61708] = false,
-                    [61693] = false,
-                    [61694] = false,
-                    [61709] = false,
-                },
-                ["ENABLED"] = true,
             },
             ["8796093080650625"] = 
             {
-                ["BORDER_THICK"] = 4,
+                ["ENABLED"] = true,
                 ["BORDER_COLOR"] = 
                 {
                     [4] = 1,
@@ -437,17 +284,17 @@ AltGroupFramesBuffTrackerSV =
                     [2] = 0.7500000000,
                     [3] = 0.1500000000,
                 },
-                ["version"] = 4,
-                ["$LastCharacterName"] = "Flawed Mangoes",
                 ["BORDER_AB_ID"] = 0,
                 ["TRACK"] = 
                 {
                 },
-                ["ENABLED"] = true,
+                ["version"] = 4,
+                ["BORDER_THICK"] = 4,
+                ["$LastCharacterName"] = "Flawed Mangoes",
             },
-            ["8796093077142221"] = 
+            ["8796093077977317"] = 
             {
-                ["BORDER_THICK"] = 8,
+                ["ENABLED"] = true,
                 ["BORDER_COLOR"] = 
                 {
                     [4] = 1,
@@ -455,8 +302,6 @@ AltGroupFramesBuffTrackerSV =
                     [2] = 0.7500000000,
                     [3] = 0.1500000000,
                 },
-                ["version"] = 4,
-                ["$LastCharacterName"] = "noobxoxo",
                 ["BORDER_AB_ID"] = 0,
                 ["TRACK"] = 
                 {
@@ -473,11 +318,13 @@ AltGroupFramesBuffTrackerSV =
                     [61694] = false,
                     [61709] = false,
                 },
-                ["ENABLED"] = true,
-            },
-            ["8796093077354797"] = 
-            {
+                ["version"] = 4,
                 ["BORDER_THICK"] = 8,
+                ["$LastCharacterName"] = "Simmy Seek Snow",
+            },
+            ["8796093077286887"] = 
+            {
+                ["ENABLED"] = true,
                 ["BORDER_COLOR"] = 
                 {
                     [4] = 1,
@@ -485,8 +332,6 @@ AltGroupFramesBuffTrackerSV =
                     [2] = 0.7500000000,
                     [3] = 0.1500000000,
                 },
-                ["version"] = 4,
-                ["$LastCharacterName"] = "noobsmell",
                 ["BORDER_AB_ID"] = 0,
                 ["TRACK"] = 
                 {
@@ -495,7 +340,37 @@ AltGroupFramesBuffTrackerSV =
                     [61747] = true,
                     [38564] = true,
                     [93109] = true,
-                    [61744] = false,
+                    [61736] = true,
+                    [88490] = true,
+                    [61771] = true,
+                    [61708] = false,
+                    [61693] = false,
+                    [61694] = false,
+                    [61709] = false,
+                },
+                ["version"] = 4,
+                ["BORDER_THICK"] = 8,
+                ["$LastCharacterName"] = "noobhappy",
+            },
+            ["8796093077354797"] = 
+            {
+                ["ENABLED"] = true,
+                ["BORDER_COLOR"] = 
+                {
+                    [4] = 1,
+                    [1] = 0.2000000000,
+                    [2] = 0.7500000000,
+                    [3] = 0.1500000000,
+                },
+                ["BORDER_AB_ID"] = 0,
+                ["TRACK"] = 
+                {
+                    [40224] = true,
+                    [61745] = true,
+                    [61747] = true,
+                    [38564] = true,
+                    [93109] = true,
+                    [61693] = false,
                     [61736] = true,
                     [147417] = true,
                     [88490] = true,
@@ -503,13 +378,15 @@ AltGroupFramesBuffTrackerSV =
                     [61708] = false,
                     [61709] = false,
                     [61694] = true,
-                    [61693] = false,
+                    [61744] = false,
                 },
-                ["ENABLED"] = true,
-            },
-            ["8796093079602369"] = 
-            {
+                ["version"] = 4,
                 ["BORDER_THICK"] = 8,
+                ["$LastCharacterName"] = "noobsmell",
+            },
+            ["8796093077976825"] = 
+            {
+                ["ENABLED"] = true,
                 ["BORDER_COLOR"] = 
                 {
                     [4] = 1,
@@ -517,8 +394,6 @@ AltGroupFramesBuffTrackerSV =
                     [2] = 0.7500000000,
                     [3] = 0.1500000000,
                 },
-                ["version"] = 4,
-                ["$LastCharacterName"] = "Zou Kimcheng",
                 ["BORDER_AB_ID"] = 0,
                 ["TRACK"] = 
                 {
@@ -527,21 +402,21 @@ AltGroupFramesBuffTrackerSV =
                     [61747] = true,
                     [38564] = true,
                     [93109] = true,
-                    [61709] = false,
                     [61736] = true,
-                    [61694] = true,
-                    [88490] = false,
+                    [88490] = true,
                     [61771] = true,
                     [61708] = false,
                     [61693] = false,
-                    [109966] = true,
-                    [61744] = false,
+                    [61694] = false,
+                    [61709] = false,
                 },
-                ["ENABLED"] = true,
+                ["version"] = 4,
+                ["BORDER_THICK"] = 8,
+                ["$LastCharacterName"] = "Sunken Feb",
             },
             ["8796093078739949"] = 
             {
-                ["BORDER_THICK"] = 8,
+                ["ENABLED"] = true,
                 ["BORDER_COLOR"] = 
                 {
                     [4] = 1,
@@ -549,8 +424,36 @@ AltGroupFramesBuffTrackerSV =
                     [2] = 0.7500000000,
                     [3] = 0.1500000000,
                 },
+                ["BORDER_AB_ID"] = 0,
+                ["TRACK"] = 
+                {
+                    [40224] = true,
+                    [61745] = true,
+                    [61747] = true,
+                    [38564] = true,
+                    [93109] = true,
+                    [61736] = true,
+                    [88490] = true,
+                    [61771] = true,
+                    [61708] = false,
+                    [61693] = false,
+                    [61694] = false,
+                    [61709] = false,
+                },
                 ["version"] = 4,
+                ["BORDER_THICK"] = 8,
                 ["$LastCharacterName"] = "noobbomb",
+            },
+            ["8796093076445407"] = 
+            {
+                ["ENABLED"] = true,
+                ["BORDER_COLOR"] = 
+                {
+                    [4] = 1,
+                    [1] = 0.2000000000,
+                    [2] = 0.7500000000,
+                    [3] = 0.1500000000,
+                },
                 ["BORDER_AB_ID"] = 0,
                 ["TRACK"] = 
                 {
@@ -567,11 +470,13 @@ AltGroupFramesBuffTrackerSV =
                     [61694] = false,
                     [61709] = false,
                 },
-                ["ENABLED"] = true,
-            },
-            ["8796093077286887"] = 
-            {
+                ["version"] = 4,
                 ["BORDER_THICK"] = 8,
+                ["$LastCharacterName"] = "noobkiss",
+            },
+            ["8796093077546265"] = 
+            {
+                ["ENABLED"] = true,
                 ["BORDER_COLOR"] = 
                 {
                     [4] = 1,
@@ -579,8 +484,6 @@ AltGroupFramesBuffTrackerSV =
                     [2] = 0.7500000000,
                     [3] = 0.1500000000,
                 },
-                ["version"] = 4,
-                ["$LastCharacterName"] = "noobhappy",
                 ["BORDER_AB_ID"] = 0,
                 ["TRACK"] = 
                 {
@@ -597,167 +500,13 @@ AltGroupFramesBuffTrackerSV =
                     [61694] = false,
                     [61709] = false,
                 },
-                ["ENABLED"] = true,
-            },
-            ["8796093080474203"] = 
-            {
-                ["BORDER_THICK"] = 4,
-                ["BORDER_COLOR"] = 
-                {
-                    [4] = 1,
-                    [1] = 0.2000000000,
-                    [2] = 0.7500000000,
-                    [3] = 0.1500000000,
-                },
                 ["version"] = 4,
-                ["$LastCharacterName"] = "Dizzy Dizzo",
-                ["BORDER_AB_ID"] = 0,
-                ["TRACK"] = 
-                {
-                },
-                ["ENABLED"] = true,
-            },
-            ["8796093077280431"] = 
-            {
                 ["BORDER_THICK"] = 8,
-                ["BORDER_COLOR"] = 
-                {
-                    [4] = 1,
-                    [1] = 0.2000000000,
-                    [2] = 0.7500000000,
-                    [3] = 0.1500000000,
-                },
-                ["version"] = 4,
-                ["$LastCharacterName"] = "noobwink",
-                ["BORDER_AB_ID"] = 0,
-                ["TRACK"] = 
-                {
-                    [40224] = true,
-                    [61745] = true,
-                    [61747] = true,
-                    [38564] = true,
-                    [93109] = true,
-                    [61736] = true,
-                    [88490] = true,
-                    [61771] = true,
-                    [61708] = false,
-                    [61693] = false,
-                    [61694] = false,
-                    [61709] = false,
-                },
-                ["ENABLED"] = true,
-            },
-            ["8796093077130605"] = 
-            {
-                ["BORDER_THICK"] = 8,
-                ["BORDER_COLOR"] = 
-                {
-                    [4] = 1,
-                    [1] = 0.2000000000,
-                    [2] = 0.7500000000,
-                    [3] = 0.1500000000,
-                },
-                ["version"] = 4,
-                ["$LastCharacterName"] = "noobhugs",
-                ["BORDER_AB_ID"] = 0,
-                ["TRACK"] = 
-                {
-                    [40224] = true,
-                    [61745] = true,
-                    [61747] = true,
-                    [38564] = true,
-                    [93109] = true,
-                    [61736] = true,
-                    [88490] = true,
-                    [61771] = true,
-                    [61708] = false,
-                    [61693] = false,
-                    [61694] = false,
-                    [61709] = false,
-                },
-                ["ENABLED"] = true,
-            },
-            ["8796093078411849"] = 
-            {
-                ["BORDER_THICK"] = 8,
-                ["BORDER_COLOR"] = 
-                {
-                    [4] = 1,
-                    [1] = 0.2000000000,
-                    [2] = 0.7500000000,
-                    [3] = 0.1500000000,
-                },
-                ["version"] = 4,
-                ["$LastCharacterName"] = "Young Ming",
-                ["BORDER_AB_ID"] = 0,
-                ["TRACK"] = 
-                {
-                    [40224] = true,
-                    [61745] = true,
-                    [61747] = true,
-                    [38564] = true,
-                    [93109] = true,
-                    [61736] = true,
-                    [88490] = true,
-                    [61771] = true,
-                    [61708] = false,
-                    [61693] = false,
-                    [61694] = false,
-                    [61709] = false,
-                },
-                ["ENABLED"] = true,
-            },
-            ["8796093080475359"] = 
-            {
-                ["BORDER_THICK"] = 4,
-                ["BORDER_COLOR"] = 
-                {
-                    [4] = 1,
-                    [1] = 0.2000000000,
-                    [2] = 0.7500000000,
-                    [3] = 0.1500000000,
-                },
-                ["version"] = 4,
-                ["$LastCharacterName"] = "Hymn Hemy",
-                ["BORDER_AB_ID"] = 0,
-                ["TRACK"] = 
-                {
-                },
-                ["ENABLED"] = true,
-            },
-            ["8796093077977575"] = 
-            {
-                ["BORDER_THICK"] = 8,
-                ["BORDER_COLOR"] = 
-                {
-                    [4] = 1,
-                    [1] = 0.2000000000,
-                    [2] = 0.7500000000,
-                    [3] = 0.1500000000,
-                },
-                ["version"] = 4,
-                ["$LastCharacterName"] = "Killswitch Memories",
-                ["BORDER_AB_ID"] = 0,
-                ["TRACK"] = 
-                {
-                    [40224] = true,
-                    [61745] = true,
-                    [61747] = true,
-                    [38564] = true,
-                    [93109] = true,
-                    [61736] = true,
-                    [88490] = true,
-                    [61771] = true,
-                    [61708] = false,
-                    [61693] = false,
-                    [61694] = false,
-                    [61709] = false,
-                },
-                ["ENABLED"] = true,
+                ["$LastCharacterName"] = "Galen Chef Mike",
             },
             ["8796093080564087"] = 
             {
-                ["BORDER_THICK"] = 4,
+                ["ENABLED"] = true,
                 ["BORDER_COLOR"] = 
                 {
                     [4] = 1,
@@ -765,17 +514,17 @@ AltGroupFramesBuffTrackerSV =
                     [2] = 0.7500000000,
                     [3] = 0.1500000000,
                 },
-                ["version"] = 4,
-                ["$LastCharacterName"] = "Wasted Wasted",
                 ["BORDER_AB_ID"] = 0,
                 ["TRACK"] = 
                 {
                 },
-                ["ENABLED"] = true,
+                ["version"] = 4,
+                ["BORDER_THICK"] = 4,
+                ["$LastCharacterName"] = "Wasted Wasted",
             },
-            ["8796093077977317"] = 
+            ["8798292100191884"] = 
             {
-                ["BORDER_THICK"] = 8,
+                ["ENABLED"] = true,
                 ["BORDER_COLOR"] = 
                 {
                     [4] = 1,
@@ -783,8 +532,92 @@ AltGroupFramesBuffTrackerSV =
                     [2] = 0.7500000000,
                     [3] = 0.1500000000,
                 },
+                ["BORDER_AB_ID"] = 0,
+                ["TRACK"] = 
+                {
+                },
                 ["version"] = 4,
-                ["$LastCharacterName"] = "Simmy Seek Snow",
+                ["BORDER_THICK"] = 4,
+                ["$LastCharacterName"] = "noobkiss",
+            },
+            ["8796093079602369"] = 
+            {
+                ["ENABLED"] = true,
+                ["BORDER_COLOR"] = 
+                {
+                    [4] = 1,
+                    [1] = 0.2000000000,
+                    [2] = 0.7500000000,
+                    [3] = 0.1500000000,
+                },
+                ["BORDER_AB_ID"] = 0,
+                ["TRACK"] = 
+                {
+                    [40224] = true,
+                    [61745] = true,
+                    [61747] = true,
+                    [38564] = true,
+                    [93109] = true,
+                    [61744] = false,
+                    [61736] = true,
+                    [109966] = true,
+                    [88490] = false,
+                    [61771] = true,
+                    [61708] = false,
+                    [61709] = false,
+                    [61694] = true,
+                    [61693] = false,
+                },
+                ["version"] = 4,
+                ["BORDER_THICK"] = 8,
+                ["$LastCharacterName"] = "Zou Kimcheng",
+            },
+            ["8796093080475359"] = 
+            {
+                ["ENABLED"] = true,
+                ["BORDER_COLOR"] = 
+                {
+                    [4] = 1,
+                    [1] = 0.2000000000,
+                    [2] = 0.7500000000,
+                    [3] = 0.1500000000,
+                },
+                ["BORDER_AB_ID"] = 0,
+                ["TRACK"] = 
+                {
+                },
+                ["version"] = 4,
+                ["BORDER_THICK"] = 4,
+                ["$LastCharacterName"] = "Hymn Hemy",
+            },
+            ["8796093080564143"] = 
+            {
+                ["ENABLED"] = true,
+                ["BORDER_COLOR"] = 
+                {
+                    [4] = 1,
+                    [1] = 0.2000000000,
+                    [2] = 0.7500000000,
+                    [3] = 0.1500000000,
+                },
+                ["BORDER_AB_ID"] = 0,
+                ["TRACK"] = 
+                {
+                },
+                ["version"] = 4,
+                ["BORDER_THICK"] = 4,
+                ["$LastCharacterName"] = "Wasted Wasted",
+            },
+            ["8796093077286759"] = 
+            {
+                ["ENABLED"] = true,
+                ["BORDER_COLOR"] = 
+                {
+                    [4] = 1,
+                    [1] = 0.2000000000,
+                    [2] = 0.7500000000,
+                    [3] = 0.1500000000,
+                },
                 ["BORDER_AB_ID"] = 0,
                 ["TRACK"] = 
                 {
@@ -801,14 +634,13 @@ AltGroupFramesBuffTrackerSV =
                     [61694] = false,
                     [61709] = false,
                 },
-                ["ENABLED"] = true,
+                ["version"] = 4,
+                ["BORDER_THICK"] = 8,
+                ["$LastCharacterName"] = "Lumina Hoaying",
             },
-        },
-        ["@YYDS1214"] = 
-        {
-            ["8796093077181565"] = 
+            ["8796093077130605"] = 
             {
-                ["BORDER_THICK"] = 4,
+                ["ENABLED"] = true,
                 ["BORDER_COLOR"] = 
                 {
                     [4] = 1,
@@ -816,17 +648,29 @@ AltGroupFramesBuffTrackerSV =
                     [2] = 0.7500000000,
                     [3] = 0.1500000000,
                 },
-                ["version"] = 4,
-                ["$LastCharacterName"] = "Aqiya",
                 ["BORDER_AB_ID"] = 0,
                 ["TRACK"] = 
                 {
+                    [40224] = true,
+                    [61745] = true,
+                    [61747] = true,
+                    [38564] = true,
+                    [93109] = true,
+                    [61736] = true,
+                    [88490] = true,
+                    [61771] = true,
+                    [61708] = false,
+                    [61693] = false,
+                    [61694] = false,
+                    [61709] = false,
                 },
-                ["ENABLED"] = true,
+                ["version"] = 4,
+                ["BORDER_THICK"] = 8,
+                ["$LastCharacterName"] = "noobhugs",
             },
-            ["8796093077165965"] = 
+            ["8796093078078769"] = 
             {
-                ["BORDER_THICK"] = 4,
+                ["ENABLED"] = true,
                 ["BORDER_COLOR"] = 
                 {
                     [4] = 1,
@@ -834,17 +678,29 @@ AltGroupFramesBuffTrackerSV =
                     [2] = 0.7500000000,
                     [3] = 0.1500000000,
                 },
-                ["version"] = 4,
-                ["$LastCharacterName"] = "Junjunya",
                 ["BORDER_AB_ID"] = 0,
                 ["TRACK"] = 
                 {
+                    [40224] = true,
+                    [61745] = true,
+                    [61747] = true,
+                    [38564] = true,
+                    [93109] = true,
+                    [61736] = true,
+                    [88490] = true,
+                    [61771] = true,
+                    [61708] = false,
+                    [61693] = false,
+                    [61694] = false,
+                    [61709] = false,
                 },
-                ["ENABLED"] = true,
+                ["version"] = 4,
+                ["BORDER_THICK"] = 8,
+                ["$LastCharacterName"] = "noobmiss",
             },
-            ["8796093077181579"] = 
+            ["8796093080474203"] = 
             {
-                ["BORDER_THICK"] = 4,
+                ["ENABLED"] = true,
                 ["BORDER_COLOR"] = 
                 {
                     [4] = 1,
@@ -852,17 +708,17 @@ AltGroupFramesBuffTrackerSV =
                     [2] = 0.7500000000,
                     [3] = 0.1500000000,
                 },
-                ["version"] = 4,
-                ["$LastCharacterName"] = "A qiya",
                 ["BORDER_AB_ID"] = 0,
                 ["TRACK"] = 
                 {
                 },
-                ["ENABLED"] = true,
-            },
-            ["8796093077181587"] = 
-            {
+                ["version"] = 4,
                 ["BORDER_THICK"] = 4,
+                ["$LastCharacterName"] = "Dizzy Dizzo",
+            },
+            ["8796093077338611"] = 
+            {
+                ["ENABLED"] = true,
                 ["BORDER_COLOR"] = 
                 {
                     [4] = 1,
@@ -870,17 +726,29 @@ AltGroupFramesBuffTrackerSV =
                     [2] = 0.7500000000,
                     [3] = 0.1500000000,
                 },
-                ["version"] = 4,
-                ["$LastCharacterName"] = "a qi ya",
                 ["BORDER_AB_ID"] = 0,
                 ["TRACK"] = 
                 {
+                    [40224] = true,
+                    [61745] = true,
+                    [61747] = true,
+                    [38564] = true,
+                    [93109] = true,
+                    [61736] = true,
+                    [88490] = true,
+                    [61771] = true,
+                    [61708] = false,
+                    [61693] = false,
+                    [61694] = false,
+                    [61709] = false,
                 },
-                ["ENABLED"] = true,
+                ["version"] = 4,
+                ["BORDER_THICK"] = 8,
+                ["$LastCharacterName"] = "noobsimper",
             },
-            ["8796093077616617"] = 
+            ["8796093080474427"] = 
             {
-                ["BORDER_THICK"] = 4,
+                ["ENABLED"] = true,
                 ["BORDER_COLOR"] = 
                 {
                     [4] = 1,
@@ -888,17 +756,17 @@ AltGroupFramesBuffTrackerSV =
                     [2] = 0.7500000000,
                     [3] = 0.1500000000,
                 },
-                ["version"] = 4,
-                ["$LastCharacterName"] = "shiaqi",
                 ["BORDER_AB_ID"] = 0,
                 ["TRACK"] = 
                 {
                 },
-                ["ENABLED"] = true,
-            },
-            ["8796093077595053"] = 
-            {
+                ["version"] = 4,
                 ["BORDER_THICK"] = 4,
+                ["$LastCharacterName"] = "Vex Vex Loop",
+            },
+            ["8796093077280469"] = 
+            {
+                ["ENABLED"] = true,
                 ["BORDER_COLOR"] = 
                 {
                     [4] = 1,
@@ -906,17 +774,17 @@ AltGroupFramesBuffTrackerSV =
                     [2] = 0.7500000000,
                     [3] = 0.1500000000,
                 },
-                ["version"] = 4,
-                ["$LastCharacterName"] = "aqi ya",
                 ["BORDER_AB_ID"] = 0,
                 ["TRACK"] = 
                 {
                 },
-                ["ENABLED"] = true,
-            },
-            ["8796093077181623"] = 
-            {
+                ["version"] = 4,
                 ["BORDER_THICK"] = 4,
+                ["$LastCharacterName"] = "noobxoxo",
+            },
+            ["8796093078411849"] = 
+            {
+                ["ENABLED"] = true,
                 ["BORDER_COLOR"] = 
                 {
                     [4] = 1,
@@ -924,17 +792,29 @@ AltGroupFramesBuffTrackerSV =
                     [2] = 0.7500000000,
                     [3] = 0.1500000000,
                 },
-                ["version"] = 4,
-                ["$LastCharacterName"] = "Aqi Yaa",
                 ["BORDER_AB_ID"] = 0,
                 ["TRACK"] = 
                 {
+                    [40224] = true,
+                    [61745] = true,
+                    [61747] = true,
+                    [38564] = true,
+                    [93109] = true,
+                    [61736] = true,
+                    [88490] = true,
+                    [61771] = true,
+                    [61708] = false,
+                    [61693] = false,
+                    [61694] = false,
+                    [61709] = false,
                 },
-                ["ENABLED"] = true,
+                ["version"] = 4,
+                ["BORDER_THICK"] = 8,
+                ["$LastCharacterName"] = "Young Ming",
             },
-            ["8796093077153837"] = 
+            ["8796093077142221"] = 
             {
-                ["BORDER_THICK"] = 4,
+                ["ENABLED"] = true,
                 ["BORDER_COLOR"] = 
                 {
                     [4] = 1,
@@ -942,13 +822,133 @@ AltGroupFramesBuffTrackerSV =
                     [2] = 0.7500000000,
                     [3] = 0.1500000000,
                 },
+                ["BORDER_AB_ID"] = 0,
+                ["TRACK"] = 
+                {
+                    [40224] = true,
+                    [61745] = true,
+                    [61747] = true,
+                    [38564] = true,
+                    [93109] = true,
+                    [61736] = true,
+                    [88490] = true,
+                    [61771] = true,
+                    [61708] = false,
+                    [61693] = false,
+                    [61694] = false,
+                    [61709] = false,
+                },
                 ["version"] = 4,
-                ["$LastCharacterName"] = "Yang Yyds",
+                ["BORDER_THICK"] = 8,
+                ["$LastCharacterName"] = "noobxoxo",
+            },
+            ["8796093077977575"] = 
+            {
+                ["ENABLED"] = true,
+                ["BORDER_COLOR"] = 
+                {
+                    [4] = 1,
+                    [1] = 0.2000000000,
+                    [2] = 0.7500000000,
+                    [3] = 0.1500000000,
+                },
+                ["BORDER_AB_ID"] = 0,
+                ["TRACK"] = 
+                {
+                    [40224] = true,
+                    [61745] = true,
+                    [61747] = true,
+                    [38564] = true,
+                    [93109] = true,
+                    [61736] = true,
+                    [88490] = true,
+                    [61771] = true,
+                    [61708] = false,
+                    [61693] = false,
+                    [61694] = false,
+                    [61709] = false,
+                },
+                ["version"] = 4,
+                ["BORDER_THICK"] = 8,
+                ["$LastCharacterName"] = "Killswitch Memories",
+            },
+            ["8796093077280431"] = 
+            {
+                ["ENABLED"] = true,
+                ["BORDER_COLOR"] = 
+                {
+                    [4] = 1,
+                    [1] = 0.2000000000,
+                    [2] = 0.7500000000,
+                    [3] = 0.1500000000,
+                },
+                ["BORDER_AB_ID"] = 0,
+                ["TRACK"] = 
+                {
+                    [40224] = true,
+                    [61745] = true,
+                    [61747] = true,
+                    [38564] = true,
+                    [93109] = true,
+                    [61736] = true,
+                    [88490] = true,
+                    [61771] = true,
+                    [61708] = false,
+                    [61693] = false,
+                    [61694] = false,
+                    [61709] = false,
+                },
+                ["version"] = 4,
+                ["BORDER_THICK"] = 8,
+                ["$LastCharacterName"] = "noobwink",
+            },
+            ["8796093077622069"] = 
+            {
+                ["ENABLED"] = true,
+                ["BORDER_COLOR"] = 
+                {
+                    [4] = 1,
+                    [1] = 0.2000000000,
+                    [2] = 0.7500000000,
+                    [3] = 0.1500000000,
+                },
                 ["BORDER_AB_ID"] = 0,
                 ["TRACK"] = 
                 {
                 },
+                ["version"] = 4,
+                ["BORDER_THICK"] = 4,
+                ["$LastCharacterName"] = "noobwick",
+            },
+            ["8796093077280363"] = 
+            {
                 ["ENABLED"] = true,
+                ["BORDER_COLOR"] = 
+                {
+                    [4] = 1,
+                    [1] = 0.2000000000,
+                    [2] = 0.7500000000,
+                    [3] = 0.1500000000,
+                },
+                ["BORDER_AB_ID"] = 0,
+                ["TRACK"] = 
+                {
+                    [40224] = true,
+                    [61745] = true,
+                    [61747] = true,
+                    [38564] = true,
+                    [93109] = true,
+                    [61736] = true,
+                    [88490] = true,
+                    [61771] = true,
+                    [61708] = false,
+                    [61693] = false,
+                    [61694] = false,
+                    [61709] = false,
+                },
+                ["version"] = 4,
+                ["BORDER_THICK"] = 8,
+                ["$LastCharacterName"] = "noobsmile",
             },
         },
     },

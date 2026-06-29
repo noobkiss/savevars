@@ -2,2094 +2,712 @@ FONTACCESSIBILITY_DB =
 {
     ["Default"] = 
     {
-        ["@Kankerkop"] = 
-        {
-            ["$AccountWide"] = 
-            {
-                ["ZoFontWinH5"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 20,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontGamepadBookTabletTitle"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 48,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontEdit"] = 
-                {
-                    ["decoration"] = "shadow",
-                    ["size"] = 20,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontGameLarge"] = 
-                {
-                    ["decoration"] = "soft-shadow-thin",
-                    ["size"] = 20,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontGamepadBold61"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 50,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontGamepadBold20"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 20,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontGamepadHeaderDataValue"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 42,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontGamepadBookSkin"] = 
-                {
-                    ["decoration"] = "none",
-                    ["size"] = 20,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontGamepadBold42"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 42,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontCreditsHeader"] = 
-                {
-                    ["decoration"] = "none",
-                    ["size"] = 24,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontGamepad61"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 20,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontWinH1"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 30,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontBookPaperTitle"] = 
-                {
-                    ["decoration"] = "none",
-                    ["size"] = 30,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontBookRubbing"] = 
-                {
-                    ["decoration"] = "none",
-                    ["size"] = 20,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontGamepadCondensed61"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 61,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontHeader2"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 20,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontBookSkinTitle"] = 
-                {
-                    ["decoration"] = "none",
-                    ["size"] = 30,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontKeybindStripKey"] = 
-                {
-                    ["decoration"] = "soft-shadow-thin",
-                    ["size"] = 20,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontGameSmall"] = 
-                {
-                    ["decoration"] = "soft-shadow-thin",
-                    ["size"] = 12,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontGamepadBookTablet"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 30,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontCallout3"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 54,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontGamepadBookSkinTitle"] = 
-                {
-                    ["decoration"] = "none",
-                    ["size"] = 30,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontAnnounceNoShadow"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 36,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontGamepad25"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 25,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontCenterScreenAnnounceLarge"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 40,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontGameOutline"] = 
-                {
-                    ["decoration"] = "soft-shadow-thin",
-                    ["size"] = 20,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontGamepad42NoShadow"] = 
-                {
-                    ["decoration"] = "none",
-                    ["size"] = 42,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontGamepadBold36"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 36,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontGamepadCondensed45"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 45,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontDialogKeybindDescription"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 20,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontWinT1"] = 
-                {
-                    ["decoration"] = "soft-shadow-thin",
-                    ["size"] = 20,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontGamepad54"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 20,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontGamepadCondensed20"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 20,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontAnnounceLarge"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 36,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontGamepadBold25"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 25,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontBookLetter"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 20,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontHeader3"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 24,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontWinH4"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 20,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontBookScrollTitle"] = 
-                {
-                    ["decoration"] = "none",
-                    ["size"] = 34,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontGameMedium"] = 
-                {
-                    ["decoration"] = "soft-shadow-thin",
-                    ["size"] = 20,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontAlert"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 24,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontGamepadBookPaperTitle"] = 
-                {
-                    ["decoration"] = "none",
-                    ["size"] = 30,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontGamepadBold34"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 34,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontGame"] = 
-                {
-                    ["decoration"] = "soft-shadow-thin",
-                    ["size"] = 20,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontGamepadCondensed34"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 34,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontCreditsText"] = 
-                {
-                    ["decoration"] = "none",
-                    ["size"] = 20,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontTooltipSubtitle"] = 
-                {
-                    ["decoration"] = "none",
-                    ["size"] = 20,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontGamepad27NoShadow"] = 
-                {
-                    ["decoration"] = "none",
-                    ["size"] = 27,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["version"] = 1.6000000000,
-                ["ZoFontKeybindStripDescription"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 25,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontGamepad18"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 20,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontGamepadBold22"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 22,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontWinH2"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 24,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontCenterScreenAnnounceSmall"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 30,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontGameBold"] = 
-                {
-                    ["decoration"] = "soft-shadow-thin",
-                    ["size"] = 20,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontBookNoteTitle"] = 
-                {
-                    ["decoration"] = "none",
-                    ["size"] = 32,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontConversationName"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 28,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontGamepadCondensed18"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 20,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontGamepad27"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 27,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontGamepadEditChat"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 20,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontBookLetterTitle"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 30,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontGamepadBookNote"] = 
-                {
-                    ["decoration"] = "none",
-                    ["size"] = 22,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontBookTablet"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 30,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontGamepadCondensed36"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 36,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontWindowSubtitle"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 20,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontHeader"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 20,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontGamepad22"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 22,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontCallout"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 36,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontConversationText"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 24,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontTooltipTitle"] = 
-                {
-                    ["decoration"] = "none",
-                    ["size"] = 22,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontGamepadBookRubbingTitle"] = 
-                {
-                    ["decoration"] = "none",
-                    ["size"] = 30,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontHeader4"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 26,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontGamepad42"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 42,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontGamepadBookScroll"] = 
-                {
-                    ["decoration"] = "none",
-                    ["size"] = 26,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontWinT2"] = 
-                {
-                    ["decoration"] = "soft-shadow-thin",
-                    ["size"] = 20,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontConversationQuestReward"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 20,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontGamepadBookScrollTitle"] = 
-                {
-                    ["decoration"] = "none",
-                    ["size"] = 34,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontGameLargeBoldShadow"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 20,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontGamepadBookPaper"] = 
-                {
-                    ["decoration"] = "none",
-                    ["size"] = 20,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontGamepadBold45"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 45,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontEditChat"] = 
-                {
-                    ["decoration"] = "shadow",
-                    ["size"] = 20,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontGamepadBookLetterTitle"] = 
-                {
-                    ["decoration"] = "none",
-                    ["size"] = 30,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontGamepadChat"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 20,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontGamepadCondensed25"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 25,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontWinH3"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 20,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontGamepadBookRubbing"] = 
-                {
-                    ["decoration"] = "none",
-                    ["size"] = 20,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontGamepad36"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 36,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontGamepadBold18"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 20,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontGamepad34"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 34,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontGamepadCondensed27"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 27,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontAnnounce"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 28,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontBookScroll"] = 
-                {
-                    ["decoration"] = "none",
-                    ["size"] = 26,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontGamepadBookNoteTitle"] = 
-                {
-                    ["decoration"] = "none",
-                    ["size"] = 32,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontWindowTitle"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 30,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontGamepadCondensed22"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 22,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontGamepadBold54"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 50,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontGamepad45"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 45,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontGameLargeBold"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 20,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoInteractionPrompt"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 24,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontAnnounceMedium"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 24,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontBookPaper"] = 
-                {
-                    ["decoration"] = "none",
-                    ["size"] = 20,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontCallout2"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 48,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontGamepadBold27"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 27,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontGameShadow"] = 
-                {
-                    ["decoration"] = "soft-shadow-thin",
-                    ["size"] = 20,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontBookSkin"] = 
-                {
-                    ["decoration"] = "none",
-                    ["size"] = 20,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontGamepadBookLetter"] = 
-                {
-                    ["decoration"] = "none",
-                    ["size"] = 20,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontChat"] = 
-                {
-                    ["decoration"] = "soft-shadow-thin",
-                    ["size"] = 20,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontGamepadCondensed54"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 54,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontBookTabletTitle"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 48,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontBookNote"] = 
-                {
-                    ["decoration"] = "none",
-                    ["size"] = 22,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontConversationOption"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 22,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontAnnounceMessage"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 24,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontGamepad20"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 20,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontBookRubbingTitle"] = 
-                {
-                    ["decoration"] = "none",
-                    ["size"] = 30,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontGamepadCondensed42"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 42,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontHeaderNoShadow"] = 
-                {
-                    ["decoration"] = "none",
-                    ["size"] = 20,
-                    ["face"] = "ZH-StdFont",
-                },
-            },
-        },
         ["@noobkiss"] = 
         {
             ["$AccountWide"] = 
             {
-                ["ZoFontWinH5"] = 
+                ["ZoFontGame"] = 
                 {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 20,
                     ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontGamepadBold25"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 25,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontEdit"] = 
-                {
-                    ["decoration"] = "shadow",
-                    ["size"] = 20,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontGameLarge"] = 
-                {
                     ["decoration"] = "soft-shadow-thin",
                     ["size"] = 20,
-                    ["face"] = "ZH-StdFont",
                 },
-                ["ZoFontAnnounce"] = 
+                ["ZoFontTooltipTitle"] = 
                 {
+                    ["face"] = "ZH-StdFont",
+                    ["decoration"] = "none",
+                    ["size"] = 22,
+                },
+                ["ZoFontHeader4"] = 
+                {
+                    ["face"] = "ZH-StdFont",
                     ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 28,
-                    ["face"] = "ZH-StdFont",
+                    ["size"] = 26,
                 },
-                ["ZoFontGamepadBold20"] = 
+                ["ZoFontBookSkin"] = 
                 {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 20,
                     ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontGamepadHeaderDataValue"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 42,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontGamepadBookSkin"] = 
-                {
                     ["decoration"] = "none",
                     ["size"] = 20,
-                    ["face"] = "ZH-StdFont",
                 },
-                ["ZoFontGamepadBold42"] = 
+                ["ZoFontGamepadBookPaperTitle"] = 
                 {
+                    ["face"] = "ZH-StdFont",
+                    ["decoration"] = "none",
+                    ["size"] = 30,
+                },
+                ["ZoFontGamepadEditChat"] = 
+                {
+                    ["face"] = "ZH-StdFont",
+                    ["decoration"] = "soft-shadow-thick",
+                    ["size"] = 20,
+                },
+                ["ZoFontGameLargeBoldShadow"] = 
+                {
+                    ["face"] = "ZH-StdFont",
+                    ["decoration"] = "soft-shadow-thick",
+                    ["size"] = 20,
+                },
+                ["ZoFontBookRubbingTitle"] = 
+                {
+                    ["face"] = "ZH-StdFont",
+                    ["decoration"] = "none",
+                    ["size"] = 30,
+                },
+                ["ZoFontGamepadCondensed42"] = 
+                {
+                    ["face"] = "ZH-StdFont",
                     ["decoration"] = "soft-shadow-thick",
                     ["size"] = 42,
-                    ["face"] = "ZH-StdFont",
                 },
-                ["ZoFontCreditsHeader"] = 
+                ["ZoFontGamepadCondensed25"] = 
                 {
-                    ["decoration"] = "none",
+                    ["face"] = "ZH-StdFont",
+                    ["decoration"] = "soft-shadow-thick",
+                    ["size"] = 25,
+                },
+                ["ZoFontWinH2"] = 
+                {
+                    ["face"] = "ZH-StdFont",
+                    ["decoration"] = "soft-shadow-thick",
                     ["size"] = 24,
-                    ["face"] = "ZH-StdFont",
                 },
-                ["ZoFontGamepad61"] = 
+                ["ZoFontGamepadBookSkinTitle"] = 
                 {
+                    ["face"] = "ZH-StdFont",
+                    ["decoration"] = "none",
+                    ["size"] = 30,
+                },
+                ["ZoFontGamepadBold61"] = 
+                {
+                    ["face"] = "ZH-StdFont",
                     ["decoration"] = "soft-shadow-thick",
                     ["size"] = 61,
-                    ["face"] = "ZH-StdFont",
                 },
-                ["ZoFontCallout"] = 
+                ["ZoFontGamepadCondensed54"] = 
                 {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 36,
                     ["face"] = "ZH-StdFont",
+                    ["decoration"] = "soft-shadow-thick",
+                    ["size"] = 54,
+                },
+                ["ZoFontConversationName"] = 
+                {
+                    ["face"] = "ZH-StdFont",
+                    ["decoration"] = "soft-shadow-thick",
+                    ["size"] = 28,
+                },
+                ["ZoFontGamepadCondensed20"] = 
+                {
+                    ["face"] = "ZH-StdFont",
+                    ["decoration"] = "soft-shadow-thick",
+                    ["size"] = 20,
+                },
+                ["ZoFontBookScroll"] = 
+                {
+                    ["face"] = "ZH-StdFont",
+                    ["decoration"] = "none",
+                    ["size"] = 26,
+                },
+                ["ZoFontBookPaper"] = 
+                {
+                    ["face"] = "ZH-StdFont",
+                    ["decoration"] = "none",
+                    ["size"] = 20,
+                },
+                ["ZoFontWinT2"] = 
+                {
+                    ["face"] = "ZH-StdFont",
+                    ["decoration"] = "soft-shadow-thin",
+                    ["size"] = 20,
+                },
+                ["ZoFontGamepadCondensed27"] = 
+                {
+                    ["face"] = "ZH-StdFont",
+                    ["decoration"] = "soft-shadow-thick",
+                    ["size"] = 27,
                 },
                 ["ZoFontBookPaperTitle"] = 
                 {
+                    ["face"] = "ZH-StdFont",
                     ["decoration"] = "none",
                     ["size"] = 30,
-                    ["face"] = "ZH-StdFont",
                 },
-                ["ZoFontBookRubbing"] = 
+                ["ZoFontGamepad20"] = 
                 {
+                    ["face"] = "ZH-StdFont",
+                    ["decoration"] = "soft-shadow-thick",
+                    ["size"] = 20,
+                },
+                ["ZoFontGamepadChat"] = 
+                {
+                    ["face"] = "ZH-StdFont",
+                    ["decoration"] = "soft-shadow-thick",
+                    ["size"] = 20,
+                },
+                ["ZoFontGamepadBookTablet"] = 
+                {
+                    ["face"] = "ZH-StdFont",
+                    ["decoration"] = "soft-shadow-thick",
+                    ["size"] = 30,
+                },
+                ["ZoFontBookTabletTitle"] = 
+                {
+                    ["face"] = "ZH-StdFont",
+                    ["decoration"] = "soft-shadow-thick",
+                    ["size"] = 48,
+                },
+                ["ZoFontGamepadBold27"] = 
+                {
+                    ["face"] = "ZH-StdFont",
+                    ["decoration"] = "soft-shadow-thick",
+                    ["size"] = 27,
+                },
+                ["ZoFontAnnounceMessage"] = 
+                {
+                    ["face"] = "ZH-StdFont",
+                    ["decoration"] = "soft-shadow-thick",
+                    ["size"] = 24,
+                },
+                ["ZoFontGamepad42"] = 
+                {
+                    ["face"] = "ZH-StdFont",
+                    ["decoration"] = "soft-shadow-thick",
+                    ["size"] = 42,
+                },
+                ["ZoFontGamepadBold20"] = 
+                {
+                    ["face"] = "ZH-StdFont",
+                    ["decoration"] = "soft-shadow-thick",
+                    ["size"] = 20,
+                },
+                ["ZoFontGameLarge"] = 
+                {
+                    ["face"] = "ZH-StdFont",
+                    ["decoration"] = "soft-shadow-thin",
+                    ["size"] = 20,
+                },
+                ["ZoFontGamepadBookScrollTitle"] = 
+                {
+                    ["face"] = "ZH-StdFont",
+                    ["decoration"] = "none",
+                    ["size"] = 34,
+                },
+                ["ZoFontConversationText"] = 
+                {
+                    ["face"] = "ZH-StdFont",
+                    ["decoration"] = "soft-shadow-thick",
+                    ["size"] = 24,
+                },
+                ["ZoFontCallout2"] = 
+                {
+                    ["face"] = "ZH-StdFont",
+                    ["decoration"] = "soft-shadow-thick",
+                    ["size"] = 48,
+                },
+                ["ZoFontGameBold"] = 
+                {
+                    ["face"] = "ZH-StdFont",
+                    ["decoration"] = "soft-shadow-thin",
+                    ["size"] = 20,
+                },
+                ["ZoFontGamepadBold45"] = 
+                {
+                    ["face"] = "ZH-StdFont",
+                    ["decoration"] = "soft-shadow-thick",
+                    ["size"] = 45,
+                },
+                ["ZoFontGameShadow"] = 
+                {
+                    ["face"] = "ZH-StdFont",
+                    ["decoration"] = "soft-shadow-thin",
+                    ["size"] = 20,
+                },
+                ["ZoFontBookNoteTitle"] = 
+                {
+                    ["face"] = "ZH-StdFont",
+                    ["decoration"] = "none",
+                    ["size"] = 32,
+                },
+                ["ZoFontConversationOption"] = 
+                {
+                    ["face"] = "ZH-StdFont",
+                    ["decoration"] = "soft-shadow-thick",
+                    ["size"] = 22,
+                },
+                ["ZoFontGamepadBold48"] = 
+                {
+                    ["face"] = "ZH-StdFont",
+                    ["decoration"] = "soft-shadow-thick",
+                    ["size"] = 47,
+                },
+                ["ZoFontGamepad18"] = 
+                {
+                    ["face"] = "ZH-StdFont",
+                    ["decoration"] = "soft-shadow-thick",
+                    ["size"] = 20,
+                },
+                ["ZoFontEditChat"] = 
+                {
+                    ["face"] = "ZH-StdFont",
+                    ["decoration"] = "shadow",
+                    ["size"] = 20,
+                },
+                ["ZoFontGamepadBookTabletTitle"] = 
+                {
+                    ["face"] = "ZH-StdFont",
+                    ["decoration"] = "soft-shadow-thick",
+                    ["size"] = 48,
+                },
+                ["ZoFontGamepadBold54"] = 
+                {
+                    ["face"] = "ZH-StdFont",
+                    ["decoration"] = "soft-shadow-thick",
+                    ["size"] = 54,
+                },
+                ["ZoFontBookNote"] = 
+                {
+                    ["face"] = "ZH-StdFont",
+                    ["decoration"] = "none",
+                    ["size"] = 22,
+                },
+                ["SCTFont"] = 
+                {
+                    ["face"] = "ZH-StdFont",
+                    ["decoration"] = "outline",
+                    ["size"] = 32,
+                },
+                ["ZoFontAnnounceNoShadow"] = 
+                {
+                    ["face"] = "ZH-StdFont",
+                    ["decoration"] = "none",
+                    ["size"] = 36,
+                },
+                ["ZoFontGamepadBold34"] = 
+                {
+                    ["face"] = "ZH-StdFont",
+                    ["decoration"] = "soft-shadow-thick",
+                    ["size"] = 34,
+                },
+                ["ZoFontGameOutline"] = 
+                {
+                    ["face"] = "ZH-StdFont",
+                    ["decoration"] = "soft-shadow-thin",
+                    ["size"] = 20,
+                },
+                ["ZoFontWindowTitle"] = 
+                {
+                    ["face"] = "ZH-StdFont",
+                    ["decoration"] = "soft-shadow-thick",
+                    ["size"] = 30,
+                },
+                ["ZoFontGamepadBookSkin"] = 
+                {
+                    ["face"] = "ZH-StdFont",
                     ["decoration"] = "none",
                     ["size"] = 20,
-                    ["face"] = "ZH-StdFont",
                 },
-                ["ZoFontGamepadCondensed61"] = 
+                ["ZoFontGamepadCondensed36"] = 
                 {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 61,
                     ["face"] = "ZH-StdFont",
+                    ["decoration"] = "soft-shadow-thick",
+                    ["size"] = 36,
+                },
+                ["ZoFontWinH3"] = 
+                {
+                    ["face"] = "ZH-StdFont",
+                    ["decoration"] = "soft-shadow-thick",
+                    ["size"] = 20,
+                },
+                ["ZoFontGameLargeBold"] = 
+                {
+                    ["face"] = "ZH-StdFont",
+                    ["decoration"] = "soft-shadow-thick",
+                    ["size"] = 20,
+                },
+                ["ZoFontGamepad22"] = 
+                {
+                    ["face"] = "ZH-StdFont",
+                    ["decoration"] = "soft-shadow-thick",
+                    ["size"] = 22,
+                },
+                ["ZoFontAnnounceMedium"] = 
+                {
+                    ["face"] = "ZH-StdFont",
+                    ["decoration"] = "soft-shadow-thick",
+                    ["size"] = 24,
+                },
+                ["ZoFontWinH1"] = 
+                {
+                    ["face"] = "ZH-StdFont",
+                    ["decoration"] = "soft-shadow-thick",
+                    ["size"] = 30,
+                },
+                ["ZoFontHeader"] = 
+                {
+                    ["face"] = "ZH-StdFont",
+                    ["decoration"] = "soft-shadow-thick",
+                    ["size"] = 20,
+                },
+                ["ZoFontBookScrollTitle"] = 
+                {
+                    ["face"] = "ZH-StdFont",
+                    ["decoration"] = "none",
+                    ["size"] = 34,
+                },
+                ["ZoFontGamepadBookLetterTitle"] = 
+                {
+                    ["face"] = "ZH-StdFont",
+                    ["decoration"] = "none",
+                    ["size"] = 30,
+                },
+                ["ZoFontBookLetterTitle"] = 
+                {
+                    ["face"] = "ZH-StdFont",
+                    ["decoration"] = "none",
+                    ["size"] = 30,
                 },
                 ["ZoFontHeader2"] = 
                 {
+                    ["face"] = "ZH-StdFont",
                     ["decoration"] = "soft-shadow-thick",
                     ["size"] = 20,
-                    ["face"] = "ZH-StdFont",
                 },
-                ["ZoFontBookSkinTitle"] = 
+                ["ZoFontGamepadBookNote"] = 
                 {
+                    ["face"] = "ZH-StdFont",
                     ["decoration"] = "none",
-                    ["size"] = 30,
-                    ["face"] = "ZH-StdFont",
+                    ["size"] = 22,
                 },
-                ["ZoFontKeybindStripKey"] = 
+                ["ZoFontWinT1"] = 
                 {
+                    ["face"] = "ZH-StdFont",
                     ["decoration"] = "soft-shadow-thin",
                     ["size"] = 20,
+                },
+                ["ZoFontChat"] = 
+                {
                     ["face"] = "ZH-StdFont",
+                    ["decoration"] = "soft-shadow-thin",
+                    ["size"] = 20,
+                },
+                ["ZoFontCreditsText"] = 
+                {
+                    ["face"] = "ZH-StdFont",
+                    ["decoration"] = "none",
+                    ["size"] = 20,
                 },
                 ["ZoFontGameSmall"] = 
                 {
+                    ["face"] = "ZH-StdFont",
                     ["decoration"] = "soft-shadow-thin",
                     ["size"] = 14,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontGamepadBold27"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 27,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontGamepadBookTablet"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 30,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontCallout3"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 50,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontGamepad27NoShadow"] = 
-                {
-                    ["decoration"] = "none",
-                    ["size"] = 27,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontGamepadBookSkinTitle"] = 
-                {
-                    ["decoration"] = "none",
-                    ["size"] = 30,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontWinH1"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 30,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontGamepad25"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 25,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontGamepadBookPaper"] = 
-                {
-                    ["decoration"] = "none",
-                    ["size"] = 20,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontCallout2"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 48,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontGamepad42NoShadow"] = 
-                {
-                    ["decoration"] = "none",
-                    ["size"] = 42,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontCenterScreenAnnounceLarge"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 40,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontGamepadCondensed45"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 45,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontDialogKeybindDescription"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 20,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontWinT1"] = 
-                {
-                    ["decoration"] = "soft-shadow-thin",
-                    ["size"] = 20,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontGamepad54"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 54,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontGamepadCondensed20"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 20,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontAnnounceLarge"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 36,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontGamepad34"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 34,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontBookLetter"] = 
-                {
-                    ["decoration"] = "none",
-                    ["size"] = 20,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontHeader3"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 24,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontWinH4"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 20,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontBookScrollTitle"] = 
-                {
-                    ["decoration"] = "none",
-                    ["size"] = 34,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontGameMedium"] = 
-                {
-                    ["decoration"] = "soft-shadow-thin",
-                    ["size"] = 20,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontAlert"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 24,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontGamepadBookPaperTitle"] = 
-                {
-                    ["decoration"] = "none",
-                    ["size"] = 30,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontGamepadBold34"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 34,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontGame"] = 
-                {
-                    ["decoration"] = "soft-shadow-thin",
-                    ["size"] = 20,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontGamepadCondensed34"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 34,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontCreditsText"] = 
-                {
-                    ["decoration"] = "none",
-                    ["size"] = 20,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontTooltipSubtitle"] = 
-                {
-                    ["decoration"] = "none",
-                    ["size"] = 20,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["version"] = 1.6000000000,
-                ["ZoFontGamepad18"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 20,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontKeybindStripDescription"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 25,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontCenterScreenAnnounceSmall"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 30,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontGamepadBold22"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 22,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontWinH2"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 24,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontGamepadBold61"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 61,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontBookNoteTitle"] = 
-                {
-                    ["decoration"] = "none",
-                    ["size"] = 32,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontGamepad27"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 27,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontConversationName"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 28,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontGamepadCondensed18"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 20,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontGamepadEditChat"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 20,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontGamepadBold36"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 36,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontBookLetterTitle"] = 
-                {
-                    ["decoration"] = "none",
-                    ["size"] = 30,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontGamepadBookNote"] = 
-                {
-                    ["decoration"] = "none",
-                    ["size"] = 22,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontBookTablet"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 30,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontGamepadCondensed36"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 36,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontConversationQuestReward"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 20,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontHeader"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 20,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontGamepad22"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 22,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontAnnounceNoShadow"] = 
-                {
-                    ["decoration"] = "none",
-                    ["size"] = 36,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontConversationText"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 24,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontTooltipTitle"] = 
-                {
-                    ["decoration"] = "none",
-                    ["size"] = 22,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontGamepadBookRubbingTitle"] = 
-                {
-                    ["decoration"] = "none",
-                    ["size"] = 30,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontHeader4"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 26,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontGamepad42"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 42,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontGamepadBookScroll"] = 
-                {
-                    ["decoration"] = "none",
-                    ["size"] = 26,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontGamepadBookTabletTitle"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 48,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontWinT2"] = 
-                {
-                    ["decoration"] = "soft-shadow-thin",
-                    ["size"] = 20,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontGamepadBold45"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 45,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontGameLargeBoldShadow"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 20,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoInteractionPrompt"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 24,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontEditChat"] = 
-                {
-                    ["decoration"] = "shadow",
-                    ["size"] = 20,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontGamepadCondensed27"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 27,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontGamepadBookLetterTitle"] = 
-                {
-                    ["decoration"] = "none",
-                    ["size"] = 30,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontGamepadChat"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 20,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontGamepadCondensed25"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 25,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontWinH3"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 20,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontGamepadBookRubbing"] = 
-                {
-                    ["decoration"] = "none",
-                    ["size"] = 20,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontGamepad36"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 36,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontGamepadBold18"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 20,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontGameBold"] = 
-                {
-                    ["decoration"] = "soft-shadow-thin",
-                    ["size"] = 20,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontGameOutline"] = 
-                {
-                    ["decoration"] = "soft-shadow-thin",
-                    ["size"] = 20,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontBookScroll"] = 
-                {
-                    ["decoration"] = "none",
-                    ["size"] = 26,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontGamepadBookNoteTitle"] = 
-                {
-                    ["decoration"] = "none",
-                    ["size"] = 32,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontWindowTitle"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 30,
-                    ["face"] = "ZH-StdFont",
                 },
                 ["ZoFontGamepadCondensed22"] = 
                 {
+                    ["face"] = "ZH-StdFont",
                     ["decoration"] = "soft-shadow-thick",
                     ["size"] = 22,
-                    ["face"] = "ZH-StdFont",
                 },
-                ["ZoFontChat"] = 
+                ["ZoFontAnnounceLarge"] = 
                 {
-                    ["decoration"] = "soft-shadow-thin",
-                    ["size"] = 20,
                     ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontGamepad45"] = 
-                {
                     ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 45,
-                    ["face"] = "ZH-StdFont",
+                    ["size"] = 36,
                 },
-                ["ZoFontGameLargeBold"] = 
+                ["ZoFontGamepadBold18"] = 
                 {
+                    ["face"] = "ZH-StdFont",
                     ["decoration"] = "soft-shadow-thick",
                     ["size"] = 20,
-                    ["face"] = "ZH-StdFont",
                 },
-                ["ZoFontGamepadBookScrollTitle"] = 
+                ["version"] = 1.6000000000,
+                ["ZoFontCallout3"] = 
                 {
-                    ["decoration"] = "none",
-                    ["size"] = 34,
                     ["face"] = "ZH-StdFont",
+                    ["decoration"] = "soft-shadow-thick",
+                    ["size"] = 50,
                 },
-                ["ZoFontAnnounceMedium"] = 
+                ["ZoInteractionPrompt"] = 
                 {
+                    ["face"] = "ZH-StdFont",
                     ["decoration"] = "soft-shadow-thick",
                     ["size"] = 24,
-                    ["face"] = "ZH-StdFont",
                 },
-                ["ZoFontBookPaper"] = 
+                ["ZoFontGamepadBookRubbing"] = 
                 {
+                    ["face"] = "ZH-StdFont",
                     ["decoration"] = "none",
                     ["size"] = 20,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontGamepadBold54"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 54,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontGameShadow"] = 
-                {
-                    ["decoration"] = "soft-shadow-thin",
-                    ["size"] = 20,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontBookSkin"] = 
-                {
-                    ["decoration"] = "none",
-                    ["size"] = 20,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontGamepadBookLetter"] = 
-                {
-                    ["decoration"] = "none",
-                    ["size"] = 20,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontGamepadCondensed54"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 54,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontWindowSubtitle"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 20,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontBookTabletTitle"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 48,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontBookNote"] = 
-                {
-                    ["decoration"] = "none",
-                    ["size"] = 22,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontConversationOption"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 22,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontAnnounceMessage"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 24,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontGamepad20"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 20,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontBookRubbingTitle"] = 
-                {
-                    ["decoration"] = "none",
-                    ["size"] = 30,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontGamepadCondensed42"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 42,
-                    ["face"] = "ZH-StdFont",
-                },
-                ["ZoFontHeaderNoShadow"] = 
-                {
-                    ["decoration"] = "none",
-                    ["size"] = 20,
-                    ["face"] = "ZH-StdFont",
-                },
-            },
-        },
-        ["@YYDS1214"] = 
-        {
-            ["$AccountWide"] = 
-            {
-                ["ZoFontWinH5"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 20,
-                    ["face"] = "Univers 67",
                 },
                 ["ZoFontGamepadBold25"] = 
                 {
+                    ["face"] = "ZH-StdFont",
                     ["decoration"] = "soft-shadow-thick",
                     ["size"] = 25,
-                    ["face"] = "Futura Condensed Bold",
                 },
                 ["ZoFontEdit"] = 
                 {
+                    ["face"] = "ZH-StdFont",
                     ["decoration"] = "shadow",
                     ["size"] = 20,
-                    ["face"] = "Univers 57",
-                },
-                ["ZoFontGameLarge"] = 
-                {
-                    ["decoration"] = "soft-shadow-thin",
-                    ["size"] = 20,
-                    ["face"] = "Univers 57",
-                },
-                ["ZoFontGamepadBold61"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 61,
-                    ["face"] = "Futura Condensed Bold",
-                },
-                ["ZoFontGamepadBold20"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 20,
-                    ["face"] = "Futura Condensed Bold",
-                },
-                ["ZoFontGamepadHeaderDataValue"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 42,
-                    ["face"] = "Futura Condensed",
-                },
-                ["ZoFontGamepadBookSkin"] = 
-                {
-                    ["decoration"] = "none",
-                    ["size"] = 20,
-                    ["face"] = "ProseAntique",
-                },
-                ["ZoFontGamepadBold42"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 42,
-                    ["face"] = "Futura Condensed Bold",
-                },
-                ["ZoFontCreditsHeader"] = 
-                {
-                    ["decoration"] = "none",
-                    ["size"] = 24,
-                    ["face"] = "Univers 67",
-                },
-                ["ZoFontGamepad61"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 61,
-                    ["face"] = "Futura Condensed",
-                },
-                ["ZoFontCallout"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 36,
-                    ["face"] = "Univers 67",
-                },
-                ["ZoFontBookPaperTitle"] = 
-                {
-                    ["decoration"] = "none",
-                    ["size"] = 30,
-                    ["face"] = "ProseAntique",
-                },
-                ["ZoFontBookRubbing"] = 
-                {
-                    ["decoration"] = "none",
-                    ["size"] = 20,
-                    ["face"] = "ProseAntique",
-                },
-                ["ZoFontGamepadCondensed61"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 61,
-                    ["face"] = "Futura Condensed Light",
-                },
-                ["ZoFontHeader2"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 20,
-                    ["face"] = "Univers 67",
-                },
-                ["ZoFontBookSkinTitle"] = 
-                {
-                    ["decoration"] = "none",
-                    ["size"] = 30,
-                    ["face"] = "ProseAntique",
-                },
-                ["ZoFontKeybindStripKey"] = 
-                {
-                    ["decoration"] = "soft-shadow-thin",
-                    ["size"] = 20,
-                    ["face"] = "Univers 57",
-                },
-                ["ZoFontGameSmall"] = 
-                {
-                    ["decoration"] = "soft-shadow-thin",
-                    ["size"] = 13,
-                    ["face"] = "Univers 67",
-                },
-                ["ZoFontGamepadBookTablet"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 30,
-                    ["face"] = "Trajan Pro",
-                },
-                ["ZoFontCallout3"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 54,
-                    ["face"] = "Univers 67",
-                },
-                ["ZoFontGamepadBookSkinTitle"] = 
-                {
-                    ["decoration"] = "none",
-                    ["size"] = 30,
-                    ["face"] = "ProseAntique",
-                },
-                ["ZoFontAnnounceNoShadow"] = 
-                {
-                    ["decoration"] = "none",
-                    ["size"] = 36,
-                    ["face"] = "Univers 67",
-                },
-                ["ZoFontGamepad25"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 25,
-                    ["face"] = "Futura Condensed",
-                },
-                ["ZoFontCenterScreenAnnounceLarge"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 40,
-                    ["face"] = "Univers 67",
-                },
-                ["ZoFontGamepad34"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 34,
-                    ["face"] = "Futura Condensed",
-                },
-                ["ZoFontGamepad42NoShadow"] = 
-                {
-                    ["decoration"] = "none",
-                    ["size"] = 42,
-                    ["face"] = "Futura Condensed",
-                },
-                ["ZoFontWinH1"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 30,
-                    ["face"] = "Univers 67",
-                },
-                ["ZoFontGamepadCondensed45"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 45,
-                    ["face"] = "Futura Condensed Light",
-                },
-                ["ZoFontDialogKeybindDescription"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 20,
-                    ["face"] = "Univers 67",
-                },
-                ["ZoFontWinT1"] = 
-                {
-                    ["decoration"] = "soft-shadow-thin",
-                    ["size"] = 20,
-                    ["face"] = "Univers 67",
-                },
-                ["ZoFontGamepad54"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 54,
-                    ["face"] = "Futura Condensed",
-                },
-                ["ZoFontGamepadCondensed20"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 20,
-                    ["face"] = "Futura Condensed Light",
-                },
-                ["ZoFontAnnounceLarge"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 36,
-                    ["face"] = "Univers 67",
-                },
-                ["ZoFontGamepadBookRubbing"] = 
-                {
-                    ["decoration"] = "none",
-                    ["size"] = 20,
-                    ["face"] = "ProseAntique",
-                },
-                ["ZoFontBookLetter"] = 
-                {
-                    ["decoration"] = "none",
-                    ["size"] = 20,
-                    ["face"] = "Skyrim Handwritten",
-                },
-                ["ZoFontHeader3"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 24,
-                    ["face"] = "Univers 67",
-                },
-                ["ZoFontWinH4"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 20,
-                    ["face"] = "Univers 67",
-                },
-                ["ZoFontBookScrollTitle"] = 
-                {
-                    ["decoration"] = "none",
-                    ["size"] = 34,
-                    ["face"] = "Skyrim Handwritten",
-                },
-                ["ZoFontGamepadBookTabletTitle"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 48,
-                    ["face"] = "Trajan Pro",
-                },
-                ["ZoFontAlert"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 24,
-                    ["face"] = "Univers 67",
-                },
-                ["ZoFontGamepadBookPaperTitle"] = 
-                {
-                    ["decoration"] = "none",
-                    ["size"] = 30,
-                    ["face"] = "ProseAntique",
-                },
-                ["ZoFontGamepadBold34"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 34,
-                    ["face"] = "Futura Condensed Bold",
-                },
-                ["ZoFontGamepadCondensed54"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 54,
-                    ["face"] = "Futura Condensed Light",
-                },
-                ["ZoFontGamepadCondensed34"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 34,
-                    ["face"] = "Futura Condensed Light",
-                },
-                ["ZoFontCreditsText"] = 
-                {
-                    ["decoration"] = "none",
-                    ["size"] = 20,
-                    ["face"] = "Univers 67",
-                },
-                ["ZoFontTooltipSubtitle"] = 
-                {
-                    ["decoration"] = "none",
-                    ["size"] = 20,
-                    ["face"] = "Univers 57",
-                },
-                ["version"] = 1.6000000000,
-                ["ZoFontGamepadChat"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 20,
-                    ["face"] = "Futura Condensed",
-                },
-                ["ZoFontKeybindStripDescription"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 25,
-                    ["face"] = "Univers 67",
-                },
-                ["ZoFontGamepad18"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 20,
-                    ["face"] = "Futura Condensed",
-                },
-                ["ZoFontGamepadBold22"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 22,
-                    ["face"] = "Futura Condensed Bold",
-                },
-                ["ZoFontWinH2"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 24,
-                    ["face"] = "Univers 67",
-                },
-                ["ZoFontCenterScreenAnnounceSmall"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 30,
-                    ["face"] = "Univers 67",
-                },
-                ["ZoFontGamepadBold36"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 36,
-                    ["face"] = "Futura Condensed Bold",
-                },
-                ["ZoFontBookNoteTitle"] = 
-                {
-                    ["decoration"] = "none",
-                    ["size"] = 32,
-                    ["face"] = "Skyrim Handwritten",
-                },
-                ["ZoFontConversationName"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 28,
-                    ["face"] = "Univers 67",
                 },
                 ["ZoFontGamepadCondensed18"] = 
                 {
+                    ["face"] = "ZH-StdFont",
                     ["decoration"] = "soft-shadow-thick",
                     ["size"] = 20,
-                    ["face"] = "Futura Condensed Light",
-                },
-                ["ZoFontGamepad27"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 27,
-                    ["face"] = "Futura Condensed",
-                },
-                ["ZoFontGamepadEditChat"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 20,
-                    ["face"] = "Futura Condensed",
-                },
-                ["ZoFontBookLetterTitle"] = 
-                {
-                    ["decoration"] = "none",
-                    ["size"] = 30,
-                    ["face"] = "Skyrim Handwritten",
-                },
-                ["ZoFontGamepadBookNote"] = 
-                {
-                    ["decoration"] = "none",
-                    ["size"] = 22,
-                    ["face"] = "Skyrim Handwritten",
-                },
-                ["ZoFontBookTablet"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 30,
-                    ["face"] = "Trajan Pro",
-                },
-                ["ZoFontGamepadCondensed36"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 36,
-                    ["face"] = "Futura Condensed Light",
-                },
-                ["ZoFontGameOutline"] = 
-                {
-                    ["decoration"] = "soft-shadow-thin",
-                    ["size"] = 20,
-                    ["face"] = "Univers 67",
-                },
-                ["ZoFontHeader"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 20,
-                    ["face"] = "Univers 67",
-                },
-                ["ZoFontGamepad22"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 22,
-                    ["face"] = "Futura Condensed",
-                },
-                ["ZoFontGamepadBold27"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 27,
-                    ["face"] = "Futura Condensed Bold",
-                },
-                ["ZoFontConversationText"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 24,
-                    ["face"] = "Univers 67",
-                },
-                ["ZoFontTooltipTitle"] = 
-                {
-                    ["decoration"] = "none",
-                    ["size"] = 22,
-                    ["face"] = "Univers 67",
-                },
-                ["ZoFontGamepadBookRubbingTitle"] = 
-                {
-                    ["decoration"] = "none",
-                    ["size"] = 30,
-                    ["face"] = "ProseAntique",
-                },
-                ["ZoFontHeader4"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 26,
-                    ["face"] = "Univers 67",
-                },
-                ["ZoFontGamepad42"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 42,
-                    ["face"] = "Futura Condensed",
-                },
-                ["ZoFontGamepadBookScroll"] = 
-                {
-                    ["decoration"] = "none",
-                    ["size"] = 26,
-                    ["face"] = "Skyrim Handwritten",
-                },
-                ["ZoFontGamepad27NoShadow"] = 
-                {
-                    ["decoration"] = "none",
-                    ["size"] = 27,
-                    ["face"] = "Futura Condensed",
-                },
-                ["ZoFontCallout2"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 48,
-                    ["face"] = "Univers 67",
-                },
-                ["ZoFontConversationQuestReward"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 20,
-                    ["face"] = "Univers 67",
-                },
-                ["ZoFontGameLargeBoldShadow"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 20,
-                    ["face"] = "Univers 67",
-                },
-                ["ZoFontGamepadBookPaper"] = 
-                {
-                    ["decoration"] = "none",
-                    ["size"] = 20,
-                    ["face"] = "ProseAntique",
-                },
-                ["ZoFontGame"] = 
-                {
-                    ["decoration"] = "soft-shadow-thin",
-                    ["size"] = 20,
-                    ["face"] = "Univers 57",
-                },
-                ["ZoFontGamepadBold45"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 45,
-                    ["face"] = "Futura Condensed Bold",
-                },
-                ["ZoFontGamepadBookLetterTitle"] = 
-                {
-                    ["decoration"] = "none",
-                    ["size"] = 30,
-                    ["face"] = "Skyrim Handwritten",
-                },
-                ["ZoFontGameMedium"] = 
-                {
-                    ["decoration"] = "soft-shadow-thin",
-                    ["size"] = 20,
-                    ["face"] = "Univers 57",
-                },
-                ["ZoFontGamepadCondensed25"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 25,
-                    ["face"] = "Futura Condensed Light",
-                },
-                ["ZoFontWinH3"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 20,
-                    ["face"] = "Univers 67",
-                },
-                ["ZoFontEditChat"] = 
-                {
-                    ["decoration"] = "shadow",
-                    ["size"] = 20,
-                    ["face"] = "Univers 57",
                 },
                 ["ZoFontGamepad36"] = 
                 {
+                    ["face"] = "ZH-StdFont",
                     ["decoration"] = "soft-shadow-thick",
                     ["size"] = 36,
-                    ["face"] = "Futura Condensed",
                 },
-                ["ZoFontGamepadBold18"] = 
+                ["ZoFontGamepad42NoShadow"] = 
                 {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 20,
-                    ["face"] = "Futura Condensed Bold",
-                },
-                ["ZoInteractionPrompt"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 24,
-                    ["face"] = "Univers 67",
-                },
-                ["ZoFontGamepadCondensed27"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 27,
-                    ["face"] = "Futura Condensed Light",
-                },
-                ["ZoFontGameBold"] = 
-                {
-                    ["decoration"] = "soft-shadow-thin",
-                    ["size"] = 20,
-                    ["face"] = "Univers 67",
-                },
-                ["ZoFontBookScroll"] = 
-                {
+                    ["face"] = "ZH-StdFont",
                     ["decoration"] = "none",
-                    ["size"] = 26,
-                    ["face"] = "Skyrim Handwritten",
-                },
-                ["ZoFontBookPaper"] = 
-                {
-                    ["decoration"] = "none",
-                    ["size"] = 20,
-                    ["face"] = "ProseAntique",
-                },
-                ["ZoFontWindowTitle"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 30,
-                    ["face"] = "Univers 67",
-                },
-                ["ZoFontGamepadCondensed22"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 22,
-                    ["face"] = "Futura Condensed Light",
+                    ["size"] = 42,
                 },
                 ["ZoFontAnnounce"] = 
                 {
+                    ["face"] = "ZH-StdFont",
                     ["decoration"] = "soft-shadow-thick",
                     ["size"] = 28,
-                    ["face"] = "Univers 67",
-                },
-                ["ZoFontGamepad45"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 45,
-                    ["face"] = "Futura Condensed",
-                },
-                ["ZoFontGameLargeBold"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 20,
-                    ["face"] = "Univers 67",
-                },
-                ["ZoFontGamepadBold54"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 54,
-                    ["face"] = "Futura Condensed Bold",
-                },
-                ["ZoFontAnnounceMedium"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 24,
-                    ["face"] = "Univers 67",
-                },
-                ["ZoFontGamepadBookScrollTitle"] = 
-                {
-                    ["decoration"] = "none",
-                    ["size"] = 34,
-                    ["face"] = "Skyrim Handwritten",
-                },
-                ["ZoFontWindowSubtitle"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 20,
-                    ["face"] = "Univers 67",
                 },
                 ["ZoFontGamepadBookNoteTitle"] = 
                 {
+                    ["face"] = "ZH-StdFont",
                     ["decoration"] = "none",
                     ["size"] = 32,
-                    ["face"] = "Skyrim Handwritten",
                 },
-                ["ZoFontGameShadow"] = 
+                ["ZoFontGamepadHeaderDataValue"] = 
                 {
-                    ["decoration"] = "soft-shadow-thin",
-                    ["size"] = 20,
-                    ["face"] = "Univers 67",
-                },
-                ["ZoFontBookSkin"] = 
-                {
-                    ["decoration"] = "none",
-                    ["size"] = 20,
-                    ["face"] = "ProseAntique",
-                },
-                ["ZoFontGamepadBookLetter"] = 
-                {
-                    ["decoration"] = "none",
-                    ["size"] = 20,
-                    ["face"] = "Skyrim Handwritten",
-                },
-                ["ZoFontAnnounceMessage"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 24,
-                    ["face"] = "Univers 67",
-                },
-                ["ZoFontChat"] = 
-                {
-                    ["decoration"] = "soft-shadow-thin",
-                    ["size"] = 20,
-                    ["face"] = "Univers 57",
-                },
-                ["ZoFontBookTabletTitle"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 48,
-                    ["face"] = "Trajan Pro",
-                },
-                ["ZoFontWinT2"] = 
-                {
-                    ["decoration"] = "soft-shadow-thin",
-                    ["size"] = 20,
-                    ["face"] = "Univers 67",
-                },
-                ["ZoFontBookNote"] = 
-                {
-                    ["decoration"] = "none",
-                    ["size"] = 22,
-                    ["face"] = "Skyrim Handwritten",
-                },
-                ["ZoFontConversationOption"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 22,
-                    ["face"] = "Univers 67",
-                },
-                ["ZoFontGamepad20"] = 
-                {
-                    ["decoration"] = "soft-shadow-thick",
-                    ["size"] = 20,
-                    ["face"] = "Futura Condensed",
-                },
-                ["ZoFontBookRubbingTitle"] = 
-                {
-                    ["decoration"] = "none",
-                    ["size"] = 30,
-                    ["face"] = "ProseAntique",
-                },
-                ["ZoFontGamepadCondensed42"] = 
-                {
+                    ["face"] = "ZH-StdFont",
                     ["decoration"] = "soft-shadow-thick",
                     ["size"] = 42,
-                    ["face"] = "Futura Condensed Light",
                 },
                 ["ZoFontHeaderNoShadow"] = 
                 {
+                    ["face"] = "ZH-StdFont",
                     ["decoration"] = "none",
                     ["size"] = 20,
-                    ["face"] = "Univers 67",
+                },
+                ["ZoFontGamepad54"] = 
+                {
+                    ["face"] = "ZH-StdFont",
+                    ["decoration"] = "soft-shadow-thick",
+                    ["size"] = 54,
+                },
+                ["ZoFontGamepad27NoShadow"] = 
+                {
+                    ["face"] = "ZH-StdFont",
+                    ["decoration"] = "none",
+                    ["size"] = 27,
+                },
+                ["ZoFontGamepadBookLetter"] = 
+                {
+                    ["face"] = "ZH-StdFont",
+                    ["decoration"] = "none",
+                    ["size"] = 20,
+                },
+                ["ZoFontKeybindStripKey"] = 
+                {
+                    ["face"] = "ZH-StdFont",
+                    ["decoration"] = "soft-shadow-thin",
+                    ["size"] = 20,
+                },
+                ["ZoFontBookLetter"] = 
+                {
+                    ["face"] = "ZH-StdFont",
+                    ["decoration"] = "none",
+                    ["size"] = 20,
+                },
+                ["ZoFontHeader3"] = 
+                {
+                    ["face"] = "ZH-StdFont",
+                    ["decoration"] = "soft-shadow-thick",
+                    ["size"] = 24,
+                },
+                ["ZoFontWinH4"] = 
+                {
+                    ["face"] = "ZH-StdFont",
+                    ["decoration"] = "soft-shadow-thick",
+                    ["size"] = 20,
+                },
+                ["ZoFontBookRubbing"] = 
+                {
+                    ["face"] = "ZH-StdFont",
+                    ["decoration"] = "none",
+                    ["size"] = 20,
+                },
+                ["ZoFontGamepadBold36"] = 
+                {
+                    ["face"] = "ZH-StdFont",
+                    ["decoration"] = "soft-shadow-thick",
+                    ["size"] = 36,
+                },
+                ["ZoFontGamepadCondensed61"] = 
+                {
+                    ["face"] = "ZH-StdFont",
+                    ["decoration"] = "soft-shadow-thick",
+                    ["size"] = 61,
+                },
+                ["ZoFontGamepad27"] = 
+                {
+                    ["face"] = "ZH-StdFont",
+                    ["decoration"] = "soft-shadow-thick",
+                    ["size"] = 27,
+                },
+                ["ZoFontBookSkinTitle"] = 
+                {
+                    ["face"] = "ZH-StdFont",
+                    ["decoration"] = "none",
+                    ["size"] = 30,
+                },
+                ["ZoFontGamepad34"] = 
+                {
+                    ["face"] = "ZH-StdFont",
+                    ["decoration"] = "soft-shadow-thick",
+                    ["size"] = 34,
+                },
+                ["ZoFontGamepadCondensed34"] = 
+                {
+                    ["face"] = "ZH-StdFont",
+                    ["decoration"] = "soft-shadow-thick",
+                    ["size"] = 34,
+                },
+                ["ZoFontConversationQuestReward"] = 
+                {
+                    ["face"] = "ZH-StdFont",
+                    ["decoration"] = "soft-shadow-thick",
+                    ["size"] = 20,
+                },
+                ["ZoFontTooltipSubtitle"] = 
+                {
+                    ["face"] = "ZH-StdFont",
+                    ["decoration"] = "none",
+                    ["size"] = 20,
+                },
+                ["ZoFontBookTablet"] = 
+                {
+                    ["face"] = "ZH-StdFont",
+                    ["decoration"] = "soft-shadow-thick",
+                    ["size"] = 30,
+                },
+                ["ZoFontGamepadCondensed45"] = 
+                {
+                    ["face"] = "ZH-StdFont",
+                    ["decoration"] = "soft-shadow-thick",
+                    ["size"] = 45,
+                },
+                ["ZoFontKeybindStripDescription"] = 
+                {
+                    ["face"] = "ZH-StdFont",
+                    ["decoration"] = "soft-shadow-thick",
+                    ["size"] = 25,
+                },
+                ["ZoFontGameMedium"] = 
+                {
+                    ["face"] = "ZH-StdFont",
+                    ["decoration"] = "soft-shadow-thin",
+                    ["size"] = 20,
+                },
+                ["ZoFontGamepadBold22"] = 
+                {
+                    ["face"] = "ZH-StdFont",
+                    ["decoration"] = "soft-shadow-thick",
+                    ["size"] = 22,
+                },
+                ["ZoFontWinH5"] = 
+                {
+                    ["face"] = "ZH-StdFont",
+                    ["decoration"] = "soft-shadow-thick",
+                    ["size"] = 20,
+                },
+                ["ZoFontGamepadBookScroll"] = 
+                {
+                    ["face"] = "ZH-StdFont",
+                    ["decoration"] = "none",
+                    ["size"] = 26,
+                },
+                ["ZoFontGamepadBold42"] = 
+                {
+                    ["face"] = "ZH-StdFont",
+                    ["decoration"] = "soft-shadow-thick",
+                    ["size"] = 42,
+                },
+                ["ZoFontCallout"] = 
+                {
+                    ["face"] = "ZH-StdFont",
+                    ["decoration"] = "soft-shadow-thick",
+                    ["size"] = 36,
+                },
+                ["ZoFontCenterScreenAnnounceLarge"] = 
+                {
+                    ["face"] = "ZH-StdFont",
+                    ["decoration"] = "soft-shadow-thick",
+                    ["size"] = 40,
+                },
+                ["ZoFontCenterScreenAnnounceSmall"] = 
+                {
+                    ["face"] = "ZH-StdFont",
+                    ["decoration"] = "soft-shadow-thick",
+                    ["size"] = 30,
+                },
+                ["ZoFontGamepadBookRubbingTitle"] = 
+                {
+                    ["face"] = "ZH-StdFont",
+                    ["decoration"] = "none",
+                    ["size"] = 30,
+                },
+                ["ZoFontGamepad25"] = 
+                {
+                    ["face"] = "ZH-StdFont",
+                    ["decoration"] = "soft-shadow-thick",
+                    ["size"] = 25,
+                },
+                ["ZoFontDialogKeybindDescription"] = 
+                {
+                    ["face"] = "ZH-StdFont",
+                    ["decoration"] = "soft-shadow-thick",
+                    ["size"] = 20,
+                },
+                ["ZoFontAlert"] = 
+                {
+                    ["face"] = "ZH-StdFont",
+                    ["decoration"] = "soft-shadow-thick",
+                    ["size"] = 24,
+                },
+                ["ZoFontGamepadBookPaper"] = 
+                {
+                    ["face"] = "ZH-StdFont",
+                    ["decoration"] = "none",
+                    ["size"] = 20,
+                },
+                ["ZoFontGamepad45"] = 
+                {
+                    ["face"] = "ZH-StdFont",
+                    ["decoration"] = "soft-shadow-thick",
+                    ["size"] = 45,
+                },
+                ["ZoFontCreditsHeader"] = 
+                {
+                    ["face"] = "ZH-StdFont",
+                    ["decoration"] = "none",
+                    ["size"] = 24,
+                },
+                ["ZoFontWindowSubtitle"] = 
+                {
+                    ["face"] = "ZH-StdFont",
+                    ["decoration"] = "soft-shadow-thick",
+                    ["size"] = 20,
+                },
+                ["ZoFontGamepad61"] = 
+                {
+                    ["face"] = "ZH-StdFont",
+                    ["decoration"] = "soft-shadow-thick",
+                    ["size"] = 61,
                 },
             },
         },

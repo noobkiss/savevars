@@ -6,12 +6,20 @@ RaidificatorSavedVariablesEx =
         {
             ["$AccountWide"] = 
             {
-                ["left"] = 2,
-                ["zoneId"] = 1435,
-                ["startTime"] = 0,
-                ["allAccounts"] = true,
-                ["castBlocker"] = false,
                 ["top"] = 730,
+                ["migration"] = 0,
+                ["startTime"] = 0,
+                ["zoneId"] = 1383,
+                ["castBlocker"] = false,
+                ["version"] = 1,
+                ["pos"] = 
+                {
+                    ["left"] = 2,
+                    ["mid"] = 26,
+                },
+                ["hideArc1"] = false,
+                ["left"] = 2,
+                ["achCategoryId"] = 1,
                 ["autoLog"] = 
                 {
                     [1] = false,
@@ -19,29 +27,24 @@ RaidificatorSavedVariablesEx =
                     [3] = false,
                 },
                 ["filterPledges"] = false,
+                ["allAccounts"] = true,
                 ["quests"] = 
                 {
+                    ["T"] = 1,
                     ["D"] = 1,
                     ["A"] = 1,
-                    ["T"] = 1,
-                },
-                ["hideArc1"] = false,
-                ["achCategoryId"] = 1,
-                ["version"] = 1,
-                ["pos"] = 
-                {
-                    ["left"] = 2,
-                    ["mid"] = 26,
                 },
                 ["bgColor"] = 102,
                 ["contentId"] = "11R",
-                ["migration"] = 0,
             },
         },
     },
 }
 RaidificatorHistory =
 {
+    ["notes"] = 
+    {
+    },
     ["clears"] = 
     {
         [1] = "17R,NA,1760837912,8796093077575525,76644,3704188,0;36,~2:219:40:129;Aj-ax:Ajax1170:3:2;Rixx Xar:IxXar:4:4;Lifegiverx:JL1980:4:4;Cato Domitianus:BTGCykie:2:1;yarell:jerinnightsong:1:1;Seraphim Sunwalker:Liminal.Breacher:117:1;Arcifleur:Lucifleur:117:1;Dies-To-Skeeverz:PinkStorm:117:1;Umaril Reborn:THE_EXODIA:2:1;Ashrosey:tishfire:117:1;Boof Pack Boof:YungLow:2:1",
@@ -275,17 +278,14 @@ RaidificatorHistory =
     },
     ["chars"] = 
     {
-        ["8796093077622069"] = "@noobkiss;noobwick;4",
-        ["8796093076445407"] = "@noobkiss;noobkiss;1",
-        ["8796093077354797"] = "@noobkiss;noobsmell;3",
         ["8796093079602369"] = "@noobkiss;Zou Kimcheng;1",
-        ["8796093077280363"] = "@noobkiss;noobsmile;117",
-        ["8796093077575525"] = "@noobkiss;Chicken Memes;117",
-        ["8796093077130605"] = "@noobkiss;noobhugs;2",
         ["8796093077280431"] = "@noobkiss;noobwink;5",
         ["8796093077977575"] = "@noobkiss;Killswitch Memories;2",
-    },
-    ["notes"] = 
-    {
+        ["8796093077280363"] = "@noobkiss;noobsmile;117",
+        ["8796093077354797"] = "@noobkiss;noobsmell;3",
+        ["8796093077575525"] = "@noobkiss;Chicken Memes;117",
+        ["8796093077622069"] = "@noobkiss;noobwick;4",
+        ["8796093077130605"] = "@noobkiss;noobhugs;2",
+        ["8796093076445407"] = "@noobkiss;noobkiss;1",
     },
 }

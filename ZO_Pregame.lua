@@ -6,47 +6,15 @@ ZO_Pregame_SavedVariables =
         {
             ["$AccountWide"] = 
             {
+                ["ChapterUpgrade"] = 
+                {
+                    ["chapterUpgradeSeenVersion"] = 0,
+                    ["version"] = 1,
+                },
                 ["CharacterSelect_Manager"] = 
                 {
                     ["version"] = 1,
                     ["eventBannerLastSeenTimestamp"] = 1780397866,
-                },
-                ["ChapterUpgrade"] = 
-                {
-                    ["version"] = 1,
-                    ["chapterUpgradeSeenVersion"] = 0,
-                },
-            },
-        },
-        ["@Jonzouio"] = 
-        {
-            ["$AccountWide"] = 
-            {
-                ["CharacterSelect_Manager"] = 
-                {
-                    ["version"] = 1,
-                    ["eventBannerLastSeenTimestamp"] = 1731935456,
-                },
-                ["ChapterUpgrade"] = 
-                {
-                    ["version"] = 1,
-                    ["chapterUpgradeSeenVersion"] = 8,
-                },
-            },
-        },
-        ["@noobkiss"] = 
-        {
-            ["$AccountWide"] = 
-            {
-                ["CharacterSelect_Manager"] = 
-                {
-                    ["version"] = 1,
-                    ["eventBannerLastSeenTimestamp"] = 1781102259,
-                },
-                ["ChapterUpgrade"] = 
-                {
-                    ["version"] = 1,
-                    ["chapterUpgradeSeenVersion"] = 0,
                 },
             },
         },
@@ -54,15 +22,47 @@ ZO_Pregame_SavedVariables =
         {
             ["$AccountWide"] = 
             {
+                ["ChapterUpgrade"] = 
+                {
+                    ["chapterUpgradeSeenVersion"] = 9,
+                    ["version"] = 1,
+                },
                 ["CharacterSelect_Manager"] = 
                 {
                     ["version"] = 1,
                     ["eventBannerLastSeenTimestamp"] = 1774020060,
                 },
+            },
+        },
+        ["@noobkiss"] = 
+        {
+            ["$AccountWide"] = 
+            {
                 ["ChapterUpgrade"] = 
                 {
+                    ["chapterUpgradeSeenVersion"] = 0,
                     ["version"] = 1,
-                    ["chapterUpgradeSeenVersion"] = 9,
+                },
+                ["CharacterSelect_Manager"] = 
+                {
+                    ["version"] = 1,
+                    ["eventBannerLastSeenTimestamp"] = 1782322297,
+                },
+            },
+        },
+        ["@Jonzouio"] = 
+        {
+            ["$AccountWide"] = 
+            {
+                ["ChapterUpgrade"] = 
+                {
+                    ["chapterUpgradeSeenVersion"] = 8,
+                    ["version"] = 1,
+                },
+                ["CharacterSelect_Manager"] = 
+                {
+                    ["version"] = 1,
+                    ["eventBannerLastSeenTimestamp"] = 1731935456,
                 },
             },
         },

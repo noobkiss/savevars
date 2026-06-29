@@ -2,19 +2,6 @@ RDLVars =
 {
     ["Default"] = 
     {
-        ["@Jonzouio"] = 
-        {
-            ["$AccountWide"] = 
-            {
-                ["version"] = 1,
-                ["DropdownChoice"] = 
-                {
-                    ["Major"] = "可发现",
-                    ["SetType"] = "所有",
-                    ["Zone"] = "所有区域",
-                },
-            },
-        },
         ["@Kankerkop"] = 
         {
             ["$AccountWide"] = 
@@ -22,22 +9,9 @@ RDLVars =
                 ["version"] = 1,
                 ["DropdownChoice"] = 
                 {
+                    ["SetType"] = "所有",
+                    ["Zone"] = "所有区域",
                     ["Major"] = "可发现",
-                    ["SetType"] = "所有",
-                    ["Zone"] = "所有区域",
-                },
-            },
-        },
-        ["@noobkiss"] = 
-        {
-            ["$AccountWide"] = 
-            {
-                ["version"] = 1,
-                ["DropdownChoice"] = 
-                {
-                    ["Major"] = "所有线索",
-                    ["SetType"] = "所有",
-                    ["Zone"] = "所有区域",
                 },
             },
         },
@@ -48,9 +22,35 @@ RDLVars =
                 ["version"] = 1,
                 ["DropdownChoice"] = 
                 {
-                    ["Major"] = "可发现",
                     ["SetType"] = "所有",
                     ["Zone"] = "所有区域",
+                    ["Major"] = "可发现",
+                },
+            },
+        },
+        ["@Jonzouio"] = 
+        {
+            ["$AccountWide"] = 
+            {
+                ["version"] = 1,
+                ["DropdownChoice"] = 
+                {
+                    ["SetType"] = "所有",
+                    ["Zone"] = "所有区域",
+                    ["Major"] = "可发现",
+                },
+            },
+        },
+        ["@noobkiss"] = 
+        {
+            ["$AccountWide"] = 
+            {
+                ["version"] = 1,
+                ["DropdownChoice"] = 
+                {
+                    ["SetType"] = "所有",
+                    ["Zone"] = "所有区域",
+                    ["Major"] = "所有线索",
                 },
             },
         },

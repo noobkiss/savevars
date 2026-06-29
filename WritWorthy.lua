@@ -6,17 +6,17 @@ WritWorthyVars =
         {
             ["Kaaskop"] = 
             {
+                ["enable_mat_list_tooltip"] = "Off",
+                ["lang"] = false,
+                ["enable_station_colors"] = false,
+                ["enable_mm_fallback"] = false,
+                ["enable_banked_vouchers"] = false,
+                ["enable_mat_list_chat"] = "Off",
+                ["version"] = 1,
+                ["enable_lib_price"] = true,
                 ["writ_unique_id"] = 
                 {
                 },
-                ["enable_mat_list_tooltip"] = "Off",
-                ["enable_station_colors"] = false,
-                ["enable_banked_vouchers"] = false,
-                ["version"] = 1,
-                ["enable_mm_fallback"] = false,
-                ["enable_mat_list_chat"] = "Off",
-                ["lang"] = false,
-                ["enable_lib_price"] = true,
                 ["enable_mat_price_tooltip"] = true,
             },
             ["$AccountWide"] = 
@@ -30,398 +30,209 @@ WritWorthyVars =
             },
             ["Kankerkop"] = 
             {
+                ["enable_mat_list_tooltip"] = "Off",
+                ["lang"] = false,
+                ["enable_station_colors"] = false,
+                ["enable_mm_fallback"] = false,
+                ["enable_banked_vouchers"] = false,
+                ["enable_mat_list_chat"] = "Off",
+                ["version"] = 1,
+                ["enable_lib_price"] = true,
                 ["writ_unique_id"] = 
                 {
                 },
-                ["enable_mat_list_tooltip"] = "Off",
-                ["enable_station_colors"] = false,
-                ["enable_banked_vouchers"] = false,
-                ["version"] = 1,
-                ["enable_mm_fallback"] = false,
-                ["enable_mat_list_chat"] = "Off",
-                ["lang"] = false,
-                ["enable_lib_price"] = true,
                 ["enable_mat_price_tooltip"] = true,
             },
         },
         ["@noobkiss"] = 
         {
-            ["Killswitch Memories"] = 
+            ["Simmy Seek Snow"] = 
             {
+                ["enable_mat_list_tooltip"] = "Off",
+                ["lang"] = false,
+                ["enable_station_colors"] = false,
+                ["enable_mm_fallback"] = false,
+                ["enable_banked_vouchers"] = false,
+                ["enable_mat_list_chat"] = "Off",
+                ["version"] = 1,
+                ["enable_lib_price"] = true,
                 ["writ_unique_id"] = 
                 {
                 },
-                ["enable_mat_list_tooltip"] = "Off",
-                ["enable_station_colors"] = false,
                 ["enable_mat_price_tooltip"] = true,
-                ["enable_banked_vouchers"] = false,
-                ["enable_lib_price"] = true,
-                ["lang"] = false,
-                ["enable_att_price"] = true,
-                ["enable_mm_fallback"] = false,
-                ["enable_mm_price"] = true,
-                ["enable_mat_list_chat"] = "Off",
-                ["version"] = 1,
-                ["enable_ttc_price"] = true,
             },
             ["Sunken Feb"] = 
             {
+                ["enable_mat_list_tooltip"] = "Off",
+                ["lang"] = false,
+                ["enable_station_colors"] = false,
+                ["enable_mm_fallback"] = false,
+                ["enable_banked_vouchers"] = false,
+                ["enable_mat_list_chat"] = "Off",
+                ["version"] = 1,
+                ["enable_lib_price"] = true,
                 ["writ_unique_id"] = 
                 {
                 },
-                ["enable_mat_list_tooltip"] = "Off",
-                ["enable_station_colors"] = false,
-                ["enable_banked_vouchers"] = false,
-                ["version"] = 1,
-                ["enable_mm_fallback"] = false,
-                ["enable_mat_list_chat"] = "Off",
-                ["lang"] = false,
-                ["enable_lib_price"] = true,
-                ["enable_mat_price_tooltip"] = true,
-            },
-            ["noobkiss"] = 
-            {
-                ["writ_unique_id"] = 
-                {
-                },
-                ["enable_mat_list_tooltip"] = "Off",
-                ["enable_station_colors"] = false,
-                ["enable_mat_price_tooltip"] = true,
-                ["enable_banked_vouchers"] = false,
-                ["enable_lib_price"] = true,
-                ["lang"] = false,
-                ["enable_att_price"] = true,
-                ["enable_mm_fallback"] = false,
-                ["enable_mm_price"] = true,
-                ["enable_mat_list_chat"] = "Off",
-                ["version"] = 1,
-                ["enable_ttc_price"] = true,
-            },
-            ["noobmiss"] = 
-            {
-                ["writ_unique_id"] = 
-                {
-                },
-                ["enable_mat_list_tooltip"] = "Off",
-                ["enable_station_colors"] = false,
-                ["enable_mat_price_tooltip"] = true,
-                ["enable_banked_vouchers"] = false,
-                ["enable_lib_price"] = true,
-                ["lang"] = false,
-                ["enable_att_price"] = true,
-                ["enable_mm_fallback"] = false,
-                ["enable_mm_price"] = true,
-                ["enable_mat_list_chat"] = "Off",
-                ["version"] = 1,
-                ["enable_ttc_price"] = true,
-            },
-            ["Hymn Hemy"] = 
-            {
-                ["writ_unique_id"] = 
-                {
-                },
-                ["enable_mat_list_tooltip"] = "Off",
-                ["enable_station_colors"] = false,
-                ["enable_banked_vouchers"] = false,
-                ["version"] = 1,
-                ["enable_mm_fallback"] = false,
-                ["enable_mat_list_chat"] = "Off",
-                ["lang"] = false,
-                ["enable_lib_price"] = true,
-                ["enable_mat_price_tooltip"] = true,
-            },
-            ["Vex Vex Loop"] = 
-            {
-                ["writ_unique_id"] = 
-                {
-                },
-                ["enable_mat_list_tooltip"] = "Off",
-                ["enable_station_colors"] = false,
-                ["enable_banked_vouchers"] = false,
-                ["version"] = 1,
-                ["enable_mm_fallback"] = false,
-                ["enable_mat_list_chat"] = "Off",
-                ["lang"] = false,
-                ["enable_lib_price"] = true,
-                ["enable_mat_price_tooltip"] = true,
-            },
-            ["noobsmile"] = 
-            {
-                ["writ_unique_id"] = 
-                {
-                },
-                ["enable_mat_list_tooltip"] = "Off",
-                ["enable_station_colors"] = false,
-                ["enable_mat_price_tooltip"] = true,
-                ["enable_banked_vouchers"] = false,
-                ["enable_lib_price"] = true,
-                ["lang"] = false,
-                ["enable_att_price"] = true,
-                ["enable_mm_fallback"] = false,
-                ["enable_mm_price"] = true,
-                ["enable_mat_list_chat"] = "Off",
-                ["version"] = 1,
-                ["enable_ttc_price"] = true,
-            },
-            ["Zou Kimcheng"] = 
-            {
-                ["writ_unique_id"] = 
-                {
-                },
-                ["enable_mat_list_tooltip"] = "Off",
-                ["enable_station_colors"] = false,
-                ["enable_mat_price_tooltip"] = true,
-                ["enable_banked_vouchers"] = false,
-                ["enable_lib_price"] = true,
-                ["lang"] = false,
-                ["enable_att_price"] = true,
-                ["enable_mm_fallback"] = false,
-                ["enable_mm_price"] = true,
-                ["enable_mat_list_chat"] = "Off",
-                ["version"] = 1,
-                ["enable_ttc_price"] = true,
-            },
-            ["noobxoxo"] = 
-            {
-                ["writ_unique_id"] = 
-                {
-                },
-                ["enable_mat_list_tooltip"] = "Off",
-                ["enable_station_colors"] = false,
-                ["enable_banked_vouchers"] = false,
-                ["version"] = 1,
-                ["enable_mm_fallback"] = false,
-                ["enable_mat_list_chat"] = "Off",
-                ["lang"] = false,
-                ["enable_lib_price"] = true,
                 ["enable_mat_price_tooltip"] = true,
             },
             ["noobhugs"] = 
             {
+                ["enable_mat_list_tooltip"] = "Off",
+                ["lang"] = false,
+                ["enable_station_colors"] = false,
+                ["enable_att_price"] = true,
+                ["enable_mm_fallback"] = false,
+                ["enable_mat_list_chat"] = "Off",
+                ["version"] = 1,
+                ["enable_banked_vouchers"] = false,
+                ["enable_mm_price"] = true,
+                ["enable_ttc_price"] = true,
+                ["enable_lib_price"] = true,
                 ["writ_unique_id"] = 
                 {
                 },
-                ["enable_mat_list_tooltip"] = "Off",
-                ["enable_station_colors"] = false,
                 ["enable_mat_price_tooltip"] = true,
-                ["enable_banked_vouchers"] = false,
-                ["enable_lib_price"] = true,
-                ["lang"] = false,
-                ["enable_att_price"] = true,
-                ["enable_mm_fallback"] = false,
-                ["enable_mm_price"] = true,
-                ["enable_mat_list_chat"] = "Off",
-                ["version"] = 1,
-                ["enable_ttc_price"] = true,
-            },
-            ["noobhappy"] = 
-            {
-                ["writ_unique_id"] = 
-                {
-                },
-                ["enable_mat_list_tooltip"] = "Off",
-                ["enable_station_colors"] = false,
-                ["enable_mat_price_tooltip"] = true,
-                ["enable_banked_vouchers"] = false,
-                ["enable_lib_price"] = true,
-                ["lang"] = false,
-                ["enable_att_price"] = true,
-                ["enable_mm_fallback"] = false,
-                ["enable_mm_price"] = true,
-                ["enable_mat_list_chat"] = "Off",
-                ["version"] = 1,
-                ["enable_ttc_price"] = true,
-            },
-            ["Young Ming"] = 
-            {
-                ["writ_unique_id"] = 
-                {
-                },
-                ["enable_mat_list_tooltip"] = "Off",
-                ["enable_station_colors"] = false,
-                ["enable_mat_price_tooltip"] = true,
-                ["enable_banked_vouchers"] = false,
-                ["enable_lib_price"] = true,
-                ["lang"] = false,
-                ["enable_att_price"] = true,
-                ["enable_mm_fallback"] = false,
-                ["enable_mm_price"] = true,
-                ["enable_mat_list_chat"] = "Off",
-                ["version"] = 1,
-                ["enable_ttc_price"] = true,
             },
             ["Galen Chef Mike"] = 
             {
-                ["writ_unique_id"] = 
-                {
-                },
                 ["enable_mat_list_tooltip"] = "Off",
-                ["enable_station_colors"] = false,
-                ["enable_mat_price_tooltip"] = true,
-                ["enable_banked_vouchers"] = false,
-                ["enable_lib_price"] = true,
                 ["lang"] = false,
+                ["enable_station_colors"] = false,
                 ["enable_att_price"] = true,
                 ["enable_mm_fallback"] = false,
-                ["enable_mm_price"] = true,
                 ["enable_mat_list_chat"] = "Off",
                 ["version"] = 1,
+                ["enable_banked_vouchers"] = false,
+                ["enable_mm_price"] = true,
                 ["enable_ttc_price"] = true,
-            },
-            ["noobsmell"] = 
-            {
+                ["enable_lib_price"] = true,
                 ["writ_unique_id"] = 
                 {
                 },
-                ["enable_mat_list_tooltip"] = "Off",
-                ["enable_station_colors"] = false,
-                ["enable_mat_price_tooltip"] = true,
-                ["enable_banked_vouchers"] = false,
-                ["enable_lib_price"] = true,
-                ["lang"] = false,
-                ["enable_att_price"] = true,
-                ["enable_mm_fallback"] = false,
-                ["enable_mm_price"] = true,
-                ["enable_mat_list_chat"] = "Off",
-                ["version"] = 1,
-                ["enable_ttc_price"] = true,
-            },
-            ["Simmy Seek Snow"] = 
-            {
-                ["writ_unique_id"] = 
-                {
-                },
-                ["enable_mat_list_tooltip"] = "Off",
-                ["enable_station_colors"] = false,
-                ["enable_banked_vouchers"] = false,
-                ["version"] = 1,
-                ["enable_mm_fallback"] = false,
-                ["enable_mat_list_chat"] = "Off",
-                ["lang"] = false,
-                ["enable_lib_price"] = true,
                 ["enable_mat_price_tooltip"] = true,
             },
-            ["noobsimper"] = 
+            ["Dizzy Dizzo"] = 
             {
+                ["enable_mat_list_tooltip"] = "Off",
+                ["lang"] = false,
+                ["enable_station_colors"] = false,
+                ["enable_mm_fallback"] = false,
+                ["enable_banked_vouchers"] = false,
+                ["enable_mat_list_chat"] = "Off",
+                ["version"] = 1,
+                ["enable_lib_price"] = true,
                 ["writ_unique_id"] = 
                 {
                 },
+                ["enable_mat_price_tooltip"] = true,
+            },
+            ["Vex Vex Loop"] = 
+            {
                 ["enable_mat_list_tooltip"] = "Off",
-                ["enable_station_colors"] = false,
-                ["enable_banked_vouchers"] = false,
-                ["version"] = 1,
-                ["enable_mm_fallback"] = false,
-                ["enable_mat_list_chat"] = "Off",
                 ["lang"] = false,
+                ["enable_station_colors"] = false,
+                ["enable_mm_fallback"] = false,
+                ["enable_banked_vouchers"] = false,
+                ["enable_mat_list_chat"] = "Off",
+                ["version"] = 1,
                 ["enable_lib_price"] = true,
+                ["writ_unique_id"] = 
+                {
+                },
                 ["enable_mat_price_tooltip"] = true,
             },
             ["Lumina Hoaying"] = 
             {
-                ["writ_unique_id"] = 
-                {
-                },
                 ["enable_mat_list_tooltip"] = "Off",
-                ["enable_station_colors"] = false,
-                ["enable_mat_price_tooltip"] = true,
-                ["enable_banked_vouchers"] = false,
-                ["enable_lib_price"] = true,
                 ["lang"] = false,
+                ["enable_station_colors"] = false,
                 ["enable_att_price"] = true,
                 ["enable_mm_fallback"] = false,
-                ["enable_mm_price"] = true,
                 ["enable_mat_list_chat"] = "Off",
                 ["version"] = 1,
+                ["enable_banked_vouchers"] = false,
+                ["enable_mm_price"] = true,
                 ["enable_ttc_price"] = true,
-            },
-            ["Wasted Wasted"] = 
-            {
+                ["enable_lib_price"] = true,
                 ["writ_unique_id"] = 
                 {
                 },
+                ["enable_mat_price_tooltip"] = true,
+            },
+            ["noobsmell"] = 
+            {
                 ["enable_mat_list_tooltip"] = "Off",
+                ["lang"] = false,
                 ["enable_station_colors"] = false,
-                ["enable_banked_vouchers"] = false,
-                ["version"] = 1,
+                ["enable_att_price"] = true,
                 ["enable_mm_fallback"] = false,
                 ["enable_mat_list_chat"] = "Off",
-                ["lang"] = false,
+                ["version"] = 1,
+                ["enable_banked_vouchers"] = false,
+                ["enable_mm_price"] = true,
+                ["enable_ttc_price"] = true,
                 ["enable_lib_price"] = true,
+                ["writ_unique_id"] = 
+                {
+                },
                 ["enable_mat_price_tooltip"] = true,
             },
             ["noobbomb"] = 
             {
+                ["enable_mat_list_tooltip"] = "Off",
+                ["lang"] = false,
+                ["enable_station_colors"] = false,
+                ["enable_mm_fallback"] = false,
+                ["enable_banked_vouchers"] = false,
+                ["enable_mat_list_chat"] = "Off",
+                ["version"] = 1,
+                ["enable_lib_price"] = true,
                 ["writ_unique_id"] = 
                 {
                 },
-                ["enable_mat_list_tooltip"] = "Off",
-                ["enable_station_colors"] = false,
-                ["enable_banked_vouchers"] = false,
-                ["version"] = 1,
-                ["enable_mm_fallback"] = false,
-                ["enable_mat_list_chat"] = "Off",
-                ["lang"] = false,
-                ["enable_lib_price"] = true,
                 ["enable_mat_price_tooltip"] = true,
             },
-            ["noobwick"] = 
+            ["Young Ming"] = 
             {
+                ["enable_mat_list_tooltip"] = "Off",
+                ["lang"] = false,
+                ["enable_station_colors"] = false,
+                ["enable_att_price"] = true,
+                ["enable_mm_fallback"] = false,
+                ["enable_mat_list_chat"] = "Off",
+                ["version"] = 1,
+                ["enable_banked_vouchers"] = false,
+                ["enable_mm_price"] = true,
+                ["enable_ttc_price"] = true,
+                ["enable_lib_price"] = true,
                 ["writ_unique_id"] = 
                 {
                 },
-                ["enable_mat_list_tooltip"] = "Off",
-                ["enable_station_colors"] = false,
                 ["enable_mat_price_tooltip"] = true,
-                ["enable_banked_vouchers"] = false,
-                ["enable_lib_price"] = true,
-                ["lang"] = false,
-                ["enable_att_price"] = true,
-                ["enable_mm_fallback"] = false,
-                ["enable_mm_price"] = true,
-                ["enable_mat_list_chat"] = "Off",
-                ["version"] = 1,
-                ["enable_ttc_price"] = true,
             },
             ["noobwink"] = 
             {
+                ["enable_mat_list_tooltip"] = "Off",
+                ["lang"] = false,
+                ["enable_station_colors"] = false,
+                ["enable_att_price"] = true,
+                ["enable_mm_fallback"] = false,
+                ["enable_mat_list_chat"] = "Off",
+                ["version"] = 1,
+                ["enable_banked_vouchers"] = false,
+                ["enable_mm_price"] = true,
+                ["enable_ttc_price"] = true,
+                ["enable_lib_price"] = true,
                 ["writ_unique_id"] = 
                 {
                 },
-                ["enable_mat_list_tooltip"] = "Off",
-                ["enable_station_colors"] = false,
                 ["enable_mat_price_tooltip"] = true,
-                ["enable_banked_vouchers"] = false,
-                ["enable_lib_price"] = true,
-                ["lang"] = false,
-                ["enable_att_price"] = true,
-                ["enable_mm_fallback"] = false,
-                ["enable_mm_price"] = true,
-                ["enable_mat_list_chat"] = "Off",
-                ["version"] = 1,
-                ["enable_ttc_price"] = true,
-            },
-            ["Joyous Socks"] = 
-            {
-                ["writ_unique_id"] = 
-                {
-                },
-                ["enable_mat_list_tooltip"] = "Off",
-                ["enable_station_colors"] = false,
-                ["enable_mat_price_tooltip"] = true,
-                ["enable_banked_vouchers"] = false,
-                ["enable_lib_price"] = true,
-                ["lang"] = false,
-                ["enable_att_price"] = true,
-                ["enable_mm_fallback"] = false,
-                ["enable_mm_price"] = true,
-                ["enable_mat_list_chat"] = "Off",
-                ["version"] = 1,
-                ["enable_ttc_price"] = true,
             },
             ["$AccountWide"] = 
             {
-                ["version"] = 1,
                 ["enable_mat_list_tooltip"] = "Missing Only",
+                ["version"] = 1,
                 ["position"] = 
                 {
                     [4] = 609,
@@ -431,160 +242,319 @@ WritWorthyVars =
                 },
                 ["enable_mat_price_tooltip"] = true,
             },
-            ["Flawed Mangoes"] = 
+            ["Joyous Socks"] = 
             {
+                ["enable_mat_list_tooltip"] = "Off",
+                ["lang"] = false,
+                ["enable_station_colors"] = false,
+                ["enable_att_price"] = true,
+                ["enable_mm_fallback"] = false,
+                ["enable_mat_list_chat"] = "Off",
+                ["version"] = 1,
+                ["enable_banked_vouchers"] = false,
+                ["enable_mm_price"] = true,
+                ["enable_ttc_price"] = true,
+                ["enable_lib_price"] = true,
                 ["writ_unique_id"] = 
                 {
                 },
-                ["enable_mat_list_tooltip"] = "Off",
-                ["enable_station_colors"] = false,
-                ["enable_banked_vouchers"] = false,
-                ["version"] = 1,
-                ["enable_mm_fallback"] = false,
-                ["enable_mat_list_chat"] = "Off",
-                ["lang"] = false,
-                ["enable_lib_price"] = true,
                 ["enable_mat_price_tooltip"] = true,
             },
-            ["Dizzy Dizzo"] = 
+            ["Flawed Mangoes"] = 
             {
+                ["enable_mat_list_tooltip"] = "Off",
+                ["lang"] = false,
+                ["enable_station_colors"] = false,
+                ["enable_mm_fallback"] = false,
+                ["enable_banked_vouchers"] = false,
+                ["enable_mat_list_chat"] = "Off",
+                ["version"] = 1,
+                ["enable_lib_price"] = true,
                 ["writ_unique_id"] = 
                 {
                 },
+                ["enable_mat_price_tooltip"] = true,
+            },
+            ["noobsmile"] = 
+            {
                 ["enable_mat_list_tooltip"] = "Off",
+                ["lang"] = false,
                 ["enable_station_colors"] = false,
-                ["enable_banked_vouchers"] = false,
-                ["version"] = 1,
+                ["enable_att_price"] = true,
                 ["enable_mm_fallback"] = false,
                 ["enable_mat_list_chat"] = "Off",
-                ["lang"] = false,
+                ["version"] = 1,
+                ["enable_banked_vouchers"] = false,
+                ["enable_mm_price"] = true,
+                ["enable_ttc_price"] = true,
                 ["enable_lib_price"] = true,
+                ["writ_unique_id"] = 
+                {
+                },
+                ["enable_mat_price_tooltip"] = true,
+            },
+            ["noobsimper"] = 
+            {
+                ["enable_mat_list_tooltip"] = "Off",
+                ["lang"] = false,
+                ["enable_station_colors"] = false,
+                ["enable_mm_fallback"] = false,
+                ["enable_banked_vouchers"] = false,
+                ["enable_mat_list_chat"] = "Off",
+                ["version"] = 1,
+                ["enable_lib_price"] = true,
+                ["writ_unique_id"] = 
+                {
+                },
+                ["enable_mat_price_tooltip"] = true,
+            },
+            ["Zou Kimcheng"] = 
+            {
+                ["enable_mat_list_tooltip"] = "Off",
+                ["lang"] = false,
+                ["enable_station_colors"] = false,
+                ["enable_att_price"] = true,
+                ["enable_mm_fallback"] = false,
+                ["enable_mat_list_chat"] = "Off",
+                ["version"] = 1,
+                ["enable_banked_vouchers"] = false,
+                ["enable_mm_price"] = true,
+                ["enable_ttc_price"] = true,
+                ["enable_lib_price"] = true,
+                ["writ_unique_id"] = 
+                {
+                },
+                ["enable_mat_price_tooltip"] = true,
+            },
+            ["noobmiss"] = 
+            {
+                ["enable_mat_list_tooltip"] = "Off",
+                ["lang"] = false,
+                ["enable_station_colors"] = false,
+                ["enable_att_price"] = true,
+                ["enable_mm_fallback"] = false,
+                ["enable_mat_list_chat"] = "Off",
+                ["version"] = 1,
+                ["enable_banked_vouchers"] = false,
+                ["enable_mm_price"] = true,
+                ["enable_ttc_price"] = true,
+                ["enable_lib_price"] = true,
+                ["writ_unique_id"] = 
+                {
+                },
+                ["enable_mat_price_tooltip"] = true,
+            },
+            ["noobkiss"] = 
+            {
+                ["enable_mat_list_tooltip"] = "Off",
+                ["lang"] = false,
+                ["enable_station_colors"] = false,
+                ["enable_att_price"] = true,
+                ["enable_mm_fallback"] = false,
+                ["enable_mat_list_chat"] = "Off",
+                ["version"] = 1,
+                ["enable_banked_vouchers"] = false,
+                ["enable_mm_price"] = true,
+                ["enable_ttc_price"] = true,
+                ["enable_lib_price"] = true,
+                ["writ_unique_id"] = 
+                {
+                },
+                ["enable_mat_price_tooltip"] = true,
+            },
+            ["noobwick"] = 
+            {
+                ["enable_mat_list_tooltip"] = "Off",
+                ["lang"] = false,
+                ["enable_station_colors"] = false,
+                ["enable_att_price"] = true,
+                ["enable_mm_fallback"] = false,
+                ["enable_mat_list_chat"] = "Off",
+                ["version"] = 1,
+                ["enable_banked_vouchers"] = false,
+                ["enable_mm_price"] = true,
+                ["enable_ttc_price"] = true,
+                ["enable_lib_price"] = true,
+                ["writ_unique_id"] = 
+                {
+                },
+                ["enable_mat_price_tooltip"] = true,
+            },
+            ["Hymn Hemy"] = 
+            {
+                ["enable_mat_list_tooltip"] = "Off",
+                ["lang"] = false,
+                ["enable_station_colors"] = false,
+                ["enable_mm_fallback"] = false,
+                ["enable_banked_vouchers"] = false,
+                ["enable_mat_list_chat"] = "Off",
+                ["version"] = 1,
+                ["enable_lib_price"] = true,
+                ["writ_unique_id"] = 
+                {
+                },
+                ["enable_mat_price_tooltip"] = true,
+            },
+            ["noobhappy"] = 
+            {
+                ["enable_mat_list_tooltip"] = "Off",
+                ["lang"] = false,
+                ["enable_station_colors"] = false,
+                ["enable_att_price"] = true,
+                ["enable_mm_fallback"] = false,
+                ["enable_mat_list_chat"] = "Off",
+                ["version"] = 1,
+                ["enable_banked_vouchers"] = false,
+                ["enable_mm_price"] = true,
+                ["enable_ttc_price"] = true,
+                ["enable_lib_price"] = true,
+                ["writ_unique_id"] = 
+                {
+                },
+                ["enable_mat_price_tooltip"] = true,
+            },
+            ["noobxoxo"] = 
+            {
+                ["enable_mat_list_tooltip"] = "Off",
+                ["lang"] = false,
+                ["enable_station_colors"] = false,
+                ["enable_mm_fallback"] = false,
+                ["enable_banked_vouchers"] = false,
+                ["enable_mat_list_chat"] = "Off",
+                ["version"] = 1,
+                ["enable_lib_price"] = true,
+                ["writ_unique_id"] = 
+                {
+                },
+                ["enable_mat_price_tooltip"] = true,
+            },
+            ["Killswitch Memories"] = 
+            {
+                ["enable_mat_list_tooltip"] = "Off",
+                ["lang"] = false,
+                ["enable_station_colors"] = false,
+                ["enable_att_price"] = true,
+                ["enable_mm_fallback"] = false,
+                ["enable_mat_list_chat"] = "Off",
+                ["version"] = 1,
+                ["enable_banked_vouchers"] = false,
+                ["enable_mm_price"] = true,
+                ["enable_ttc_price"] = true,
+                ["enable_lib_price"] = true,
+                ["writ_unique_id"] = 
+                {
+                },
+                ["enable_mat_price_tooltip"] = true,
+            },
+            ["Wasted Wasted"] = 
+            {
+                ["enable_mat_list_tooltip"] = "Off",
+                ["lang"] = false,
+                ["enable_station_colors"] = false,
+                ["enable_mm_fallback"] = false,
+                ["enable_banked_vouchers"] = false,
+                ["enable_mat_list_chat"] = "Off",
+                ["version"] = 1,
+                ["enable_lib_price"] = true,
+                ["writ_unique_id"] = 
+                {
+                },
                 ["enable_mat_price_tooltip"] = true,
             },
         },
         ["@YYDS1214"] = 
         {
-            ["Yang Yyds"] = 
+            ["aqi ya"] = 
             {
+                ["enable_mat_list_tooltip"] = "Off",
+                ["lang"] = false,
+                ["enable_station_colors"] = false,
+                ["enable_mm_fallback"] = false,
+                ["enable_banked_vouchers"] = false,
+                ["enable_mat_list_chat"] = "Off",
+                ["version"] = 1,
+                ["enable_lib_price"] = true,
                 ["writ_unique_id"] = 
                 {
                 },
-                ["enable_mat_list_tooltip"] = "Off",
-                ["enable_station_colors"] = false,
-                ["enable_banked_vouchers"] = false,
-                ["version"] = 1,
-                ["enable_mm_fallback"] = false,
-                ["enable_mat_list_chat"] = "Off",
-                ["lang"] = false,
-                ["enable_lib_price"] = true,
-                ["enable_mat_price_tooltip"] = true,
-            },
-            ["A qiya"] = 
-            {
-                ["writ_unique_id"] = 
-                {
-                },
-                ["enable_mat_list_tooltip"] = "Off",
-                ["enable_station_colors"] = false,
-                ["enable_banked_vouchers"] = false,
-                ["version"] = 1,
-                ["enable_mm_fallback"] = false,
-                ["enable_mat_list_chat"] = "Off",
-                ["lang"] = false,
-                ["enable_lib_price"] = true,
-                ["enable_mat_price_tooltip"] = true,
-            },
-            ["Aqi Yaa"] = 
-            {
-                ["writ_unique_id"] = 
-                {
-                },
-                ["enable_mat_list_tooltip"] = "Off",
-                ["enable_station_colors"] = false,
-                ["enable_banked_vouchers"] = false,
-                ["version"] = 1,
-                ["enable_mm_fallback"] = false,
-                ["enable_mat_list_chat"] = "Off",
-                ["lang"] = false,
-                ["enable_lib_price"] = true,
-                ["enable_mat_price_tooltip"] = true,
-            },
-            ["Aqiya"] = 
-            {
-                ["writ_unique_id"] = 
-                {
-                },
-                ["enable_mat_list_tooltip"] = "Off",
-                ["enable_station_colors"] = false,
-                ["enable_banked_vouchers"] = false,
-                ["version"] = 1,
-                ["enable_mm_fallback"] = false,
-                ["enable_mat_list_chat"] = "Off",
-                ["lang"] = false,
-                ["enable_lib_price"] = true,
                 ["enable_mat_price_tooltip"] = true,
             },
             ["shiaqi"] = 
             {
+                ["enable_mat_list_tooltip"] = "Off",
+                ["lang"] = false,
+                ["enable_station_colors"] = false,
+                ["enable_mm_fallback"] = false,
+                ["enable_banked_vouchers"] = false,
+                ["enable_mat_list_chat"] = "Off",
+                ["version"] = 1,
+                ["enable_lib_price"] = true,
                 ["writ_unique_id"] = 
                 {
                 },
-                ["enable_mat_list_tooltip"] = "Off",
-                ["enable_station_colors"] = false,
-                ["enable_banked_vouchers"] = false,
-                ["version"] = 1,
-                ["enable_mm_fallback"] = false,
-                ["enable_mat_list_chat"] = "Off",
-                ["lang"] = false,
-                ["enable_lib_price"] = true,
                 ["enable_mat_price_tooltip"] = true,
             },
-            ["aqi ya"] = 
+            ["Yang Yyds"] = 
             {
+                ["enable_mat_list_tooltip"] = "Off",
+                ["lang"] = false,
+                ["enable_station_colors"] = false,
+                ["enable_mm_fallback"] = false,
+                ["enable_banked_vouchers"] = false,
+                ["enable_mat_list_chat"] = "Off",
+                ["version"] = 1,
+                ["enable_lib_price"] = true,
                 ["writ_unique_id"] = 
                 {
                 },
+                ["enable_mat_price_tooltip"] = true,
+            },
+            ["Aqiya"] = 
+            {
                 ["enable_mat_list_tooltip"] = "Off",
-                ["enable_station_colors"] = false,
-                ["enable_banked_vouchers"] = false,
-                ["version"] = 1,
-                ["enable_mm_fallback"] = false,
-                ["enable_mat_list_chat"] = "Off",
                 ["lang"] = false,
+                ["enable_station_colors"] = false,
+                ["enable_mm_fallback"] = false,
+                ["enable_banked_vouchers"] = false,
+                ["enable_mat_list_chat"] = "Off",
+                ["version"] = 1,
                 ["enable_lib_price"] = true,
+                ["writ_unique_id"] = 
+                {
+                },
                 ["enable_mat_price_tooltip"] = true,
             },
             ["Junjunya"] = 
             {
-                ["writ_unique_id"] = 
-                {
-                },
                 ["enable_mat_list_tooltip"] = "Off",
-                ["enable_station_colors"] = false,
-                ["enable_mat_price_tooltip"] = true,
-                ["enable_banked_vouchers"] = false,
-                ["enable_lib_price"] = true,
                 ["lang"] = false,
+                ["enable_station_colors"] = false,
                 ["enable_att_price"] = true,
                 ["enable_mm_fallback"] = false,
-                ["enable_mm_price"] = true,
                 ["enable_mat_list_chat"] = "Off",
                 ["version"] = 1,
+                ["enable_banked_vouchers"] = false,
+                ["enable_mm_price"] = true,
                 ["enable_ttc_price"] = true,
-            },
-            ["a qi ya"] = 
-            {
+                ["enable_lib_price"] = true,
                 ["writ_unique_id"] = 
                 {
                 },
+                ["enable_mat_price_tooltip"] = true,
+            },
+            ["Aqi Yaa"] = 
+            {
                 ["enable_mat_list_tooltip"] = "Off",
-                ["enable_station_colors"] = false,
-                ["enable_banked_vouchers"] = false,
-                ["version"] = 1,
-                ["enable_mm_fallback"] = false,
-                ["enable_mat_list_chat"] = "Off",
                 ["lang"] = false,
+                ["enable_station_colors"] = false,
+                ["enable_mm_fallback"] = false,
+                ["enable_banked_vouchers"] = false,
+                ["enable_mat_list_chat"] = "Off",
+                ["version"] = 1,
                 ["enable_lib_price"] = true,
+                ["writ_unique_id"] = 
+                {
+                },
                 ["enable_mat_price_tooltip"] = true,
             },
             ["$AccountWide"] = 
@@ -595,6 +565,36 @@ WritWorthyVars =
                     [1] = 50,
                 },
                 ["version"] = 1,
+            },
+            ["A qiya"] = 
+            {
+                ["enable_mat_list_tooltip"] = "Off",
+                ["lang"] = false,
+                ["enable_station_colors"] = false,
+                ["enable_mm_fallback"] = false,
+                ["enable_banked_vouchers"] = false,
+                ["enable_mat_list_chat"] = "Off",
+                ["version"] = 1,
+                ["enable_lib_price"] = true,
+                ["writ_unique_id"] = 
+                {
+                },
+                ["enable_mat_price_tooltip"] = true,
+            },
+            ["a qi ya"] = 
+            {
+                ["enable_mat_list_tooltip"] = "Off",
+                ["lang"] = false,
+                ["enable_station_colors"] = false,
+                ["enable_mm_fallback"] = false,
+                ["enable_banked_vouchers"] = false,
+                ["enable_mat_list_chat"] = "Off",
+                ["version"] = 1,
+                ["enable_lib_price"] = true,
+                ["writ_unique_id"] = 
+                {
+                },
+                ["enable_mat_price_tooltip"] = true,
             },
         },
     },

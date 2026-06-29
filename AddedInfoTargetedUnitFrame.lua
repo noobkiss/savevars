@@ -2,23 +2,43 @@ AITUFSavedVariables =
 {
     ["Default"] = 
     {
+        ["@YYDS1214"] = 
+        {
+            ["$AccountWide"] = 
+            {
+                ["highlightEsoPlus"] = false,
+                ["hideTitle"] = false,
+                ["highlightFriends"] = false,
+                ["iconSizeRace"] = 24,
+                ["colorGuildIcon"] = false,
+                ["highlightGuildMembers"] = false,
+                ["useRaceIcon"] = false,
+                ["accountWide"] = true,
+                ["useClassIcon"] = true,
+                ["showRace"] = false,
+                ["showClass"] = false,
+                ["showCPifAvailable"] = false,
+                ["version"] = 1,
+                ["iconSizeClass"] = 32,
+            },
+        },
         ["@Kankerkop"] = 
         {
             ["$AccountWide"] = 
             {
-                ["showRace"] = true,
-                ["useRaceIcon"] = false,
-                ["version"] = 1,
-                ["highlightGuildMembers"] = true,
-                ["showClass"] = false,
-                ["highlightFriends"] = true,
-                ["accountWide"] = true,
-                ["showCPifAvailable"] = false,
                 ["highlightEsoPlus"] = true,
                 ["hideTitle"] = false,
-                ["useClassIcon"] = true,
-                ["colorGuildIcon"] = false,
+                ["highlightFriends"] = true,
                 ["iconSizeRace"] = 24,
+                ["colorGuildIcon"] = false,
+                ["highlightGuildMembers"] = true,
+                ["useRaceIcon"] = false,
+                ["accountWide"] = true,
+                ["useClassIcon"] = true,
+                ["showRace"] = true,
+                ["showClass"] = false,
+                ["showCPifAvailable"] = false,
+                ["version"] = 1,
                 ["iconSizeClass"] = 32,
             },
         },
@@ -26,39 +46,19 @@ AITUFSavedVariables =
         {
             ["$AccountWide"] = 
             {
-                ["showRace"] = true,
-                ["useRaceIcon"] = false,
-                ["version"] = 1,
-                ["highlightGuildMembers"] = true,
-                ["showClass"] = false,
-                ["highlightFriends"] = true,
-                ["accountWide"] = true,
-                ["showCPifAvailable"] = false,
                 ["highlightEsoPlus"] = true,
                 ["hideTitle"] = false,
-                ["useClassIcon"] = false,
-                ["colorGuildIcon"] = true,
+                ["highlightFriends"] = true,
                 ["iconSizeRace"] = 32,
-                ["iconSizeClass"] = 32,
-            },
-        },
-        ["@YYDS1214"] = 
-        {
-            ["$AccountWide"] = 
-            {
-                ["showRace"] = false,
+                ["colorGuildIcon"] = true,
+                ["highlightGuildMembers"] = true,
                 ["useRaceIcon"] = false,
-                ["version"] = 1,
-                ["highlightGuildMembers"] = false,
-                ["showClass"] = false,
-                ["highlightFriends"] = false,
                 ["accountWide"] = true,
+                ["useClassIcon"] = false,
+                ["showRace"] = true,
+                ["showClass"] = false,
                 ["showCPifAvailable"] = false,
-                ["highlightEsoPlus"] = false,
-                ["hideTitle"] = false,
-                ["useClassIcon"] = true,
-                ["colorGuildIcon"] = false,
-                ["iconSizeRace"] = 24,
+                ["version"] = 1,
                 ["iconSizeClass"] = 32,
             },
         },

@@ -1,63 +1,63 @@
 Tim99sFTSIO =
 {
-    ["EU Megaserver"] = 
-    {
-        ["@noobkiss"] = 
-        {
-            ["$AccountWide"] = 
-            {
-                ["useICnoCP"] = false,
-                ["autoAcceptIniQ"] = false,
-                ["version"] = 1,
-                ["autoAcceptChat"] = false,
-                ["autoAcceptPvpQ"] = true,
-            },
-        },
-    },
     ["NA Megaserver"] = 
     {
-        ["@Jonzouio"] = 
-        {
-            ["$AccountWide"] = 
-            {
-                ["useICnoCP"] = false,
-                ["autoAcceptIniQ"] = false,
-                ["version"] = 1,
-                ["autoAcceptChat"] = false,
-                ["autoAcceptPvpQ"] = true,
-            },
-        },
         ["@Kankerkop"] = 
         {
             ["$AccountWide"] = 
             {
-                ["useICnoCP"] = false,
                 ["autoAcceptIniQ"] = false,
-                ["version"] = 1,
                 ["autoAcceptChat"] = false,
                 ["autoAcceptPvpQ"] = true,
-            },
-        },
-        ["@noobkiss"] = 
-        {
-            ["$AccountWide"] = 
-            {
-                ["useICnoCP"] = false,
-                ["autoAcceptIniQ"] = false,
                 ["version"] = 1,
-                ["autoAcceptChat"] = true,
-                ["autoAcceptPvpQ"] = true,
+                ["useICnoCP"] = false,
             },
         },
         ["@YYDS1214"] = 
         {
             ["$AccountWide"] = 
             {
-                ["useICnoCP"] = false,
                 ["autoAcceptIniQ"] = false,
-                ["version"] = 1,
                 ["autoAcceptChat"] = false,
                 ["autoAcceptPvpQ"] = true,
+                ["version"] = 1,
+                ["useICnoCP"] = false,
+            },
+        },
+        ["@Jonzouio"] = 
+        {
+            ["$AccountWide"] = 
+            {
+                ["autoAcceptIniQ"] = false,
+                ["autoAcceptChat"] = false,
+                ["autoAcceptPvpQ"] = true,
+                ["version"] = 1,
+                ["useICnoCP"] = false,
+            },
+        },
+        ["@noobkiss"] = 
+        {
+            ["$AccountWide"] = 
+            {
+                ["autoAcceptIniQ"] = false,
+                ["autoAcceptChat"] = true,
+                ["autoAcceptPvpQ"] = true,
+                ["version"] = 1,
+                ["useICnoCP"] = false,
+            },
+        },
+    },
+    ["EU Megaserver"] = 
+    {
+        ["@noobkiss"] = 
+        {
+            ["$AccountWide"] = 
+            {
+                ["autoAcceptIniQ"] = false,
+                ["autoAcceptChat"] = false,
+                ["autoAcceptPvpQ"] = true,
+                ["version"] = 1,
+                ["useICnoCP"] = false,
             },
         },
     },

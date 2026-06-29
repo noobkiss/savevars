@@ -1,66 +1,66 @@
 LibGroupSocket_Data =
 {
-    ["@Kankerkop"] = 
+    ["@YYDS1214"] = 
     {
-        ["autoDisableOnSessionStart"] = true,
-        ["version"] = 1,
         ["handlers"] = 
         {
+            [1] = 
+            {
+                ["enabled"] = true,
+                ["version"] = 1,
+                ["percentOnly"] = true,
+            },
             [21] = 
             {
                 ["version"] = 1,
                 ["enabled"] = true,
             },
+        },
+        ["autoDisableOnSessionStart"] = true,
+        ["autoDisableOnGroupLeft"] = true,
+        ["version"] = 1,
+        ["enabled"] = false,
+    },
+    ["@Kankerkop"] = 
+    {
+        ["handlers"] = 
+        {
             [1] = 
             {
+                ["enabled"] = true,
                 ["version"] = 1,
                 ["percentOnly"] = true,
+            },
+            [21] = 
+            {
+                ["version"] = 1,
                 ["enabled"] = true,
             },
         },
-        ["enabled"] = false,
+        ["autoDisableOnSessionStart"] = true,
         ["autoDisableOnGroupLeft"] = true,
+        ["version"] = 1,
+        ["enabled"] = false,
     },
     ["@noobkiss"] = 
     {
-        ["autoDisableOnSessionStart"] = true,
-        ["version"] = 1,
         ["handlers"] = 
         {
+            [1] = 
+            {
+                ["enabled"] = true,
+                ["version"] = 1,
+                ["percentOnly"] = true,
+            },
             [21] = 
             {
                 ["version"] = 1,
                 ["enabled"] = true,
             },
-            [1] = 
-            {
-                ["version"] = 1,
-                ["percentOnly"] = true,
-                ["enabled"] = true,
-            },
         },
-        ["enabled"] = false,
-        ["autoDisableOnGroupLeft"] = true,
-    },
-    ["@YYDS1214"] = 
-    {
         ["autoDisableOnSessionStart"] = true,
-        ["version"] = 1,
-        ["handlers"] = 
-        {
-            [21] = 
-            {
-                ["version"] = 1,
-                ["enabled"] = true,
-            },
-            [1] = 
-            {
-                ["version"] = 1,
-                ["percentOnly"] = true,
-                ["enabled"] = true,
-            },
-        },
-        ["enabled"] = false,
         ["autoDisableOnGroupLeft"] = true,
+        ["version"] = 1,
+        ["enabled"] = false,
     },
 }

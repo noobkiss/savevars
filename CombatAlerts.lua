@@ -6,27 +6,27 @@ CombatAlertsSavedVariables =
         {
             ["$AccountWide"] = 
             {
-                ["dsrShowWave"] = false,
-                ["lokiStance"] = false,
-                ["crushing"] = false,
-                ["verboseCasts"] = false,
-                ["debugEnabled"] = false,
-                ["extMA"] = false,
-                ["extTDC"] = false,
-                ["maxCastMS"] = 4000,
-                ["dsrDelugeBlame"] = false,
                 ["panelTop"] = 300,
-                ["crshift"] = true,
-                ["panelMigrated"] = true,
-                ["panelLeft"] = 400,
+                ["extMA"] = false,
+                ["crushing"] = false,
                 ["castAlertsSound"] = true,
+                ["dsrDelugeBlame"] = false,
+                ["verboseCasts"] = false,
                 ["version"] = 1,
+                ["maxCastMS"] = 4000,
+                ["dsrPortSounds"] = false,
                 ["debugLog"] = 
                 {
                 },
-                ["projectileTimingAdjustment"] = 0.8000000000,
+                ["panelLeft"] = 400,
+                ["panelMigrated"] = true,
                 ["castAlertsEnabled"] = true,
-                ["dsrPortSounds"] = false,
+                ["projectileTimingAdjustment"] = 0.8000000000,
+                ["extTDC"] = false,
+                ["lokiStance"] = false,
+                ["crshift"] = true,
+                ["dsrShowWave"] = false,
+                ["debugEnabled"] = false,
             },
         },
     },
@@ -39,64 +39,64 @@ CombatAlertsSettings =
         {
             ["$AccountWide"] = 
             {
+                ["bypassPurgeSlotCheck"] = true,
+                ["disabledModules"] = 
+                {
+                },
+                ["statusPanel"] = 
+                {
+                    ["top"] = 510,
+                    ["left"] = 301,
+                },
+                ["suppressModuleMessages"] = false,
+                ["disableAnnoyingMessages"] = true,
+                ["nearby"] = 0,
+                ["version"] = 1,
                 ["groupPanel"] = 
                 {
                     ["right"] = -121,
                     ["mid"] = 70,
                 },
-                ["statusPanel"] = 
-                {
-                    ["left"] = 301,
-                    ["top"] = 510,
-                },
-                ["disabledModules"] = 
-                {
-                },
-                ["version"] = 1,
-                ["suppressModuleMessages"] = false,
-                ["nearby"] = 0,
-                ["disableAnnoyingMessages"] = true,
-                ["bypassPurgeSlotCheck"] = true,
             },
         },
     },
 }
 CombatAlertsModules =
 {
-    ["CA_M_U30"] = 
-    {
-        ["eyeLeftRight"] = false,
-        ["groundArrow"] = false,
-        ["volatileShellLabels"] = 2,
-    },
     ["CA_M_U09"] = 
-    {
-        ["raidLeadMode"] = false,
-    },
-    ["CA_M_U14"] = 
     {
         ["raidLeadMode"] = false,
     },
     ["CA_M_U47"] = 
     {
-        ["directionsColorBG"] = 862375014,
         ["splinters"] = true,
         ["directionsColorFG"] = 4294967295,
         ["directions"] = true,
+        ["directionsColorBG"] = 862375014,
+    },
+    ["CA_M_U30"] = 
+    {
+        ["volatileShellLabels"] = 2,
+        ["groundArrow"] = false,
+        ["eyeLeftRight"] = false,
+    },
+    ["CA_M_U14"] = 
+    {
+        ["raidLeadMode"] = false,
     },
     ["CA_M_U42"] = 
     {
-        ["mirrorSpawns"] = true,
-        ["whirlwind"] = false,
-        ["burstNear"] = false,
-        ["colorBoth"] = 4278255513,
         ["mirrorLabels"] = true,
-        ["extraAlerts"] = true,
-        ["colorPassage"] = 4278190233,
-        ["suicidePrevention"] = true,
-        ["raidLeadMode"] = false,
-        ["cooldownPanel"] = true,
-        ["colorOverloaded"] = 10092441,
         ["knotNumber"] = true,
+        ["extraAlerts"] = true,
+        ["whirlwind"] = false,
+        ["raidLeadMode"] = false,
+        ["suicidePrevention"] = true,
+        ["colorBoth"] = 4278255513,
+        ["colorOverloaded"] = 10092441,
+        ["mirrorSpawns"] = true,
+        ["cooldownPanel"] = true,
+        ["burstNear"] = false,
+        ["colorPassage"] = 4278190233,
     },
 }

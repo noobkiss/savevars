@@ -1,11 +1,363 @@
 SDC_SaveVars =
 {
-    ["EU Megaserver"] = 
+    ["NA Megaserver"] = 
     {
-        ["@noobkiss"] = 
+        ["@YYDS1214"] = 
         {
+            ["8796093077181565"] = 
+            {
+                ["CookCraft"] = true,
+                ["EnchantCraft"] = true,
+                ["DailyRawRestrict"] = 
+                {
+                },
+                ["SolsticeRapid"] = true,
+                ["Window_rPoint"] = 128,
+                ["version"] = 1,
+                ["CV"] = false,
+                ["DD_Bank"] = false,
+                ["SmithCraft"] = true,
+                ["OpenBox"] = true,
+                ["Window_OffsetX"] = 0,
+                ["NotClose"] = false,
+                ["AQ"] = true,
+                ["SolsticeAuto"] = true,
+                ["OpenBank"] = false,
+                ["Bank"] = true,
+                ["DD_Research"] = true,
+                ["Window_Show"] = true,
+                ["WQ"] = true,
+                ["OpenBankAssistant"] = true,
+                ["DD_Announce"] = false,
+                ["DailyCraft"] = true,
+                ["Window_OffsetY"] = 0,
+                ["StyleList"] = 
+                {
+                },
+                ["QuestDelay"] = 200,
+                ["MasterRestrict"] = 
+                {
+                },
+                ["DD_AlchemyCost"] = true,
+                ["DailyRestrict"] = 
+                {
+                },
+                ["CQ"] = true,
+                ["DD_SmithMaterialLeft"] = 200,
+                ["JQ"] = true,
+                ["AlchemyCraft"] = true,
+                ["BQ"] = true,
+                ["$LastCharacterName"] = "Aqiya",
+                ["PQ"] = true,
+                ["MasterCraft"] = true,
+                ["CustomBoxLinks"] = 
+                {
+                },
+                ["Window_Point"] = 128,
+                ["EQ"] = true,
+                ["QuestAuto"] = true,
+                ["CloseBank"] = true,
+            },
+            ["8796093077595053"] = 
+            {
+                ["CookCraft"] = true,
+                ["EnchantCraft"] = true,
+                ["DailyRawRestrict"] = 
+                {
+                },
+                ["SolsticeRapid"] = true,
+                ["Window_rPoint"] = 128,
+                ["version"] = 1,
+                ["CV"] = false,
+                ["DD_Bank"] = false,
+                ["SmithCraft"] = true,
+                ["OpenBox"] = true,
+                ["Window_OffsetX"] = 0,
+                ["NotClose"] = false,
+                ["AQ"] = true,
+                ["SolsticeAuto"] = true,
+                ["OpenBank"] = false,
+                ["Bank"] = true,
+                ["DD_Research"] = true,
+                ["Window_Show"] = true,
+                ["WQ"] = true,
+                ["OpenBankAssistant"] = true,
+                ["DD_Announce"] = false,
+                ["DailyCraft"] = true,
+                ["Window_OffsetY"] = 0,
+                ["StyleList"] = 
+                {
+                },
+                ["QuestDelay"] = 200,
+                ["MasterRestrict"] = 
+                {
+                },
+                ["DD_AlchemyCost"] = true,
+                ["DailyRestrict"] = 
+                {
+                },
+                ["CQ"] = true,
+                ["DD_SmithMaterialLeft"] = 200,
+                ["JQ"] = true,
+                ["AlchemyCraft"] = true,
+                ["BQ"] = true,
+                ["$LastCharacterName"] = "aqi ya",
+                ["PQ"] = true,
+                ["MasterCraft"] = true,
+                ["CustomBoxLinks"] = 
+                {
+                },
+                ["Window_Point"] = 128,
+                ["EQ"] = true,
+                ["QuestAuto"] = true,
+                ["CloseBank"] = true,
+            },
+            ["8796093077181587"] = 
+            {
+                ["CookCraft"] = true,
+                ["EnchantCraft"] = true,
+                ["DailyRawRestrict"] = 
+                {
+                },
+                ["SolsticeRapid"] = true,
+                ["Window_rPoint"] = 128,
+                ["version"] = 1,
+                ["CV"] = false,
+                ["DD_Bank"] = false,
+                ["SmithCraft"] = true,
+                ["OpenBox"] = true,
+                ["Window_OffsetX"] = 0,
+                ["NotClose"] = false,
+                ["AQ"] = true,
+                ["SolsticeAuto"] = true,
+                ["OpenBank"] = false,
+                ["Bank"] = true,
+                ["DD_Research"] = true,
+                ["Window_Show"] = true,
+                ["WQ"] = true,
+                ["OpenBankAssistant"] = true,
+                ["DD_Announce"] = false,
+                ["DailyCraft"] = true,
+                ["Window_OffsetY"] = 0,
+                ["StyleList"] = 
+                {
+                },
+                ["QuestDelay"] = 200,
+                ["MasterRestrict"] = 
+                {
+                },
+                ["DD_AlchemyCost"] = true,
+                ["DailyRestrict"] = 
+                {
+                },
+                ["CQ"] = true,
+                ["DD_SmithMaterialLeft"] = 200,
+                ["JQ"] = true,
+                ["AlchemyCraft"] = true,
+                ["BQ"] = true,
+                ["$LastCharacterName"] = "a qi ya",
+                ["PQ"] = true,
+                ["MasterCraft"] = true,
+                ["CustomBoxLinks"] = 
+                {
+                },
+                ["Window_Point"] = 128,
+                ["EQ"] = true,
+                ["QuestAuto"] = true,
+                ["CloseBank"] = true,
+            },
+            ["8796093077165965"] = 
+            {
+                ["CookCraft"] = true,
+                ["EnchantCraft"] = true,
+                ["DailyRawRestrict"] = 
+                {
+                },
+                ["SolsticeRapid"] = true,
+                ["Window_rPoint"] = 128,
+                ["version"] = 1,
+                ["CV"] = false,
+                ["DD_Bank"] = false,
+                ["SmithCraft"] = true,
+                ["OpenBox"] = true,
+                ["Window_OffsetX"] = 0,
+                ["NotClose"] = false,
+                ["AQ"] = true,
+                ["SolsticeAuto"] = true,
+                ["OpenBank"] = false,
+                ["Bank"] = true,
+                ["DD_Research"] = true,
+                ["Window_Show"] = true,
+                ["WQ"] = true,
+                ["OpenBankAssistant"] = true,
+                ["DD_Announce"] = false,
+                ["DailyCraft"] = true,
+                ["Window_OffsetY"] = 0,
+                ["StyleList"] = 
+                {
+                },
+                ["QuestDelay"] = 200,
+                ["MasterRestrict"] = 
+                {
+                },
+                ["DD_AlchemyCost"] = true,
+                ["DailyRestrict"] = 
+                {
+                },
+                ["CQ"] = true,
+                ["DD_SmithMaterialLeft"] = 200,
+                ["JQ"] = true,
+                ["AlchemyCraft"] = true,
+                ["BQ"] = true,
+                ["$LastCharacterName"] = "Junjunya",
+                ["PQ"] = true,
+                ["MasterCraft"] = true,
+                ["CustomBoxLinks"] = 
+                {
+                },
+                ["Window_Point"] = 128,
+                ["EQ"] = true,
+                ["QuestAuto"] = true,
+                ["CloseBank"] = true,
+            },
+            ["8796093077153837"] = 
+            {
+                ["CookCraft"] = true,
+                ["EnchantCraft"] = true,
+                ["DailyRawRestrict"] = 
+                {
+                },
+                ["SolsticeRapid"] = true,
+                ["Window_rPoint"] = 128,
+                ["version"] = 1,
+                ["CV"] = false,
+                ["DD_Bank"] = false,
+                ["SmithCraft"] = true,
+                ["OpenBox"] = true,
+                ["Window_OffsetX"] = 0,
+                ["NotClose"] = false,
+                ["AQ"] = true,
+                ["SolsticeAuto"] = true,
+                ["OpenBank"] = false,
+                ["Bank"] = true,
+                ["DD_Research"] = true,
+                ["Window_Show"] = true,
+                ["WQ"] = true,
+                ["OpenBankAssistant"] = true,
+                ["DD_Announce"] = false,
+                ["DailyCraft"] = true,
+                ["Window_OffsetY"] = 0,
+                ["StyleList"] = 
+                {
+                },
+                ["QuestDelay"] = 200,
+                ["MasterRestrict"] = 
+                {
+                },
+                ["DD_AlchemyCost"] = true,
+                ["DailyRestrict"] = 
+                {
+                },
+                ["CQ"] = true,
+                ["DD_SmithMaterialLeft"] = 200,
+                ["JQ"] = true,
+                ["AlchemyCraft"] = true,
+                ["BQ"] = true,
+                ["$LastCharacterName"] = "Yang Yyds",
+                ["PQ"] = true,
+                ["MasterCraft"] = true,
+                ["CustomBoxLinks"] = 
+                {
+                },
+                ["Window_Point"] = 128,
+                ["EQ"] = true,
+                ["QuestAuto"] = true,
+                ["CloseBank"] = true,
+            },
+            ["8796093077181579"] = 
+            {
+                ["CookCraft"] = true,
+                ["EnchantCraft"] = true,
+                ["DailyRawRestrict"] = 
+                {
+                },
+                ["SolsticeRapid"] = true,
+                ["Window_rPoint"] = 128,
+                ["version"] = 1,
+                ["CV"] = false,
+                ["DD_Bank"] = false,
+                ["SmithCraft"] = true,
+                ["OpenBox"] = true,
+                ["Window_OffsetX"] = 0,
+                ["NotClose"] = false,
+                ["AQ"] = true,
+                ["SolsticeAuto"] = true,
+                ["OpenBank"] = false,
+                ["Bank"] = true,
+                ["DD_Research"] = true,
+                ["Window_Show"] = true,
+                ["WQ"] = true,
+                ["OpenBankAssistant"] = true,
+                ["DD_Announce"] = false,
+                ["DailyCraft"] = true,
+                ["Window_OffsetY"] = 0,
+                ["StyleList"] = 
+                {
+                },
+                ["QuestDelay"] = 200,
+                ["MasterRestrict"] = 
+                {
+                },
+                ["DD_AlchemyCost"] = true,
+                ["DailyRestrict"] = 
+                {
+                },
+                ["CQ"] = true,
+                ["DD_SmithMaterialLeft"] = 200,
+                ["JQ"] = true,
+                ["AlchemyCraft"] = true,
+                ["BQ"] = true,
+                ["$LastCharacterName"] = "A qiya",
+                ["PQ"] = true,
+                ["MasterCraft"] = true,
+                ["CustomBoxLinks"] = 
+                {
+                },
+                ["Window_Point"] = 128,
+                ["EQ"] = true,
+                ["QuestAuto"] = true,
+                ["CloseBank"] = true,
+            },
             ["$AccountWide"] = 
             {
+                ["CookCraft"] = true,
+                ["EnchantCraft"] = true,
+                ["DailyRawRestrict"] = 
+                {
+                    [1] = "%/",
+                },
+                ["SolsticeRapid"] = true,
+                ["Window_rPoint"] = 128,
+                ["version"] = 1,
+                ["CV"] = false,
+                ["DD_Bank"] = false,
+                ["SmithCraft"] = true,
+                ["OpenBox"] = true,
+                ["Window_OffsetX"] = 0,
+                ["AQ"] = true,
+                ["SolsticeAuto"] = true,
+                ["CustomBoxLinks"] = 
+                {
+                },
+                ["OpenBank"] = false,
+                ["DD_Research"] = true,
+                ["Window_Show"] = true,
+                ["WQ"] = true,
+                ["Bank"] = true,
+                ["DD_Announce"] = false,
+                ["DailyCraft"] = true,
+                ["Window_OffsetY"] = 0,
+                ["OpenBankAssistant"] = true,
                 ["StyleList"] = 
                 {
                     [1] = 33251,
@@ -19,16 +371,12 @@ SDC_SaveVars =
                     [9] = 33255,
                     [34] = 33254,
                 },
-                ["SolsticeAuto"] = true,
-                ["OpenBankAssistant"] = true,
-                ["Window_OffsetX"] = 0,
-                ["EnchantCraft"] = true,
-                ["DD_SmithMaterialLeft"] = 200,
                 ["QuestDelay"] = 200,
-                ["CustomBoxLinks"] = 
+                ["MasterRestrict"] = 
                 {
+                    [2] = 150671,
+                    [1] = 150731,
                 },
-                ["DD_Announce"] = false,
                 ["DailyRestrict"] = 
                 {
                     [1] = 30152,
@@ -37,160 +385,216 @@ SDC_SaveVars =
                     [4] = 150731,
                     [5] = 150671,
                 },
-                ["Bank"] = true,
-                ["DailyCraft"] = true,
-                ["PQ"] = true,
-                ["OpenBox"] = true,
-                ["BQ"] = true,
-                ["Window_OffsetY"] = 0,
                 ["CQ"] = true,
+                ["DD_SmithMaterialLeft"] = 200,
                 ["DD_AlchemyCost"] = true,
-                ["OpenBank"] = false,
+                ["AlchemyCraft"] = true,
+                ["BQ"] = true,
+                ["JQ"] = true,
+                ["PQ"] = true,
+                ["MasterCraft"] = true,
+                ["NotClose"] = false,
+                ["Window_Point"] = 128,
+                ["EQ"] = true,
+                ["QuestAuto"] = true,
+                ["CloseBank"] = true,
+            },
+            ["8796093077181623"] = 
+            {
+                ["CookCraft"] = true,
+                ["EnchantCraft"] = true,
                 ["DailyRawRestrict"] = 
                 {
-                    [1] = "%/",
                 },
-                ["NotClose"] = false,
-                ["DD_Research"] = true,
                 ["SolsticeRapid"] = true,
-                ["DD_Bank"] = false,
-                ["CookCraft"] = true,
-                ["CV"] = false,
-                ["EQ"] = true,
-                ["AlchemyCraft"] = true,
-                ["MasterRestrict"] = 
-                {
-                    [2] = 150671,
-                    [1] = 150731,
-                },
-                ["AQ"] = true,
-                ["WQ"] = true,
-                ["JQ"] = true,
-                ["SmithCraft"] = true,
                 ["Window_rPoint"] = 128,
-                ["Window_Show"] = true,
                 ["version"] = 1,
-                ["CloseBank"] = true,
-                ["MasterCraft"] = true,
-                ["Window_Point"] = 128,
-                ["QuestAuto"] = true,
-            },
-            ["8798292100191884"] = 
-            {
+                ["CV"] = false,
+                ["DD_Bank"] = false,
+                ["SmithCraft"] = true,
+                ["OpenBox"] = true,
+                ["Window_OffsetX"] = 0,
+                ["NotClose"] = false,
+                ["AQ"] = true,
+                ["SolsticeAuto"] = true,
+                ["OpenBank"] = false,
+                ["Bank"] = true,
+                ["DD_Research"] = true,
+                ["Window_Show"] = true,
+                ["WQ"] = true,
+                ["OpenBankAssistant"] = true,
+                ["DD_Announce"] = false,
+                ["DailyCraft"] = true,
+                ["Window_OffsetY"] = 0,
                 ["StyleList"] = 
                 {
                 },
-                ["SolsticeAuto"] = true,
-                ["$LastCharacterName"] = "noobkiss",
-                ["OpenBankAssistant"] = true,
-                ["Window_OffsetX"] = 0,
-                ["EnchantCraft"] = true,
-                ["DD_SmithMaterialLeft"] = 200,
                 ["QuestDelay"] = 200,
-                ["CustomBoxLinks"] = 
-                {
-                },
-                ["DD_Announce"] = false,
-                ["DailyRestrict"] = 
-                {
-                },
-                ["Bank"] = true,
-                ["DailyCraft"] = true,
-                ["PQ"] = true,
-                ["OpenBox"] = true,
-                ["BQ"] = true,
-                ["Window_OffsetY"] = 0,
-                ["CQ"] = true,
-                ["DD_AlchemyCost"] = true,
-                ["OpenBank"] = false,
-                ["DailyRawRestrict"] = 
-                {
-                },
-                ["NotClose"] = false,
-                ["DD_Research"] = true,
-                ["Window_Show"] = true,
-                ["DD_Bank"] = false,
-                ["CookCraft"] = true,
-                ["CV"] = false,
-                ["EQ"] = true,
-                ["AlchemyCraft"] = true,
                 ["MasterRestrict"] = 
                 {
                 },
-                ["AQ"] = true,
-                ["WQ"] = true,
+                ["DD_AlchemyCost"] = true,
+                ["DailyRestrict"] = 
+                {
+                },
+                ["CQ"] = true,
+                ["DD_SmithMaterialLeft"] = 200,
                 ["JQ"] = true,
-                ["SmithCraft"] = true,
-                ["Window_rPoint"] = 128,
-                ["SolsticeRapid"] = true,
-                ["version"] = 1,
-                ["CloseBank"] = true,
+                ["AlchemyCraft"] = true,
+                ["BQ"] = true,
+                ["$LastCharacterName"] = "Aqi Yaa",
+                ["PQ"] = true,
                 ["MasterCraft"] = true,
+                ["CustomBoxLinks"] = 
+                {
+                },
                 ["Window_Point"] = 128,
+                ["EQ"] = true,
                 ["QuestAuto"] = true,
+                ["CloseBank"] = true,
+            },
+            ["8796093077616617"] = 
+            {
+                ["CookCraft"] = true,
+                ["EnchantCraft"] = true,
+                ["DailyRawRestrict"] = 
+                {
+                },
+                ["SolsticeRapid"] = true,
+                ["Window_rPoint"] = 128,
+                ["version"] = 1,
+                ["CV"] = false,
+                ["DD_Bank"] = false,
+                ["SmithCraft"] = true,
+                ["OpenBox"] = true,
+                ["Window_OffsetX"] = 0,
+                ["NotClose"] = false,
+                ["AQ"] = true,
+                ["SolsticeAuto"] = true,
+                ["OpenBank"] = false,
+                ["Bank"] = true,
+                ["DD_Research"] = true,
+                ["Window_Show"] = true,
+                ["WQ"] = true,
+                ["OpenBankAssistant"] = true,
+                ["DD_Announce"] = false,
+                ["DailyCraft"] = true,
+                ["Window_OffsetY"] = 0,
+                ["StyleList"] = 
+                {
+                },
+                ["QuestDelay"] = 200,
+                ["MasterRestrict"] = 
+                {
+                },
+                ["DD_AlchemyCost"] = true,
+                ["DailyRestrict"] = 
+                {
+                },
+                ["CQ"] = true,
+                ["DD_SmithMaterialLeft"] = 200,
+                ["JQ"] = true,
+                ["AlchemyCraft"] = true,
+                ["BQ"] = true,
+                ["$LastCharacterName"] = "shiaqi",
+                ["PQ"] = true,
+                ["MasterCraft"] = true,
+                ["CustomBoxLinks"] = 
+                {
+                },
+                ["Window_Point"] = 128,
+                ["EQ"] = true,
+                ["QuestAuto"] = true,
+                ["CloseBank"] = true,
             },
         },
-    },
-    ["NA Megaserver"] = 
-    {
         ["@Kankerkop"] = 
         {
             ["8796093078606003"] = 
             {
-                ["StyleList"] = 
-                {
-                },
-                ["SolsticeAuto"] = true,
-                ["$LastCharacterName"] = "Kankerkop",
-                ["OpenBankAssistant"] = true,
-                ["Window_OffsetX"] = 0,
+                ["CookCraft"] = true,
                 ["EnchantCraft"] = true,
-                ["DD_SmithMaterialLeft"] = 200,
-                ["QuestDelay"] = 200,
-                ["CustomBoxLinks"] = 
-                {
-                },
-                ["DD_Announce"] = false,
-                ["DailyRestrict"] = 
-                {
-                },
-                ["Bank"] = true,
-                ["DailyCraft"] = true,
-                ["PQ"] = true,
-                ["OpenBox"] = true,
-                ["BQ"] = true,
-                ["Window_OffsetY"] = 0,
-                ["CQ"] = true,
-                ["DD_AlchemyCost"] = true,
-                ["OpenBank"] = false,
                 ["DailyRawRestrict"] = 
                 {
                 },
+                ["SolsticeRapid"] = true,
+                ["Window_rPoint"] = 128,
+                ["version"] = 1,
+                ["CV"] = false,
+                ["DD_Bank"] = false,
+                ["SmithCraft"] = true,
+                ["OpenBox"] = true,
+                ["Window_OffsetX"] = 0,
                 ["NotClose"] = false,
+                ["AQ"] = true,
+                ["SolsticeAuto"] = true,
+                ["OpenBank"] = false,
+                ["Bank"] = true,
                 ["DD_Research"] = true,
                 ["Window_Show"] = true,
-                ["DD_Bank"] = false,
-                ["CookCraft"] = true,
-                ["CV"] = false,
-                ["EQ"] = true,
-                ["AlchemyCraft"] = true,
+                ["WQ"] = true,
+                ["OpenBankAssistant"] = true,
+                ["DD_Announce"] = false,
+                ["DailyCraft"] = true,
+                ["Window_OffsetY"] = 0,
+                ["StyleList"] = 
+                {
+                },
+                ["QuestDelay"] = 200,
                 ["MasterRestrict"] = 
                 {
                 },
-                ["AQ"] = true,
-                ["WQ"] = true,
+                ["DD_AlchemyCost"] = true,
+                ["DailyRestrict"] = 
+                {
+                },
+                ["CQ"] = true,
+                ["DD_SmithMaterialLeft"] = 200,
                 ["JQ"] = true,
-                ["SmithCraft"] = true,
-                ["Window_rPoint"] = 128,
-                ["SolsticeRapid"] = true,
-                ["version"] = 1,
-                ["CloseBank"] = true,
+                ["AlchemyCraft"] = true,
+                ["BQ"] = true,
+                ["$LastCharacterName"] = "Kankerkop",
+                ["PQ"] = true,
                 ["MasterCraft"] = true,
+                ["CustomBoxLinks"] = 
+                {
+                },
                 ["Window_Point"] = 128,
+                ["EQ"] = true,
                 ["QuestAuto"] = true,
+                ["CloseBank"] = true,
             },
             ["$AccountWide"] = 
             {
+                ["CookCraft"] = true,
+                ["EnchantCraft"] = true,
+                ["QuestDelay"] = 200,
+                ["SolsticeRapid"] = true,
+                ["Window_rPoint"] = 6,
+                ["version"] = 1,
+                ["CV"] = false,
+                ["DD_Bank"] = false,
+                ["SmithCraft"] = true,
+                ["OpenBox"] = true,
+                ["Window_OffsetX"] = 14,
+                ["OpenAnniversary"] = false,
+                ["AQ"] = true,
+                ["SolsticeAuto"] = true,
+                ["NotClose"] = false,
+                ["DailyRawRestrict"] = 
+                {
+                    [1] = "%/",
+                },
+                ["DD_Research"] = true,
+                ["Window_Show"] = true,
+                ["WQ"] = true,
+                ["OpenBank"] = false,
+                ["DD_Announce"] = false,
+                ["Bank"] = true,
+                ["Window_OffsetY"] = -415,
+                ["OpenBankAssistant"] = true,
+                ["DailyCraft"] = true,
+                ["EQ"] = true,
                 ["StyleList"] = 
                 {
                     [1] = 33251,
@@ -204,16 +608,6 @@ SDC_SaveVars =
                     [9] = 33255,
                     [34] = 33254,
                 },
-                ["SolsticeAuto"] = true,
-                ["OpenAnniversary"] = false,
-                ["Window_OffsetX"] = 14,
-                ["EnchantCraft"] = true,
-                ["DD_SmithMaterialLeft"] = 200,
-                ["QuestDelay"] = 200,
-                ["CustomBoxLinks"] = 
-                {
-                },
-                ["DD_Announce"] = false,
                 ["DailyRestrict"] = 
                 {
                     [1] = 30152,
@@ -222,2037 +616,759 @@ SDC_SaveVars =
                     [4] = 150731,
                     [5] = 150671,
                 },
-                ["Bank"] = true,
-                ["DailyCraft"] = true,
-                ["PQ"] = true,
-                ["OpenBox"] = true,
-                ["BQ"] = true,
-                ["Window_OffsetY"] = -415,
                 ["CQ"] = true,
-                ["DD_AlchemyCost"] = true,
-                ["OpenBank"] = false,
-                ["DailyRawRestrict"] = 
+                ["DD_SmithMaterialLeft"] = 200,
+                ["CustomBoxLinks"] = 
                 {
-                    [1] = "%/",
                 },
-                ["NotClose"] = false,
-                ["DD_Research"] = true,
-                ["SolsticeRapid"] = true,
-                ["CV"] = false,
-                ["DD_Bank"] = false,
-                ["CookCraft"] = true,
                 ["AlchemyCraft"] = true,
-                ["EQ"] = true,
-                ["WQ"] = true,
+                ["BQ"] = true,
                 ["MasterRestrict"] = 
                 {
                     [2] = 150671,
                     [1] = 150731,
                 },
-                ["AQ"] = true,
-                ["SmithCraft"] = true,
-                ["JQ"] = true,
-                ["Window_rPoint"] = 6,
-                ["Window_Show"] = true,
+                ["PQ"] = true,
                 ["MasterCraft"] = true,
-                ["version"] = 1,
-                ["CloseBank"] = true,
-                ["QuestAuto"] = true,
+                ["DD_AlchemyCost"] = true,
                 ["Window_Point"] = 6,
-                ["OpenBankAssistant"] = true,
+                ["JQ"] = true,
+                ["QuestAuto"] = true,
+                ["CloseBank"] = true,
             },
             ["8796093079748457"] = 
             {
-                ["StyleList"] = 
-                {
-                },
-                ["SolsticeAuto"] = true,
-                ["$LastCharacterName"] = "Kaaskop",
-                ["OpenBankAssistant"] = true,
-                ["Window_OffsetX"] = 0,
+                ["CookCraft"] = true,
                 ["EnchantCraft"] = true,
-                ["DD_SmithMaterialLeft"] = 200,
-                ["QuestDelay"] = 200,
-                ["CustomBoxLinks"] = 
-                {
-                },
-                ["DD_Announce"] = false,
-                ["DailyRestrict"] = 
-                {
-                },
-                ["Bank"] = true,
-                ["DailyCraft"] = true,
-                ["PQ"] = true,
-                ["OpenBox"] = true,
-                ["BQ"] = true,
-                ["Window_OffsetY"] = 0,
-                ["CQ"] = true,
-                ["DD_AlchemyCost"] = true,
-                ["OpenBank"] = false,
                 ["DailyRawRestrict"] = 
                 {
                 },
+                ["SolsticeRapid"] = true,
+                ["Window_rPoint"] = 128,
+                ["version"] = 1,
+                ["CV"] = false,
+                ["DD_Bank"] = false,
+                ["SmithCraft"] = true,
+                ["OpenBox"] = true,
+                ["Window_OffsetX"] = 0,
                 ["NotClose"] = false,
+                ["AQ"] = true,
+                ["SolsticeAuto"] = true,
+                ["OpenBank"] = false,
+                ["Bank"] = true,
                 ["DD_Research"] = true,
                 ["Window_Show"] = true,
-                ["DD_Bank"] = false,
-                ["CookCraft"] = true,
-                ["CV"] = false,
-                ["EQ"] = true,
-                ["AlchemyCraft"] = true,
+                ["WQ"] = true,
+                ["OpenBankAssistant"] = true,
+                ["DD_Announce"] = false,
+                ["DailyCraft"] = true,
+                ["Window_OffsetY"] = 0,
+                ["StyleList"] = 
+                {
+                },
+                ["QuestDelay"] = 200,
                 ["MasterRestrict"] = 
                 {
                 },
-                ["AQ"] = true,
-                ["WQ"] = true,
+                ["DD_AlchemyCost"] = true,
+                ["DailyRestrict"] = 
+                {
+                },
+                ["CQ"] = true,
+                ["DD_SmithMaterialLeft"] = 200,
                 ["JQ"] = true,
-                ["SmithCraft"] = true,
-                ["Window_rPoint"] = 128,
-                ["SolsticeRapid"] = true,
-                ["version"] = 1,
-                ["CloseBank"] = true,
+                ["AlchemyCraft"] = true,
+                ["BQ"] = true,
+                ["$LastCharacterName"] = "Kaaskop",
+                ["PQ"] = true,
                 ["MasterCraft"] = true,
+                ["CustomBoxLinks"] = 
+                {
+                },
                 ["Window_Point"] = 128,
+                ["EQ"] = true,
                 ["QuestAuto"] = true,
+                ["CloseBank"] = true,
             },
         },
         ["@noobkiss"] = 
         {
-            ["8796093077622069"] = 
-            {
-                ["StyleList"] = 
-                {
-                },
-                ["SolsticeAuto"] = true,
-                ["$LastCharacterName"] = "noobwick",
-                ["OpenAnniversary"] = false,
-                ["Window_OffsetX"] = 0,
-                ["EnchantCraft"] = true,
-                ["DD_SmithMaterialLeft"] = 200,
-                ["QuestDelay"] = 200,
-                ["CustomBoxLinks"] = 
-                {
-                },
-                ["DD_Announce"] = false,
-                ["DailyRestrict"] = 
-                {
-                },
-                ["Bank"] = true,
-                ["DailyCraft"] = true,
-                ["PQ"] = true,
-                ["OpenBox"] = true,
-                ["BQ"] = true,
-                ["Window_OffsetY"] = 0,
-                ["CQ"] = true,
-                ["DD_AlchemyCost"] = true,
-                ["OpenBank"] = false,
-                ["DailyRawRestrict"] = 
-                {
-                },
-                ["NotClose"] = false,
-                ["DD_Research"] = true,
-                ["SolsticeRapid"] = true,
-                ["CV"] = false,
-                ["DD_Bank"] = false,
-                ["CookCraft"] = true,
-                ["AlchemyCraft"] = true,
-                ["EQ"] = true,
-                ["WQ"] = true,
-                ["MasterRestrict"] = 
-                {
-                },
-                ["AQ"] = true,
-                ["SmithCraft"] = true,
-                ["JQ"] = true,
-                ["Window_rPoint"] = 128,
-                ["Window_Show"] = true,
-                ["MasterCraft"] = true,
-                ["version"] = 1,
-                ["CloseBank"] = true,
-                ["QuestAuto"] = true,
-                ["Window_Point"] = 128,
-                ["OpenBankAssistant"] = true,
-            },
-            ["8796093077546265"] = 
-            {
-                ["StyleList"] = 
-                {
-                },
-                ["SolsticeAuto"] = true,
-                ["$LastCharacterName"] = "Galen Chef Mike",
-                ["OpenBankAssistant"] = true,
-                ["Window_OffsetX"] = 0,
-                ["EnchantCraft"] = true,
-                ["DD_SmithMaterialLeft"] = 200,
-                ["QuestDelay"] = 200,
-                ["CustomBoxLinks"] = 
-                {
-                },
-                ["DD_Announce"] = false,
-                ["DailyRestrict"] = 
-                {
-                },
-                ["Bank"] = true,
-                ["DailyCraft"] = true,
-                ["PQ"] = true,
-                ["OpenBox"] = true,
-                ["BQ"] = true,
-                ["Window_OffsetY"] = 0,
-                ["CQ"] = true,
-                ["DD_AlchemyCost"] = true,
-                ["OpenBank"] = false,
-                ["DailyRawRestrict"] = 
-                {
-                },
-                ["NotClose"] = false,
-                ["DD_Research"] = true,
-                ["Window_Show"] = true,
-                ["DD_Bank"] = false,
-                ["CookCraft"] = true,
-                ["CV"] = false,
-                ["EQ"] = true,
-                ["AlchemyCraft"] = true,
-                ["MasterRestrict"] = 
-                {
-                },
-                ["AQ"] = true,
-                ["WQ"] = true,
-                ["JQ"] = true,
-                ["SmithCraft"] = true,
-                ["Window_rPoint"] = 128,
-                ["SolsticeRapid"] = true,
-                ["version"] = 1,
-                ["CloseBank"] = true,
-                ["MasterCraft"] = true,
-                ["Window_Point"] = 128,
-                ["QuestAuto"] = true,
-            },
-            ["8796093080474427"] = 
-            {
-                ["StyleList"] = 
-                {
-                },
-                ["SolsticeAuto"] = true,
-                ["$LastCharacterName"] = "Vex Vex Loop",
-                ["OpenBankAssistant"] = true,
-                ["Window_OffsetX"] = 0,
-                ["EnchantCraft"] = true,
-                ["DD_SmithMaterialLeft"] = 200,
-                ["QuestDelay"] = 200,
-                ["CustomBoxLinks"] = 
-                {
-                },
-                ["DD_Announce"] = false,
-                ["DailyRestrict"] = 
-                {
-                },
-                ["Bank"] = true,
-                ["DailyCraft"] = true,
-                ["PQ"] = true,
-                ["OpenBox"] = true,
-                ["BQ"] = true,
-                ["Window_OffsetY"] = 0,
-                ["CQ"] = true,
-                ["DD_AlchemyCost"] = true,
-                ["OpenBank"] = false,
-                ["DailyRawRestrict"] = 
-                {
-                },
-                ["NotClose"] = false,
-                ["DD_Research"] = true,
-                ["Window_Show"] = true,
-                ["DD_Bank"] = false,
-                ["CookCraft"] = true,
-                ["CV"] = false,
-                ["EQ"] = true,
-                ["AlchemyCraft"] = true,
-                ["MasterRestrict"] = 
-                {
-                },
-                ["AQ"] = true,
-                ["WQ"] = true,
-                ["JQ"] = true,
-                ["SmithCraft"] = true,
-                ["Window_rPoint"] = 128,
-                ["SolsticeRapid"] = true,
-                ["version"] = 1,
-                ["CloseBank"] = true,
-                ["MasterCraft"] = true,
-                ["Window_Point"] = 128,
-                ["QuestAuto"] = true,
-            },
-            ["8796093077286759"] = 
-            {
-                ["StyleList"] = 
-                {
-                },
-                ["SolsticeAuto"] = true,
-                ["$LastCharacterName"] = "Lumina Hoaying",
-                ["OpenBankAssistant"] = true,
-                ["Window_OffsetX"] = 0,
-                ["EnchantCraft"] = true,
-                ["DD_SmithMaterialLeft"] = 200,
-                ["QuestDelay"] = 200,
-                ["CustomBoxLinks"] = 
-                {
-                },
-                ["DD_Announce"] = false,
-                ["DailyRestrict"] = 
-                {
-                },
-                ["Bank"] = true,
-                ["DailyCraft"] = true,
-                ["PQ"] = true,
-                ["OpenBox"] = true,
-                ["BQ"] = true,
-                ["Window_OffsetY"] = 0,
-                ["CQ"] = true,
-                ["DD_AlchemyCost"] = true,
-                ["OpenBank"] = false,
-                ["DailyRawRestrict"] = 
-                {
-                },
-                ["NotClose"] = false,
-                ["DD_Research"] = true,
-                ["Window_Show"] = true,
-                ["DD_Bank"] = false,
-                ["CookCraft"] = true,
-                ["CV"] = false,
-                ["EQ"] = true,
-                ["AlchemyCraft"] = true,
-                ["MasterRestrict"] = 
-                {
-                },
-                ["AQ"] = true,
-                ["WQ"] = true,
-                ["JQ"] = true,
-                ["SmithCraft"] = true,
-                ["Window_rPoint"] = 128,
-                ["SolsticeRapid"] = true,
-                ["version"] = 1,
-                ["CloseBank"] = true,
-                ["MasterCraft"] = true,
-                ["Window_Point"] = 128,
-                ["QuestAuto"] = true,
-            },
-            ["8796093078078769"] = 
-            {
-                ["StyleList"] = 
-                {
-                },
-                ["SolsticeAuto"] = true,
-                ["$LastCharacterName"] = "noobmiss",
-                ["OpenBankAssistant"] = true,
-                ["Window_OffsetX"] = 0,
-                ["EnchantCraft"] = true,
-                ["DD_SmithMaterialLeft"] = 200,
-                ["QuestDelay"] = 200,
-                ["CustomBoxLinks"] = 
-                {
-                },
-                ["DD_Announce"] = false,
-                ["DailyRestrict"] = 
-                {
-                },
-                ["Bank"] = true,
-                ["DailyCraft"] = true,
-                ["PQ"] = true,
-                ["OpenBox"] = true,
-                ["BQ"] = true,
-                ["Window_OffsetY"] = 0,
-                ["CQ"] = true,
-                ["DD_AlchemyCost"] = true,
-                ["OpenBank"] = false,
-                ["DailyRawRestrict"] = 
-                {
-                },
-                ["NotClose"] = false,
-                ["DD_Research"] = true,
-                ["Window_Show"] = true,
-                ["DD_Bank"] = false,
-                ["CookCraft"] = true,
-                ["CV"] = false,
-                ["EQ"] = true,
-                ["AlchemyCraft"] = true,
-                ["MasterRestrict"] = 
-                {
-                },
-                ["AQ"] = true,
-                ["WQ"] = true,
-                ["JQ"] = true,
-                ["SmithCraft"] = true,
-                ["Window_rPoint"] = 128,
-                ["SolsticeRapid"] = true,
-                ["version"] = 1,
-                ["CloseBank"] = true,
-                ["MasterCraft"] = true,
-                ["Window_Point"] = 128,
-                ["QuestAuto"] = true,
-            },
-            ["8796093080564143"] = 
-            {
-                ["StyleList"] = 
-                {
-                },
-                ["SolsticeAuto"] = true,
-                ["$LastCharacterName"] = "Wasted Wasted",
-                ["OpenBankAssistant"] = true,
-                ["Window_OffsetX"] = 0,
-                ["EnchantCraft"] = true,
-                ["DD_SmithMaterialLeft"] = 200,
-                ["QuestDelay"] = 200,
-                ["CustomBoxLinks"] = 
-                {
-                },
-                ["DD_Announce"] = false,
-                ["DailyRestrict"] = 
-                {
-                },
-                ["Bank"] = true,
-                ["DailyCraft"] = true,
-                ["PQ"] = true,
-                ["OpenBox"] = true,
-                ["BQ"] = true,
-                ["Window_OffsetY"] = 0,
-                ["CQ"] = true,
-                ["DD_AlchemyCost"] = true,
-                ["OpenBank"] = false,
-                ["DailyRawRestrict"] = 
-                {
-                },
-                ["NotClose"] = false,
-                ["DD_Research"] = true,
-                ["Window_Show"] = true,
-                ["DD_Bank"] = false,
-                ["CookCraft"] = true,
-                ["CV"] = false,
-                ["EQ"] = true,
-                ["AlchemyCraft"] = true,
-                ["MasterRestrict"] = 
-                {
-                },
-                ["AQ"] = true,
-                ["WQ"] = true,
-                ["JQ"] = true,
-                ["SmithCraft"] = true,
-                ["Window_rPoint"] = 128,
-                ["SolsticeRapid"] = true,
-                ["version"] = 1,
-                ["CloseBank"] = true,
-                ["MasterCraft"] = true,
-                ["Window_Point"] = 128,
-                ["QuestAuto"] = true,
-            },
-            ["8796093077280363"] = 
-            {
-                ["StyleList"] = 
-                {
-                },
-                ["SolsticeAuto"] = true,
-                ["$LastCharacterName"] = "noobsmile",
-                ["OpenBankAssistant"] = true,
-                ["Window_OffsetX"] = 0,
-                ["EnchantCraft"] = true,
-                ["DD_SmithMaterialLeft"] = 200,
-                ["QuestDelay"] = 200,
-                ["CustomBoxLinks"] = 
-                {
-                },
-                ["DD_Announce"] = false,
-                ["DailyRestrict"] = 
-                {
-                },
-                ["Bank"] = true,
-                ["DailyCraft"] = true,
-                ["PQ"] = true,
-                ["OpenBox"] = true,
-                ["BQ"] = true,
-                ["Window_OffsetY"] = 0,
-                ["CQ"] = true,
-                ["DD_AlchemyCost"] = true,
-                ["OpenBank"] = false,
-                ["DailyRawRestrict"] = 
-                {
-                },
-                ["NotClose"] = false,
-                ["DD_Research"] = true,
-                ["Window_Show"] = true,
-                ["DD_Bank"] = false,
-                ["CookCraft"] = true,
-                ["CV"] = false,
-                ["EQ"] = true,
-                ["AlchemyCraft"] = true,
-                ["MasterRestrict"] = 
-                {
-                },
-                ["AQ"] = true,
-                ["WQ"] = true,
-                ["JQ"] = true,
-                ["SmithCraft"] = true,
-                ["Window_rPoint"] = 128,
-                ["SolsticeRapid"] = true,
-                ["version"] = 1,
-                ["CloseBank"] = true,
-                ["MasterCraft"] = true,
-                ["Window_Point"] = 128,
-                ["QuestAuto"] = true,
-            },
-            ["8796093077338611"] = 
-            {
-                ["StyleList"] = 
-                {
-                },
-                ["SolsticeAuto"] = true,
-                ["$LastCharacterName"] = "noobsimper",
-                ["OpenBankAssistant"] = true,
-                ["Window_OffsetX"] = 0,
-                ["EnchantCraft"] = true,
-                ["DD_SmithMaterialLeft"] = 200,
-                ["QuestDelay"] = 200,
-                ["CustomBoxLinks"] = 
-                {
-                },
-                ["DD_Announce"] = false,
-                ["DailyRestrict"] = 
-                {
-                },
-                ["Bank"] = true,
-                ["DailyCraft"] = true,
-                ["PQ"] = true,
-                ["OpenBox"] = true,
-                ["BQ"] = true,
-                ["Window_OffsetY"] = 0,
-                ["CQ"] = true,
-                ["DD_AlchemyCost"] = true,
-                ["OpenBank"] = false,
-                ["DailyRawRestrict"] = 
-                {
-                },
-                ["NotClose"] = false,
-                ["DD_Research"] = true,
-                ["Window_Show"] = true,
-                ["DD_Bank"] = false,
-                ["CookCraft"] = true,
-                ["CV"] = false,
-                ["EQ"] = true,
-                ["AlchemyCraft"] = true,
-                ["MasterRestrict"] = 
-                {
-                },
-                ["AQ"] = true,
-                ["WQ"] = true,
-                ["JQ"] = true,
-                ["SmithCraft"] = true,
-                ["Window_rPoint"] = 128,
-                ["SolsticeRapid"] = true,
-                ["version"] = 1,
-                ["CloseBank"] = true,
-                ["MasterCraft"] = true,
-                ["Window_Point"] = 128,
-                ["QuestAuto"] = true,
-            },
             ["8796093077575525"] = 
             {
+                ["CookCraft"] = true,
+                ["EnchantCraft"] = true,
+                ["DailyRawRestrict"] = 
+                {
+                },
+                ["SolsticeRapid"] = true,
+                ["Window_rPoint"] = 128,
+                ["version"] = 1,
+                ["CV"] = false,
+                ["DD_Bank"] = false,
+                ["SmithCraft"] = true,
+                ["OpenBox"] = true,
+                ["Window_OffsetX"] = 0,
+                ["NotClose"] = false,
+                ["AQ"] = true,
+                ["SolsticeAuto"] = true,
+                ["OpenBank"] = false,
+                ["Bank"] = true,
+                ["DD_Research"] = true,
+                ["Window_Show"] = true,
+                ["WQ"] = true,
+                ["OpenBankAssistant"] = true,
+                ["DD_Announce"] = false,
+                ["DailyCraft"] = true,
+                ["Window_OffsetY"] = 0,
                 ["StyleList"] = 
                 {
                 },
-                ["SolsticeAuto"] = true,
+                ["QuestDelay"] = 200,
+                ["MasterRestrict"] = 
+                {
+                },
+                ["DD_AlchemyCost"] = true,
+                ["DailyRestrict"] = 
+                {
+                },
+                ["CQ"] = true,
+                ["DD_SmithMaterialLeft"] = 200,
+                ["JQ"] = true,
+                ["AlchemyCraft"] = true,
+                ["BQ"] = true,
                 ["$LastCharacterName"] = "Joyous Socks",
-                ["OpenBankAssistant"] = true,
-                ["Window_OffsetX"] = 0,
-                ["EnchantCraft"] = true,
-                ["DD_SmithMaterialLeft"] = 200,
-                ["QuestDelay"] = 200,
+                ["PQ"] = true,
+                ["MasterCraft"] = true,
                 ["CustomBoxLinks"] = 
                 {
                 },
-                ["DD_Announce"] = false,
-                ["DailyRestrict"] = 
-                {
-                },
-                ["Bank"] = true,
-                ["DailyCraft"] = true,
-                ["PQ"] = true,
-                ["OpenBox"] = true,
-                ["BQ"] = true,
-                ["Window_OffsetY"] = 0,
-                ["CQ"] = true,
-                ["DD_AlchemyCost"] = true,
-                ["OpenBank"] = false,
-                ["DailyRawRestrict"] = 
-                {
-                },
-                ["NotClose"] = false,
-                ["DD_Research"] = true,
-                ["Window_Show"] = true,
-                ["DD_Bank"] = false,
-                ["CookCraft"] = true,
-                ["CV"] = false,
-                ["EQ"] = true,
-                ["AlchemyCraft"] = true,
-                ["MasterRestrict"] = 
-                {
-                },
-                ["AQ"] = true,
-                ["WQ"] = true,
-                ["JQ"] = true,
-                ["SmithCraft"] = true,
-                ["Window_rPoint"] = 128,
-                ["SolsticeRapid"] = true,
-                ["version"] = 1,
-                ["CloseBank"] = true,
-                ["MasterCraft"] = true,
                 ["Window_Point"] = 128,
-                ["QuestAuto"] = true,
-            },
-            ["8796093077280469"] = 
-            {
-                ["StyleList"] = 
-                {
-                },
-                ["SolsticeAuto"] = true,
-                ["$LastCharacterName"] = "noobxoxo",
-                ["OpenAnniversary"] = false,
-                ["Window_OffsetX"] = 0,
-                ["EnchantCraft"] = true,
-                ["DD_SmithMaterialLeft"] = 200,
-                ["QuestDelay"] = 200,
-                ["CustomBoxLinks"] = 
-                {
-                },
-                ["DD_Announce"] = false,
-                ["DailyRestrict"] = 
-                {
-                },
-                ["Bank"] = true,
-                ["DailyCraft"] = true,
-                ["PQ"] = true,
-                ["OpenBox"] = true,
-                ["BQ"] = true,
-                ["Window_OffsetY"] = 0,
-                ["CQ"] = true,
-                ["DD_AlchemyCost"] = true,
-                ["OpenBank"] = false,
-                ["DailyRawRestrict"] = 
-                {
-                },
-                ["NotClose"] = false,
-                ["DD_Research"] = true,
-                ["SolsticeRapid"] = true,
-                ["CV"] = false,
-                ["DD_Bank"] = false,
-                ["CookCraft"] = true,
-                ["AlchemyCraft"] = true,
                 ["EQ"] = true,
-                ["WQ"] = true,
-                ["MasterRestrict"] = 
-                {
-                },
-                ["AQ"] = true,
-                ["SmithCraft"] = true,
-                ["JQ"] = true,
-                ["Window_rPoint"] = 128,
-                ["Window_Show"] = true,
-                ["MasterCraft"] = true,
-                ["version"] = 1,
-                ["CloseBank"] = true,
                 ["QuestAuto"] = true,
-                ["Window_Point"] = 128,
-                ["OpenBankAssistant"] = true,
-            },
-            ["8796093077142221"] = 
-            {
-                ["StyleList"] = 
-                {
-                },
-                ["SolsticeAuto"] = true,
-                ["$LastCharacterName"] = "noobxoxo",
-                ["OpenBankAssistant"] = true,
-                ["Window_OffsetX"] = 0,
-                ["EnchantCraft"] = true,
-                ["DD_SmithMaterialLeft"] = 200,
-                ["QuestDelay"] = 200,
-                ["CustomBoxLinks"] = 
-                {
-                },
-                ["DD_Announce"] = false,
-                ["DailyRestrict"] = 
-                {
-                },
-                ["Bank"] = true,
-                ["DailyCraft"] = true,
-                ["PQ"] = true,
-                ["OpenBox"] = true,
-                ["BQ"] = true,
-                ["Window_OffsetY"] = 0,
-                ["CQ"] = true,
-                ["DD_AlchemyCost"] = true,
-                ["OpenBank"] = false,
-                ["DailyRawRestrict"] = 
-                {
-                },
-                ["NotClose"] = false,
-                ["DD_Research"] = true,
-                ["Window_Show"] = true,
-                ["DD_Bank"] = false,
-                ["CookCraft"] = true,
-                ["CV"] = false,
-                ["EQ"] = true,
-                ["AlchemyCraft"] = true,
-                ["MasterRestrict"] = 
-                {
-                },
-                ["AQ"] = true,
-                ["WQ"] = true,
-                ["JQ"] = true,
-                ["SmithCraft"] = true,
-                ["Window_rPoint"] = 128,
-                ["SolsticeRapid"] = true,
-                ["version"] = 1,
                 ["CloseBank"] = true,
-                ["MasterCraft"] = true,
-                ["Window_Point"] = 128,
-                ["QuestAuto"] = true,
-            },
-            ["8796093078739949"] = 
-            {
-                ["StyleList"] = 
-                {
-                },
-                ["SolsticeAuto"] = true,
-                ["$LastCharacterName"] = "noobbomb",
-                ["OpenBankAssistant"] = true,
-                ["Window_OffsetX"] = 0,
-                ["EnchantCraft"] = true,
-                ["DD_SmithMaterialLeft"] = 200,
-                ["QuestDelay"] = 200,
-                ["CustomBoxLinks"] = 
-                {
-                },
-                ["DD_Announce"] = false,
-                ["DailyRestrict"] = 
-                {
-                },
-                ["Bank"] = true,
-                ["DailyCraft"] = true,
-                ["PQ"] = true,
-                ["OpenBox"] = true,
-                ["BQ"] = true,
-                ["Window_OffsetY"] = 0,
-                ["CQ"] = true,
-                ["DD_AlchemyCost"] = true,
-                ["OpenBank"] = false,
-                ["DailyRawRestrict"] = 
-                {
-                },
-                ["NotClose"] = false,
-                ["DD_Research"] = true,
-                ["Window_Show"] = true,
-                ["DD_Bank"] = false,
-                ["CookCraft"] = true,
-                ["CV"] = false,
-                ["EQ"] = true,
-                ["AlchemyCraft"] = true,
-                ["MasterRestrict"] = 
-                {
-                },
-                ["AQ"] = true,
-                ["WQ"] = true,
-                ["JQ"] = true,
-                ["SmithCraft"] = true,
-                ["Window_rPoint"] = 128,
-                ["SolsticeRapid"] = true,
-                ["version"] = 1,
-                ["CloseBank"] = true,
-                ["MasterCraft"] = true,
-                ["Window_Point"] = 128,
-                ["QuestAuto"] = true,
             },
             ["8796093077575729"] = 
             {
+                ["CookCraft"] = true,
+                ["EnchantCraft"] = true,
+                ["DailyRawRestrict"] = 
+                {
+                },
+                ["SolsticeRapid"] = true,
+                ["Window_rPoint"] = 128,
+                ["version"] = 1,
+                ["CV"] = false,
+                ["DD_Bank"] = false,
+                ["SmithCraft"] = true,
+                ["OpenBox"] = true,
+                ["Window_OffsetX"] = 0,
+                ["NotClose"] = false,
+                ["AQ"] = true,
+                ["SolsticeAuto"] = true,
+                ["OpenBank"] = false,
+                ["Bank"] = true,
+                ["DD_Research"] = true,
+                ["Window_Show"] = true,
+                ["WQ"] = true,
+                ["OpenBankAssistant"] = true,
+                ["DD_Announce"] = false,
+                ["DailyCraft"] = true,
+                ["Window_OffsetY"] = 0,
                 ["StyleList"] = 
                 {
                 },
-                ["SolsticeAuto"] = true,
+                ["QuestDelay"] = 200,
+                ["MasterRestrict"] = 
+                {
+                },
+                ["DD_AlchemyCost"] = true,
+                ["DailyRestrict"] = 
+                {
+                },
+                ["CQ"] = true,
+                ["DD_SmithMaterialLeft"] = 200,
+                ["JQ"] = true,
+                ["AlchemyCraft"] = true,
+                ["BQ"] = true,
                 ["$LastCharacterName"] = "noobwick",
-                ["OpenBankAssistant"] = true,
-                ["Window_OffsetX"] = 0,
-                ["EnchantCraft"] = true,
-                ["DD_SmithMaterialLeft"] = 200,
-                ["QuestDelay"] = 200,
+                ["PQ"] = true,
+                ["MasterCraft"] = true,
                 ["CustomBoxLinks"] = 
                 {
                 },
-                ["DD_Announce"] = false,
-                ["DailyRestrict"] = 
-                {
-                },
-                ["Bank"] = true,
-                ["DailyCraft"] = true,
-                ["PQ"] = true,
-                ["OpenBox"] = true,
-                ["BQ"] = true,
-                ["Window_OffsetY"] = 0,
-                ["CQ"] = true,
-                ["DD_AlchemyCost"] = true,
-                ["OpenBank"] = false,
-                ["DailyRawRestrict"] = 
-                {
-                },
-                ["NotClose"] = false,
-                ["DD_Research"] = true,
-                ["Window_Show"] = true,
-                ["DD_Bank"] = false,
-                ["CookCraft"] = true,
-                ["CV"] = false,
-                ["EQ"] = true,
-                ["AlchemyCraft"] = true,
-                ["MasterRestrict"] = 
-                {
-                },
-                ["AQ"] = true,
-                ["WQ"] = true,
-                ["JQ"] = true,
-                ["SmithCraft"] = true,
-                ["Window_rPoint"] = 128,
-                ["SolsticeRapid"] = true,
-                ["version"] = 1,
-                ["CloseBank"] = true,
-                ["MasterCraft"] = true,
                 ["Window_Point"] = 128,
-                ["QuestAuto"] = true,
-            },
-            ["8796093076445407"] = 
-            {
-                ["StyleList"] = 
-                {
-                },
-                ["SolsticeAuto"] = true,
-                ["$LastCharacterName"] = "noobkiss",
-                ["OpenBankAssistant"] = true,
-                ["Window_OffsetX"] = 0,
-                ["EnchantCraft"] = true,
-                ["DD_SmithMaterialLeft"] = 200,
-                ["QuestDelay"] = 200,
-                ["CustomBoxLinks"] = 
-                {
-                },
-                ["DD_Announce"] = false,
-                ["DailyRestrict"] = 
-                {
-                },
-                ["Bank"] = true,
-                ["DailyCraft"] = true,
-                ["PQ"] = true,
-                ["OpenBox"] = true,
-                ["BQ"] = true,
-                ["Window_OffsetY"] = 0,
-                ["CQ"] = true,
-                ["DD_AlchemyCost"] = true,
-                ["OpenBank"] = false,
-                ["DailyRawRestrict"] = 
-                {
-                },
-                ["NotClose"] = false,
-                ["DD_Research"] = true,
-                ["Window_Show"] = true,
-                ["DD_Bank"] = false,
-                ["CookCraft"] = true,
-                ["CV"] = false,
                 ["EQ"] = true,
-                ["AlchemyCraft"] = true,
-                ["MasterRestrict"] = 
-                {
-                },
-                ["AQ"] = true,
-                ["WQ"] = true,
-                ["JQ"] = true,
-                ["SmithCraft"] = true,
-                ["Window_rPoint"] = 128,
-                ["SolsticeRapid"] = true,
-                ["version"] = 1,
-                ["CloseBank"] = true,
-                ["MasterCraft"] = true,
-                ["Window_Point"] = 128,
                 ["QuestAuto"] = true,
+                ["CloseBank"] = true,
             },
             ["8796093080650625"] = 
             {
+                ["CookCraft"] = true,
+                ["EnchantCraft"] = true,
+                ["DailyRawRestrict"] = 
+                {
+                },
+                ["SolsticeRapid"] = true,
+                ["Window_rPoint"] = 128,
+                ["version"] = 1,
+                ["CV"] = false,
+                ["DD_Bank"] = false,
+                ["SmithCraft"] = true,
+                ["OpenBox"] = true,
+                ["Window_OffsetX"] = 0,
+                ["NotClose"] = false,
+                ["AQ"] = true,
+                ["SolsticeAuto"] = true,
+                ["OpenBank"] = false,
+                ["Bank"] = true,
+                ["DD_Research"] = true,
+                ["Window_Show"] = true,
+                ["WQ"] = true,
+                ["OpenBankAssistant"] = true,
+                ["DD_Announce"] = false,
+                ["DailyCraft"] = true,
+                ["Window_OffsetY"] = 0,
                 ["StyleList"] = 
                 {
                 },
-                ["SolsticeAuto"] = true,
+                ["QuestDelay"] = 200,
+                ["MasterRestrict"] = 
+                {
+                },
+                ["DD_AlchemyCost"] = true,
+                ["DailyRestrict"] = 
+                {
+                },
+                ["CQ"] = true,
+                ["DD_SmithMaterialLeft"] = 200,
+                ["JQ"] = true,
+                ["AlchemyCraft"] = true,
+                ["BQ"] = true,
                 ["$LastCharacterName"] = "Flawed Mangoes",
-                ["OpenBankAssistant"] = true,
-                ["Window_OffsetX"] = 0,
-                ["EnchantCraft"] = true,
-                ["DD_SmithMaterialLeft"] = 200,
-                ["QuestDelay"] = 200,
+                ["PQ"] = true,
+                ["MasterCraft"] = true,
                 ["CustomBoxLinks"] = 
                 {
                 },
-                ["DD_Announce"] = false,
-                ["DailyRestrict"] = 
-                {
-                },
-                ["Bank"] = true,
-                ["DailyCraft"] = true,
-                ["PQ"] = true,
-                ["OpenBox"] = true,
-                ["BQ"] = true,
-                ["Window_OffsetY"] = 0,
-                ["CQ"] = true,
-                ["DD_AlchemyCost"] = true,
-                ["OpenBank"] = false,
-                ["DailyRawRestrict"] = 
-                {
-                },
-                ["NotClose"] = false,
-                ["DD_Research"] = true,
-                ["Window_Show"] = true,
-                ["DD_Bank"] = false,
-                ["CookCraft"] = true,
-                ["CV"] = false,
-                ["EQ"] = true,
-                ["AlchemyCraft"] = true,
-                ["MasterRestrict"] = 
-                {
-                },
-                ["AQ"] = true,
-                ["WQ"] = true,
-                ["JQ"] = true,
-                ["SmithCraft"] = true,
-                ["Window_rPoint"] = 128,
-                ["SolsticeRapid"] = true,
-                ["version"] = 1,
-                ["CloseBank"] = true,
-                ["MasterCraft"] = true,
                 ["Window_Point"] = 128,
-                ["QuestAuto"] = true,
-            },
-            ["8796093077976825"] = 
-            {
-                ["StyleList"] = 
-                {
-                },
-                ["SolsticeAuto"] = true,
-                ["$LastCharacterName"] = "Sunken Feb",
-                ["OpenBankAssistant"] = true,
-                ["Window_OffsetX"] = 0,
-                ["EnchantCraft"] = true,
-                ["DD_SmithMaterialLeft"] = 200,
-                ["QuestDelay"] = 200,
-                ["CustomBoxLinks"] = 
-                {
-                },
-                ["DD_Announce"] = false,
-                ["DailyRestrict"] = 
-                {
-                },
-                ["Bank"] = true,
-                ["DailyCraft"] = true,
-                ["PQ"] = true,
-                ["OpenBox"] = true,
-                ["BQ"] = true,
-                ["Window_OffsetY"] = 0,
-                ["CQ"] = true,
-                ["DD_AlchemyCost"] = true,
-                ["OpenBank"] = false,
-                ["DailyRawRestrict"] = 
-                {
-                },
-                ["NotClose"] = false,
-                ["DD_Research"] = true,
-                ["Window_Show"] = true,
-                ["DD_Bank"] = false,
-                ["CookCraft"] = true,
-                ["CV"] = false,
                 ["EQ"] = true,
-                ["AlchemyCraft"] = true,
-                ["MasterRestrict"] = 
-                {
-                },
-                ["AQ"] = true,
-                ["WQ"] = true,
-                ["JQ"] = true,
-                ["SmithCraft"] = true,
-                ["Window_rPoint"] = 128,
-                ["SolsticeRapid"] = true,
-                ["version"] = 1,
-                ["CloseBank"] = true,
-                ["MasterCraft"] = true,
-                ["Window_Point"] = 128,
                 ["QuestAuto"] = true,
-            },
-            ["8796093077354797"] = 
-            {
-                ["StyleList"] = 
-                {
-                },
-                ["SolsticeAuto"] = true,
-                ["$LastCharacterName"] = "noobsmell",
-                ["OpenBankAssistant"] = true,
-                ["Window_OffsetX"] = 0,
-                ["EnchantCraft"] = true,
-                ["DD_SmithMaterialLeft"] = 200,
-                ["QuestDelay"] = 200,
-                ["CustomBoxLinks"] = 
-                {
-                },
-                ["DD_Announce"] = false,
-                ["DailyRestrict"] = 
-                {
-                },
-                ["Bank"] = true,
-                ["DailyCraft"] = true,
-                ["PQ"] = true,
-                ["OpenBox"] = true,
-                ["BQ"] = true,
-                ["Window_OffsetY"] = 0,
-                ["CQ"] = true,
-                ["DD_AlchemyCost"] = true,
-                ["OpenBank"] = false,
-                ["DailyRawRestrict"] = 
-                {
-                },
-                ["NotClose"] = false,
-                ["DD_Research"] = true,
-                ["Window_Show"] = true,
-                ["DD_Bank"] = false,
-                ["CookCraft"] = true,
-                ["CV"] = false,
-                ["EQ"] = true,
-                ["AlchemyCraft"] = true,
-                ["MasterRestrict"] = 
-                {
-                },
-                ["AQ"] = true,
-                ["WQ"] = true,
-                ["JQ"] = true,
-                ["SmithCraft"] = true,
-                ["Window_rPoint"] = 128,
-                ["SolsticeRapid"] = true,
-                ["version"] = 1,
                 ["CloseBank"] = true,
-                ["MasterCraft"] = true,
-                ["Window_Point"] = 128,
-                ["QuestAuto"] = true,
-            },
-            ["8796093079602369"] = 
-            {
-                ["StyleList"] = 
-                {
-                    [1] = 33251,
-                    [2] = 33258,
-                    [3] = 33257,
-                    [4] = 33253,
-                    [5] = 33256,
-                    [6] = 33150,
-                    [7] = 33252,
-                    [8] = 33194,
-                    [9] = 33255,
-                    [34] = 33254,
-                },
-                ["SolsticeAuto"] = true,
-                ["$LastCharacterName"] = "Zou Kimcheng",
-                ["OpenBankAssistant"] = true,
-                ["Window_OffsetX"] = 358,
-                ["EnchantCraft"] = true,
-                ["DD_SmithMaterialLeft"] = 200,
-                ["QuestDelay"] = 200,
-                ["CustomBoxLinks"] = 
-                {
-                    [1] = "|H0:item:212251:122:1:0:0:0:0:0:0:0:0:0:0:0:1:0:0:1:0:0:0|h|h",
-                },
-                ["DD_Announce"] = false,
-                ["DailyRestrict"] = 
-                {
-                    [1] = 30152,
-                    [2] = 30164,
-                    [3] = 139019,
-                    [4] = 150731,
-                    [5] = 150671,
-                },
-                ["Bank"] = true,
-                ["DailyCraft"] = true,
-                ["PQ"] = true,
-                ["OpenBox"] = true,
-                ["BQ"] = true,
-                ["Window_OffsetY"] = -557,
-                ["CQ"] = true,
-                ["DD_AlchemyCost"] = true,
-                ["OpenBank"] = false,
-                ["DailyRawRestrict"] = 
-                {
-                    [1] = "%/",
-                },
-                ["NotClose"] = false,
-                ["DD_Research"] = true,
-                ["Window_Show"] = true,
-                ["DD_Bank"] = false,
-                ["CookCraft"] = true,
-                ["CV"] = true,
-                ["EQ"] = true,
-                ["AlchemyCraft"] = true,
-                ["MasterRestrict"] = 
-                {
-                    [2] = 150671,
-                    [1] = 150731,
-                },
-                ["AQ"] = true,
-                ["WQ"] = true,
-                ["JQ"] = true,
-                ["SmithCraft"] = true,
-                ["Window_rPoint"] = 6,
-                ["SolsticeRapid"] = true,
-                ["version"] = 1,
-                ["CloseBank"] = true,
-                ["MasterCraft"] = true,
-                ["Window_Point"] = 6,
-                ["QuestAuto"] = true,
-            },
-            ["8796093077286887"] = 
-            {
-                ["StyleList"] = 
-                {
-                },
-                ["SolsticeAuto"] = true,
-                ["$LastCharacterName"] = "noobhappy",
-                ["OpenBankAssistant"] = true,
-                ["Window_OffsetX"] = 0,
-                ["EnchantCraft"] = true,
-                ["DD_SmithMaterialLeft"] = 200,
-                ["QuestDelay"] = 200,
-                ["CustomBoxLinks"] = 
-                {
-                },
-                ["DD_Announce"] = false,
-                ["DailyRestrict"] = 
-                {
-                },
-                ["Bank"] = true,
-                ["DailyCraft"] = true,
-                ["PQ"] = true,
-                ["OpenBox"] = true,
-                ["BQ"] = true,
-                ["Window_OffsetY"] = 0,
-                ["CQ"] = true,
-                ["DD_AlchemyCost"] = true,
-                ["OpenBank"] = false,
-                ["DailyRawRestrict"] = 
-                {
-                },
-                ["NotClose"] = false,
-                ["DD_Research"] = true,
-                ["Window_Show"] = true,
-                ["DD_Bank"] = false,
-                ["CookCraft"] = true,
-                ["CV"] = false,
-                ["EQ"] = true,
-                ["AlchemyCraft"] = true,
-                ["MasterRestrict"] = 
-                {
-                },
-                ["AQ"] = true,
-                ["WQ"] = true,
-                ["JQ"] = true,
-                ["SmithCraft"] = true,
-                ["Window_rPoint"] = 128,
-                ["SolsticeRapid"] = true,
-                ["version"] = 1,
-                ["CloseBank"] = true,
-                ["MasterCraft"] = true,
-                ["Window_Point"] = 128,
-                ["QuestAuto"] = true,
-            },
-            ["8796093080474203"] = 
-            {
-                ["StyleList"] = 
-                {
-                },
-                ["SolsticeAuto"] = true,
-                ["$LastCharacterName"] = "Dizzy Dizzo",
-                ["OpenBankAssistant"] = true,
-                ["Window_OffsetX"] = 0,
-                ["EnchantCraft"] = true,
-                ["DD_SmithMaterialLeft"] = 200,
-                ["QuestDelay"] = 200,
-                ["CustomBoxLinks"] = 
-                {
-                },
-                ["DD_Announce"] = false,
-                ["DailyRestrict"] = 
-                {
-                },
-                ["Bank"] = true,
-                ["DailyCraft"] = true,
-                ["PQ"] = true,
-                ["OpenBox"] = true,
-                ["BQ"] = true,
-                ["Window_OffsetY"] = 0,
-                ["CQ"] = true,
-                ["DD_AlchemyCost"] = true,
-                ["OpenBank"] = false,
-                ["DailyRawRestrict"] = 
-                {
-                },
-                ["NotClose"] = false,
-                ["DD_Research"] = true,
-                ["Window_Show"] = true,
-                ["DD_Bank"] = false,
-                ["CookCraft"] = true,
-                ["CV"] = false,
-                ["EQ"] = true,
-                ["AlchemyCraft"] = true,
-                ["MasterRestrict"] = 
-                {
-                },
-                ["AQ"] = true,
-                ["WQ"] = true,
-                ["JQ"] = true,
-                ["SmithCraft"] = true,
-                ["Window_rPoint"] = 128,
-                ["SolsticeRapid"] = true,
-                ["version"] = 1,
-                ["CloseBank"] = true,
-                ["MasterCraft"] = true,
-                ["Window_Point"] = 128,
-                ["QuestAuto"] = true,
-            },
-            ["8796093077280431"] = 
-            {
-                ["StyleList"] = 
-                {
-                },
-                ["SolsticeAuto"] = true,
-                ["$LastCharacterName"] = "noobwink",
-                ["OpenBankAssistant"] = true,
-                ["Window_OffsetX"] = 0,
-                ["EnchantCraft"] = true,
-                ["DD_SmithMaterialLeft"] = 200,
-                ["QuestDelay"] = 200,
-                ["CustomBoxLinks"] = 
-                {
-                },
-                ["DD_Announce"] = false,
-                ["DailyRestrict"] = 
-                {
-                },
-                ["Bank"] = true,
-                ["DailyCraft"] = true,
-                ["PQ"] = true,
-                ["OpenBox"] = true,
-                ["BQ"] = true,
-                ["Window_OffsetY"] = 0,
-                ["CQ"] = true,
-                ["DD_AlchemyCost"] = true,
-                ["OpenBank"] = false,
-                ["DailyRawRestrict"] = 
-                {
-                },
-                ["NotClose"] = false,
-                ["DD_Research"] = true,
-                ["Window_Show"] = true,
-                ["DD_Bank"] = false,
-                ["CookCraft"] = true,
-                ["CV"] = false,
-                ["EQ"] = true,
-                ["AlchemyCraft"] = true,
-                ["MasterRestrict"] = 
-                {
-                },
-                ["AQ"] = true,
-                ["WQ"] = true,
-                ["JQ"] = true,
-                ["SmithCraft"] = true,
-                ["Window_rPoint"] = 128,
-                ["SolsticeRapid"] = true,
-                ["version"] = 1,
-                ["CloseBank"] = true,
-                ["MasterCraft"] = true,
-                ["Window_Point"] = 128,
-                ["QuestAuto"] = true,
-            },
-            ["8796093080564087"] = 
-            {
-                ["StyleList"] = 
-                {
-                },
-                ["SolsticeAuto"] = true,
-                ["$LastCharacterName"] = "Wasted Wasted",
-                ["OpenBankAssistant"] = true,
-                ["Window_OffsetX"] = 0,
-                ["EnchantCraft"] = true,
-                ["DD_SmithMaterialLeft"] = 200,
-                ["QuestDelay"] = 200,
-                ["CustomBoxLinks"] = 
-                {
-                },
-                ["DD_Announce"] = false,
-                ["DailyRestrict"] = 
-                {
-                },
-                ["Bank"] = true,
-                ["DailyCraft"] = true,
-                ["PQ"] = true,
-                ["OpenBox"] = true,
-                ["BQ"] = true,
-                ["Window_OffsetY"] = 0,
-                ["CQ"] = true,
-                ["DD_AlchemyCost"] = true,
-                ["OpenBank"] = false,
-                ["DailyRawRestrict"] = 
-                {
-                },
-                ["NotClose"] = false,
-                ["DD_Research"] = true,
-                ["Window_Show"] = true,
-                ["DD_Bank"] = false,
-                ["CookCraft"] = true,
-                ["CV"] = false,
-                ["EQ"] = true,
-                ["AlchemyCraft"] = true,
-                ["MasterRestrict"] = 
-                {
-                },
-                ["AQ"] = true,
-                ["WQ"] = true,
-                ["JQ"] = true,
-                ["SmithCraft"] = true,
-                ["Window_rPoint"] = 128,
-                ["SolsticeRapid"] = true,
-                ["version"] = 1,
-                ["CloseBank"] = true,
-                ["MasterCraft"] = true,
-                ["Window_Point"] = 128,
-                ["QuestAuto"] = true,
-            },
-            ["8796093077130605"] = 
-            {
-                ["StyleList"] = 
-                {
-                },
-                ["SolsticeAuto"] = true,
-                ["$LastCharacterName"] = "noobhugs",
-                ["OpenBankAssistant"] = true,
-                ["Window_OffsetX"] = 0,
-                ["EnchantCraft"] = true,
-                ["DD_SmithMaterialLeft"] = 200,
-                ["QuestDelay"] = 200,
-                ["CustomBoxLinks"] = 
-                {
-                },
-                ["DD_Announce"] = false,
-                ["DailyRestrict"] = 
-                {
-                },
-                ["Bank"] = true,
-                ["DailyCraft"] = true,
-                ["PQ"] = true,
-                ["OpenBox"] = true,
-                ["BQ"] = true,
-                ["Window_OffsetY"] = 0,
-                ["CQ"] = true,
-                ["DD_AlchemyCost"] = true,
-                ["OpenBank"] = false,
-                ["DailyRawRestrict"] = 
-                {
-                },
-                ["NotClose"] = false,
-                ["DD_Research"] = true,
-                ["Window_Show"] = true,
-                ["DD_Bank"] = false,
-                ["CookCraft"] = true,
-                ["CV"] = false,
-                ["EQ"] = true,
-                ["AlchemyCraft"] = true,
-                ["MasterRestrict"] = 
-                {
-                },
-                ["AQ"] = true,
-                ["WQ"] = true,
-                ["JQ"] = true,
-                ["SmithCraft"] = true,
-                ["Window_rPoint"] = 128,
-                ["SolsticeRapid"] = true,
-                ["version"] = 1,
-                ["CloseBank"] = true,
-                ["MasterCraft"] = true,
-                ["Window_Point"] = 128,
-                ["QuestAuto"] = true,
-            },
-            ["8796093078411849"] = 
-            {
-                ["StyleList"] = 
-                {
-                },
-                ["SolsticeAuto"] = true,
-                ["$LastCharacterName"] = "Young Ming",
-                ["OpenBankAssistant"] = true,
-                ["Window_OffsetX"] = 0,
-                ["EnchantCraft"] = true,
-                ["DD_SmithMaterialLeft"] = 200,
-                ["QuestDelay"] = 200,
-                ["CustomBoxLinks"] = 
-                {
-                },
-                ["DD_Announce"] = false,
-                ["DailyRestrict"] = 
-                {
-                },
-                ["Bank"] = true,
-                ["DailyCraft"] = true,
-                ["PQ"] = true,
-                ["OpenBox"] = true,
-                ["BQ"] = true,
-                ["Window_OffsetY"] = 0,
-                ["CQ"] = true,
-                ["DD_AlchemyCost"] = true,
-                ["OpenBank"] = false,
-                ["DailyRawRestrict"] = 
-                {
-                },
-                ["NotClose"] = false,
-                ["DD_Research"] = true,
-                ["Window_Show"] = true,
-                ["DD_Bank"] = false,
-                ["CookCraft"] = true,
-                ["CV"] = false,
-                ["EQ"] = true,
-                ["AlchemyCraft"] = true,
-                ["MasterRestrict"] = 
-                {
-                },
-                ["AQ"] = true,
-                ["WQ"] = true,
-                ["JQ"] = true,
-                ["SmithCraft"] = true,
-                ["Window_rPoint"] = 128,
-                ["SolsticeRapid"] = true,
-                ["version"] = 1,
-                ["CloseBank"] = true,
-                ["MasterCraft"] = true,
-                ["Window_Point"] = 128,
-                ["QuestAuto"] = true,
-            },
-            ["8796093080475359"] = 
-            {
-                ["StyleList"] = 
-                {
-                },
-                ["SolsticeAuto"] = true,
-                ["$LastCharacterName"] = "Hymn Hemy",
-                ["OpenBankAssistant"] = true,
-                ["Window_OffsetX"] = 0,
-                ["EnchantCraft"] = true,
-                ["DD_SmithMaterialLeft"] = 200,
-                ["QuestDelay"] = 200,
-                ["CustomBoxLinks"] = 
-                {
-                },
-                ["DD_Announce"] = false,
-                ["DailyRestrict"] = 
-                {
-                },
-                ["Bank"] = true,
-                ["DailyCraft"] = true,
-                ["PQ"] = true,
-                ["OpenBox"] = true,
-                ["BQ"] = true,
-                ["Window_OffsetY"] = 0,
-                ["CQ"] = true,
-                ["DD_AlchemyCost"] = true,
-                ["OpenBank"] = false,
-                ["DailyRawRestrict"] = 
-                {
-                },
-                ["NotClose"] = false,
-                ["DD_Research"] = true,
-                ["Window_Show"] = true,
-                ["DD_Bank"] = false,
-                ["CookCraft"] = true,
-                ["CV"] = false,
-                ["EQ"] = true,
-                ["AlchemyCraft"] = true,
-                ["MasterRestrict"] = 
-                {
-                },
-                ["AQ"] = true,
-                ["WQ"] = true,
-                ["JQ"] = true,
-                ["SmithCraft"] = true,
-                ["Window_rPoint"] = 128,
-                ["SolsticeRapid"] = true,
-                ["version"] = 1,
-                ["CloseBank"] = true,
-                ["MasterCraft"] = true,
-                ["Window_Point"] = 128,
-                ["QuestAuto"] = true,
-            },
-            ["8796093077977575"] = 
-            {
-                ["StyleList"] = 
-                {
-                },
-                ["SolsticeAuto"] = true,
-                ["$LastCharacterName"] = "Killswitch Memories",
-                ["OpenBankAssistant"] = true,
-                ["Window_OffsetX"] = 0,
-                ["EnchantCraft"] = true,
-                ["DD_SmithMaterialLeft"] = 200,
-                ["QuestDelay"] = 200,
-                ["CustomBoxLinks"] = 
-                {
-                },
-                ["DD_Announce"] = false,
-                ["DailyRestrict"] = 
-                {
-                },
-                ["Bank"] = true,
-                ["DailyCraft"] = true,
-                ["PQ"] = true,
-                ["OpenBox"] = true,
-                ["BQ"] = true,
-                ["Window_OffsetY"] = 0,
-                ["CQ"] = true,
-                ["DD_AlchemyCost"] = true,
-                ["OpenBank"] = false,
-                ["DailyRawRestrict"] = 
-                {
-                },
-                ["NotClose"] = false,
-                ["DD_Research"] = true,
-                ["Window_Show"] = true,
-                ["DD_Bank"] = false,
-                ["CookCraft"] = true,
-                ["CV"] = false,
-                ["EQ"] = true,
-                ["AlchemyCraft"] = true,
-                ["MasterRestrict"] = 
-                {
-                },
-                ["AQ"] = true,
-                ["WQ"] = true,
-                ["JQ"] = true,
-                ["SmithCraft"] = true,
-                ["Window_rPoint"] = 128,
-                ["SolsticeRapid"] = true,
-                ["version"] = 1,
-                ["CloseBank"] = true,
-                ["MasterCraft"] = true,
-                ["Window_Point"] = 128,
-                ["QuestAuto"] = true,
-            },
-            ["$AccountWide"] = 
-            {
-                ["StyleList"] = 
-                {
-                    [1] = 33251,
-                    [2] = 33258,
-                    [3] = 33257,
-                    [4] = 33253,
-                    [5] = 33256,
-                    [6] = 33150,
-                    [7] = 33252,
-                    [8] = 33194,
-                    [9] = 33255,
-                    [34] = 33254,
-                },
-                ["SolsticeAuto"] = true,
-                ["OpenAnniversary"] = false,
-                ["Window_OffsetX"] = 335,
-                ["EnchantCraft"] = true,
-                ["DD_SmithMaterialLeft"] = 200,
-                ["QuestDelay"] = 200,
-                ["CustomBoxLinks"] = 
-                {
-                    [1] = "|H0:item:212251:122:1:0:0:0:0:0:0:0:0:0:0:0:1:0:0:1:0:0:0|h|h",
-                },
-                ["DD_Announce"] = false,
-                ["DailyRestrict"] = 
-                {
-                    [1] = 30152,
-                    [2] = 30164,
-                    [3] = 139019,
-                    [4] = 150731,
-                    [5] = 150671,
-                },
-                ["Bank"] = true,
-                ["DailyCraft"] = true,
-                ["PQ"] = true,
-                ["OpenBox"] = true,
-                ["BQ"] = true,
-                ["Window_OffsetY"] = -545,
-                ["CQ"] = true,
-                ["DD_AlchemyCost"] = true,
-                ["OpenBank"] = false,
-                ["DailyRawRestrict"] = 
-                {
-                    [1] = "%/",
-                },
-                ["NotClose"] = false,
-                ["DD_Research"] = true,
-                ["SolsticeRapid"] = true,
-                ["CV"] = false,
-                ["DD_Bank"] = false,
-                ["CookCraft"] = true,
-                ["AlchemyCraft"] = true,
-                ["EQ"] = true,
-                ["WQ"] = true,
-                ["MasterRestrict"] = 
-                {
-                    [2] = 150671,
-                    [1] = 150731,
-                },
-                ["AQ"] = true,
-                ["SmithCraft"] = true,
-                ["JQ"] = true,
-                ["Window_rPoint"] = 6,
-                ["Window_Show"] = true,
-                ["MasterCraft"] = true,
-                ["version"] = 1,
-                ["CloseBank"] = true,
-                ["QuestAuto"] = true,
-                ["Window_Point"] = 6,
-                ["OpenBankAssistant"] = true,
             },
             ["8796093077977317"] = 
             {
+                ["CookCraft"] = true,
+                ["EnchantCraft"] = true,
+                ["DailyRawRestrict"] = 
+                {
+                },
+                ["SolsticeRapid"] = true,
+                ["Window_rPoint"] = 128,
+                ["version"] = 1,
+                ["CV"] = false,
+                ["DD_Bank"] = false,
+                ["SmithCraft"] = true,
+                ["OpenBox"] = true,
+                ["Window_OffsetX"] = 0,
+                ["NotClose"] = false,
+                ["AQ"] = true,
+                ["SolsticeAuto"] = true,
+                ["OpenBank"] = false,
+                ["Bank"] = true,
+                ["DD_Research"] = true,
+                ["Window_Show"] = true,
+                ["WQ"] = true,
+                ["OpenBankAssistant"] = true,
+                ["DD_Announce"] = false,
+                ["DailyCraft"] = true,
+                ["Window_OffsetY"] = 0,
                 ["StyleList"] = 
                 {
                 },
-                ["SolsticeAuto"] = true,
+                ["QuestDelay"] = 200,
+                ["MasterRestrict"] = 
+                {
+                },
+                ["DD_AlchemyCost"] = true,
+                ["DailyRestrict"] = 
+                {
+                },
+                ["CQ"] = true,
+                ["DD_SmithMaterialLeft"] = 200,
+                ["JQ"] = true,
+                ["AlchemyCraft"] = true,
+                ["BQ"] = true,
                 ["$LastCharacterName"] = "Simmy Seek Snow",
-                ["OpenBankAssistant"] = true,
-                ["Window_OffsetX"] = 0,
-                ["EnchantCraft"] = true,
-                ["DD_SmithMaterialLeft"] = 200,
-                ["QuestDelay"] = 200,
+                ["PQ"] = true,
+                ["MasterCraft"] = true,
                 ["CustomBoxLinks"] = 
                 {
                 },
-                ["DD_Announce"] = false,
-                ["DailyRestrict"] = 
-                {
-                },
-                ["Bank"] = true,
-                ["DailyCraft"] = true,
-                ["PQ"] = true,
-                ["OpenBox"] = true,
-                ["BQ"] = true,
-                ["Window_OffsetY"] = 0,
-                ["CQ"] = true,
-                ["DD_AlchemyCost"] = true,
-                ["OpenBank"] = false,
+                ["Window_Point"] = 128,
+                ["EQ"] = true,
+                ["QuestAuto"] = true,
+                ["CloseBank"] = true,
+            },
+            ["8796093077286887"] = 
+            {
+                ["CookCraft"] = true,
+                ["EnchantCraft"] = true,
                 ["DailyRawRestrict"] = 
                 {
                 },
+                ["SolsticeRapid"] = true,
+                ["Window_rPoint"] = 128,
+                ["version"] = 1,
+                ["CV"] = false,
+                ["DD_Bank"] = false,
+                ["SmithCraft"] = true,
+                ["OpenBox"] = true,
+                ["Window_OffsetX"] = 0,
                 ["NotClose"] = false,
+                ["AQ"] = true,
+                ["SolsticeAuto"] = true,
+                ["OpenBank"] = false,
+                ["Bank"] = true,
                 ["DD_Research"] = true,
                 ["Window_Show"] = true,
-                ["DD_Bank"] = false,
-                ["CookCraft"] = true,
-                ["CV"] = false,
-                ["EQ"] = true,
-                ["AlchemyCraft"] = true,
-                ["MasterRestrict"] = 
-                {
-                },
-                ["AQ"] = true,
                 ["WQ"] = true,
-                ["JQ"] = true,
-                ["SmithCraft"] = true,
-                ["Window_rPoint"] = 128,
-                ["SolsticeRapid"] = true,
-                ["version"] = 1,
-                ["CloseBank"] = true,
-                ["MasterCraft"] = true,
-                ["Window_Point"] = 128,
-                ["QuestAuto"] = true,
-            },
-        },
-        ["@YYDS1214"] = 
-        {
-            ["8796093077165965"] = 
-            {
+                ["OpenBankAssistant"] = true,
+                ["DD_Announce"] = false,
+                ["DailyCraft"] = true,
+                ["Window_OffsetY"] = 0,
                 ["StyleList"] = 
                 {
                 },
-                ["SolsticeAuto"] = true,
-                ["$LastCharacterName"] = "Junjunya",
-                ["OpenBankAssistant"] = true,
-                ["Window_OffsetX"] = 0,
-                ["EnchantCraft"] = true,
-                ["DD_SmithMaterialLeft"] = 200,
                 ["QuestDelay"] = 200,
-                ["CustomBoxLinks"] = 
-                {
-                },
-                ["DD_Announce"] = false,
-                ["DailyRestrict"] = 
-                {
-                },
-                ["Bank"] = true,
-                ["DailyCraft"] = true,
-                ["PQ"] = true,
-                ["OpenBox"] = true,
-                ["BQ"] = true,
-                ["Window_OffsetY"] = 0,
-                ["CQ"] = true,
-                ["DD_AlchemyCost"] = true,
-                ["OpenBank"] = false,
-                ["DailyRawRestrict"] = 
-                {
-                },
-                ["NotClose"] = false,
-                ["DD_Research"] = true,
-                ["Window_Show"] = true,
-                ["DD_Bank"] = false,
-                ["CookCraft"] = true,
-                ["CV"] = false,
-                ["EQ"] = true,
-                ["AlchemyCraft"] = true,
                 ["MasterRestrict"] = 
                 {
                 },
-                ["AQ"] = true,
-                ["WQ"] = true,
+                ["DD_AlchemyCost"] = true,
+                ["DailyRestrict"] = 
+                {
+                },
+                ["CQ"] = true,
+                ["DD_SmithMaterialLeft"] = 200,
                 ["JQ"] = true,
-                ["SmithCraft"] = true,
-                ["Window_rPoint"] = 128,
-                ["SolsticeRapid"] = true,
-                ["version"] = 1,
-                ["CloseBank"] = true,
+                ["AlchemyCraft"] = true,
+                ["BQ"] = true,
+                ["$LastCharacterName"] = "noobhappy",
+                ["PQ"] = true,
                 ["MasterCraft"] = true,
+                ["CustomBoxLinks"] = 
+                {
+                },
                 ["Window_Point"] = 128,
+                ["EQ"] = true,
                 ["QuestAuto"] = true,
+                ["CloseBank"] = true,
             },
-            ["8796093077181579"] = 
+            ["8796093077354797"] = 
             {
+                ["CookCraft"] = true,
+                ["EnchantCraft"] = true,
+                ["DailyRawRestrict"] = 
+                {
+                },
+                ["SolsticeRapid"] = true,
+                ["Window_rPoint"] = 128,
+                ["version"] = 1,
+                ["CV"] = false,
+                ["DD_Bank"] = false,
+                ["SmithCraft"] = true,
+                ["OpenBox"] = true,
+                ["Window_OffsetX"] = 0,
+                ["NotClose"] = false,
+                ["AQ"] = true,
+                ["SolsticeAuto"] = true,
+                ["OpenBank"] = false,
+                ["Bank"] = true,
+                ["DD_Research"] = true,
+                ["Window_Show"] = true,
+                ["WQ"] = true,
+                ["OpenBankAssistant"] = true,
+                ["DD_Announce"] = false,
+                ["DailyCraft"] = true,
+                ["Window_OffsetY"] = 0,
                 ["StyleList"] = 
                 {
                 },
-                ["SolsticeAuto"] = true,
-                ["$LastCharacterName"] = "A qiya",
-                ["OpenBankAssistant"] = true,
-                ["Window_OffsetX"] = 0,
-                ["EnchantCraft"] = true,
-                ["DD_SmithMaterialLeft"] = 200,
                 ["QuestDelay"] = 200,
-                ["CustomBoxLinks"] = 
-                {
-                },
-                ["DD_Announce"] = false,
-                ["DailyRestrict"] = 
-                {
-                },
-                ["Bank"] = true,
-                ["DailyCraft"] = true,
-                ["PQ"] = true,
-                ["OpenBox"] = true,
-                ["BQ"] = true,
-                ["Window_OffsetY"] = 0,
-                ["CQ"] = true,
-                ["DD_AlchemyCost"] = true,
-                ["OpenBank"] = false,
-                ["DailyRawRestrict"] = 
-                {
-                },
-                ["NotClose"] = false,
-                ["DD_Research"] = true,
-                ["Window_Show"] = true,
-                ["DD_Bank"] = false,
-                ["CookCraft"] = true,
-                ["CV"] = false,
-                ["EQ"] = true,
-                ["AlchemyCraft"] = true,
                 ["MasterRestrict"] = 
                 {
                 },
-                ["AQ"] = true,
-                ["WQ"] = true,
+                ["DD_AlchemyCost"] = true,
+                ["DailyRestrict"] = 
+                {
+                },
+                ["CQ"] = true,
+                ["DD_SmithMaterialLeft"] = 200,
                 ["JQ"] = true,
-                ["SmithCraft"] = true,
-                ["Window_rPoint"] = 128,
-                ["SolsticeRapid"] = true,
-                ["version"] = 1,
-                ["CloseBank"] = true,
+                ["AlchemyCraft"] = true,
+                ["BQ"] = true,
+                ["$LastCharacterName"] = "noobsmell",
+                ["PQ"] = true,
                 ["MasterCraft"] = true,
+                ["CustomBoxLinks"] = 
+                {
+                },
                 ["Window_Point"] = 128,
+                ["EQ"] = true,
                 ["QuestAuto"] = true,
+                ["CloseBank"] = true,
             },
-            ["8796093077616617"] = 
+            ["8796093077976825"] = 
             {
+                ["CookCraft"] = true,
+                ["EnchantCraft"] = true,
+                ["DailyRawRestrict"] = 
+                {
+                },
+                ["SolsticeRapid"] = true,
+                ["Window_rPoint"] = 128,
+                ["version"] = 1,
+                ["CV"] = false,
+                ["DD_Bank"] = false,
+                ["SmithCraft"] = true,
+                ["OpenBox"] = true,
+                ["Window_OffsetX"] = 0,
+                ["NotClose"] = false,
+                ["AQ"] = true,
+                ["SolsticeAuto"] = true,
+                ["OpenBank"] = false,
+                ["Bank"] = true,
+                ["DD_Research"] = true,
+                ["Window_Show"] = true,
+                ["WQ"] = true,
+                ["OpenBankAssistant"] = true,
+                ["DD_Announce"] = false,
+                ["DailyCraft"] = true,
+                ["Window_OffsetY"] = 0,
                 ["StyleList"] = 
                 {
                 },
-                ["SolsticeAuto"] = true,
-                ["$LastCharacterName"] = "shiaqi",
-                ["OpenBankAssistant"] = true,
-                ["Window_OffsetX"] = 0,
-                ["EnchantCraft"] = true,
-                ["DD_SmithMaterialLeft"] = 200,
                 ["QuestDelay"] = 200,
-                ["CustomBoxLinks"] = 
-                {
-                },
-                ["DD_Announce"] = false,
-                ["DailyRestrict"] = 
-                {
-                },
-                ["Bank"] = true,
-                ["DailyCraft"] = true,
-                ["PQ"] = true,
-                ["OpenBox"] = true,
-                ["BQ"] = true,
-                ["Window_OffsetY"] = 0,
-                ["CQ"] = true,
-                ["DD_AlchemyCost"] = true,
-                ["OpenBank"] = false,
-                ["DailyRawRestrict"] = 
-                {
-                },
-                ["NotClose"] = false,
-                ["DD_Research"] = true,
-                ["Window_Show"] = true,
-                ["DD_Bank"] = false,
-                ["CookCraft"] = true,
-                ["CV"] = false,
-                ["EQ"] = true,
-                ["AlchemyCraft"] = true,
                 ["MasterRestrict"] = 
                 {
                 },
-                ["AQ"] = true,
-                ["WQ"] = true,
+                ["DD_AlchemyCost"] = true,
+                ["DailyRestrict"] = 
+                {
+                },
+                ["CQ"] = true,
+                ["DD_SmithMaterialLeft"] = 200,
                 ["JQ"] = true,
-                ["SmithCraft"] = true,
-                ["Window_rPoint"] = 128,
-                ["SolsticeRapid"] = true,
-                ["version"] = 1,
-                ["CloseBank"] = true,
+                ["AlchemyCraft"] = true,
+                ["BQ"] = true,
+                ["$LastCharacterName"] = "Sunken Feb",
+                ["PQ"] = true,
                 ["MasterCraft"] = true,
+                ["CustomBoxLinks"] = 
+                {
+                },
                 ["Window_Point"] = 128,
+                ["EQ"] = true,
                 ["QuestAuto"] = true,
+                ["CloseBank"] = true,
             },
-            ["8796093077153837"] = 
+            ["8796093078739949"] = 
             {
+                ["CookCraft"] = true,
+                ["EnchantCraft"] = true,
+                ["DailyRawRestrict"] = 
+                {
+                },
+                ["SolsticeRapid"] = true,
+                ["Window_rPoint"] = 128,
+                ["version"] = 1,
+                ["CV"] = false,
+                ["DD_Bank"] = false,
+                ["SmithCraft"] = true,
+                ["OpenBox"] = true,
+                ["Window_OffsetX"] = 0,
+                ["NotClose"] = false,
+                ["AQ"] = true,
+                ["SolsticeAuto"] = true,
+                ["OpenBank"] = false,
+                ["Bank"] = true,
+                ["DD_Research"] = true,
+                ["Window_Show"] = true,
+                ["WQ"] = true,
+                ["OpenBankAssistant"] = true,
+                ["DD_Announce"] = false,
+                ["DailyCraft"] = true,
+                ["Window_OffsetY"] = 0,
                 ["StyleList"] = 
                 {
                 },
-                ["SolsticeAuto"] = true,
-                ["$LastCharacterName"] = "Yang Yyds",
-                ["OpenBankAssistant"] = true,
-                ["Window_OffsetX"] = 0,
-                ["EnchantCraft"] = true,
-                ["DD_SmithMaterialLeft"] = 200,
                 ["QuestDelay"] = 200,
-                ["CustomBoxLinks"] = 
-                {
-                },
-                ["DD_Announce"] = false,
-                ["DailyRestrict"] = 
-                {
-                },
-                ["Bank"] = true,
-                ["DailyCraft"] = true,
-                ["PQ"] = true,
-                ["OpenBox"] = true,
-                ["BQ"] = true,
-                ["Window_OffsetY"] = 0,
-                ["CQ"] = true,
-                ["DD_AlchemyCost"] = true,
-                ["OpenBank"] = false,
-                ["DailyRawRestrict"] = 
-                {
-                },
-                ["NotClose"] = false,
-                ["DD_Research"] = true,
-                ["Window_Show"] = true,
-                ["DD_Bank"] = false,
-                ["CookCraft"] = true,
-                ["CV"] = false,
-                ["EQ"] = true,
-                ["AlchemyCraft"] = true,
                 ["MasterRestrict"] = 
                 {
                 },
-                ["AQ"] = true,
-                ["WQ"] = true,
+                ["DD_AlchemyCost"] = true,
+                ["DailyRestrict"] = 
+                {
+                },
+                ["CQ"] = true,
+                ["DD_SmithMaterialLeft"] = 200,
                 ["JQ"] = true,
-                ["SmithCraft"] = true,
-                ["Window_rPoint"] = 128,
-                ["SolsticeRapid"] = true,
-                ["version"] = 1,
-                ["CloseBank"] = true,
+                ["AlchemyCraft"] = true,
+                ["BQ"] = true,
+                ["$LastCharacterName"] = "noobbomb",
+                ["PQ"] = true,
                 ["MasterCraft"] = true,
+                ["CustomBoxLinks"] = 
+                {
+                },
                 ["Window_Point"] = 128,
+                ["EQ"] = true,
                 ["QuestAuto"] = true,
+                ["CloseBank"] = true,
             },
-            ["8796093077181565"] = 
+            ["8796093076445407"] = 
             {
+                ["CookCraft"] = true,
+                ["EnchantCraft"] = true,
+                ["DailyRawRestrict"] = 
+                {
+                },
+                ["SolsticeRapid"] = true,
+                ["Window_rPoint"] = 128,
+                ["version"] = 1,
+                ["CV"] = false,
+                ["DD_Bank"] = false,
+                ["SmithCraft"] = true,
+                ["OpenBox"] = true,
+                ["Window_OffsetX"] = 0,
+                ["NotClose"] = false,
+                ["AQ"] = true,
+                ["SolsticeAuto"] = true,
+                ["OpenBank"] = false,
+                ["Bank"] = true,
+                ["DD_Research"] = true,
+                ["Window_Show"] = true,
+                ["WQ"] = true,
+                ["OpenBankAssistant"] = true,
+                ["DD_Announce"] = false,
+                ["DailyCraft"] = true,
+                ["Window_OffsetY"] = 0,
                 ["StyleList"] = 
                 {
                 },
-                ["SolsticeAuto"] = true,
-                ["$LastCharacterName"] = "Aqiya",
-                ["OpenBankAssistant"] = true,
-                ["Window_OffsetX"] = 0,
-                ["EnchantCraft"] = true,
-                ["DD_SmithMaterialLeft"] = 200,
                 ["QuestDelay"] = 200,
-                ["CustomBoxLinks"] = 
-                {
-                },
-                ["DD_Announce"] = false,
-                ["DailyRestrict"] = 
-                {
-                },
-                ["Bank"] = true,
-                ["DailyCraft"] = true,
-                ["PQ"] = true,
-                ["OpenBox"] = true,
-                ["BQ"] = true,
-                ["Window_OffsetY"] = 0,
-                ["CQ"] = true,
-                ["DD_AlchemyCost"] = true,
-                ["OpenBank"] = false,
-                ["DailyRawRestrict"] = 
-                {
-                },
-                ["NotClose"] = false,
-                ["DD_Research"] = true,
-                ["Window_Show"] = true,
-                ["DD_Bank"] = false,
-                ["CookCraft"] = true,
-                ["CV"] = false,
-                ["EQ"] = true,
-                ["AlchemyCraft"] = true,
                 ["MasterRestrict"] = 
                 {
                 },
-                ["AQ"] = true,
-                ["WQ"] = true,
+                ["DD_AlchemyCost"] = true,
+                ["DailyRestrict"] = 
+                {
+                },
+                ["CQ"] = true,
+                ["DD_SmithMaterialLeft"] = 200,
                 ["JQ"] = true,
-                ["SmithCraft"] = true,
-                ["Window_rPoint"] = 128,
-                ["SolsticeRapid"] = true,
-                ["version"] = 1,
-                ["CloseBank"] = true,
+                ["AlchemyCraft"] = true,
+                ["BQ"] = true,
+                ["$LastCharacterName"] = "noobkiss",
+                ["PQ"] = true,
                 ["MasterCraft"] = true,
+                ["CustomBoxLinks"] = 
+                {
+                },
                 ["Window_Point"] = 128,
+                ["EQ"] = true,
                 ["QuestAuto"] = true,
+                ["CloseBank"] = true,
             },
-            ["8796093077181587"] = 
+            ["8796093077546265"] = 
             {
+                ["CookCraft"] = true,
+                ["EnchantCraft"] = true,
+                ["DailyRawRestrict"] = 
+                {
+                },
+                ["SolsticeRapid"] = true,
+                ["Window_rPoint"] = 128,
+                ["version"] = 1,
+                ["CV"] = false,
+                ["DD_Bank"] = false,
+                ["SmithCraft"] = true,
+                ["OpenBox"] = true,
+                ["Window_OffsetX"] = 0,
+                ["NotClose"] = false,
+                ["AQ"] = true,
+                ["SolsticeAuto"] = true,
+                ["OpenBank"] = false,
+                ["Bank"] = true,
+                ["DD_Research"] = true,
+                ["Window_Show"] = true,
+                ["WQ"] = true,
+                ["OpenBankAssistant"] = true,
+                ["DD_Announce"] = false,
+                ["DailyCraft"] = true,
+                ["Window_OffsetY"] = 0,
                 ["StyleList"] = 
                 {
                 },
-                ["SolsticeAuto"] = true,
-                ["$LastCharacterName"] = "a qi ya",
-                ["OpenBankAssistant"] = true,
-                ["Window_OffsetX"] = 0,
-                ["EnchantCraft"] = true,
-                ["DD_SmithMaterialLeft"] = 200,
                 ["QuestDelay"] = 200,
-                ["CustomBoxLinks"] = 
-                {
-                },
-                ["DD_Announce"] = false,
-                ["DailyRestrict"] = 
-                {
-                },
-                ["Bank"] = true,
-                ["DailyCraft"] = true,
-                ["PQ"] = true,
-                ["OpenBox"] = true,
-                ["BQ"] = true,
-                ["Window_OffsetY"] = 0,
-                ["CQ"] = true,
-                ["DD_AlchemyCost"] = true,
-                ["OpenBank"] = false,
-                ["DailyRawRestrict"] = 
-                {
-                },
-                ["NotClose"] = false,
-                ["DD_Research"] = true,
-                ["Window_Show"] = true,
-                ["DD_Bank"] = false,
-                ["CookCraft"] = true,
-                ["CV"] = false,
-                ["EQ"] = true,
-                ["AlchemyCraft"] = true,
                 ["MasterRestrict"] = 
                 {
                 },
-                ["AQ"] = true,
-                ["WQ"] = true,
+                ["DD_AlchemyCost"] = true,
+                ["DailyRestrict"] = 
+                {
+                },
+                ["CQ"] = true,
+                ["DD_SmithMaterialLeft"] = 200,
                 ["JQ"] = true,
-                ["SmithCraft"] = true,
-                ["Window_rPoint"] = 128,
-                ["SolsticeRapid"] = true,
-                ["version"] = 1,
-                ["CloseBank"] = true,
+                ["AlchemyCraft"] = true,
+                ["BQ"] = true,
+                ["$LastCharacterName"] = "Galen Chef Mike",
+                ["PQ"] = true,
                 ["MasterCraft"] = true,
+                ["CustomBoxLinks"] = 
+                {
+                },
                 ["Window_Point"] = 128,
+                ["EQ"] = true,
                 ["QuestAuto"] = true,
+                ["CloseBank"] = true,
             },
-            ["8796093077595053"] = 
+            ["8796093080564087"] = 
             {
+                ["CookCraft"] = true,
+                ["EnchantCraft"] = true,
+                ["DailyRawRestrict"] = 
+                {
+                },
+                ["SolsticeRapid"] = true,
+                ["Window_rPoint"] = 128,
+                ["version"] = 1,
+                ["CV"] = false,
+                ["DD_Bank"] = false,
+                ["SmithCraft"] = true,
+                ["OpenBox"] = true,
+                ["Window_OffsetX"] = 0,
+                ["NotClose"] = false,
+                ["AQ"] = true,
+                ["SolsticeAuto"] = true,
+                ["OpenBank"] = false,
+                ["Bank"] = true,
+                ["DD_Research"] = true,
+                ["Window_Show"] = true,
+                ["WQ"] = true,
+                ["OpenBankAssistant"] = true,
+                ["DD_Announce"] = false,
+                ["DailyCraft"] = true,
+                ["Window_OffsetY"] = 0,
                 ["StyleList"] = 
                 {
                 },
-                ["SolsticeAuto"] = true,
-                ["$LastCharacterName"] = "aqi ya",
-                ["OpenBankAssistant"] = true,
-                ["Window_OffsetX"] = 0,
-                ["EnchantCraft"] = true,
-                ["DD_SmithMaterialLeft"] = 200,
                 ["QuestDelay"] = 200,
-                ["CustomBoxLinks"] = 
-                {
-                },
-                ["DD_Announce"] = false,
-                ["DailyRestrict"] = 
-                {
-                },
-                ["Bank"] = true,
-                ["DailyCraft"] = true,
-                ["PQ"] = true,
-                ["OpenBox"] = true,
-                ["BQ"] = true,
-                ["Window_OffsetY"] = 0,
-                ["CQ"] = true,
-                ["DD_AlchemyCost"] = true,
-                ["OpenBank"] = false,
-                ["DailyRawRestrict"] = 
-                {
-                },
-                ["NotClose"] = false,
-                ["DD_Research"] = true,
-                ["Window_Show"] = true,
-                ["DD_Bank"] = false,
-                ["CookCraft"] = true,
-                ["CV"] = false,
-                ["EQ"] = true,
-                ["AlchemyCraft"] = true,
                 ["MasterRestrict"] = 
                 {
                 },
-                ["AQ"] = true,
-                ["WQ"] = true,
+                ["DD_AlchemyCost"] = true,
+                ["DailyRestrict"] = 
+                {
+                },
+                ["CQ"] = true,
+                ["DD_SmithMaterialLeft"] = 200,
                 ["JQ"] = true,
-                ["SmithCraft"] = true,
-                ["Window_rPoint"] = 128,
-                ["SolsticeRapid"] = true,
-                ["version"] = 1,
-                ["CloseBank"] = true,
+                ["AlchemyCraft"] = true,
+                ["BQ"] = true,
+                ["$LastCharacterName"] = "Wasted Wasted",
+                ["PQ"] = true,
                 ["MasterCraft"] = true,
+                ["CustomBoxLinks"] = 
+                {
+                },
                 ["Window_Point"] = 128,
+                ["EQ"] = true,
                 ["QuestAuto"] = true,
+                ["CloseBank"] = true,
             },
-            ["$AccountWide"] = 
+            ["8796093078411849"] = 
             {
+                ["CookCraft"] = true,
+                ["EnchantCraft"] = true,
+                ["DailyRawRestrict"] = 
+                {
+                },
+                ["SolsticeRapid"] = true,
+                ["Window_rPoint"] = 128,
+                ["version"] = 1,
+                ["CV"] = false,
+                ["DD_Bank"] = false,
+                ["SmithCraft"] = true,
+                ["OpenBox"] = true,
+                ["Window_OffsetX"] = 0,
+                ["NotClose"] = false,
+                ["AQ"] = true,
+                ["SolsticeAuto"] = true,
+                ["OpenBank"] = false,
+                ["Bank"] = true,
+                ["DD_Research"] = true,
+                ["Window_Show"] = true,
+                ["WQ"] = true,
+                ["OpenBankAssistant"] = true,
+                ["DD_Announce"] = false,
+                ["DailyCraft"] = true,
+                ["Window_OffsetY"] = 0,
+                ["StyleList"] = 
+                {
+                },
+                ["QuestDelay"] = 200,
+                ["MasterRestrict"] = 
+                {
+                },
+                ["DD_AlchemyCost"] = true,
+                ["DailyRestrict"] = 
+                {
+                },
+                ["CQ"] = true,
+                ["DD_SmithMaterialLeft"] = 200,
+                ["JQ"] = true,
+                ["AlchemyCraft"] = true,
+                ["BQ"] = true,
+                ["$LastCharacterName"] = "Young Ming",
+                ["PQ"] = true,
+                ["MasterCraft"] = true,
+                ["CustomBoxLinks"] = 
+                {
+                },
+                ["Window_Point"] = 128,
+                ["EQ"] = true,
+                ["QuestAuto"] = true,
+                ["CloseBank"] = true,
+            },
+            ["8796093079602369"] = 
+            {
+                ["CookCraft"] = true,
+                ["EnchantCraft"] = true,
+                ["DailyRawRestrict"] = 
+                {
+                    [1] = "%/",
+                },
+                ["SolsticeRapid"] = true,
+                ["Window_rPoint"] = 6,
+                ["version"] = 1,
+                ["CV"] = true,
+                ["DD_Bank"] = false,
+                ["SmithCraft"] = true,
+                ["OpenBox"] = true,
+                ["Window_OffsetX"] = 358,
+                ["NotClose"] = false,
+                ["AQ"] = true,
+                ["SolsticeAuto"] = true,
+                ["OpenBank"] = false,
+                ["Bank"] = true,
+                ["DD_Research"] = true,
+                ["Window_Show"] = true,
+                ["WQ"] = true,
+                ["OpenBankAssistant"] = true,
+                ["DD_Announce"] = false,
+                ["DailyCraft"] = true,
+                ["Window_OffsetY"] = -557,
                 ["StyleList"] = 
                 {
                     [1] = 33251,
@@ -2266,16 +1382,13 @@ SDC_SaveVars =
                     [9] = 33255,
                     [34] = 33254,
                 },
-                ["SolsticeAuto"] = true,
-                ["OpenBankAssistant"] = true,
-                ["Window_OffsetX"] = 0,
-                ["EnchantCraft"] = true,
-                ["DD_SmithMaterialLeft"] = 200,
                 ["QuestDelay"] = 200,
-                ["CustomBoxLinks"] = 
+                ["MasterRestrict"] = 
                 {
+                    [2] = 150671,
+                    [1] = 150731,
                 },
-                ["DD_Announce"] = false,
+                ["DD_AlchemyCost"] = true,
                 ["DailyRestrict"] = 
                 {
                     [1] = 30152,
@@ -2284,103 +1397,1282 @@ SDC_SaveVars =
                     [4] = 150731,
                     [5] = 150671,
                 },
-                ["Bank"] = true,
-                ["DailyCraft"] = true,
-                ["PQ"] = true,
-                ["OpenBox"] = true,
-                ["BQ"] = true,
-                ["Window_OffsetY"] = 0,
                 ["CQ"] = true,
-                ["DD_AlchemyCost"] = true,
+                ["DD_SmithMaterialLeft"] = 200,
+                ["JQ"] = true,
+                ["AlchemyCraft"] = true,
+                ["BQ"] = true,
+                ["$LastCharacterName"] = "Zou Kimcheng",
+                ["PQ"] = true,
+                ["MasterCraft"] = true,
+                ["CustomBoxLinks"] = 
+                {
+                    [1] = "|H0:item:212251:122:1:0:0:0:0:0:0:0:0:0:0:0:1:0:0:1:0:0:0|h|h",
+                },
+                ["Window_Point"] = 6,
+                ["EQ"] = true,
+                ["QuestAuto"] = true,
+                ["CloseBank"] = true,
+            },
+            ["8796093080475359"] = 
+            {
+                ["CookCraft"] = true,
+                ["EnchantCraft"] = true,
+                ["DailyRawRestrict"] = 
+                {
+                },
+                ["SolsticeRapid"] = true,
+                ["Window_rPoint"] = 128,
+                ["version"] = 1,
+                ["CV"] = false,
+                ["DD_Bank"] = false,
+                ["SmithCraft"] = true,
+                ["OpenBox"] = true,
+                ["Window_OffsetX"] = 0,
+                ["NotClose"] = false,
+                ["AQ"] = true,
+                ["SolsticeAuto"] = true,
                 ["OpenBank"] = false,
+                ["Bank"] = true,
+                ["DD_Research"] = true,
+                ["Window_Show"] = true,
+                ["WQ"] = true,
+                ["OpenBankAssistant"] = true,
+                ["DD_Announce"] = false,
+                ["DailyCraft"] = true,
+                ["Window_OffsetY"] = 0,
+                ["StyleList"] = 
+                {
+                },
+                ["QuestDelay"] = 200,
+                ["MasterRestrict"] = 
+                {
+                },
+                ["DD_AlchemyCost"] = true,
+                ["DailyRestrict"] = 
+                {
+                },
+                ["CQ"] = true,
+                ["DD_SmithMaterialLeft"] = 200,
+                ["JQ"] = true,
+                ["AlchemyCraft"] = true,
+                ["BQ"] = true,
+                ["$LastCharacterName"] = "Hymn Hemy",
+                ["PQ"] = true,
+                ["MasterCraft"] = true,
+                ["CustomBoxLinks"] = 
+                {
+                },
+                ["Window_Point"] = 128,
+                ["EQ"] = true,
+                ["QuestAuto"] = true,
+                ["CloseBank"] = true,
+            },
+            ["8796093080564143"] = 
+            {
+                ["CookCraft"] = true,
+                ["EnchantCraft"] = true,
+                ["DailyRawRestrict"] = 
+                {
+                },
+                ["SolsticeRapid"] = true,
+                ["Window_rPoint"] = 128,
+                ["version"] = 1,
+                ["CV"] = false,
+                ["DD_Bank"] = false,
+                ["SmithCraft"] = true,
+                ["OpenBox"] = true,
+                ["Window_OffsetX"] = 0,
+                ["NotClose"] = false,
+                ["AQ"] = true,
+                ["SolsticeAuto"] = true,
+                ["OpenBank"] = false,
+                ["Bank"] = true,
+                ["DD_Research"] = true,
+                ["Window_Show"] = true,
+                ["WQ"] = true,
+                ["OpenBankAssistant"] = true,
+                ["DD_Announce"] = false,
+                ["DailyCraft"] = true,
+                ["Window_OffsetY"] = 0,
+                ["StyleList"] = 
+                {
+                },
+                ["QuestDelay"] = 200,
+                ["MasterRestrict"] = 
+                {
+                },
+                ["DD_AlchemyCost"] = true,
+                ["DailyRestrict"] = 
+                {
+                },
+                ["CQ"] = true,
+                ["DD_SmithMaterialLeft"] = 200,
+                ["JQ"] = true,
+                ["AlchemyCraft"] = true,
+                ["BQ"] = true,
+                ["$LastCharacterName"] = "Wasted Wasted",
+                ["PQ"] = true,
+                ["MasterCraft"] = true,
+                ["CustomBoxLinks"] = 
+                {
+                },
+                ["Window_Point"] = 128,
+                ["EQ"] = true,
+                ["QuestAuto"] = true,
+                ["CloseBank"] = true,
+            },
+            ["8796093077286759"] = 
+            {
+                ["CookCraft"] = true,
+                ["EnchantCraft"] = true,
+                ["DailyRawRestrict"] = 
+                {
+                },
+                ["SolsticeRapid"] = true,
+                ["Window_rPoint"] = 128,
+                ["version"] = 1,
+                ["CV"] = false,
+                ["DD_Bank"] = false,
+                ["SmithCraft"] = true,
+                ["OpenBox"] = true,
+                ["Window_OffsetX"] = 0,
+                ["NotClose"] = false,
+                ["AQ"] = true,
+                ["SolsticeAuto"] = true,
+                ["OpenBank"] = false,
+                ["Bank"] = true,
+                ["DD_Research"] = true,
+                ["Window_Show"] = true,
+                ["WQ"] = true,
+                ["OpenBankAssistant"] = true,
+                ["DD_Announce"] = false,
+                ["DailyCraft"] = true,
+                ["Window_OffsetY"] = 0,
+                ["StyleList"] = 
+                {
+                },
+                ["QuestDelay"] = 200,
+                ["MasterRestrict"] = 
+                {
+                },
+                ["DD_AlchemyCost"] = true,
+                ["DailyRestrict"] = 
+                {
+                },
+                ["CQ"] = true,
+                ["DD_SmithMaterialLeft"] = 200,
+                ["JQ"] = true,
+                ["AlchemyCraft"] = true,
+                ["BQ"] = true,
+                ["$LastCharacterName"] = "Lumina Hoaying",
+                ["PQ"] = true,
+                ["MasterCraft"] = true,
+                ["CustomBoxLinks"] = 
+                {
+                },
+                ["Window_Point"] = 128,
+                ["EQ"] = true,
+                ["QuestAuto"] = true,
+                ["CloseBank"] = true,
+            },
+            ["8796093077130605"] = 
+            {
+                ["CookCraft"] = true,
+                ["EnchantCraft"] = true,
+                ["DailyRawRestrict"] = 
+                {
+                },
+                ["SolsticeRapid"] = true,
+                ["Window_rPoint"] = 128,
+                ["version"] = 1,
+                ["CV"] = false,
+                ["DD_Bank"] = false,
+                ["SmithCraft"] = true,
+                ["OpenBox"] = true,
+                ["Window_OffsetX"] = 0,
+                ["NotClose"] = false,
+                ["AQ"] = true,
+                ["SolsticeAuto"] = true,
+                ["OpenBank"] = false,
+                ["Bank"] = true,
+                ["DD_Research"] = true,
+                ["Window_Show"] = true,
+                ["WQ"] = true,
+                ["OpenBankAssistant"] = true,
+                ["DD_Announce"] = false,
+                ["DailyCraft"] = true,
+                ["Window_OffsetY"] = 0,
+                ["StyleList"] = 
+                {
+                },
+                ["QuestDelay"] = 200,
+                ["MasterRestrict"] = 
+                {
+                },
+                ["DD_AlchemyCost"] = true,
+                ["DailyRestrict"] = 
+                {
+                },
+                ["CQ"] = true,
+                ["DD_SmithMaterialLeft"] = 200,
+                ["JQ"] = true,
+                ["AlchemyCraft"] = true,
+                ["BQ"] = true,
+                ["$LastCharacterName"] = "noobhugs",
+                ["PQ"] = true,
+                ["MasterCraft"] = true,
+                ["CustomBoxLinks"] = 
+                {
+                },
+                ["Window_Point"] = 128,
+                ["EQ"] = true,
+                ["QuestAuto"] = true,
+                ["CloseBank"] = true,
+            },
+            ["8796093078078769"] = 
+            {
+                ["CookCraft"] = true,
+                ["EnchantCraft"] = true,
+                ["DailyRawRestrict"] = 
+                {
+                },
+                ["SolsticeRapid"] = true,
+                ["Window_rPoint"] = 128,
+                ["version"] = 1,
+                ["CV"] = false,
+                ["DD_Bank"] = false,
+                ["SmithCraft"] = true,
+                ["OpenBox"] = true,
+                ["Window_OffsetX"] = 0,
+                ["NotClose"] = false,
+                ["AQ"] = true,
+                ["SolsticeAuto"] = true,
+                ["OpenBank"] = false,
+                ["Bank"] = true,
+                ["DD_Research"] = true,
+                ["Window_Show"] = true,
+                ["WQ"] = true,
+                ["OpenBankAssistant"] = true,
+                ["DD_Announce"] = false,
+                ["DailyCraft"] = true,
+                ["Window_OffsetY"] = 0,
+                ["StyleList"] = 
+                {
+                },
+                ["QuestDelay"] = 200,
+                ["MasterRestrict"] = 
+                {
+                },
+                ["DD_AlchemyCost"] = true,
+                ["DailyRestrict"] = 
+                {
+                },
+                ["CQ"] = true,
+                ["DD_SmithMaterialLeft"] = 200,
+                ["JQ"] = true,
+                ["AlchemyCraft"] = true,
+                ["BQ"] = true,
+                ["$LastCharacterName"] = "noobmiss",
+                ["PQ"] = true,
+                ["MasterCraft"] = true,
+                ["CustomBoxLinks"] = 
+                {
+                },
+                ["Window_Point"] = 128,
+                ["EQ"] = true,
+                ["QuestAuto"] = true,
+                ["CloseBank"] = true,
+            },
+            ["8796093080474203"] = 
+            {
+                ["CookCraft"] = true,
+                ["EnchantCraft"] = true,
+                ["DailyRawRestrict"] = 
+                {
+                },
+                ["SolsticeRapid"] = true,
+                ["Window_rPoint"] = 128,
+                ["version"] = 1,
+                ["CV"] = false,
+                ["DD_Bank"] = false,
+                ["SmithCraft"] = true,
+                ["OpenBox"] = true,
+                ["Window_OffsetX"] = 0,
+                ["NotClose"] = false,
+                ["AQ"] = true,
+                ["SolsticeAuto"] = true,
+                ["OpenBank"] = false,
+                ["Bank"] = true,
+                ["DD_Research"] = true,
+                ["Window_Show"] = true,
+                ["WQ"] = true,
+                ["OpenBankAssistant"] = true,
+                ["DD_Announce"] = false,
+                ["DailyCraft"] = true,
+                ["Window_OffsetY"] = 0,
+                ["StyleList"] = 
+                {
+                },
+                ["QuestDelay"] = 200,
+                ["MasterRestrict"] = 
+                {
+                },
+                ["DD_AlchemyCost"] = true,
+                ["DailyRestrict"] = 
+                {
+                },
+                ["CQ"] = true,
+                ["DD_SmithMaterialLeft"] = 200,
+                ["JQ"] = true,
+                ["AlchemyCraft"] = true,
+                ["BQ"] = true,
+                ["$LastCharacterName"] = "Dizzy Dizzo",
+                ["PQ"] = true,
+                ["MasterCraft"] = true,
+                ["CustomBoxLinks"] = 
+                {
+                },
+                ["Window_Point"] = 128,
+                ["EQ"] = true,
+                ["QuestAuto"] = true,
+                ["CloseBank"] = true,
+            },
+            ["8796093077338611"] = 
+            {
+                ["CookCraft"] = true,
+                ["EnchantCraft"] = true,
+                ["DailyRawRestrict"] = 
+                {
+                },
+                ["SolsticeRapid"] = true,
+                ["Window_rPoint"] = 128,
+                ["version"] = 1,
+                ["CV"] = false,
+                ["DD_Bank"] = false,
+                ["SmithCraft"] = true,
+                ["OpenBox"] = true,
+                ["Window_OffsetX"] = 0,
+                ["NotClose"] = false,
+                ["AQ"] = true,
+                ["SolsticeAuto"] = true,
+                ["OpenBank"] = false,
+                ["Bank"] = true,
+                ["DD_Research"] = true,
+                ["Window_Show"] = true,
+                ["WQ"] = true,
+                ["OpenBankAssistant"] = true,
+                ["DD_Announce"] = false,
+                ["DailyCraft"] = true,
+                ["Window_OffsetY"] = 0,
+                ["StyleList"] = 
+                {
+                },
+                ["QuestDelay"] = 200,
+                ["MasterRestrict"] = 
+                {
+                },
+                ["DD_AlchemyCost"] = true,
+                ["DailyRestrict"] = 
+                {
+                },
+                ["CQ"] = true,
+                ["DD_SmithMaterialLeft"] = 200,
+                ["JQ"] = true,
+                ["AlchemyCraft"] = true,
+                ["BQ"] = true,
+                ["$LastCharacterName"] = "noobsimper",
+                ["PQ"] = true,
+                ["MasterCraft"] = true,
+                ["CustomBoxLinks"] = 
+                {
+                },
+                ["Window_Point"] = 128,
+                ["EQ"] = true,
+                ["QuestAuto"] = true,
+                ["CloseBank"] = true,
+            },
+            ["8796093080474427"] = 
+            {
+                ["CookCraft"] = true,
+                ["EnchantCraft"] = true,
+                ["DailyRawRestrict"] = 
+                {
+                },
+                ["SolsticeRapid"] = true,
+                ["Window_rPoint"] = 128,
+                ["version"] = 1,
+                ["CV"] = false,
+                ["DD_Bank"] = false,
+                ["SmithCraft"] = true,
+                ["OpenBox"] = true,
+                ["Window_OffsetX"] = 0,
+                ["NotClose"] = false,
+                ["AQ"] = true,
+                ["SolsticeAuto"] = true,
+                ["OpenBank"] = false,
+                ["Bank"] = true,
+                ["DD_Research"] = true,
+                ["Window_Show"] = true,
+                ["WQ"] = true,
+                ["OpenBankAssistant"] = true,
+                ["DD_Announce"] = false,
+                ["DailyCraft"] = true,
+                ["Window_OffsetY"] = 0,
+                ["StyleList"] = 
+                {
+                },
+                ["QuestDelay"] = 200,
+                ["MasterRestrict"] = 
+                {
+                },
+                ["DD_AlchemyCost"] = true,
+                ["DailyRestrict"] = 
+                {
+                },
+                ["CQ"] = true,
+                ["DD_SmithMaterialLeft"] = 200,
+                ["JQ"] = true,
+                ["AlchemyCraft"] = true,
+                ["BQ"] = true,
+                ["$LastCharacterName"] = "Vex Vex Loop",
+                ["PQ"] = true,
+                ["MasterCraft"] = true,
+                ["CustomBoxLinks"] = 
+                {
+                },
+                ["Window_Point"] = 128,
+                ["EQ"] = true,
+                ["QuestAuto"] = true,
+                ["CloseBank"] = true,
+            },
+            ["8796093077280469"] = 
+            {
+                ["CookCraft"] = true,
+                ["EnchantCraft"] = true,
+                ["QuestDelay"] = 200,
+                ["SolsticeRapid"] = true,
+                ["Window_rPoint"] = 128,
+                ["version"] = 1,
+                ["CV"] = false,
+                ["DD_Bank"] = false,
+                ["SmithCraft"] = true,
+                ["OpenBox"] = true,
+                ["Window_OffsetX"] = 0,
+                ["OpenAnniversary"] = false,
+                ["CustomBoxLinks"] = 
+                {
+                },
+                ["AQ"] = true,
+                ["SolsticeAuto"] = true,
+                ["DailyRawRestrict"] = 
+                {
+                },
+                ["OpenBank"] = false,
+                ["DD_Research"] = true,
+                ["Window_Show"] = true,
+                ["WQ"] = true,
+                ["Bank"] = true,
+                ["DD_Announce"] = false,
+                ["OpenBankAssistant"] = true,
+                ["Window_OffsetY"] = 0,
+                ["DailyCraft"] = true,
+                ["EQ"] = true,
+                ["StyleList"] = 
+                {
+                },
+                ["$LastCharacterName"] = "noobxoxo",
+                ["DailyRestrict"] = 
+                {
+                },
+                ["CQ"] = true,
+                ["DD_SmithMaterialLeft"] = 200,
+                ["MasterRestrict"] = 
+                {
+                },
+                ["AlchemyCraft"] = true,
+                ["BQ"] = true,
+                ["NotClose"] = false,
+                ["PQ"] = true,
+                ["MasterCraft"] = true,
+                ["DD_AlchemyCost"] = true,
+                ["Window_Point"] = 128,
+                ["JQ"] = true,
+                ["QuestAuto"] = true,
+                ["CloseBank"] = true,
+            },
+            ["8796093077280431"] = 
+            {
+                ["CookCraft"] = true,
+                ["EnchantCraft"] = true,
+                ["DailyRawRestrict"] = 
+                {
+                },
+                ["SolsticeRapid"] = true,
+                ["Window_rPoint"] = 128,
+                ["version"] = 1,
+                ["CV"] = false,
+                ["DD_Bank"] = false,
+                ["SmithCraft"] = true,
+                ["OpenBox"] = true,
+                ["Window_OffsetX"] = 0,
+                ["NotClose"] = false,
+                ["AQ"] = true,
+                ["SolsticeAuto"] = true,
+                ["OpenBank"] = false,
+                ["Bank"] = true,
+                ["DD_Research"] = true,
+                ["Window_Show"] = true,
+                ["WQ"] = true,
+                ["OpenBankAssistant"] = true,
+                ["DD_Announce"] = false,
+                ["DailyCraft"] = true,
+                ["Window_OffsetY"] = 0,
+                ["StyleList"] = 
+                {
+                },
+                ["QuestDelay"] = 200,
+                ["MasterRestrict"] = 
+                {
+                },
+                ["DD_AlchemyCost"] = true,
+                ["DailyRestrict"] = 
+                {
+                },
+                ["CQ"] = true,
+                ["DD_SmithMaterialLeft"] = 200,
+                ["JQ"] = true,
+                ["AlchemyCraft"] = true,
+                ["BQ"] = true,
+                ["$LastCharacterName"] = "noobwink",
+                ["PQ"] = true,
+                ["MasterCraft"] = true,
+                ["CustomBoxLinks"] = 
+                {
+                },
+                ["Window_Point"] = 128,
+                ["EQ"] = true,
+                ["QuestAuto"] = true,
+                ["CloseBank"] = true,
+            },
+            ["8796093077142221"] = 
+            {
+                ["CookCraft"] = true,
+                ["EnchantCraft"] = true,
+                ["DailyRawRestrict"] = 
+                {
+                },
+                ["SolsticeRapid"] = true,
+                ["Window_rPoint"] = 128,
+                ["version"] = 1,
+                ["CV"] = false,
+                ["DD_Bank"] = false,
+                ["SmithCraft"] = true,
+                ["OpenBox"] = true,
+                ["Window_OffsetX"] = 0,
+                ["NotClose"] = false,
+                ["AQ"] = true,
+                ["SolsticeAuto"] = true,
+                ["OpenBank"] = false,
+                ["Bank"] = true,
+                ["DD_Research"] = true,
+                ["Window_Show"] = true,
+                ["WQ"] = true,
+                ["OpenBankAssistant"] = true,
+                ["DD_Announce"] = false,
+                ["DailyCraft"] = true,
+                ["Window_OffsetY"] = 0,
+                ["StyleList"] = 
+                {
+                },
+                ["QuestDelay"] = 200,
+                ["MasterRestrict"] = 
+                {
+                },
+                ["DD_AlchemyCost"] = true,
+                ["DailyRestrict"] = 
+                {
+                },
+                ["CQ"] = true,
+                ["DD_SmithMaterialLeft"] = 200,
+                ["JQ"] = true,
+                ["AlchemyCraft"] = true,
+                ["BQ"] = true,
+                ["$LastCharacterName"] = "noobxoxo",
+                ["PQ"] = true,
+                ["MasterCraft"] = true,
+                ["CustomBoxLinks"] = 
+                {
+                },
+                ["Window_Point"] = 128,
+                ["EQ"] = true,
+                ["QuestAuto"] = true,
+                ["CloseBank"] = true,
+            },
+            ["8796093077977575"] = 
+            {
+                ["CookCraft"] = true,
+                ["EnchantCraft"] = true,
+                ["DailyRawRestrict"] = 
+                {
+                },
+                ["SolsticeRapid"] = true,
+                ["Window_rPoint"] = 128,
+                ["version"] = 1,
+                ["CV"] = false,
+                ["DD_Bank"] = false,
+                ["SmithCraft"] = true,
+                ["OpenBox"] = true,
+                ["Window_OffsetX"] = 0,
+                ["NotClose"] = false,
+                ["AQ"] = true,
+                ["SolsticeAuto"] = true,
+                ["OpenBank"] = false,
+                ["Bank"] = true,
+                ["DD_Research"] = true,
+                ["Window_Show"] = true,
+                ["WQ"] = true,
+                ["OpenBankAssistant"] = true,
+                ["DD_Announce"] = false,
+                ["DailyCraft"] = true,
+                ["Window_OffsetY"] = 0,
+                ["StyleList"] = 
+                {
+                },
+                ["QuestDelay"] = 200,
+                ["MasterRestrict"] = 
+                {
+                },
+                ["DD_AlchemyCost"] = true,
+                ["DailyRestrict"] = 
+                {
+                },
+                ["CQ"] = true,
+                ["DD_SmithMaterialLeft"] = 200,
+                ["JQ"] = true,
+                ["AlchemyCraft"] = true,
+                ["BQ"] = true,
+                ["$LastCharacterName"] = "Killswitch Memories",
+                ["PQ"] = true,
+                ["MasterCraft"] = true,
+                ["CustomBoxLinks"] = 
+                {
+                },
+                ["Window_Point"] = 128,
+                ["EQ"] = true,
+                ["QuestAuto"] = true,
+                ["CloseBank"] = true,
+            },
+            ["$AccountWide"] = 
+            {
+                ["CookCraft"] = true,
+                ["EnchantCraft"] = true,
+                ["QuestDelay"] = 200,
+                ["SolsticeRapid"] = true,
+                ["Window_rPoint"] = 6,
+                ["version"] = 1,
+                ["CV"] = false,
+                ["DD_Bank"] = false,
+                ["SmithCraft"] = true,
+                ["OpenBox"] = true,
+                ["Window_OffsetX"] = 335,
+                ["OpenAnniversary"] = false,
+                ["AQ"] = true,
+                ["SolsticeAuto"] = true,
+                ["NotClose"] = false,
                 ["DailyRawRestrict"] = 
                 {
                     [1] = "%/",
                 },
-                ["NotClose"] = false,
                 ["DD_Research"] = true,
-                ["SolsticeRapid"] = true,
-                ["DD_Bank"] = false,
-                ["CookCraft"] = true,
-                ["CV"] = false,
+                ["Window_Show"] = true,
+                ["WQ"] = true,
+                ["OpenBank"] = false,
+                ["DD_Announce"] = false,
+                ["Bank"] = true,
+                ["Window_OffsetY"] = -545,
+                ["OpenBankAssistant"] = true,
+                ["DailyCraft"] = true,
                 ["EQ"] = true,
+                ["StyleList"] = 
+                {
+                    [1] = 33251,
+                    [2] = 33258,
+                    [3] = 33257,
+                    [4] = 33253,
+                    [5] = 33256,
+                    [6] = 33150,
+                    [7] = 33252,
+                    [8] = 33194,
+                    [9] = 33255,
+                    [34] = 33254,
+                },
+                ["DailyRestrict"] = 
+                {
+                    [1] = 30152,
+                    [2] = 30164,
+                    [3] = 139019,
+                    [4] = 150731,
+                    [5] = 150671,
+                },
+                ["CQ"] = true,
+                ["DD_SmithMaterialLeft"] = 200,
+                ["CustomBoxLinks"] = 
+                {
+                    [1] = "|H0:item:212251:122:1:0:0:0:0:0:0:0:0:0:0:0:1:0:0:1:0:0:0|h|h",
+                },
                 ["AlchemyCraft"] = true,
+                ["BQ"] = true,
                 ["MasterRestrict"] = 
                 {
                     [2] = 150671,
                     [1] = 150731,
                 },
-                ["AQ"] = true,
-                ["WQ"] = true,
-                ["JQ"] = true,
-                ["SmithCraft"] = true,
-                ["Window_rPoint"] = 128,
-                ["Window_Show"] = true,
-                ["version"] = 1,
-                ["CloseBank"] = true,
+                ["PQ"] = true,
                 ["MasterCraft"] = true,
-                ["Window_Point"] = 128,
+                ["DD_AlchemyCost"] = true,
+                ["Window_Point"] = 6,
+                ["JQ"] = true,
                 ["QuestAuto"] = true,
+                ["CloseBank"] = true,
             },
-            ["8796093077181623"] = 
+            ["8796093077622069"] = 
             {
-                ["StyleList"] = 
-                {
-                },
-                ["SolsticeAuto"] = true,
-                ["$LastCharacterName"] = "Aqi Yaa",
-                ["OpenBankAssistant"] = true,
-                ["Window_OffsetX"] = 0,
+                ["CookCraft"] = true,
                 ["EnchantCraft"] = true,
-                ["DD_SmithMaterialLeft"] = 200,
                 ["QuestDelay"] = 200,
+                ["SolsticeRapid"] = true,
+                ["Window_rPoint"] = 128,
+                ["version"] = 1,
+                ["CV"] = false,
+                ["DD_Bank"] = false,
+                ["SmithCraft"] = true,
+                ["OpenBox"] = true,
+                ["Window_OffsetX"] = 0,
+                ["OpenAnniversary"] = false,
                 ["CustomBoxLinks"] = 
                 {
                 },
-                ["DD_Announce"] = false,
-                ["DailyRestrict"] = 
-                {
-                },
-                ["Bank"] = true,
-                ["DailyCraft"] = true,
-                ["PQ"] = true,
-                ["OpenBox"] = true,
-                ["BQ"] = true,
-                ["Window_OffsetY"] = 0,
-                ["CQ"] = true,
-                ["DD_AlchemyCost"] = true,
-                ["OpenBank"] = false,
+                ["AQ"] = true,
+                ["SolsticeAuto"] = true,
                 ["DailyRawRestrict"] = 
                 {
                 },
-                ["NotClose"] = false,
+                ["OpenBank"] = false,
                 ["DD_Research"] = true,
                 ["Window_Show"] = true,
-                ["DD_Bank"] = false,
-                ["CookCraft"] = true,
-                ["CV"] = false,
+                ["WQ"] = true,
+                ["Bank"] = true,
+                ["DD_Announce"] = false,
+                ["OpenBankAssistant"] = true,
+                ["Window_OffsetY"] = 0,
+                ["DailyCraft"] = true,
                 ["EQ"] = true,
-                ["AlchemyCraft"] = true,
+                ["StyleList"] = 
+                {
+                },
+                ["$LastCharacterName"] = "noobwick",
+                ["DailyRestrict"] = 
+                {
+                },
+                ["CQ"] = true,
+                ["DD_SmithMaterialLeft"] = 200,
                 ["MasterRestrict"] = 
                 {
                 },
-                ["AQ"] = true,
-                ["WQ"] = true,
-                ["JQ"] = true,
-                ["SmithCraft"] = true,
-                ["Window_rPoint"] = 128,
-                ["SolsticeRapid"] = true,
-                ["version"] = 1,
-                ["CloseBank"] = true,
+                ["AlchemyCraft"] = true,
+                ["BQ"] = true,
+                ["NotClose"] = false,
+                ["PQ"] = true,
                 ["MasterCraft"] = true,
+                ["DD_AlchemyCost"] = true,
                 ["Window_Point"] = 128,
+                ["JQ"] = true,
                 ["QuestAuto"] = true,
+                ["CloseBank"] = true,
+            },
+            ["8796093077280363"] = 
+            {
+                ["CookCraft"] = true,
+                ["EnchantCraft"] = true,
+                ["DailyRawRestrict"] = 
+                {
+                },
+                ["SolsticeRapid"] = true,
+                ["Window_rPoint"] = 128,
+                ["version"] = 1,
+                ["CV"] = false,
+                ["DD_Bank"] = false,
+                ["SmithCraft"] = true,
+                ["OpenBox"] = true,
+                ["Window_OffsetX"] = 0,
+                ["NotClose"] = false,
+                ["AQ"] = true,
+                ["SolsticeAuto"] = true,
+                ["OpenBank"] = false,
+                ["Bank"] = true,
+                ["DD_Research"] = true,
+                ["Window_Show"] = true,
+                ["WQ"] = true,
+                ["OpenBankAssistant"] = true,
+                ["DD_Announce"] = false,
+                ["DailyCraft"] = true,
+                ["Window_OffsetY"] = 0,
+                ["StyleList"] = 
+                {
+                },
+                ["QuestDelay"] = 200,
+                ["MasterRestrict"] = 
+                {
+                },
+                ["DD_AlchemyCost"] = true,
+                ["DailyRestrict"] = 
+                {
+                },
+                ["CQ"] = true,
+                ["DD_SmithMaterialLeft"] = 200,
+                ["JQ"] = true,
+                ["AlchemyCraft"] = true,
+                ["BQ"] = true,
+                ["$LastCharacterName"] = "noobsmile",
+                ["PQ"] = true,
+                ["MasterCraft"] = true,
+                ["CustomBoxLinks"] = 
+                {
+                },
+                ["Window_Point"] = 128,
+                ["EQ"] = true,
+                ["QuestAuto"] = true,
+                ["CloseBank"] = true,
+            },
+        },
+    },
+    ["EU Megaserver"] = 
+    {
+        ["@noobkiss"] = 
+        {
+            ["8798292100191884"] = 
+            {
+                ["CookCraft"] = true,
+                ["EnchantCraft"] = true,
+                ["DailyRawRestrict"] = 
+                {
+                },
+                ["SolsticeRapid"] = true,
+                ["Window_rPoint"] = 128,
+                ["version"] = 1,
+                ["CV"] = false,
+                ["DD_Bank"] = false,
+                ["SmithCraft"] = true,
+                ["OpenBox"] = true,
+                ["Window_OffsetX"] = 0,
+                ["NotClose"] = false,
+                ["AQ"] = true,
+                ["SolsticeAuto"] = true,
+                ["OpenBank"] = false,
+                ["Bank"] = true,
+                ["DD_Research"] = true,
+                ["Window_Show"] = true,
+                ["WQ"] = true,
+                ["OpenBankAssistant"] = true,
+                ["DD_Announce"] = false,
+                ["DailyCraft"] = true,
+                ["Window_OffsetY"] = 0,
+                ["StyleList"] = 
+                {
+                },
+                ["QuestDelay"] = 200,
+                ["MasterRestrict"] = 
+                {
+                },
+                ["DD_AlchemyCost"] = true,
+                ["DailyRestrict"] = 
+                {
+                },
+                ["CQ"] = true,
+                ["DD_SmithMaterialLeft"] = 200,
+                ["JQ"] = true,
+                ["AlchemyCraft"] = true,
+                ["BQ"] = true,
+                ["$LastCharacterName"] = "noobkiss",
+                ["PQ"] = true,
+                ["MasterCraft"] = true,
+                ["CustomBoxLinks"] = 
+                {
+                },
+                ["Window_Point"] = 128,
+                ["EQ"] = true,
+                ["QuestAuto"] = true,
+                ["CloseBank"] = true,
+            },
+            ["$AccountWide"] = 
+            {
+                ["CookCraft"] = true,
+                ["EnchantCraft"] = true,
+                ["DailyRawRestrict"] = 
+                {
+                    [1] = "%/",
+                },
+                ["SolsticeRapid"] = true,
+                ["Window_rPoint"] = 128,
+                ["version"] = 1,
+                ["CV"] = false,
+                ["DD_Bank"] = false,
+                ["SmithCraft"] = true,
+                ["OpenBox"] = true,
+                ["Window_OffsetX"] = 0,
+                ["AQ"] = true,
+                ["SolsticeAuto"] = true,
+                ["CustomBoxLinks"] = 
+                {
+                },
+                ["OpenBank"] = false,
+                ["DD_Research"] = true,
+                ["Window_Show"] = true,
+                ["WQ"] = true,
+                ["Bank"] = true,
+                ["DD_Announce"] = false,
+                ["DailyCraft"] = true,
+                ["Window_OffsetY"] = 0,
+                ["OpenBankAssistant"] = true,
+                ["StyleList"] = 
+                {
+                    [1] = 33251,
+                    [2] = 33258,
+                    [3] = 33257,
+                    [4] = 33253,
+                    [5] = 33256,
+                    [6] = 33150,
+                    [7] = 33252,
+                    [8] = 33194,
+                    [9] = 33255,
+                    [34] = 33254,
+                },
+                ["QuestDelay"] = 200,
+                ["MasterRestrict"] = 
+                {
+                    [2] = 150671,
+                    [1] = 150731,
+                },
+                ["DailyRestrict"] = 
+                {
+                    [1] = 30152,
+                    [2] = 30164,
+                    [3] = 139019,
+                    [4] = 150731,
+                    [5] = 150671,
+                },
+                ["CQ"] = true,
+                ["DD_SmithMaterialLeft"] = 200,
+                ["DD_AlchemyCost"] = true,
+                ["AlchemyCraft"] = true,
+                ["BQ"] = true,
+                ["JQ"] = true,
+                ["PQ"] = true,
+                ["MasterCraft"] = true,
+                ["NotClose"] = false,
+                ["Window_Point"] = 128,
+                ["EQ"] = true,
+                ["QuestAuto"] = true,
+                ["CloseBank"] = true,
             },
         },
     },
 }
 SDC_SaveVars2 =
 {
+    ["NA Megaserver"] = 
+    {
+        ["@YYDS1214"] = 
+        {
+            ["8796093077181579"] = 
+            {
+                ["$LastCharacterName"] = "A qiya",
+                ["version"] = 1,
+                ["Key"] = 
+                {
+                },
+            },
+            ["8796093077181565"] = 
+            {
+                ["$LastCharacterName"] = "Aqiya",
+                ["version"] = 1,
+                ["Key"] = 
+                {
+                },
+            },
+            ["8796093077153837"] = 
+            {
+                ["$LastCharacterName"] = "Yang Yyds",
+                ["version"] = 1,
+                ["Key"] = 
+                {
+                },
+            },
+            ["8796093077595053"] = 
+            {
+                ["$LastCharacterName"] = "aqi ya",
+                ["version"] = 1,
+                ["Key"] = 
+                {
+                },
+            },
+            ["8796093077181587"] = 
+            {
+                ["$LastCharacterName"] = "a qi ya",
+                ["version"] = 1,
+                ["Key"] = 
+                {
+                },
+            },
+            ["8796093077616617"] = 
+            {
+                ["$LastCharacterName"] = "shiaqi",
+                ["version"] = 1,
+                ["Key"] = 
+                {
+                },
+            },
+            ["8796093077181623"] = 
+            {
+                ["$LastCharacterName"] = "Aqi Yaa",
+                ["version"] = 1,
+                ["Key"] = 
+                {
+                },
+            },
+            ["8796093077165965"] = 
+            {
+                ["$LastCharacterName"] = "Junjunya",
+                ["version"] = 1,
+                ["Key"] = 
+                {
+                },
+            },
+        },
+        ["@Kankerkop"] = 
+        {
+            ["8796093078606003"] = 
+            {
+                ["$LastCharacterName"] = "Kankerkop",
+                ["version"] = 1,
+                ["Key"] = 
+                {
+                },
+            },
+            ["8796093079748457"] = 
+            {
+                ["$LastCharacterName"] = "Kaaskop",
+                ["version"] = 1,
+                ["Key"] = 
+                {
+                },
+            },
+        },
+        ["@noobkiss"] = 
+        {
+            ["8796093077575525"] = 
+            {
+                ["$LastCharacterName"] = "Joyous Socks",
+                ["version"] = 1,
+                ["Key"] = 
+                {
+                },
+            },
+            ["8796093080650625"] = 
+            {
+                ["$LastCharacterName"] = "Flawed Mangoes",
+                ["version"] = 1,
+                ["Key"] = 
+                {
+                },
+            },
+            ["8796093077977317"] = 
+            {
+                ["$LastCharacterName"] = "Simmy Seek Snow",
+                ["version"] = 1,
+                ["Key"] = 
+                {
+                },
+            },
+            ["8796093077354797"] = 
+            {
+                ["$LastCharacterName"] = "noobsmell",
+                ["version"] = 1,
+                ["Key"] = 
+                {
+                },
+            },
+            ["8796093077976825"] = 
+            {
+                ["$LastCharacterName"] = "Sunken Feb",
+                ["version"] = 1,
+                ["Key"] = 
+                {
+                },
+            },
+            ["8796093078739949"] = 
+            {
+                ["$LastCharacterName"] = "noobbomb",
+                ["version"] = 1,
+                ["Key"] = 
+                {
+                },
+            },
+            ["8796093077546265"] = 
+            {
+                ["$LastCharacterName"] = "Galen Chef Mike",
+                ["version"] = 1,
+                ["Key"] = 
+                {
+                },
+            },
+            ["8796093080564087"] = 
+            {
+                ["$LastCharacterName"] = "Wasted Wasted",
+                ["version"] = 1,
+                ["Key"] = 
+                {
+                },
+            },
+            ["8796093078411849"] = 
+            {
+                ["$LastCharacterName"] = "Young Ming",
+                ["version"] = 1,
+                ["Key"] = 
+                {
+                },
+            },
+            ["8796093076445407"] = 
+            {
+                ["$LastCharacterName"] = "noobkiss",
+                ["version"] = 1,
+                ["Key"] = 
+                {
+                },
+            },
+            ["8796093080475359"] = 
+            {
+                ["$LastCharacterName"] = "Hymn Hemy",
+                ["version"] = 1,
+                ["Key"] = 
+                {
+                },
+            },
+            ["8796093080564143"] = 
+            {
+                ["$LastCharacterName"] = "Wasted Wasted",
+                ["version"] = 1,
+                ["Key"] = 
+                {
+                },
+            },
+            ["8796093077286759"] = 
+            {
+                ["$LastCharacterName"] = "Lumina Hoaying",
+                ["version"] = 1,
+                ["Key"] = 
+                {
+                },
+            },
+            ["8796093077130605"] = 
+            {
+                ["$LastCharacterName"] = "noobhugs",
+                ["version"] = 1,
+                ["Key"] = 
+                {
+                },
+            },
+            ["8796093078078769"] = 
+            {
+                ["$LastCharacterName"] = "noobmiss",
+                ["version"] = 1,
+                ["Key"] = 
+                {
+                },
+            },
+            ["8796093080474203"] = 
+            {
+                ["$LastCharacterName"] = "Dizzy Dizzo",
+                ["version"] = 1,
+                ["Key"] = 
+                {
+                },
+            },
+            ["8796093077338611"] = 
+            {
+                ["$LastCharacterName"] = "noobsimper",
+                ["version"] = 1,
+                ["Key"] = 
+                {
+                },
+            },
+            ["8796093080474427"] = 
+            {
+                ["$LastCharacterName"] = "Vex Vex Loop",
+                ["version"] = 1,
+                ["Key"] = 
+                {
+                },
+            },
+            ["8796093077280469"] = 
+            {
+                ["$LastCharacterName"] = "noobxoxo",
+                ["version"] = 1,
+                ["Key"] = 
+                {
+                },
+            },
+            ["8796093077622069"] = 
+            {
+                ["$LastCharacterName"] = "noobwick",
+                ["version"] = 1,
+                ["Key"] = 
+                {
+                },
+            },
+            ["8796093077286887"] = 
+            {
+                ["$LastCharacterName"] = "noobhappy",
+                ["version"] = 1,
+                ["Key"] = 
+                {
+                },
+            },
+            ["8796093077977575"] = 
+            {
+                ["$LastCharacterName"] = "Killswitch Memories",
+                ["version"] = 1,
+                ["Key"] = 
+                {
+                },
+            },
+            ["8796093079602369"] = 
+            {
+                ["$LastCharacterName"] = "Zou Kimcheng",
+                ["version"] = 1,
+                ["Key"] = 
+                {
+                },
+            },
+            ["8796093077280431"] = 
+            {
+                ["$LastCharacterName"] = "noobwink",
+                ["version"] = 1,
+                ["Key"] = 
+                {
+                },
+            },
+            ["8796093077280363"] = 
+            {
+                ["$LastCharacterName"] = "noobsmile",
+                ["version"] = 1,
+                ["Key"] = 
+                {
+                },
+            },
+        },
+    },
     ["EU Megaserver"] = 
     {
         ["@noobkiss"] = 
@@ -2388,302 +2680,10 @@ SDC_SaveVars2 =
             ["8798292100191884"] = 
             {
                 ["$LastCharacterName"] = "noobkiss",
+                ["version"] = 1,
                 ["Key"] = 
                 {
                 },
-                ["version"] = 1,
-            },
-        },
-    },
-    ["NA Megaserver"] = 
-    {
-        ["@Kankerkop"] = 
-        {
-            ["8796093079748457"] = 
-            {
-                ["$LastCharacterName"] = "Kaaskop",
-                ["Key"] = 
-                {
-                },
-                ["version"] = 1,
-            },
-            ["8796093078606003"] = 
-            {
-                ["$LastCharacterName"] = "Kankerkop",
-                ["Key"] = 
-                {
-                },
-                ["version"] = 1,
-            },
-        },
-        ["@noobkiss"] = 
-        {
-            ["8796093077622069"] = 
-            {
-                ["$LastCharacterName"] = "noobwick",
-                ["Key"] = 
-                {
-                },
-                ["version"] = 1,
-            },
-            ["8796093077546265"] = 
-            {
-                ["$LastCharacterName"] = "Galen Chef Mike",
-                ["Key"] = 
-                {
-                },
-                ["version"] = 1,
-            },
-            ["8796093080474427"] = 
-            {
-                ["$LastCharacterName"] = "Vex Vex Loop",
-                ["Key"] = 
-                {
-                },
-                ["version"] = 1,
-            },
-            ["8796093077286759"] = 
-            {
-                ["$LastCharacterName"] = "Lumina Hoaying",
-                ["Key"] = 
-                {
-                },
-                ["version"] = 1,
-            },
-            ["8796093078078769"] = 
-            {
-                ["$LastCharacterName"] = "noobmiss",
-                ["Key"] = 
-                {
-                },
-                ["version"] = 1,
-            },
-            ["8796093080564143"] = 
-            {
-                ["$LastCharacterName"] = "Wasted Wasted",
-                ["Key"] = 
-                {
-                },
-                ["version"] = 1,
-            },
-            ["8796093077280363"] = 
-            {
-                ["$LastCharacterName"] = "noobsmile",
-                ["Key"] = 
-                {
-                },
-                ["version"] = 1,
-            },
-            ["8796093077338611"] = 
-            {
-                ["$LastCharacterName"] = "noobsimper",
-                ["Key"] = 
-                {
-                },
-                ["version"] = 1,
-            },
-            ["8796093077575525"] = 
-            {
-                ["$LastCharacterName"] = "Joyous Socks",
-                ["Key"] = 
-                {
-                },
-                ["version"] = 1,
-            },
-            ["8796093080475359"] = 
-            {
-                ["$LastCharacterName"] = "Hymn Hemy",
-                ["Key"] = 
-                {
-                },
-                ["version"] = 1,
-            },
-            ["8796093076445407"] = 
-            {
-                ["$LastCharacterName"] = "noobkiss",
-                ["Key"] = 
-                {
-                },
-                ["version"] = 1,
-            },
-            ["8796093077280469"] = 
-            {
-                ["$LastCharacterName"] = "noobxoxo",
-                ["Key"] = 
-                {
-                },
-                ["version"] = 1,
-            },
-            ["8796093077976825"] = 
-            {
-                ["$LastCharacterName"] = "Sunken Feb",
-                ["Key"] = 
-                {
-                },
-                ["version"] = 1,
-            },
-            ["8796093077354797"] = 
-            {
-                ["$LastCharacterName"] = "noobsmell",
-                ["Key"] = 
-                {
-                },
-                ["version"] = 1,
-            },
-            ["8796093079602369"] = 
-            {
-                ["$LastCharacterName"] = "Zou Kimcheng",
-                ["Key"] = 
-                {
-                },
-                ["version"] = 1,
-            },
-            ["8796093080650625"] = 
-            {
-                ["$LastCharacterName"] = "Flawed Mangoes",
-                ["Key"] = 
-                {
-                },
-                ["version"] = 1,
-            },
-            ["8796093077286887"] = 
-            {
-                ["$LastCharacterName"] = "noobhappy",
-                ["Key"] = 
-                {
-                },
-                ["version"] = 1,
-            },
-            ["8796093078739949"] = 
-            {
-                ["$LastCharacterName"] = "noobbomb",
-                ["Key"] = 
-                {
-                },
-                ["version"] = 1,
-            },
-            ["8796093080474203"] = 
-            {
-                ["$LastCharacterName"] = "Dizzy Dizzo",
-                ["Key"] = 
-                {
-                },
-                ["version"] = 1,
-            },
-            ["8796093077130605"] = 
-            {
-                ["$LastCharacterName"] = "noobhugs",
-                ["Key"] = 
-                {
-                },
-                ["version"] = 1,
-            },
-            ["8796093078411849"] = 
-            {
-                ["$LastCharacterName"] = "Young Ming",
-                ["Key"] = 
-                {
-                },
-                ["version"] = 1,
-            },
-            ["8796093077280431"] = 
-            {
-                ["$LastCharacterName"] = "noobwink",
-                ["Key"] = 
-                {
-                },
-                ["version"] = 1,
-            },
-            ["8796093077977575"] = 
-            {
-                ["$LastCharacterName"] = "Killswitch Memories",
-                ["Key"] = 
-                {
-                },
-                ["version"] = 1,
-            },
-            ["8796093080564087"] = 
-            {
-                ["$LastCharacterName"] = "Wasted Wasted",
-                ["Key"] = 
-                {
-                },
-                ["version"] = 1,
-            },
-            ["8796093077977317"] = 
-            {
-                ["$LastCharacterName"] = "Simmy Seek Snow",
-                ["Key"] = 
-                {
-                },
-                ["version"] = 1,
-            },
-        },
-        ["@YYDS1214"] = 
-        {
-            ["8796093077181565"] = 
-            {
-                ["$LastCharacterName"] = "Aqiya",
-                ["Key"] = 
-                {
-                },
-                ["version"] = 1,
-            },
-            ["8796093077165965"] = 
-            {
-                ["$LastCharacterName"] = "Junjunya",
-                ["Key"] = 
-                {
-                },
-                ["version"] = 1,
-            },
-            ["8796093077181579"] = 
-            {
-                ["$LastCharacterName"] = "A qiya",
-                ["Key"] = 
-                {
-                },
-                ["version"] = 1,
-            },
-            ["8796093077181587"] = 
-            {
-                ["$LastCharacterName"] = "a qi ya",
-                ["Key"] = 
-                {
-                },
-                ["version"] = 1,
-            },
-            ["8796093077616617"] = 
-            {
-                ["$LastCharacterName"] = "shiaqi",
-                ["Key"] = 
-                {
-                },
-                ["version"] = 1,
-            },
-            ["8796093077595053"] = 
-            {
-                ["$LastCharacterName"] = "aqi ya",
-                ["Key"] = 
-                {
-                },
-                ["version"] = 1,
-            },
-            ["8796093077181623"] = 
-            {
-                ["$LastCharacterName"] = "Aqi Yaa",
-                ["Key"] = 
-                {
-                },
-                ["version"] = 1,
-            },
-            ["8796093077153837"] = 
-            {
-                ["$LastCharacterName"] = "Yang Yyds",
-                ["Key"] = 
-                {
-                },
-                ["version"] = 1,
             },
         },
     },

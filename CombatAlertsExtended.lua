@@ -2,128 +2,128 @@ CombatAlertsExtended_data =
 {
     ["Default"] = 
     {
-        ["@Jonzouio"] = 
-        {
-            ["$AccountWide"] = 
-            {
-                ["Settings"] = 
-                {
-                    ["CoralAerie"] = 
-                    {
-                        ["BlastPowder"] = true,
-                        ["HAVarallion"] = true,
-                        ["MentalWound"] = true,
-                        ["Tether"] = true,
-                    },
-                    ["ShipwrightsRegret"] = 
-                    {
-                        ["Flame"] = true,
-                        ["SoulBomb"] = true,
-                    },
-                    ["Others"] = 
-                    {
-                        ["DSRRunestones"] = true,
-                        ["MHKShortLeash"] = true,
-                        ["ASPositions"] = true,
-                        ["NymicSecrets"] = true,
-                        ["CoolingYourHeels"] = true,
-                        ["PustulentProblems"] = true,
-                    },
-                },
-                ["version"] = 3,
-            },
-        },
         ["@Kankerkop"] = 
         {
             ["$AccountWide"] = 
             {
+                ["version"] = 3,
                 ["Settings"] = 
                 {
+                    ["ShipwrightsRegret"] = 
+                    {
+                        ["Flame"] = true,
+                        ["SoulBomb"] = true,
+                    },
                     ["CoralAerie"] = 
                     {
-                        ["BlastPowder"] = true,
+                        ["MentalWound"] = true,
                         ["HAVarallion"] = true,
-                        ["MentalWound"] = true,
                         ["Tether"] = true,
-                    },
-                    ["ShipwrightsRegret"] = 
-                    {
-                        ["Flame"] = true,
-                        ["SoulBomb"] = true,
-                    },
-                    ["Others"] = 
-                    {
-                        ["DSRRunestones"] = true,
-                        ["MHKShortLeash"] = true,
-                        ["ASPositions"] = true,
-                        ["NymicSecrets"] = true,
-                        ["CoolingYourHeels"] = true,
-                        ["PustulentProblems"] = true,
-                    },
-                },
-                ["version"] = 3,
-            },
-        },
-        ["@noobkiss"] = 
-        {
-            ["$AccountWide"] = 
-            {
-                ["Settings"] = 
-                {
-                    ["CoralAerie"] = 
-                    {
                         ["BlastPowder"] = true,
-                        ["HAVarallion"] = false,
-                        ["MentalWound"] = true,
-                        ["Tether"] = true,
-                    },
-                    ["ShipwrightsRegret"] = 
-                    {
-                        ["Flame"] = true,
-                        ["SoulBomb"] = true,
                     },
                     ["Others"] = 
                     {
-                        ["DSRRunestones"] = true,
                         ["MHKShortLeash"] = true,
-                        ["ASPositions"] = true,
                         ["NymicSecrets"] = true,
+                        ["ASPositions"] = true,
                         ["CoolingYourHeels"] = true,
                         ["PustulentProblems"] = true,
+                        ["DSRRunestones"] = true,
                     },
                 },
-                ["version"] = 3,
             },
         },
         ["@YYDS1214"] = 
         {
             ["$AccountWide"] = 
             {
+                ["version"] = 3,
                 ["Settings"] = 
                 {
-                    ["CoralAerie"] = 
-                    {
-                        ["BlastPowder"] = true,
-                        ["HAVarallion"] = true,
-                        ["MentalWound"] = true,
-                        ["Tether"] = true,
-                    },
                     ["ShipwrightsRegret"] = 
                     {
                         ["Flame"] = true,
                         ["SoulBomb"] = true,
                     },
+                    ["CoralAerie"] = 
+                    {
+                        ["MentalWound"] = true,
+                        ["HAVarallion"] = true,
+                        ["Tether"] = true,
+                        ["BlastPowder"] = true,
+                    },
                     ["Others"] = 
                     {
-                        ["DSRRunestones"] = true,
                         ["MHKShortLeash"] = true,
-                        ["ASPositions"] = true,
                         ["NymicSecrets"] = true,
+                        ["ASPositions"] = true,
                         ["CoolingYourHeels"] = true,
                         ["PustulentProblems"] = true,
+                        ["DSRRunestones"] = true,
                     },
                 },
+            },
+        },
+        ["@Jonzouio"] = 
+        {
+            ["$AccountWide"] = 
+            {
                 ["version"] = 3,
+                ["Settings"] = 
+                {
+                    ["ShipwrightsRegret"] = 
+                    {
+                        ["Flame"] = true,
+                        ["SoulBomb"] = true,
+                    },
+                    ["CoralAerie"] = 
+                    {
+                        ["MentalWound"] = true,
+                        ["HAVarallion"] = true,
+                        ["Tether"] = true,
+                        ["BlastPowder"] = true,
+                    },
+                    ["Others"] = 
+                    {
+                        ["MHKShortLeash"] = true,
+                        ["NymicSecrets"] = true,
+                        ["ASPositions"] = true,
+                        ["CoolingYourHeels"] = true,
+                        ["PustulentProblems"] = true,
+                        ["DSRRunestones"] = true,
+                    },
+                },
+            },
+        },
+        ["@noobkiss"] = 
+        {
+            ["$AccountWide"] = 
+            {
+                ["version"] = 3,
+                ["Settings"] = 
+                {
+                    ["ShipwrightsRegret"] = 
+                    {
+                        ["Flame"] = true,
+                        ["SoulBomb"] = true,
+                    },
+                    ["CoralAerie"] = 
+                    {
+                        ["MentalWound"] = true,
+                        ["HAVarallion"] = false,
+                        ["Tether"] = true,
+                        ["BlastPowder"] = true,
+                    },
+                    ["Others"] = 
+                    {
+                        ["MHKShortLeash"] = true,
+                        ["NymicSecrets"] = true,
+                        ["ASPositions"] = true,
+                        ["CoolingYourHeels"] = true,
+                        ["PustulentProblems"] = true,
+                        ["DSRRunestones"] = true,
+                    },
+                },
             },
         },
     },

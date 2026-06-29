@@ -2,11 +2,12 @@ LibCustomNamesSV =
 {
     ["Default"] = 
     {
-        ["@Kankerkop"] = 
+        ["@YYDS1214"] = 
         {
             ["$AccountWide"] = 
             {
                 ["enableGradient"] = false,
+                ["nameFormatted"] = "",
                 ["nameRaw"] = "",
                 ["color1"] = 
                 {
@@ -15,7 +16,28 @@ LibCustomNamesSV =
                     [3] = 1,
                 },
                 ["version"] = 1,
+                ["color2"] = 
+                {
+                    [1] = 1,
+                    [2] = 1,
+                    [3] = 1,
+                },
+            },
+        },
+        ["@Kankerkop"] = 
+        {
+            ["$AccountWide"] = 
+            {
+                ["enableGradient"] = false,
                 ["nameFormatted"] = "",
+                ["nameRaw"] = "",
+                ["color1"] = 
+                {
+                    [1] = 1,
+                    [2] = 1,
+                    [3] = 1,
+                },
+                ["version"] = 1,
                 ["color2"] = 
                 {
                     [1] = 1,
@@ -29,6 +51,7 @@ LibCustomNamesSV =
             ["$AccountWide"] = 
             {
                 ["enableGradient"] = false,
+                ["nameFormatted"] = "",
                 ["nameRaw"] = "",
                 ["color1"] = 
                 {
@@ -37,29 +60,6 @@ LibCustomNamesSV =
                     [3] = 1,
                 },
                 ["version"] = 1,
-                ["nameFormatted"] = "",
-                ["color2"] = 
-                {
-                    [1] = 1,
-                    [2] = 1,
-                    [3] = 1,
-                },
-            },
-        },
-        ["@YYDS1214"] = 
-        {
-            ["$AccountWide"] = 
-            {
-                ["enableGradient"] = false,
-                ["nameRaw"] = "",
-                ["color1"] = 
-                {
-                    [1] = 1,
-                    [2] = 1,
-                    [3] = 1,
-                },
-                ["version"] = 1,
-                ["nameFormatted"] = "",
                 ["color2"] = 
                 {
                     [1] = 1,

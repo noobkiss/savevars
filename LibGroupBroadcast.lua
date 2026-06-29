@@ -1,31 +1,31 @@
 LibGroupBroadcast_Data =
 {
-    ["@Kankerkop"] = 
+    ["@YYDS1214"] = 
     {
+        ["customEventDisabled"] = 
+        {
+        },
         ["protocolDisabled"] = 
         {
         },
+        ["version"] = 1,
+    },
+    ["@Kankerkop"] = 
+    {
         ["customEventDisabled"] = 
+        {
+        },
+        ["protocolDisabled"] = 
         {
         },
         ["version"] = 1,
     },
     ["@noobkiss"] = 
     {
-        ["protocolDisabled"] = 
-        {
-        },
         ["customEventDisabled"] = 
         {
         },
-        ["version"] = 1,
-    },
-    ["@YYDS1214"] = 
-    {
         ["protocolDisabled"] = 
-        {
-        },
-        ["customEventDisabled"] = 
         {
         },
         ["version"] = 1,
